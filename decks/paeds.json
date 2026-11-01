@@ -1,0 +1,1624 @@
+{
+ "id": "paeds",
+ "title": "Paediatric Orthopaedics",
+ "short": "Paeds",
+ "emoji": "🧒",
+ "source": "Common Paedeatric Orthopedic Disorder_20260723_081011_0000.pdf",
+ "topics": {
+  "PHY": "Physis & Salter-Harris fractures",
+  "SCH": "Supracondylar humerus fracture",
+  "GRT": "Greenstick & torus (buckle) fractures",
+  "NAI": "Non-accidental injury",
+  "CTEV": "Clubfoot / CTEV",
+  "FLAT": "Pes planus, congenital vertical talus, tarsal coalition",
+  "INT": "Intoeing: metatarsus adductus, tibial torsion, femoral anteversion",
+  "LCP": "Legg-Calvé-Perthes disease",
+  "SCFE": "Slipped capital femoral epiphysis",
+  "DDH": "Developmental dysplasia of the hip",
+  "BLT": "Blount disease"
+ },
+ "cards": [
+  {
+   "t": "PHY",
+   "q": "Name the zones of the physis from the epiphyseal side to the metaphyseal side, and what each does.",
+   "a": "• **Resting (reserve) zone** – nearest the epiphysis; stores nutrients, houses the **germinal matrix** and inactive chondroblasts\n• **Proliferative zone** – active chondroblasts divide rapidly (mitosis) and make ECM\n• **Hypertrophic zone** – chondrocyte maturation, degeneration and provisional calcification\n• Then the metaphysis (new bone)",
+   "m": "R-P-H = Rest, Proliferate, Hypertrophy – the cells’ life story from epiphysis to metaphysis."
+  },
+  {
+   "t": "PHY",
+   "q": "Which zone of the physis is the weakest, and why does that matter?",
+   "a": "• The **hypertrophic zone** (zone of provisional calcification)\n• Large cells with little matrix and incomplete calcification = mechanically weak\n• **Most physeal separations** pass through this layer\n• Germinal (resting) cells usually stay with the epiphysis, so simple separations (SH I/II) grow normally",
+   "m": "Lecturer pearl: Hypertrophic = Hyper-fragile. Big swollen cells, thin walls."
+  },
+  {
+   "t": "PHY",
+   "q": "What does the SALTR mnemonic stand for in the Salter-Harris classification?",
+   "a": "• **I – S**lipped / Straight across: physis only\n• **II – A**bove: physis + **metaphysis**\n• **III – L**ower: physis + **epiphysis**\n• **IV – T**hrough: metaphysis + physis + epiphysis\n• **V – R**ammed / eRased: crush of the physis",
+   "m": "Lecturer pearl: SALTR. Above = towards the shaft (metaphysis), Lower = towards the joint (epiphysis)."
+  },
+  {
+   "t": "PHY",
+   "q": "What is the most common Salter-Harris type, and what is its metaphyseal fragment called?",
+   "a": "• **Type II** – about **75%** of physeal fractures\n• Fracture runs across most of the physis then exits **up through the metaphysis**\n• Metaphyseal triangle = **Thurston-Holland fragment**\n• Periosteum intact on the fragment side helps closed reduction; occasionally trapped periosteum blocks reduction and needs open reduction\n• Good prognosis",
+   "m": "Thurston-Holland: the little Triangle Hanging on the shaft side."
+  },
+  {
+   "t": "PHY",
+   "q": "Salter-Harris type I: what are its features and why can the X-ray look normal?",
+   "a": "• **Transverse separation through the physis only**\n• If periosteum intact → **no displacement**, so X-ray may be normal or show only physeal widening\n• Torn periosteum → may displace\n• **Rapid healing** (2-3 weeks), **good prognosis**\n• Clinical clue: point tenderness over the physis",
+   "m": "Tender physis + normal film = treat as SH I until proven otherwise."
+  },
+  {
+   "t": "PHY",
+   "q": "Why does a Salter-Harris type III fracture carry a poorer prognosis, and what is the classic example?",
+   "a": "• Fracture runs through the physis then **down through the epiphysis** into the joint = **intra-articular**\n• Crosses the **proliferative and reserve zones** → growth disturbance risk\n• Joint step → **post-traumatic arthritis**\n• Classic example: **juvenile Tillaux fracture** (anterolateral distal tibial epiphysis)",
+   "m": "Lecturer pearl: Tillaux happens because the distal tibial physis closes medial-first, leaving the anterolateral corner to be avulsed by the AITFL."
+  },
+  {
+   "t": "PHY",
+   "q": "Salter-Harris type IV: what does it cross and what is the classic example?",
+   "a": "• Crosses **metaphysis + physis + epiphysis** (vertical split through all three)\n• Intra-articular → **post-traumatic arthritis**\n• Bridges the physis → **bony bar** → **growth disturbance** (angular deformity/shortening)\n• Classic example: **triplane fracture** of the distal tibia\n• Needs anatomical reduction (ORIF)",
+   "m": "Triplane = three planes = Type IV goes Through all three layers."
+  },
+  {
+   "t": "PHY",
+   "q": "Salter-Harris type V: why is it the worst prognosis and how is it usually diagnosed?",
+   "a": "• **Compression/crush** of the growth plate (axial load)\n• Destroys the **germinal matrix and its blood supply** → growth arrest\n• **X-ray often normal** at presentation; rare\n• Usually diagnosed **retrospectively** when shortening or angular deformity appears",
+   "m": "V = Vanished growth: you only see it when the limb stops growing."
+  },
+  {
+   "t": "PHY",
+   "q": "How are Salter-Harris fractures managed by type?",
+   "a": "• **Types I and II**: **closed reduction** + cast/splint **4-6 weeks** + follow-up for growth disturbance (about 3 months and beyond)\n• **Types III and IV**: **ORIF** – intra-articular, needs **anatomical reduction** of joint surface and physis; immobilise 4-8 weeks after surgery\n• Avoid repeated forceful manipulation (damages physis)",
+   "m": "I and II: Close it. III and IV: Open it (joint + physis both need to line up)."
+  },
+  {
+   "t": "PHY",
+   "q": "What are the complications of physeal fractures and how does growth disturbance occur?",
+   "a": "• **Growth disturbance** – a **physeal bar** (bone bridge) tethers growth\n  – central/complete bar → **limb shortening**\n  – peripheral/partial bar → **angular deformity**\n• **Post-traumatic arthritis** (types III/IV)\n• Prolonged pain, restricted mobility\n• Physeal fractures = **15-30%** of all children’s bony injuries",
+   "m": "A bar is like a staple on one side of a growing book spine – it bends as the rest grows."
+  },
+  {
+   "t": "SCH",
+   "q": "What are the two mechanisms of supracondylar humerus fracture and their relative frequencies?",
+   "a": "• **Extension type (~95%)** – **FOOSH** with elbow hyperextended; **distal fragment displaced posteriorly**\n• **Flexion type (~5%)** – direct blow on the **flexed elbow**; distal fragment displaced anteriorly\n• Peak in children **under 10 years**",
+   "m": "95% fall forwards on an outstretched hand; 5% land on the point of the bent elbow."
+  },
+  {
+   "t": "SCH",
+   "q": "What are the clinical features of a displaced supracondylar fracture?",
+   "a": "• Pain, **swelling**, reduced elbow ROM\n• **S-shaped deformity** of the elbow\n• **Bruising over the antecubital fossa** (pucker sign – proximal spike buttonholed through brachialis)\n• Neurovascular involvement: ~**15% neuropathy** and ~**5% vascular compromise** in Gartland III\n• Always document **radial pulse, perfusion and AIN/radial/ulnar function** before and after treatment",
+   "m": "Antecubital pucker = the bone spike has punched towards the brachial artery and median nerve."
+  },
+  {
+   "t": "SCH",
+   "q": "Which radiographs and radiological lines/angles are used in a suspected supracondylar fracture?",
+   "a": "• **AP + lateral elbow** X-ray\n• **Lateral** – clearest view: **fat pad (sail) sign**, **anterior humeral line** (should pass through the middle third of the capitellum; passes anterior to it in extension type)\n• **AP** – **Baumann’s angle** (shaft vs lateral condylar physis) to judge coronal alignment/varus\n• Note: slide says ‘Baunmann’; correct is **Baumann**",
+   "m": "Lateral = displacement (anterior humeral line); AP = alignment (Baumann)."
+  },
+  {
+   "t": "SCH",
+   "q": "What does a visible posterior fat pad on an elbow lateral X-ray mean?",
+   "a": "• Posterior fat pad normally hidden in the olecranon fossa\n• If **visible** → **joint effusion/haemarthrosis** lifting it\n• In a child after trauma = **occult fracture** (usually undisplaced supracondylar) until proven otherwise\n• Raised anterior fat pad = **sail sign**\n• Treat as Gartland I: above-elbow backslab, review",
+   "m": "Lecturer pearl: a posterior fat pad is never normal – the effusion has pushed it out of hiding."
+  },
+  {
+   "t": "SCH",
+   "q": "Describe the modified Gartland classification of extension-type supracondylar fractures.",
+   "a": "• **I** – undisplaced or displaced **< 2 mm**\n• **IIA** – displaced > 2 mm, **posterior cortex intact** (hinged)\n• **IIB** – posterior cortex intact but **malrotation**/translation\n• **III** – **completely displaced**, no cortical contact\n• **IV** – complete displacement with **multidirectional instability** (periosteal hinge lost)\n• Note: slide says ‘Gartlannd’; correct is **Gartland**",
+   "m": "Hinge present = II, hinge gone = III, hinge gone in every direction = IV."
+  },
+  {
+   "t": "SCH",
+   "q": "How is a supracondylar fracture managed according to Gartland type?",
+   "a": "• **Type I**: above-elbow cast/backslab at **90°** + sling, **3-4 weeks**\n• **Type II**: **closed manipulative reduction (CMR) under GA** + above-elbow cast; if unstable → **CRPP**\n• **Type III/IV**: **closed reduction + percutaneous K-wire pinning (CRPP)**\n• **Open reduction** if CMR fails, **open fracture** or **vascular injury**",
+   "m": "Gartland I cast, II reduce, III/IV pin, open if failed/open/vessel."
+  },
+  {
+   "t": "SCH",
+   "q": "Which nerves are injured in supracondylar fractures, and how do you test the commonest one?",
+   "a": "• **Anterior interosseous nerve (AIN)** – commonest in **extension type** (posterolateral displacement) → cannot make the **OK sign** (FPL + FDP index); no sensory loss\n• **Radial nerve** – posteromedial displacement\n• **Ulnar nerve** – **flexion type** and **iatrogenic medial pin**\n• Most are neurapraxias and recover",
+   "m": "Lecturer pearl: Extension = AIN (OK sign fails); Flexion and medial pin = Ulnar."
+  },
+  {
+   "t": "SCH",
+   "q": "What is the management of a ‘pink pulseless hand’ after a displaced supracondylar fracture?",
+   "a": "• Pink, warm, good capillary refill but **no palpable radial pulse** = collateral perfusion\n• **Urgent closed reduction and percutaneous pinning** (reduction often frees a kinked brachial artery)\n• **Reassess** perfusion after reduction\n• Explore brachial artery if the hand becomes or remains **white/poorly perfused**\n• Admit for close neurovascular/compartment monitoring",
+   "m": "Lecturer pearl: Fix the bone first, then look at the hand again. White pulseless = emergency reduction ± exploration."
+  },
+  {
+   "t": "SCH",
+   "q": "What is Volkmann ischaemic contracture and how is it prevented?",
+   "a": "• End result of untreated **forearm compartment syndrome** (deep flexors, FDP/FPL) after brachial artery injury or swelling\n• Early warning: **pain out of proportion**, **pain on passive finger extension**, tense forearm, increasing analgesia need – pulse may be present\n• Late: fixed flexion of wrist/fingers, sensory loss\n• Prevent: avoid elbow flexion > 90° in a swollen limb, split dressings, **urgent fasciotomy**",
+   "m": "Lecturer pearl: Pain on stretching the fingers is the earliest and most reliable sign – pulselessness is late."
+  },
+  {
+   "t": "SCH",
+   "q": "What is the commonest late complication of supracondylar fracture and why does it happen?",
+   "a": "• **Cubitus varus (gunstock deformity)**\n• Caused by **malunion** – medial tilt/collapse and **internal rotation** of the distal fragment (not growth arrest)\n• Mainly **cosmetic**; function usually good\n• Correct with **lateral closing-wedge (supracondylar) osteotomy** if disfiguring\n• Other late complications: cubitus valgus, **elbow stiffness**",
+   "m": "Lecturer pearl: Gunstock = the elbow looks like a rifle butt; check Baumann’s angle at reduction to prevent it."
+  },
+  {
+   "t": "GRT",
+   "q": "What is a greenstick fracture and where does it occur?",
+   "a": "• **Incomplete fracture**: cortex and periosteum broken on the **tension (convex) side**, intact on the compression side\n• Occurs in the **diaphysis and metaphysis**, never the physis (that is Salter-Harris)\n• Commonest in long bones – **forearm and arm**\n• Causes: FOOSH, sports, **non-accidental trauma**",
+   "m": "Like bending a fresh green twig – one side snaps, the other bends."
+  },
+  {
+   "t": "GRT",
+   "q": "Why do children get greenstick and torus fractures rather than complete fractures?",
+   "a": "• Children’s bone is more **porous and elastic** (lower mineral content)\n• **Thick, strong periosteum** holds the fragments\n• So bone **bends or buckles** before it breaks through both cortices\n• Thick periosteum also gives **rapid healing** and **remodelling**",
+   "m": "Child bone = green wood; adult bone = dry stick."
+  },
+  {
+   "t": "GRT",
+   "q": "What is a torus (buckle) fracture, its mechanism and typical site?",
+   "a": "• **Incomplete fracture without a cortical break** – the cortex **bulges/buckles**\n• Mechanism: **axial compression** along the bone → compression side buckles\n• Typical site: **distal radial metaphysis** after FOOSH\n• ‘Torus’ = Latin for **protuberance/swelling**\n• **Stable** injury",
+   "m": "Torus = the bulge at the base of a classical column: squash a drinking straw end-on and it bulges."
+  },
+  {
+   "t": "GRT",
+   "q": "Greenstick vs torus fracture: how does immobilisation differ?",
+   "a": "• **Torus**: stable → **splint for 3-4 weeks**, no reduction needed\n• **Greenstick**: angulated and potentially unstable → **closed manipulative reduction (CMR) + cast ~6 weeks**\n• Lecturer pearl: some surgeons complete the greenstick fracture during reduction to stop the intact cortex springing the angulation back",
+   "m": "Buckle = splint and go; Greenstick = straighten and cast."
+  },
+  {
+   "t": "NAI",
+   "q": "What is non-accidental injury (NAI), and what is its commonest presentation?",
+   "a": "• Child maltreatment by an act of a **parent or caretaker** causing injury that is **not accidental**\n• Also called paediatric physical abuse / inflicted injury\n• **Skin and soft tissue injury (bruises, burns)** = commonest presentation\n• About **one-third** of NAI cases have **fractures**",
+   "m": "Skin first, bones in one-third."
+  },
+  {
+   "t": "NAI",
+   "q": "Which features of the history should raise suspicion of NAI?",
+   "a": "• **Delay** in seeking medical care\n• **History inconsistent** with the injury or the child’s development (changing story)\n• Injury in a **non-ambulatory** child\n• **Multiple fractures** with no family history of **osteogenesis imperfecta**\n• Social risks: substance abuse, mental illness, financial or domestic stress",
+   "m": "Delay, Discrepancy, Development (can’t walk), Different ages of injury."
+  },
+  {
+   "t": "NAI",
+   "q": "Which fractures are most specific for child abuse?",
+   "a": "• **Metaphyseal corner (bucket-handle) fractures** – shaking/twisting of limbs in infants\n• **Posterior rib fractures** – squeezing the chest (rarely from CPR)\n• Also highly specific: **scapular, sternal**, spinous process fractures\n• Others suspicious: **fractures of different ages**, femur fracture before walking age, spiral long-bone fracture in a non-walker",
+   "m": "Lecturer pearl: Corners and posterior ribs = classic abuse. Clavicle and simple skull fractures are much less specific."
+  },
+  {
+   "t": "NAI",
+   "q": "Why is a femoral fracture in a child who cannot yet walk a red flag?",
+   "a": "• Non-walkers cannot generate the force for a femoral fracture by themselves\n• Accidental femoral fractures need significant trauma (e.g. road traffic accident) with a matching history\n• So **femur fracture before walking age** = suspect NAI → full work-up\n• Lecturer pearl: a toddler’s spiral tibial fracture in a new walker is usually accidental",
+   "m": "If they don’t cruise, they don’t break a femur."
+  },
+  {
+   "t": "NAI",
+   "q": "What neurological findings suggest abusive head trauma in an infant?",
+   "a": "• **Retinal haemorrhages** (especially multilayered, extensive)\n• **Altered mental status** – irritability, drowsiness, seizures, vomiting\n• Subdural haemorrhage on imaging\n• Investigate with **CT head**; fundoscopy by ophthalmology",
+   "m": "Shaken infant triad (Lecturer pearl): subdural + retinal haemorrhage + encephalopathy."
+  },
+  {
+   "t": "NAI",
+   "q": "Which blood tests are done in suspected NAI and why?",
+   "a": "• **FBC (platelets) + coagulation profile (PT, APTT, INR)** if any **bruising or intracranial haemorrhage** – exclude a bleeding disorder mimic\n• **LFT, amylase, lipase** – screen for **occult intra-abdominal injury**\n• (Guidelines for the Hospital Management of Child Abuse and Neglect, 2009)",
+   "m": "Clot screen for the bruises, liver/pancreas screen for the belly."
+  },
+  {
+   "t": "NAI",
+   "q": "What imaging is used to investigate suspected NAI?",
+   "a": "• **Skeletal survey in children < 2 years** (occult fractures)\n• **Targeted plain radiographs if > 2 years**\n• **CT head** – suspected intracranial injury\n• **MRI** – chronic lesions and early ischaemic injury\n• Look for fractures of **different stages of healing**",
+   "m": "Under 2 = survey everything; over 2 = X-ray what hurts."
+  },
+  {
+   "t": "NAI",
+   "q": "What is the Malaysian hospital management pathway for suspected child abuse?",
+   "a": "• **Activate the SCAN team** (Suspected Child Abuse and Neglect)\n• Triage and **stabilise** in ED; refer to relevant specialties\n• **Lodge a police report**, refer to SCAN and **notify JKM** (Jabatan Kebajikan Masyarakat – Social Welfare Department)\n• **Admit** the child (place of safety)\n• **Document** all findings, obtain consent for examination/treatment, prepare the **medical report**",
+   "m": "SCAN – Police – JKM – Admit – Document."
+  },
+  {
+   "t": "CTEV",
+   "q": "Define congenital talipes equinovarus (CTEV).",
+   "a": "• Congenital foot deformity with a **fixed resting equinovarus** position\n• **Congenital** – present from birth\n• **Talipes** – ankle (talus) + foot (pes)\n• **Equino** – heel elevated (plantarflexed)\n• **Varus** – heel/foot turned inwards\n• Not passively correctable (unlike positional talipes)",
+   "m": "Equinus = horse standing on tip-toe; varus = turned in."
+  },
+  {
+   "t": "CTEV",
+   "q": "What are the epidemiology and risk factors for CTEV?",
+   "a": "• **1 in 250 to 1 in 1000** live births\n• **~50% bilateral**\n• **Boys : girls = 2 : 1**\n• Causes/risks: **idiopathic** (most), **genetic predisposition**, **neuromuscular** disorders (e.g. spina bifida, arthrogryposis), **tight intrauterine packing**",
+   "m": "Half bilateral, boys twice as often."
+  },
+  {
+   "t": "CTEV",
+   "q": "What does CAVE stand for in clubfoot, and which tight structures cause each part?",
+   "a": "• **C – Cavus**: high medial arch at midfoot – tight **intrinsics, FHL, FDL**\n• **A – Adductus**: forefoot adducted at tarsometatarsal joints – tight **tibialis posterior**\n• **V – Varus**: heel inverted at the talocalcaneonavicular joint – tight **tendo Achilles, tibialis posterior, tibialis anterior**\n• **E – Equinus**: ankle plantarflexed – tight **tendo Achilles**",
+   "m": "You enter the CAVE in order – which is also the order Ponseti corrects it."
+  },
+  {
+   "t": "CTEV",
+   "q": "What are the clinical signs of clubfoot on examination?",
+   "a": "• **Medial skin crease** (midfoot) and **posterior skin crease** (heel)\n• **Empty heel** – calcaneus pulled up\n• **Small foot and calf**, **shortened tibia** (persist even after treatment)\n• Rigid – cannot be passively corrected\n• Examine **spine and hips** for neuromuscular causes/DDH",
+   "m": "Lecturer pearl: always counsel parents that the foot and calf stay slightly smaller even after perfect correction."
+  },
+  {
+   "t": "CTEV",
+   "q": "Describe the bony pathoanatomy of clubfoot.",
+   "a": "• **Talar neck points downward and medially**\n• **Navicular and cuboid** shifted medially and **supinated**\n• **Calcaneus in varus**, rotated medially **around/under the talus**\n• The whole foot is rotated inwards around a relatively fixed talus",
+   "m": "The foot has spun inwards around the talus – so treatment spins it back outwards around the talar head."
+  },
+  {
+   "t": "CTEV",
+   "q": "What is the Pirani score?",
+   "a": "• Clinical score of severity and treatment progress: **6 signs, each 0, 0.5 or 1** (total **0-6**)\n• **Midfoot (MFCS)**: medial crease, curved lateral border, lateral head of talus palpable\n• **Hindfoot (HFCS)**: posterior crease, empty heel, rigid equinus\n• Severity: **1-2 mild, 3-4 moderate, 5-6 severe**",
+   "m": "3 + 3 signs: midfoot curves and creases; hindfoot crease, empty heel and stiff ankle."
+  },
+  {
+   "t": "CTEV",
+   "q": "What investigations are used in CTEV?",
+   "a": "• **Clinical diagnosis** – X-ray not routinely done\n• X-ray if atypical, rigid, late presenter or to exclude other diagnoses\n  – AP: **talocalcaneal (Kite) angle < 20°** (normal 20-40°), negative talus-first metatarsal angle, **hindfoot parallelism**\n  – Dorsiflexion lateral (**Turco view**): talocalcaneal angle **< 25°**, parallelism\n• **Antenatal ultrasound** from ~12 weeks – **high false-positive rate**",
+   "m": "Clubfoot = talus and calcaneus lie parallel (small Kite angle)."
+  },
+  {
+   "t": "CTEV",
+   "q": "What is the principle of the Ponseti method and how successful is it?",
+   "a": "• Serial weekly **manipulation and long-leg casting** from the first weeks of life\n• Principle: rotate (abduct) the foot **laterally around a fixed talus**, using the **talar head as the fulcrum**\n• Correction phase → Achilles tenotomy if needed → **maintenance bracing**\n• **> 90%** of idiopathic clubfeet achieve initial correction",
+   "m": "Ponseti: thumb on the talar head, swing the foot outwards like a door on its hinge."
+  },
+  {
+   "t": "CTEV",
+   "q": "In what order does Ponseti casting correct the deformity, and what must never be done?",
+   "a": "• **C → A → V → E**\n• **Cavus**: elevate (dorsiflex) the **first ray** – forefoot supinated to align with hindfoot\n• **Adductus + varus**: abduct the foot around the **talar head** (heel varus corrects with it)\n• **Equinus last**: dorsiflex ankle ± tenotomy\n• **Never pronate** the forefoot (worsens cavus); never press on the calcaneus",
+   "m": "Lecturer pearl: Pronation is the enemy – it makes the cavus worse. Equinus is always LAST."
+  },
+  {
+   "t": "CTEV",
+   "q": "When is a percutaneous Achilles tenotomy indicated in Ponseti treatment?",
+   "a": "• When cavus, adductus and varus are corrected (foot abducted ~60-70°) but **ankle dorsiflexion is still < 10-15°**\n• Pirani terms: **midfoot score corrected (≤ 0.5-1)** but **hindfoot score still > 1**\n• Needed in about **80-90%** of feet\n• Followed by a final cast for **3 weeks**, then bracing",
+   "m": "Lecturer pearl: Midfoot fixed, hindfoot still stiff → cut the heel cord."
+  },
+  {
+   "t": "CTEV",
+   "q": "How is correction maintained after Ponseti casting?",
+   "a": "• **Foot abduction orthosis (FAO)** – **Denis Browne boots and bar**\n• **23 hours a day for 3 months**, then **nights and naps until about 4 years**\n• Affected foot externally rotated ~60-70° (normal side ~40°), bar shoulder-width\n• Note: slide says ‘Dennis Brown boots’; correct is **Denis Browne** (foot abduction orthosis)",
+   "m": "Lecturer pearl: 23 hours x 3 months, then sleep-time until 4. The boots keep what the casts gained."
+  },
+  {
+   "t": "CTEV",
+   "q": "What is the commonest cause of clubfoot relapse and how is it managed?",
+   "a": "• **Non-compliance with bracing** – the main cause, especially < 2 years\n• Relapse < 2 years: **repeat Ponseti casting** ± repeat tenotomy, then resume FAO\n• Older child with **dynamic supination**: **tibialis anterior tendon transfer** (lateral)\n• Resistant/recurrent deformity → surgical release",
+   "m": "Lecturer pearl: Relapse = Remove the boots too early."
+  },
+  {
+   "t": "CTEV",
+   "q": "What are the indications and options for operative treatment of clubfoot?",
+   "a": "• Indications: **resistant/recurrent deformity**, **syndromic clubfoot**, **delayed presentation > 1-2 years**\n• Aim: release capsular/ligamentous tethers and lengthen tendons\n• Options: **posteromedial soft-tissue release** + tendon lengthening, **osteotomy** (medial column lengthening/lateral column shortening, supramalleolar), **triple arthrodesis** (older child), **Taylor Spatial Frame**, **talectomy**",
+   "m": "Ponseti first; surgery for the Resistant, the Syndromic and the Late."
+  },
+  {
+   "t": "CTEV",
+   "q": "What are the complications of conservative and surgical treatment of clubfoot?",
+   "a": "• **Conservative**: deformity **relapse**, **dynamic supination**, **rocker-bottom foot** (forcing dorsiflexion through the midfoot against a tight Achilles)\n• **Surgical**: residual cavus, **pes planus**, undercorrection, **intoeing gait**, **osteonecrosis of the talus**, **dorsal bunion**\n• Extensive surgical release → stiff, painful foot in adulthood",
+   "m": "Rocker-bottom = the midfoot ‘broke’ because the heel cord was not released first."
+  },
+  {
+   "t": "FLAT",
+   "q": "Define pes planus (flat foot).",
+   "a": "• Collapse of the **medial longitudinal arch**\n• **Hindfoot (subtalar) valgus**\n• **Forefoot abduction**\n• **Medial talar head prominence**\n• Types: **flexible** (most) vs **rigid** (congenital vertical talus, tarsal coalition)",
+   "m": "Flat arch, heel out, forefoot out, talar head bulging in."
+  },
+  {
+   "t": "FLAT",
+   "q": "How common is flat foot in children and why?",
+   "a": "• **~90% of children < 2 years** have flat feet (medial fat pad + **ligamentous laxity**)\n• Arch develops through childhood; laxity usually resolves after ~7 years\n• **20-37%** of the population have some degree of pes planus\n• **Most cases are flexible**",
+   "m": "Toddlers are born flat-footed – the arch is learned, not built-in."
+  },
+  {
+   "t": "FLAT",
+   "q": "How do you distinguish a flexible from a rigid flat foot clinically?",
+   "a": "• **Tip-toe test**: in flexible flat foot the **heel inverts and the arch forms**\n• **Jack’s test**: passive **great toe extension restores the arch** (windlass mechanism)\n• Flexible foot is flat **only when standing**\n• **Rigid**: arch does not reconstitute, **subtalar motion limited** → think **tarsal coalition** or **congenital vertical talus**",
+   "m": "Arch appears on tip-toe = flexible = usually fine. No arch on tip-toe = rigid = find the cause."
+  },
+  {
+   "t": "FLAT",
+   "q": "How is a flexible flat foot in a child managed?",
+   "a": "• Usually **asymptomatic** → **reassure and observe**\n• Check for **ligamentous laxity** (e.g. Marfan, collagen disorders) and a **tight tendo Achilles** (growth spurts)\n• **Stretching** if TA tight; **shoe modification** with good medial arch support if symptomatic\n• **Imaging only if painful**: standing AP and lateral foot",
+   "m": "Lecturer pearl: painless flexible flat foot = reassure. Pain or stiffness = investigate."
+  },
+  {
+   "t": "FLAT",
+   "q": "What is congenital vertical talus and what are its clinical features?",
+   "a": "• Rare **rigid** flat foot (**rocker-bottom foot**); ~50% bilateral\n• Irreducible **dorsal dislocation of the navicular** on the talar neck; **talus vertical**, calcaneus in equinus\n• Sole **convex** (arch curves the opposite way), foot in **valgus**, **prominent talar head** in the sole\n• ‘Peg-leg’ / calcaneal gait\n• Associated **neuromuscular/chromosomal** disease (cerebral palsy, spinal muscular atrophy), **HOXD10** mutation",
+   "m": "Rocker-bottom: the sole curves like the base of a rocking chair."
+  },
+  {
+   "t": "FLAT",
+   "q": "Which X-ray confirms congenital vertical talus and what does it show?",
+   "a": "• **Forced plantarflexion lateral view** – talus **stays vertical** and the **navicular stays dorsally dislocated** (irreducible)\n• Lateral: **calcaneus in equinus**, talus pointing into the sole\n• AP: **talocalcaneal angle > 40°** (normal 20-40°)\n• Contrast: **oblique talus** reduces on plantarflexion",
+   "m": "Lecturer pearl: Plantarflex it – if the talus won’t line up with the first metatarsal, it’s vertical talus."
+  },
+  {
+   "t": "FLAT",
+   "q": "How is congenital vertical talus treated?",
+   "a": "• **Conservative**: passive stretching and **reverse Ponseti** serial casting (foot held in plantarflexion and inversion – the opposite of clubfoot), then **foot abduction orthosis**, switching to **AFO** once weight bearing\n• **Surgical**: **full peritalar soft-tissue release**; **talectomy** when necessary; **navicular excision** in the older child\n• Note: slide says ‘reverse ponti’; correct is **reverse Ponseti**",
+   "m": "Clubfoot = Ponseti; vertical talus = reverse Ponseti (cast it into the clubfoot direction)."
+  },
+  {
+   "t": "FLAT",
+   "q": "What is tarsal coalition and how does it present?",
+   "a": "• Congenital **failure of segmentation** of tarsal bones (fibrous, cartilaginous or bony bar)\n• Commonest: **calcaneonavicular**, then **talocalcaneal**; **50% bilateral**; may be more than one per foot\n• Presents in late childhood/adolescence as the bar ossifies: **painful rigid flat foot**, recurrent ankle sprains\n• Exam: hindfoot valgus, forefoot abduction, **limited subtalar motion**, heel cord contracture, **arch does not reform on tip-toe**",
+   "m": "Lecturer pearl: teenager + ‘recurrent sprains’ + stiff flat foot = look for a coalition."
+  },
+  {
+   "t": "FLAT",
+   "q": "Which imaging identifies a tarsal coalition and how is it treated?",
+   "a": "• X-rays: AP, standing lateral, **45° internal oblique** (calcaneonavicular bar; lateral shows the **anteater sign**), **Harris axial view** (talocalcaneal bar)\n• **CT/MRI more accurate** – CT defines bar size\n• Conservative: **below-knee walking cast for 6 weeks**\n• Surgery: **bar excision** (relieves pain, does not restore movement); **arthrodesis** if talocalcaneal bar **> 50% of posterior facet** or degenerative change",
+   "m": "Lecturer pearl: Anteater sign = elongated anterior process of calcaneus reaching for the navicular like an anteater’s nose."
+  },
+  {
+   "t": "INT",
+   "q": "What is intoeing, and what are its three causes by anatomical level?",
+   "a": "• Feet point inwards when walking/running (**pigeon-toed**), often noticed when walking starts\n• **Foot**: metatarsus adductus\n• **Leg**: internal tibial torsion\n• **Thigh**: increased femoral anteversion\n• Risk: overweight children, early walkers, girls",
+   "m": "Work up the limb: foot → tibia → femur."
+  },
+  {
+   "t": "INT",
+   "q": "Which cause of intoeing is typical at each age?",
+   "a": "• **Infant (< 1 y)**: **metatarsus adductus**\n• **Toddler (1-3 y)**: **internal tibial torsion**\n• **Child (3-8 y)**: **femoral anteversion**\n• Most resolve spontaneously with growth",
+   "m": "Lecturer pearl: the cause climbs up the leg as the child grows – foot, then shin, then thigh."
+  },
+  {
+   "t": "INT",
+   "q": "What are the features of metatarsus adductus and how is it distinguished from clubfoot?",
+   "a": "• **Medial deviation of the forefoot** at the tarsometatarsal joint, **hindfoot normal**\n• Due to **intrauterine restraint**\n• **Bean-shaped** foot with a convex lateral border\n• **Heel bisector** line passes lateral to the 2nd toe (normal: through 2nd/3rd web)\n• Clubfoot differs: **heel in equinus and varus**, rigid",
+   "m": "Lecturer pearl: metatarsus adductus = only the front of the foot is turned; clubfoot = the whole foot including the heel."
+  },
+  {
+   "t": "INT",
+   "q": "How is metatarsus adductus treated?",
+   "a": "• **Most improve** with normal development (by ~4-6 months)\n• Persistent/stiff: **stretching**, **serial casting** or special shoes\n• Rarely surgery: **abductor hallucis release**, **midfoot osteotomy** in the older child",
+   "m": "Flexible = leave it; stiff = stretch/cast; old and stiff = operate."
+  },
+  {
+   "t": "INT",
+   "q": "How do you diagnose and manage internal tibial torsion?",
+   "a": "• Congenital internal rotation of the tibia (reduced intrauterine space)\n• **Negative thigh-foot angle**; **transmalleolar axis internally rotated** with the **patella pointing forward**\n• Hip rotation normal\n• **Most resolve before school age**\n• **Supramalleolar osteotomy** only if it persists into late childhood (~8 years) with functional problems",
+   "m": "Patella straight, foot in = the twist is in the shin."
+  },
+  {
+   "t": "INT",
+   "q": "What are the features and management of increased femoral anteversion?",
+   "a": "• Excess anteversion of the femoral neck with compensatory **internal rotation of the femur**\n• Child **W-sits**; **patellae point inwards** (‘kissing patellae’)\n• **Increased hip internal rotation**, reduced external rotation\n• **Most resolve spontaneously**; shoes/braces do not help\n• **Derotational femoral osteotomy** if it persists past **9-10 years** with functional problems",
+   "m": "Kneecaps kiss = the twist is in the thigh."
+  },
+  {
+   "t": "LCP",
+   "q": "Define Legg-Calvé-Perthes disease and its vascular basis.",
+   "a": "• **Idiopathic avascular necrosis** of the **capital femoral epiphysis** in children\n• Temporary interruption of blood supply → necrosis → **collapse** → **remodelling**\n• Vulnerable supply: **lateral epiphyseal artery** (from the medial circumflex femoral artery)\n• Self-limiting, but the **final head shape** decides outcome",
+   "m": "Perthes = a femoral head that dies, crumbles and rebuilds – the shape it rebuilds into is what matters."
+  },
+  {
+   "t": "LCP",
+   "q": "What is the epidemiology of Perthes disease?",
+   "a": "• ~**1 in 10,000** children\n• Age **4-10 years**\n• **Male : female ≈ 5 : 1**\n• Higher in **urban** areas and **lower socioeconomic** groups; Caucasian > East Asian and African American\n• **~12% bilateral** (usually asynchronous)",
+   "m": "Lecturer pearl: symmetrical simultaneous bilateral ‘Perthes’ → think multiple epiphyseal dysplasia or hypothyroidism."
+  },
+  {
+   "t": "LCP",
+   "q": "What are the recognised aetiological associations of Perthes disease?",
+   "a": "• **Idiopathic** (most)\n• **Trauma**\n• **Steroids**\n• **Vascular/coagulation abnormalities** – **protein C and protein S deficiency**\n• Previous **congenital dislocation of the hip** (DDH treatment)\n• **Smoking exposure** (passive)",
+   "m": "Clotting and smoking both starve a fragile end-artery."
+  },
+  {
+   "t": "LCP",
+   "q": "How does Perthes disease present and what are the examination findings?",
+   "a": "• **Insidious, painless limp** or activity-related pain (relieved by rest) in **hip, groin, thigh or knee**\n• Morning stiffness, muscle weakness, night pain when advanced\n• Exam: **loss of abduction and internal rotation**\n• **Antalgic** gait (acute) → **Trendelenburg** gait (advanced)\n• **Limb length discrepancy**, thigh/gluteal **atrophy**",
+   "m": "Perthes child limps more than they complain."
+  },
+  {
+   "t": "LCP",
+   "q": "What are the four Waldenström stages of Perthes disease?",
+   "a": "• **1. Initial (necrotic)** – 3-6 months: small sclerotic epiphysis, **medial joint space widening**\n• **2. Fragmentation** – 6 months-2 years: revascularisation, osteoclast resorption, **fragmented mottled flattened** head; assess **lateral pillar**\n• **3. Reossification** – ~18 months: new bone replaces necrotic bone\n• **4. Remodelling (healed)** – to maturity; assess shape with **Stulberg**",
+   "m": "Die – Crumble – Rebuild – Reshape."
+  },
+  {
+   "t": "LCP",
+   "q": "Which plain radiograph views and early signs are seen in Perthes disease?",
+   "a": "• Views: **AP pelvis + frog-leg lateral**\n• **Widened medial joint space**\n• Smaller, denser epiphysis\n• **Crescent sign** – subchondral lucent line = **subchondral fracture**\n• **Sclerotic femoral head** (late), then fragmentation and flattening",
+   "m": "Crescent sign = a fingernail-shaped crack under the cartilage."
+  },
+  {
+   "t": "LCP",
+   "q": "What do MRI, bone scan and arthrogram add in Perthes disease?",
+   "a": "• **MRI** – early epiphyseal/physeal changes when X-ray is normal; extent of necrosis\n• **Bone scan** – **reduced uptake (cold area)** = reduced blood flow; shows extent of involvement\n• **Arthrogram** – dynamic view of **coverage and containment** of the head in the acetabulum (and hinge abduction) – used for surgical planning",
+   "m": "MRI = early, Scan = cold, Arthrogram = contained?"
+  },
+  {
+   "t": "LCP",
+   "q": "Describe the Herring lateral pillar classification of Perthes.",
+   "a": "• Assessed in the **fragmentation stage** on AP X-ray\n• **A**: lateral pillar **100% intact** – very good prognosis\n• **B**: **> 50%** height maintained – good to fair\n• **B/C**: ~**50%**, narrow or poorly ossified – variable\n• **C**: **< 50%** height maintained – **poor** prognosis",
+   "m": "The lateral pillar holds up the roof – the more it collapses, the worse the head."
+  },
+  {
+   "t": "LCP",
+   "q": "What are the key prognostic factors in Perthes disease?",
+   "a": "• **Age at onset** – the most important: **> 8 years = poor** (less remodelling time)\n• **Lateral pillar (Herring) C** = poor; **Catterall III-IV** (extent of head involvement) = poor\n• **Loss of containment** / lateral extrusion, persistent loss of ROM\n• Final head shape: **Stulberg classification** (sphericity/congruency) predicts later arthritis",
+   "m": "Lecturer pearl: Young and Pillar-intact = good; Old (> 8) and Pillar-collapsed (C) = poor."
+  },
+  {
+   "t": "LCP",
+   "q": "What is the non-operative management of Perthes disease?",
+   "a": "• Principle: **containment** – keep the soft head deep in the acetabulum while it heals so it moulds round\n• **Activity modification**: restrict weight bearing (crutches/walker), avoid running and jumping\n• **NSAIDs** for pain\n• **Physiotherapy**: restore **abduction and internal rotation** (stretch adductors, flexors, internal rotators)\n• Containment devices: **Petrie casts**, **Scottish Rite abduction brace**",
+   "m": "Containment = the acetabulum is the jelly mould for a softened head."
+  },
+  {
+   "t": "LCP",
+   "q": "What are the indications and options for surgery in Perthes disease?",
+   "a": "• Indications: age **> 8 years at onset**; **Herring B, B/C or C**, **Catterall III-IV** or extensive necrosis on MRI; **progressive lateral extrusion**/loss of containment; persistent loss of abduction/IR despite therapy\n• **Proximal femoral varus osteotomy** – redirects head deeper into the acetabulum\n• **Pelvic osteotomy** – improves coverage\n• **Valgus osteotomy** – salvage for hinge abduction",
+   "m": "Varus osteotomy = point the head back into the socket."
+  },
+  {
+   "t": "LCP",
+   "q": "What are the complications of Perthes disease?",
+   "a": "• **Femoral head deformity** (coxa magna/plana)\n• **Lateral hip subluxation**\n• **Osteochondritis dissecans**\n• **Acetabular dysplasia**, **labral injury**\n• **Premature physeal arrest** → **coxa breva** (short neck, LLD)\n• Long-term: **early osteoarthritis**",
+   "m": "A flat head in a round socket wears out early."
+  },
+  {
+   "t": "SCFE",
+   "q": "Define slipped capital femoral epiphysis (SCFE) and its direction of displacement.",
+   "a": "• Slippage of the proximal femoral **epiphysis** relative to the **metaphysis** through a **weakened physis** (hypertrophic zone)\n• Epiphysis stays in the acetabulum; the **metaphysis moves anteriorly and superiorly** and externally rotates → epiphysis appears **posterior and inferior**\n• **Adolescent** hip disorder\n• Note: slide abbreviates it as ‘SCFU’; correct is **SCFE**",
+   "m": "Ice-cream scoop slipping off the back of the cone."
+  },
+  {
+   "t": "SCFE",
+   "q": "What is the epidemiology of SCFE?",
+   "a": "• ~**10 per 100,000**\n• Age **10-16** (slide: 10-18) – around the pubertal growth spurt\n• **Male : female = 2 : 1**\n• **Obese** children\n• **Left hip** more common\n• **Bilateral 17-50%** (average **~25%**)",
+   "m": "Fat, Fertile-age (pubertal), Fellow – and a quarter go both sides."
+  },
+  {
+   "t": "SCFE",
+   "q": "What are the risk factors for SCFE, and when should you look for an endocrine cause?",
+   "a": "• **Obesity** (raised leptin)\n• **Endocrine**: **hypothyroidism**, **renal osteodystrophy**, growth hormone deficiency/treatment, panhypopituitarism\n• Acetabular and femoral **retroversion**; previous **radiotherapy**\n• **Atypical SCFE** – age < 10 or > 16, **thin/short** child → **TSH, free T4, serum creatinine**",
+   "m": "Lecturer pearl: a thin or young slipper has a gland problem until proven otherwise."
+  },
+  {
+   "t": "SCFE",
+   "q": "What is the ‘knee pain trap’ in SCFE?",
+   "a": "• SCFE often presents with **knee or distal thigh pain** only\n• Referred pain via the **obturator nerve** (supplies both hip and knee)\n• Knee X-rays are normal → diagnosis delayed → slip progresses\n• **Always examine the hip** (and X-ray the pelvis) in an adolescent with knee pain and a limp",
+   "m": "Lecturer pearl: knee pain in a teenager = examine the hip."
+  },
+  {
+   "t": "SCFE",
+   "q": "What is the Drehmann sign and what other examination findings occur in SCFE?",
+   "a": "• **Drehmann sign**: **obligatory external rotation** of the hip on passive flexion\n• Loss of **internal rotation**, abduction and flexion\n• **Externally rotated foot progression angle** (out-toeing)\n• Antalgic or Trendelenburg gait; thigh weakness/atrophy\n• Note: slide spells it ‘Drehnman’; correct is **Drehmann**",
+   "m": "Flex the hip and it rolls out – the slipped head can’t rotate inside the socket."
+  },
+  {
+   "t": "SCFE",
+   "q": "What are the radiological signs of SCFE?",
+   "a": "• Views: **AP pelvis + frog-leg lateral** (lateral shows early slips best)\n• **Trethowan sign**: **Klein line** (along the superior femoral neck) **fails to intersect** the lateral epiphysis\n• **Physeal widening/lucency** (epiphysiolysis), **blurring** of the proximal metaphysis\n• Reduced epiphyseal height\n• MRI: physeal widening and **metaphyseal oedema** (pre-slip)",
+   "m": "Klein line misses the head = Trethowan positive. Lecturer pearl: use cross-table lateral if the slip may be unstable."
+  },
+  {
+   "t": "SCFE",
+   "q": "What is the Loder classification of SCFE and why does it matter?",
+   "a": "• **Stable**: can **weight bear** (with or without crutches) – AVN risk **low (~0-10%)**\n• **Unstable**: **cannot weight bear even with crutches** – AVN risk **high (up to ~50%)**\n• Determines urgency and counselling\n• Both are fixed in situ",
+   "m": "Lecturer pearl: Loder asks one question – can the child walk? No = unstable = AVN danger."
+  },
+  {
+   "t": "SCFE",
+   "q": "What is the standard management of SCFE and what must never be done?",
+   "a": "• Admit, **non-weight bearing**, urgent surgery\n• **Percutaneous in situ fixation** with a **single cannulated screw** (centre of epiphysis, perpendicular to physis) – stable and unstable slips\n• **Never forcefully reduce** the slip – high risk of **AVN**\n• Open epiphyseal reduction and fixation – specialist option for severe slips\n• Residual deformity: **osteochondroplasty**, **proximal femoral osteotomy**",
+   "m": "Pin it where it lies – don’t push it back."
+  },
+  {
+   "t": "SCFE",
+   "q": "When is prophylactic fixation of the contralateral hip indicated in SCFE?",
+   "a": "• **Endocrine or metabolic** cause (hypothyroidism, renal osteodystrophy, GH therapy)\n• **Young age** (< 10 years / open triradiate cartilage) – long remaining growth\n• **Unreliable follow-up**\n• Otherwise: **observe** the other hip and warn the family (~25% bilateral)",
+   "m": "Lecturer pearl: pin the other side if the child is Young, Endocrine, or Unreliable."
+  },
+  {
+   "t": "SCFE",
+   "q": "What are the complications of SCFE?",
+   "a": "• **Avascular necrosis** – unstable slips, forceful reduction\n• **Chondrolysis** – screw penetrating the joint\n• **Femoroacetabular (cam) impingement** from the residual bump → osteochondroplasty\n• **Contralateral slip**\n• Leg length discrepancy, **early osteoarthritis**",
+   "m": "AVN from the slip, chondrolysis from the screw, impingement from the bump."
+  },
+  {
+   "t": "DDH",
+   "q": "What is developmental dysplasia of the hip (DDH) and which hip is usually affected?",
+   "a": "• Spectrum from **acetabular dysplasia** to subluxation to **frank dislocation**\n• Previously **congenital dislocation of the hip**\n• **Most common orthopaedic disorder in newborns**; more common in **females**\n• Usually the **left hip** – in the common **left occiput anterior** position the left hip is held **adducted against the mother’s lumbosacral spine**",
+   "m": "LOA → Left hip pressed in (adducted) → Left DDH."
+  },
+  {
+   "t": "DDH",
+   "q": "What are the risk factors for DDH?",
+   "a": "• The **4 F’s**: **Female**, **First-born**, **Family history**, **Frank breech**\n• **Oligohydramnios**\n• Other packaging associations (Lecturer pearl): torticollis, metatarsus adductus",
+   "m": "Lecturer pearl: 4 F’s + ‘O’ for oligohydramnios – a tight womb packs the hip out."
+  },
+  {
+   "t": "DDH",
+   "q": "How is DDH classified by hip stability?",
+   "a": "• **1.** Reduced and stable but **dysplastic**\n• **2.** Reduced but **dislocatable** – **Barlow positive**\n• **3.** **Dislocated but reducible** – **Ortolani positive**\n• **4.** **Dislocated and irreducible**",
+   "m": "Resting state first: reduced → dislocatable (Barlow); dislocated → reducible (Ortolani)."
+  },
+  {
+   "t": "DDH",
+   "q": "Barlow vs Ortolani test: what does each do?",
+   "a": "• **Barlow**: hip flexed and **adducted**, gentle **posterior push** → a reduced hip **dislocates** (dislocatable hip)\n• **Ortolani**: hip flexed and **abducted**, greater trochanter lifted forwards → a dislocated hip **reduces with a ‘clunk’**\n• Most useful **< 3 months** (before soft-tissue contracture)",
+   "m": "Barlow = Bye-bye (pushes it out); Ortolani = Oh-it’s-back-in (clunk)."
+  },
+  {
+   "t": "DDH",
+   "q": "What is the Galeazzi test and what is its main limitation?",
+   "a": "• Child supine, **hips and knees flexed**, feet together on the couch\n• **Positive**: the knees are at **unequal heights** – the lower knee is on the side of the dislocated (shortened) femur\n• Useful after ~3 months when Barlow/Ortolani become negative\n• Limitation: **falsely negative in bilateral DDH** (both sides equally short)",
+   "m": "Lecturer pearl: Galeazzi compares sides – so it is blind when both hips are out."
+  },
+  {
+   "t": "DDH",
+   "q": "How does the presentation of DDH change with age?",
+   "a": "• **< 3 months**: **Barlow/Ortolani** positive\n• **3-12 months**: **limited hip abduction** (most reliable), **leg-length discrepancy**, **Galeazzi** positive (unequal knee heights, hips/knees flexed – unilateral)\n• **> 1 year (walking)**: **Trendelenburg gait**, **toe walking**, **pelvic obliquity**, **increased lumbar lordosis** (bilateral)\n• Note: slide spells it ‘Galeazi’; correct is **Galeazzi**",
+   "m": "Clunk → stiff abduction → limp: the sign moves on as the soft tissues tighten."
+  },
+  {
+   "t": "DDH",
+   "q": "What is the role of ultrasound in DDH?",
+   "a": "• Imaging of choice **< 4-6 months** (femoral head still cartilage)\n• Indications: **positive examination**, **risk factors** (e.g. breech), **monitoring in Pavlik harness**\n• **Graf alpha angle** (bony roof): **≥ 60° normal**\n• **Beta angle** (cartilage roof): **< 55° normal**",
+   "m": "Alpha = bony roof, needs to be big (≥ 60). Beta = cartilage roof, needs to be small (< 55)."
+  },
+  {
+   "t": "DDH",
+   "q": "Which radiographic lines are used in DDH and when is X-ray preferred?",
+   "a": "• **X-ray once the ossific nucleus appears** (> 4-6 months)\n• **Hilgenreiner line** – horizontal through the triradiate cartilages: head should be **below** it\n• **Perkin line** – vertical from the lateral acetabular edge: head should be **medial** to it (inferomedial quadrant)\n• **Shenton line** – arc from inferior femoral neck to superior pubic ramus: should be **continuous**\n• Lecturer pearl: increased **acetabular index** = shallow socket",
+   "m": "H-P-S: Head below H, inside P, Shenton smooth."
+  },
+  {
+   "t": "DDH",
+   "q": "How is the Pavlik harness used in DDH?",
+   "a": "• Indication: **< 6 months** with a **reducible** hip\n• Position: **90-100° flexion**, **45-60° abduction** (hip in the ‘safe zone’)\n• Worn **24 hours a day for ~12 weeks**, monitored with ultrasound\n• **Stop if not reduced within 3-4 weeks** (risk of posterior acetabular erosion) → closed reduction",
+   "m": "Pavlik: under 6 months, check at 3-4 weeks – not in? Take it off."
+  },
+  {
+   "t": "DDH",
+   "q": "What are the complications of the Pavlik harness and their causes?",
+   "a": "• **Avascular necrosis** of the femoral head – **excessive abduction**\n• **Femoral nerve palsy** – **excessive flexion** (watch for absent quadriceps activity)\n• **Brachial plexus palsy** – shoulder straps",
+   "m": "Lecturer pearl: Flexion → Femoral nerve; Abduction → AVN."
+  },
+  {
+   "t": "DDH",
+   "q": "How does treatment of DDH change with age?",
+   "a": "• **< 6 months**: **Pavlik harness**\n• **6-18 months** or **Pavlik failure**: **closed reduction** (arthrogram ± adductor tenotomy) + **hip spica**\n• **> 18 months**: **open reduction** + spica ± femoral/pelvic osteotomy\n• The later it is found, the bigger the operation",
+   "m": "Harness → Closed + spica → Open (+ osteotomy)."
+  },
+  {
+   "t": "BLT",
+   "q": "What is Blount disease and what causes it?",
+   "a": "• **Acquired genu varum** in children\n• **Excessive compressive force** on the **proximal medial tibial physis/metaphysis** → altered endochondral ossification (medial growth slows – Hueter-Volkmann principle)\n• Risk factors: **obesity**, **early walking**, **African heritage**",
+   "m": "Lecturer pearl: heavy toddler walking early on bowed legs squashes the inner tibial growth plate – which bows them more (vicious cycle)."
+  },
+  {
+   "t": "BLT",
+   "q": "Infantile vs adolescent Blount disease: what are the key differences?",
+   "a": "• **Infantile**: age **2-5 years**, **~50% bilateral**, early walker, large/obese; **Langenskiöld** classification; more severe physeal disturbance; early stages may resolve; **brace or surgery**\n• **Adolescent**: **> 10 years**, **usually unilateral**, obese; no classification; less severe; **progressive**, **surgery only**\n• Note: slide says stages ‘II and IV’ can resolve spontaneously; correct is Langenskiöld **I and II**",
+   "m": "Infantile = both legs, brace possible. Adolescent = one leg, operate."
+  },
+  {
+   "t": "BLT",
+   "q": "How do you distinguish physiological bowing from Blount disease and rickets?",
+   "a": "• **Physiological**: **< 2 years**, symmetrical, gentle curve of **femur and tibia**, **improves** (neutral ~18-24 months, valgus peak 3-4 years)\n• **Blount**: persists/progresses **after 2 years**, abrupt angulation at **proximal tibia**, **lateral thrust**, often asymmetric\n• **Rickets**: generalised – widened wrists, **rachitic rosary**, metaphyseal **cupping and fraying**, raised ALP, low vitamin D",
+   "m": "Lecturer pearl: Gentle + young + improving = physiological; sharp + older + worsening = Blount; generalised bone signs = rickets."
+  },
+  {
+   "t": "BLT",
+   "q": "What are the clinical features of Blount disease?",
+   "a": "• **Genu varum** with **flexion** and **internal rotation**\n• **Internal tibial torsion**, leg length discrepancy\n• **Painless**: no tenderness, effusion or restricted motion\n• **Lateral thrust** of the knee on walking\n• May have a **positive cover-up test** (cover the thigh/femur – the varus is in the tibia)",
+   "m": "Lateral thrust = the knee jerks outwards each step as the lateral side gapes."
+  },
+  {
+   "t": "BLT",
+   "q": "What X-ray features and measurements are used in Blount disease?",
+   "a": "• **AP radiograph of the knee/standing long leg**\n• **Medial beaking** of the metaphysis, **widened irregular medial physis**, irregular ossification, medial slope of epiphysis/metaphysis (**Langenskiöld** stages)\n• **Metaphyseal-diaphyseal (Drennan) angle**: **> 11°** suggests Blount (Lecturer pearl; < 9° physiological)\n• **Tibiofemoral angle**\n• Note: the slide quotes **> 20°** as a **surgical indication**, not the diagnostic cut-off",
+   "m": "Drennan > 11 = Blount likely; > 20 = operate."
+  },
+  {
+   "t": "BLT",
+   "q": "How is Blount disease treated?",
+   "a": "• **Non-operative**: **knee-ankle-foot orthosis (KAFO)** for **Langenskiöld I-II and age < 3 years**, ~2 years\n• **Operative**: **proximal tibial/fibular valgus osteotomy** (corrects varus, flexion, internal rotation)\n• Surgical indications: stage I-II **> 3 years**; **stage III-VI**; **any stage > 4 years**; **brace failure**; **metaphyseal-diaphyseal angle > 20°**\n• Adolescent Blount: surgery only",
+   "m": "Under 3 and early stage = brace; everything else = osteotomy."
+  }
+ ],
+ "mcq": [
+  {
+   "t": "PHY",
+   "stem": "A 12-year-old boy falls from his bicycle onto an outstretched hand. The wrist is swollen and dorsally angulated. The lateral X-ray shows a fracture line running transversely along most of the distal radial physis, which then exits proximally through the dorsal metaphysis, leaving a small triangular metaphyseal fragment attached to the epiphysis. The epiphysis itself is intact.\nHow is this injury classified?",
+   "o": [
+    "Salter-Harris type I",
+    "Salter-Harris type III",
+    "Salter-Harris type II",
+    "Salter-Harris type IV",
+    "Salter-Harris type V"
+   ],
+   "a": 2,
+   "e": "The fracture runs through the physis and exits through the metaphysis (‘Above’ in SALTR), so it is Salter-Harris type II – the commonest type (~75%). The metaphyseal triangle is the Thurston-Holland fragment. Type III exits through the epiphysis and type IV crosses all three layers. Type II is treated by closed reduction and casting and has a good prognosis.",
+   "w": [
+    "Wrong - type I runs through the physis only, with no metaphyseal fragment.",
+    "Wrong - type III exits through the epiphysis into the joint, not the metaphysis.",
+    "Correct - physis plus a metaphyseal (Thurston-Holland) fragment = type II.",
+    "Wrong - type IV crosses metaphysis, physis and epiphysis; here the epiphysis is intact.",
+    "Wrong - type V is a crush injury, often with a normal initial X-ray."
+   ]
+  },
+  {
+   "t": "PHY",
+   "stem": "A 13-year-old girl twists her ankle playing netball. CT shows a vertical fracture through the anterolateral distal tibial epiphysis extending into the ankle joint, which then runs horizontally along the lateral part of the physis. The metaphysis is intact. The articular step is 3 mm.\nWhat is the most appropriate management?",
+   "o": [
+    "Open reduction and internal fixation",
+    "Closed manipulation and below-knee cast",
+    "Below-knee walking cast for six weeks",
+    "Removable boot only",
+    "Elevation, crutches and review in one week"
+   ],
+   "a": 0,
+   "e": "Physis plus epiphysis into the joint is Salter-Harris type III – here the juvenile Tillaux fracture. Types III and IV are intra-articular and cross the reserve and proliferative zones, so they need anatomical reduction of both the joint surface and the physis, usually by ORIF. A residual step of more than about 2 mm risks post-traumatic arthritis and growth disturbance.",
+   "w": [
+    "Correct - displaced SH III (Tillaux) needs anatomical reduction, i.e. ORIF.",
+    "Wrong - closed manipulation rarely achieves and holds an anatomical joint surface in a displaced SH III.",
+    "Wrong - casting without reduction leaves a 3 mm articular step.",
+    "Wrong - a boot ignores a displaced intra-articular physeal fracture.",
+    "Wrong - delaying treatment of a displaced intra-articular fracture is inappropriate."
+   ]
+  },
+  {
+   "t": "PHY",
+   "stem": "A 9-year-old boy jumps from a 2-metre wall and lands on his feet. He has knee pain, but the knee radiographs are reported as normal and he is sent home with analgesia. Eighteen months later his left leg is 2 cm shorter and has developed progressive varus at the knee.\nWhich original injury best explains this outcome?",
+   "o": [
+    "Salter-Harris type I",
+    "Salter-Harris type II fracture",
+    "Tibial eminence avulsion fracture",
+    "Proximal tibial metaphyseal torus fracture",
+    "Salter-Harris type V crush"
+   ],
+   "a": 4,
+   "e": "An axial-load injury with a normal initial X-ray followed by shortening and angular deformity is the classic picture of a Salter-Harris type V crush. It damages the germinal matrix and its blood supply, causing growth arrest, and is usually diagnosed retrospectively – the worst prognosis of all types. Type I can also have a normal film but heals quickly with a good prognosis.",
+   "w": [
+    "Wrong - SH I may look normal on X-ray but heals rapidly with a good prognosis.",
+    "Wrong - SH II is visible (metaphyseal fragment) and usually grows normally.",
+    "Wrong - an eminence avulsion is visible and does not cause growth arrest.",
+    "Wrong - a torus fracture is metaphyseal and spares the physis.",
+    "Correct - crush of the physis, normal early X-ray, later growth arrest."
+   ]
+  },
+  {
+   "t": "PHY",
+   "stem": "An 11-year-old boy sustains a displaced Salter-Harris type I fracture of the proximal humerus after a fall from a trampoline. On the ward round a student asks through which histological layer physeal separations most commonly pass.\nWhich zone is it?",
+   "o": [
+    "Resting zone",
+    "Hypertrophic zone",
+    "Proliferative zone",
+    "Primary spongiosa of the metaphysis",
+    "Groove of Ranvier at the periphery"
+   ],
+   "a": 1,
+   "e": "The hypertrophic zone is the weakest part of the physis: its chondrocytes are large, the matrix is scant and calcification is incomplete. Most physeal separations therefore pass through it. Because the resting (germinal) zone usually stays attached to the epiphysis, simple type I and II injuries generally grow normally.",
+   "w": [
+    "Wrong - the resting zone holds the germinal cells and is relatively strong; damage here causes growth arrest.",
+    "Correct - large cells, little matrix, incomplete calcification = weakest zone.",
+    "Wrong - the proliferative zone has abundant matrix and is stronger than the hypertrophic zone.",
+    "Wrong - the primary spongiosa is new bone, stronger than the hypertrophic cartilage.",
+    "Wrong - the groove of Ranvier is the peripheral ring supplying width growth, not the cleavage plane."
+   ]
+  },
+  {
+   "t": "PHY",
+   "stem": "A 7-year-old girl inverts her ankle jumping off a step. There is swelling and point tenderness directly over the distal fibular physis, with no tenderness over the lateral ligaments. Ankle radiographs, including a mortise view, show no fracture or physeal widening.\nWhat is the most appropriate management?",
+   "o": [
+    "Reassure and discharge as a simple sprain",
+    "Urgent MRI of the ankle before treatment",
+    "Closed reduction under sedation, then cast",
+    "Treat as Salter-Harris I: cast or boot",
+    "Open exploration and fixation of the physis"
+   ],
+   "a": 3,
+   "e": "In a child, point tenderness over a physis with a normal X-ray is treated as an undisplaced Salter-Harris type I injury: the periosteum is intact, so there is no displacement to see. Immobilise for 3-4 weeks; healing is rapid and the prognosis good. Reduction or surgery has no role when nothing is displaced.",
+   "w": [
+    "Wrong - children’s ligaments are stronger than the physis, so assume a physeal injury.",
+    "Wrong - MRI does not change management of an undisplaced injury.",
+    "Wrong - there is no displacement to reduce.",
+    "Correct - tender physis + normal film = presumed SH I; immobilise 3-4 weeks.",
+    "Wrong - surgery is not indicated for an undisplaced physeal injury."
+   ]
+  },
+  {
+   "t": "SCH",
+   "stem": "A 6-year-old boy falls from monkey bars onto an outstretched hand. His elbow is grossly swollen with an S-shaped deformity and antecubital bruising. The hand is warm and well perfused with a palpable radial pulse, and nerve function is intact. The lateral X-ray shows the distal fragment displaced posteriorly with no cortical contact.\nWhat is the most appropriate definitive management?",
+   "o": [
+    "Collar and cuff in flexion",
+    "Above-elbow cast at 90° without reduction",
+    "Open reduction through an anterior approach",
+    "Closed reduction and K-wire pinning",
+    "Olecranon skeletal traction for two weeks"
+   ],
+   "a": 3,
+   "e": "A completely displaced extension-type fracture with no cortical contact is Gartland type III. The standard treatment is closed reduction and percutaneous K-wire pinning (CRPP). Open reduction is kept for failed closed reduction, open fractures or vascular injury. A cast without reduction is for type I.",
+   "w": [
+    "Wrong - a collar and cuff cannot hold a completely displaced fracture and risks malunion.",
+    "Wrong - casting without reduction is for undisplaced (type I) fractures.",
+    "Wrong - open reduction is only for failed CMR, open fracture or vascular injury.",
+    "Correct - Gartland III is treated by CRPP.",
+    "Wrong - traction is outdated, needs a long admission, and is only for rare unfixable cases."
+   ]
+  },
+  {
+   "t": "SCH",
+   "stem": "A 7-year-old girl has a completely displaced extension-type supracondylar fracture. Before reduction she cannot flex the interphalangeal joint of the thumb or the distal interphalangeal joint of the index finger, so her attempted ‘OK’ sign becomes a flat pinch. Sensation throughout the hand is normal.\nWhich nerve is injured?",
+   "o": [
+    "Posterior interosseous nerve",
+    "Anterior interosseous nerve",
+    "Ulnar nerve at the elbow",
+    "Superficial radial nerve",
+    "Main trunk of the median nerve"
+   ],
+   "a": 1,
+   "e": "FPL and FDP to the index are supplied by the anterior interosseous nerve, a purely motor branch of the median nerve – so weakness with normal sensation localises the lesion. It is the nerve most often injured in extension-type fractures (posterolateral displacement of the distal fragment). The ulnar nerve is typical of flexion-type fractures and medial pins. Most are neurapraxias that recover.",
+   "w": [
+    "Wrong - PIN loss causes finger/thumb extension weakness, not loss of flexion.",
+    "Correct - pure motor loss of FPL and FDP index = AIN.",
+    "Wrong - the ulnar nerve causes intrinsic weakness and little-finger numbness; typical of flexion type.",
+    "Wrong - the superficial radial nerve is purely sensory.",
+    "Wrong - a median trunk lesion would also cause loss of sensation over the radial digits."
+   ]
+  },
+  {
+   "t": "SCH",
+   "stem": "A 5-year-old boy has a completely displaced extension-type supracondylar fracture. The hand is warm and pink with a capillary refill time of 2 seconds, but the radial pulse cannot be palpated. There are no signs of compartment syndrome.\nWhat is the most appropriate next step?",
+   "o": [
+    "Urgent closed reduction and pinning, then reassess",
+    "CT angiogram of the arm before any intervention",
+    "Immediate brachial artery exploration before reduction",
+    "Backslab in 120° flexion and hourly observation",
+    "Heparin infusion and vascular review next morning"
+   ],
+   "a": 0,
+   "e": "A pink, pulseless hand is perfused through collaterals. The brachial artery is usually kinked or tethered by the fracture, and urgent closed reduction and pinning restores the pulse in most cases. Perfusion is then reassessed. The artery is explored only if the hand becomes or remains white or poorly perfused. Imaging delays definitive care, and hyperflexion of a swollen elbow risks compartment syndrome.",
+   "w": [
+    "Correct - reduce and pin urgently, then reassess perfusion.",
+    "Wrong - angiography delays the treatment that usually fixes the problem.",
+    "Wrong - exploration before reduction is unnecessary when the hand is perfused.",
+    "Wrong - hyperflexion of a swollen elbow worsens vascular compromise and compartment pressure.",
+    "Wrong - anticoagulation does not address the mechanical cause and delay is unsafe."
+   ]
+  },
+  {
+   "t": "SCH",
+   "stem": "An 8-year-old girl had closed reduction and pinning of a supracondylar fracture 6 hours ago. She is crying despite morphine, her forearm is tense, and passive extension of her fingers causes severe pain. The radial pulse is palpable. The backslab and dressings have already been split down to skin and the elbow extended to 45°, without improvement.\nWhat is the most appropriate next step?",
+   "o": [
+    "Elevate the arm high and reassess in four hours",
+    "Brachial artery Doppler",
+    "Increase opioid analgesia and add a regional block",
+    "Remove the K-wires and re-reduce the fracture",
+    "Urgent forearm fasciotomy"
+   ],
+   "a": 4,
+   "e": "Pain out of proportion and pain on passive finger extension mean forearm compartment syndrome; a palpable pulse does not exclude it. Once splitting all dressings and reducing elbow flexion has failed, emergency fasciotomy is needed to prevent Volkmann ischaemic contracture. High elevation lowers perfusion pressure, and regional blocks mask the key symptom.",
+   "w": [
+    "Wrong - high elevation reduces arterial inflow and delays treatment.",
+    "Wrong - pulses are often normal in compartment syndrome; Doppler wastes time.",
+    "Wrong - more analgesia and a block mask the progression of ischaemia.",
+    "Wrong - the fixation is not the problem; muscle ischaemia is.",
+    "Correct - established compartment syndrome needs emergency fasciotomy."
+   ]
+  },
+  {
+   "t": "SCH",
+   "stem": "A 9-year-old boy had a supracondylar fracture treated in an above-elbow cast 2 years ago. His elbow now has full, painless flexion and extension, but with his arms straight the forearm deviates medially and the carrying angle is reversed.\nWhat is the most likely cause of this deformity?",
+   "o": [
+    "Growth arrest of the distal humeral physis",
+    "Non-union of a missed lateral condyle fracture",
+    "Malunion of the distal fragment",
+    "Chronic dislocation of the radial head",
+    "Heterotopic ossification in brachialis"
+   ],
+   "a": 2,
+   "e": "Cubitus varus (gunstock deformity) is the commonest late complication of supracondylar fracture. It results from malunion – medial tilt and internal rotation of the distal fragment – not from growth arrest. Function is usually good and the problem is mainly cosmetic; a lateral closing-wedge osteotomy corrects it if needed. Lateral condyle non-union causes cubitus valgus (and tardy ulnar palsy).",
+   "w": [
+    "Wrong - growth arrest is a rare cause; the deformity is present from the time of union.",
+    "Wrong - lateral condyle non-union causes cubitus valgus, not varus.",
+    "Correct - malunion (medial tilt and rotation) causes cubitus varus.",
+    "Wrong - radial head dislocation does not reverse the carrying angle.",
+    "Wrong - heterotopic ossification limits movement rather than changing alignment."
+   ]
+  },
+  {
+   "t": "SCH",
+   "stem": "A 4-year-old girl fell onto her outstretched arm and refuses to move the elbow. There is mild swelling and tenderness over the distal humerus. The lateral X-ray shows no visible fracture line, but there is a lucent triangle posterior to the distal humerus and the anterior fat pad is elevated.\nWhat is the most appropriate management?",
+   "o": [
+    "Above-elbow backslab and review",
+    "Reassure and discharge with analgesia only",
+    "Sling and early movement",
+    "CT of the elbow to define the fracture",
+    "Closed reduction and K-wire fixation"
+   ],
+   "a": 0,
+   "e": "A visible posterior fat pad (and raised anterior ‘sail’) means a haemarthrosis, which in a child after trauma indicates an occult fracture – usually an undisplaced supracondylar (Gartland I). Treat it as a fracture: above-elbow backslab at 90° with a sling and review in 7-10 days, when periosteal new bone may confirm it. CT is unnecessary because management will not change.",
+   "w": [
+    "Correct - treat the occult fracture as Gartland I: backslab at 90° and review.",
+    "Wrong - a posterior fat pad is never normal; discharge risks displacement.",
+    "Wrong - early mobilisation is unsafe for a probable fracture.",
+    "Wrong - CT adds radiation without changing management.",
+    "Wrong - there is no displacement to reduce or fix."
+   ]
+  },
+  {
+   "t": "GRT",
+   "stem": "A 7-year-old boy falls on an outstretched hand while running. He has tenderness over the distal radius but no deformity. The X-ray shows a smooth bulge of the dorsal cortex of the distal radial metaphysis without a break in either cortex. There is no angulation and the physis is normal.\nWhat is the most appropriate treatment?",
+   "o": [
+    "Closed reduction and above-elbow cast",
+    "Above-elbow cast for six weeks",
+    "Percutaneous K-wire fixation",
+    "Plate fixation of the distal radius",
+    "Wrist splint for 3-4 weeks"
+   ],
+   "a": 4,
+   "e": "This is a torus (buckle) fracture: axial compression causes the cortex to buckle without a cortical break. It is a stable injury, so a simple splint for 3-4 weeks is enough and no reduction is needed. Greenstick fractures, in contrast, are broken on the tension side and usually need reduction and a cast for about 6 weeks.",
+   "w": [
+    "Wrong - there is no angulation to reduce.",
+    "Wrong - six weeks in an above-elbow cast is excessive for a stable buckle.",
+    "Wrong - fixation is not indicated for a stable incomplete fracture.",
+    "Wrong - open fixation is never needed for a torus fracture.",
+    "Correct - a stable buckle fracture needs only a splint for 3-4 weeks."
+   ]
+  },
+  {
+   "t": "GRT",
+   "stem": "An 8-year-old girl falls from a swing. Her mid-forearm is visibly bowed. X-rays show the radial and ulnar shafts angulated 20°, with the cortex broken on the convex side and the concave-side cortex intact but plastically bent.\nWhat is the most appropriate management?",
+   "o": [
+    "Removable wrist splint for three to four weeks",
+    "Broad arm sling and review in two weeks",
+    "Closed reduction and above-elbow cast",
+    "Elastic stable intramedullary nailing",
+    "Open reduction and plate fixation"
+   ],
+   "a": 2,
+   "e": "A fracture broken on the tension (convex) side with the compression side bent but intact is a greenstick fracture. With 20° of angulation it needs closed manipulative reduction and an above-elbow cast for about 6 weeks. Some surgeons complete the fracture so the intact cortex cannot spring the angulation back. Surgery is kept for irreducible or unstable fractures, and a splint is for torus fractures.",
+   "w": [
+    "Wrong - a splint is for stable torus fractures, not an angulated greenstick.",
+    "Wrong - a sling leaves 20° of angulation uncorrected.",
+    "Correct - an angulated greenstick needs CMR and an above-elbow cast (~6 weeks).",
+    "Wrong - nailing is for unstable or irreducible fractures, usually in older children.",
+    "Wrong - plating is rarely needed in this age group."
+   ]
+  },
+  {
+   "t": "NAI",
+   "stem": "A 4-month-old girl is brought to the emergency department with irritability and reduced movement of her left leg. Her father says she rolled off the sofa yesterday. There are fingertip bruises on her chest. X-rays show a corner fracture of the distal femoral metaphysis and healing fractures of two posterior ribs.\nWhat is the most appropriate next step?",
+   "o": [
+    "Hip spica and fracture clinic",
+    "Discharge home once a social worker is phoned",
+    "Send collagen gene testing before any referral",
+    "Admit her and activate the SCAN team",
+    "Arrange an outpatient skeletal survey next week"
+   ],
+   "a": 3,
+   "e": "Metaphyseal corner fractures and posterior rib fractures of different ages, in a non-mobile infant with an inconsistent history, are highly specific for abuse. Under the Malaysian hospital guideline, the child is admitted (a place of safety) and the SCAN team is activated. A police report is lodged, JKM is notified, a skeletal survey is done and findings are documented. Referral is not delayed while waiting for osteogenesis imperfecta testing.",
+   "w": [
+    "Wrong - treating the fracture alone ignores the child’s safety.",
+    "Wrong - the child must not be discharged into a possibly unsafe home.",
+    "Wrong - OI testing may follow but must not delay protection and referral.",
+    "Correct - admit for safety and activate SCAN (then police report and JKM).",
+    "Wrong - the skeletal survey is done promptly as an inpatient."
+   ]
+  },
+  {
+   "t": "NAI",
+   "stem": "A 3-month-old boy is brought in with unexplained irritability; his parents deny any trauma. The SCAN team requests a skeletal survey, which shows several injuries.\nWhich radiological finding is most specific for non-accidental injury?",
+   "o": [
+    "Midshaft clavicle fracture",
+    "Posterior rib fractures",
+    "Linear parietal skull fracture",
+    "Distal radial buckle fracture",
+    "Spiral fracture of the tibial shaft"
+   ],
+   "a": 1,
+   "e": "Posterior rib fractures (from squeezing the chest, with leverage over the costovertebral junction) and classic metaphyseal (corner/bucket-handle) lesions are the most specific for abuse in infants. Scapular, sternal and spinous process fractures are also highly specific. Clavicle and simple linear skull fractures happen accidentally (including at birth) and have low specificity.",
+   "w": [
+    "Wrong - clavicle fractures are common accidentally and after birth trauma; low specificity.",
+    "Correct - posterior rib fractures are highly specific for abuse.",
+    "Wrong - a simple linear skull fracture is of low specificity.",
+    "Wrong - a buckle fracture is a typical accidental FOOSH injury.",
+    "Wrong - suspicious in a non-walker, but less specific than posterior rib fractures."
+   ]
+  },
+  {
+   "t": "NAI",
+   "stem": "A 9-month-old boy who is not yet crawling presents with a swollen right thigh. His mother says his leg got caught in the cot bars. X-ray shows a spiral femoral shaft fracture. There are bruises of different colours on his back. He is haemodynamically stable.\nWhich investigation is most appropriate to look for other injuries?",
+   "o": [
+    "X-ray of the opposite femur only",
+    "Full skeletal survey",
+    "Bone scan alone",
+    "Whole-body MRI under sedation",
+    "Repeat femur X-ray in two weeks"
+   ],
+   "a": 1,
+   "e": "A femoral fracture before walking age and bruises of different ages are red flags for abuse. In children under 2 years a full skeletal survey is mandatory to detect occult fractures; over 2 years, targeted radiographs are used. CT head is added if intracranial injury is suspected, and MRI shows chronic lesions or early ischaemia.",
+   "w": [
+    "Wrong - imaging one bone misses occult fractures elsewhere.",
+    "Correct - a skeletal survey is the standard in children under 2 years.",
+    "Wrong - a bone scan may be an adjunct but is not used alone.",
+    "Wrong - whole-body MRI is not the screening test for occult fractures.",
+    "Wrong - this only looks at the known fracture and delays the search."
+   ]
+  },
+  {
+   "t": "NAI",
+   "stem": "A 6-month-old girl presents with seizures. CT head shows a subdural haemorrhage, and she has multiple bruises on her face and arms. Her parents report no trauma.\nWhich blood investigation is specifically required to exclude a medical mimic of the bruising and haemorrhage?",
+   "o": [
+    "Serum amylase and lipase levels",
+    "Liver function tests and albumin",
+    "Serum calcium, phosphate and vitamin D",
+    "Platelets and clotting screen",
+    "Thyroid function tests"
+   ],
+   "a": 3,
+   "e": "The Malaysian guideline recommends FBC (platelet count) and a coagulation profile (PT, APTT, INR) whenever there is bruising or intracranial haemorrhage, to exclude a bleeding disorder such as ITP, haemophilia or vitamin K deficiency. LFT, amylase and lipase screen for occult abdominal injury rather than a mimic. A bone profile looks for metabolic bone disease mimicking fractures.",
+   "w": [
+    "Wrong - amylase/lipase screen for occult pancreatic injury, not a bruising mimic.",
+    "Wrong - LFTs screen for liver injury, not a bleeding mimic.",
+    "Wrong - a bone profile addresses fracture mimics, not bruising and haemorrhage.",
+    "Correct - FBC and PT/APTT/INR exclude a bleeding disorder.",
+    "Wrong - thyroid function does not explain bruising or subdural haemorrhage."
+   ]
+  },
+  {
+   "t": "CTEV",
+   "stem": "A newborn boy has a right foot that is plantarflexed at the ankle, with the heel inverted, the forefoot adducted and a deep medial crease. The deformity cannot be passively corrected to neutral. The spine and hips are normal.\nWhat is the most appropriate initial management?",
+   "o": [
+    "Weekly Ponseti manipulation and casting",
+    "Posteromedial soft-tissue release at 3 months",
+    "Daily stretching and strapping by parents",
+    "Denis Browne boots from the first week",
+    "Foot X-rays to confirm before any treatment"
+   ],
+   "a": 0,
+   "e": "This is idiopathic clubfoot, a clinical diagnosis. The Ponseti method – weekly manipulation and long-leg casting started in the first weeks – corrects over 90% of feet, followed by tenotomy if needed and then bracing. Surgery is reserved for resistant, syndromic or late cases. The foot abduction orthosis is used only after correction.",
+   "w": [
+    "Correct - Ponseti serial casting is first-line and started early.",
+    "Wrong - primary surgical release is for resistant or late cases.",
+    "Wrong - stretching and strapping alone do not correct a rigid clubfoot.",
+    "Wrong - the orthosis maintains correction; it cannot achieve it.",
+    "Wrong - CTEV is a clinical diagnosis; X-rays are not needed first."
+   ]
+  },
+  {
+   "t": "CTEV",
+   "stem": "A 2-week-old girl with idiopathic clubfoot (Pirani score 5.5) attends for her first Ponseti cast. Her foot has a high medial arch, and the forefoot is pronated relative to the hindfoot.\nWhich manoeuvre is used in the first cast?",
+   "o": [
+    "Dorsiflex the ankle to correct the equinus",
+    "Pronate the forefoot to evert the heel",
+    "Elevate the first ray with forefoot supinated",
+    "Abduct the foot with pressure on the calcaneus",
+    "Evert the heel directly with thumb on the calcaneus"
+   ],
+   "a": 2,
+   "e": "Ponseti corrects in CAVE order, so cavus is treated first by elevating the first ray and supinating the forefoot to line it up with the hindfoot. Adductus and varus are then corrected together by abducting the foot around the talar head as the fulcrum, and equinus is corrected last. Pronation worsens the cavus, and pressure on the calcaneus blocks heel eversion (Kite’s error).",
+   "w": [
+    "Wrong - equinus is corrected last (often by tenotomy).",
+    "Wrong - pronation worsens the cavus and must never be done.",
+    "Correct - cavus first: elevate the first ray, forefoot supinated.",
+    "Wrong - the counter-pressure goes on the talar head, not the calcaneus.",
+    "Wrong - the heel corrects indirectly as the foot abducts; pushing the calcaneus blocks it."
+   ]
+  },
+  {
+   "t": "CTEV",
+   "stem": "A 10-week-old boy has had five Ponseti casts. The cavus and adductus are corrected, the foot abducts to 65° and the heel varus has corrected, but ankle dorsiflexion reaches only 5° above neutral. Pirani midfoot score 0, hindfoot score 1.5.\nWhat is the most appropriate next step?",
+   "o": [
+    "Further casts with forced dorsiflexion",
+    "Start the foot abduction orthosis now",
+    "Posteromedial release",
+    "Tibialis anterior tendon transfer",
+    "Percutaneous Achilles tenotomy"
+   ],
+   "a": 4,
+   "e": "When the midfoot is corrected but dorsiflexion is still under 10-15° (hindfoot score above 1), a percutaneous Achilles tenotomy is performed. It is needed in about 80-90% of feet and is followed by a final cast for 3 weeks, then the foot abduction orthosis. Forcing dorsiflexion against a tight tendo Achilles breaks the midfoot and creates a rocker-bottom foot.",
+   "w": [
+    "Wrong - forced dorsiflexion against a tight Achilles produces a rocker-bottom foot.",
+    "Wrong - bracing before equinus is corrected will fail.",
+    "Wrong - extensive release is for resistant or late feet, not routine Ponseti.",
+    "Wrong - this transfer is for dynamic supination in older children.",
+    "Correct - residual equinus after midfoot correction = tenotomy."
+   ]
+  },
+  {
+   "t": "CTEV",
+   "stem": "A 4-month-old girl with clubfoot was treated elsewhere with casts in which the ankle was forced into dorsiflexion from the very first cast. The heel remains high and in equinus, but the sole has become convex, with a transverse crease across the dorsum of the midfoot.\nWhat has most likely occurred?",
+   "o": [
+    "Dynamic supination from tibialis anterior overpull",
+    "Congenital vertical talus missed at birth",
+    "Relapse from non-compliance with bracing",
+    "Osteonecrosis of the talus from cast pressure",
+    "Iatrogenic rocker-bottom deformity"
+   ],
+   "a": 4,
+   "e": "Equinus must be corrected last, usually by Achilles tenotomy. Dorsiflexing against a tight heel cord before the other parts are corrected makes the midfoot break, giving a convex (rocker-bottom) sole while the hindfoot stays in equinus. Congenital vertical talus is present at birth, and dynamic supination and relapse happen after correction.",
+   "w": [
+    "Wrong - dynamic supination is a gait problem after correction, not a convex sole.",
+    "Wrong - vertical talus is present from birth with a dorsally dislocated navicular.",
+    "Wrong - relapse follows correction and bracing, which have not happened here.",
+    "Wrong - talar osteonecrosis is a complication of extensive surgical release.",
+    "Correct - forced early dorsiflexion breaks the midfoot = rocker-bottom."
+   ]
+  },
+  {
+   "t": "CTEV",
+   "stem": "A 2-year-old boy had a successful Ponseti correction and tenotomy as an infant. His parents stopped the boots-and-bar at 8 months because he disliked them. He now walks with recurrent heel varus and equinus, but the deformity is still supple.\nWhat is the most appropriate management?",
+   "o": [
+    "Triple arthrodesis of the hindfoot",
+    "Posteromedial release and tendon lengthening",
+    "Repeat Ponseti casting, then resume bracing",
+    "Daytime ankle-foot orthosis only",
+    "Talectomy with soft-tissue release"
+   ],
+   "a": 2,
+   "e": "Relapse is most often caused by stopping the foot abduction orthosis early. A supple relapse in a young child is treated by repeat Ponseti casting (with repeat tenotomy if needed), then bracing again with family education. Tibialis anterior transfer is for dynamic supination in older children, and arthrodesis or talectomy are salvage procedures.",
+   "w": [
+    "Wrong - arthrodesis is a salvage procedure in older children with rigid feet.",
+    "Wrong - surgical release is for deformity resistant to repeat casting.",
+    "Correct - recast, then restart the orthosis with compliance support.",
+    "Wrong - a daytime AFO does not hold abduction and is not the Ponseti brace.",
+    "Wrong - talectomy is salvage for severe syndromic or neglected feet."
+   ]
+  },
+  {
+   "t": "CTEV",
+   "stem": "A 3-month-old girl has her final cast removed 3 weeks after Achilles tenotomy. The foot now dorsiflexes to 20° and abducts to 70°. Her mother asks how the foot abduction orthosis should be used.\nWhich regimen is correct?",
+   "o": [
+    "Full-time 6 weeks, then stop",
+    "Full-time 3 months, then sleep-time until about 4",
+    "Night-time only until she begins to walk independently",
+    "Full-time until walking age, then discontinue completely",
+    "Daytime only for two years, removed at night for sleep"
+   ],
+   "a": 1,
+   "e": "The Denis Browne boots-and-bar (foot abduction orthosis) is worn 23 hours a day for 3 months, then at night and during naps until about 4 years of age. Compliance with this regimen is the main factor deciding relapse. Shorter or daytime-only regimens lead to recurrence. Note: the slide spells it ‘Dennis Brown’; correct is Denis Browne.",
+   "w": [
+    "Wrong - stopping at 6 weeks almost guarantees relapse.",
+    "Correct - 23 h/day for 3 months, then nights and naps to ~4 years.",
+    "Wrong - full-time wear is needed for the first 3 months.",
+    "Wrong - bracing continues at night well beyond walking age.",
+    "Wrong - the brace is worn at night and during naps, not by day."
+   ]
+  },
+  {
+   "t": "FLAT",
+   "stem": "A 6-year-old boy is brought in because his feet look flat when he stands. He runs and plays without pain. When he stands on tip-toe his heels swing into inversion and an arch appears, and passive extension of the great toe also restores the arch. Subtalar movement is full.\nWhat is the most appropriate management?",
+   "o": [
+    "Reassurance and observation",
+    "Custom rigid orthoses worn full-time",
+    "Standing foot radiographs and CT scan",
+    "Below-knee walking cast for six weeks",
+    "Subtalar arthroereisis"
+   ],
+   "a": 0,
+   "e": "An arch that reforms on tip-toe and with Jack’s test, a heel that inverts and full subtalar motion mean a flexible flat foot. When painless, the treatment is reassurance and observation, with stretching for a tight Achilles and supportive footwear only if symptomatic. Imaging is reserved for painful feet, and casting is for coalition.",
+   "w": [
+    "Correct - a painless flexible flat foot needs reassurance only.",
+    "Wrong - rigid orthoses do not create an arch and are not needed when painless.",
+    "Wrong - imaging is indicated only if the foot is painful or rigid.",
+    "Wrong - casting is for symptomatic tarsal coalition.",
+    "Wrong - surgery is not indicated for an asymptomatic flexible flat foot."
+   ]
+  },
+  {
+   "t": "FLAT",
+   "stem": "A 13-year-old girl has had several ‘ankle sprains’ this year and aching in the lateral hindfoot. Her right foot is flat with hindfoot valgus; the arch does not reform on tip-toe and subtalar motion is markedly reduced. A lateral foot X-ray shows an elongated anterior process of the calcaneus.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Talocalcaneal coalition",
+    "Congenital vertical talus",
+    "Flexible flatfoot with a tight Achilles",
+    "Calcaneonavicular coalition",
+    "Posterior tibial tendon dysfunction"
+   ],
+   "a": 3,
+   "e": "A rigid, painful flat foot with recurrent sprains in an adolescent suggests tarsal coalition. The elongated anterior calcaneal process (anteater sign) points to a calcaneonavicular bar – the commonest type, best seen on the 45° internal oblique view. Talocalcaneal bars are shown on the Harris axial view and CT. Vertical talus is present from birth.",
+   "w": [
+    "Wrong - talocalcaneal coalition gives a C-sign and is seen on Harris view/CT.",
+    "Wrong - vertical talus is a rigid rocker-bottom foot from birth.",
+    "Wrong - a flexible foot forms an arch on tip-toe and has full subtalar motion.",
+    "Correct - anteater sign = calcaneonavicular coalition.",
+    "Wrong - PTTD is an adult acquired flat foot."
+   ]
+  },
+  {
+   "t": "FLAT",
+   "stem": "A newborn girl with a sacral dimple has a stiff right foot. The sole is convex, the hindfoot is in equinus and valgus, and the talar head is palpable in the medial sole. The forefoot is dorsiflexed and abducted. A lateral X-ray taken in forced plantarflexion shows the talus still vertical, with the navicular remaining dorsal to the talar head.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Oblique talus",
+    "Congenital vertical talus",
+    "Positional calcaneovalgus foot",
+    "Congenital talipes equinovarus",
+    "Skewfoot (serpentine foot)"
+   ],
+   "a": 1,
+   "e": "A rigid rocker-bottom foot with a dorsal navicular that stays dislocated on the forced plantarflexion lateral view is congenital vertical talus. In an oblique talus the talonavicular joint reduces on plantarflexion. Calcaneovalgus is a soft, dorsiflexed foot without equinus that resolves. Vertical talus is associated with neuromuscular disease (the sacral dimple hints at spinal dysraphism) and is treated with reverse Ponseti casting ± surgery.",
+   "w": [
+    "Wrong - an oblique talus reduces on plantarflexion.",
+    "Correct - an irreducible dorsal navicular on forced plantarflexion = vertical talus.",
+    "Wrong - calcaneovalgus is flexible and has no equinus.",
+    "Wrong - clubfoot is equinus with varus and a cavus arch, not a convex sole.",
+    "Wrong - skewfoot has forefoot adduction with hindfoot valgus, not a dislocated navicular."
+   ]
+  },
+  {
+   "t": "FLAT",
+   "stem": "A 14-year-old boy has a painful rigid flat foot. CT confirms a calcaneonavicular bar with no degenerative changes. His symptoms returned soon after a 6-week below-knee walking cast.\nWhat is the most appropriate next step?",
+   "o": [
+    "Triple arthrodesis",
+    "Subtalar arthrodesis",
+    "Repeat casting for a further six months",
+    "Excision of the coalition bar",
+    "Custom insoles and reassurance only"
+   ],
+   "a": 3,
+   "e": "Symptomatic coalition is first treated with a below-knee walking cast for 6 weeks. If pain recurs, the bar is excised (usually with soft-tissue interposition – Lecturer pearl). This relieves pain but does not fully restore movement. Arthrodesis is kept for extensive talocalcaneal bars (over 50% of the posterior facet) or when degenerative change is present.",
+   "w": [
+    "Wrong - triple arthrodesis is salvage for degenerative or extensive disease.",
+    "Wrong - subtalar fusion is for large talocalcaneal bars, not calcaneonavicular ones.",
+    "Wrong - prolonged casting does not change the bar and has already failed.",
+    "Correct - failed casting + no arthritis = bar excision.",
+    "Wrong - insoles do not relieve symptoms from a rigid bar after a failed cast."
+   ]
+  },
+  {
+   "t": "INT",
+   "stem": "A 4-month-old boy’s mother notices that his left foot curves inwards. The lateral border of the foot is convex (bean-shaped), the heel is in neutral with normal ankle dorsiflexion, and the forefoot can be passively abducted past neutral. A heel bisector line passes through the 4th toe.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Metatarsus adductus",
+    "Congenital talipes equinovarus",
+    "Internal tibial torsion",
+    "Increased femoral anteversion",
+    "Congenital vertical talus"
+   ],
+   "a": 0,
+   "e": "Forefoot adduction at the tarsometatarsal joints with a normal hindfoot is metatarsus adductus, the typical cause of intoeing in infants. The heel bisector passing lateral to the second toe confirms forefoot adduction. Clubfoot has heel equinus and varus. Tibial torsion and femoral anteversion present in toddlers and older children. Most flexible cases resolve by 4-6 months or with stretching.",
+   "w": [
+    "Correct - forefoot adduction with a normal heel = metatarsus adductus.",
+    "Wrong - clubfoot has a rigid equinus and varus heel.",
+    "Wrong - tibial torsion presents in toddlers with a negative thigh-foot angle.",
+    "Wrong - femoral anteversion presents at 3-8 years with increased hip internal rotation.",
+    "Wrong - vertical talus is a rigid rocker-bottom foot."
+   ]
+  },
+  {
+   "t": "INT",
+   "stem": "A 2-year-old girl trips frequently and her feet point inwards when she walks. Lying prone with knees flexed, her thigh-foot angle is -20°. Hip internal and external rotation are symmetrical and normal, and her patellae face forwards when standing.\nWhat is the most appropriate management?",
+   "o": [
+    "Denis Browne bar at night for one year",
+    "Supramalleolar derotational osteotomy",
+    "Twister cables worn during the day",
+    "Femoral osteotomy",
+    "Reassure and observe"
+   ],
+   "a": 4,
+   "e": "A negative thigh-foot angle with normal hip rotation and forward-facing patellae means internal tibial torsion, the typical cause of intoeing in toddlers. It resolves spontaneously, usually before school age, and braces or twister cables do not change its natural history. A supramalleolar osteotomy is considered only if it persists beyond about 8 years with functional problems.",
+   "w": [
+    "Wrong - night splints have no proven benefit.",
+    "Wrong - osteotomy is only for persistence beyond ~8 years.",
+    "Wrong - twister cables are ineffective and outdated.",
+    "Wrong - the femur is normal here (hip rotation symmetrical).",
+    "Correct - internal tibial torsion resolves spontaneously in most children."
+   ]
+  },
+  {
+   "t": "INT",
+   "stem": "A 6-year-old girl intoes and ‘trips over her own feet’. She prefers to sit with her knees together and her feet out to the sides of her bottom. Standing, her patellae point towards each other. Prone, hip internal rotation is 80° and external rotation 20°; the thigh-foot angle is +10°.\nWhat is the most likely cause of her intoeing?",
+   "o": [
+    "Internal tibial torsion",
+    "Metatarsus adductus",
+    "Increased femoral anteversion",
+    "Residual clubfoot deformity",
+    "Spastic diplegic cerebral palsy"
+   ],
+   "a": 2,
+   "e": "W-sitting, ‘kissing’ patellae and increased hip internal rotation with reduced external rotation are the signs of increased femoral anteversion, the usual cause of intoeing at 3-8 years. A normal thigh-foot angle excludes tibial torsion. Most cases resolve; derotational osteotomy is considered only if it persists past 9-10 years with functional problems.",
+   "w": [
+    "Wrong - tibial torsion gives a negative thigh-foot angle with forward patellae.",
+    "Wrong - metatarsus adductus is a forefoot deformity of infancy.",
+    "Correct - excessive hip IR + W-sitting + inward patellae = femoral anteversion.",
+    "Wrong - nothing suggests a previous clubfoot (equinus, varus, scars).",
+    "Wrong - no spasticity or developmental delay is described."
+   ]
+  },
+  {
+   "t": "LCP",
+   "stem": "A 6-year-old boy has had an intermittent limp for 3 months, with occasional aching in the right thigh after football. He is afebrile and well. Right hip abduction and internal rotation are reduced. ESR and CRP are normal. The AP pelvis shows a smaller, sclerotic right femoral epiphysis with widening of the medial joint space.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Transient synovitis",
+    "Septic arthritis of the hip",
+    "Slipped capital femoral epiphysis",
+    "Juvenile idiopathic arthritis",
+    "Legg-Calvé-Perthes disease"
+   ],
+   "a": 4,
+   "e": "A boy aged 4-10 with an insidious, mostly painless limp, loss of abduction and internal rotation and normal inflammatory markers fits Perthes disease. The small dense epiphysis with medial joint space widening is the initial (necrotic) stage. Transient synovitis is acute with a normal X-ray, septic arthritis is febrile with raised markers, and SCFE affects obese adolescents.",
+   "w": [
+    "Wrong - transient synovitis is acute, short-lived and the X-ray is normal.",
+    "Wrong - septic arthritis is acute and febrile with raised inflammatory markers.",
+    "Wrong - SCFE affects adolescents and shows physeal widening or a slip.",
+    "Wrong - JIA causes synovitis with raised markers and no epiphyseal sclerosis.",
+    "Correct - typical age, chronic limp, loss of abduction/IR and epiphyseal sclerosis."
+   ]
+  },
+  {
+   "t": "LCP",
+   "stem": "A 5-year-old girl woke up limping 2 days after a viral upper respiratory infection. Temperature 37.4 °C. She can bear weight with a limp, and hip internal rotation is mildly painful. WBC 8.5 ×10⁹/L, ESR 12 mm/h, CRP 4 mg/L. Ultrasound shows a small hip effusion; the X-ray is normal.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Septic arthritis",
+    "Legg-Calvé-Perthes disease",
+    "Transient synovitis",
+    "Slipped capital femoral epiphysis",
+    "Proximal femoral osteomyelitis"
+   ],
+   "a": 2,
+   "e": "Lecturer pearl: Kocher criteria for septic hip are fever over 38.5 °C, non-weight bearing, ESR over 40 and WBC over 12. With 0 of 4 positive after a viral illness, this is transient synovitis – self-limiting, treated with rest, NSAIDs and review. Perthes is chronic and shows epiphyseal changes on X-ray, and SCFE affects adolescents.",
+   "w": [
+    "Wrong - septic arthritis is febrile, non-weight bearing with raised markers.",
+    "Wrong - Perthes is insidious with radiographic epiphyseal changes.",
+    "Correct - post-viral, afebrile, weight bearing, normal markers = transient synovitis.",
+    "Wrong - SCFE affects adolescents, usually obese.",
+    "Wrong - osteomyelitis gives fever, raised markers and bony tenderness."
+   ]
+  },
+  {
+   "t": "LCP",
+   "stem": "A 3-year-old boy has refused to walk for 24 hours. Temperature 39.2 °C. He lies with the left hip flexed, abducted and externally rotated and screams on any movement. WBC 18 ×10⁹/L, ESR 60 mm/h, CRP 110 mg/L. Ultrasound shows a large hip effusion.\nWhat is the most appropriate next step?",
+   "o": [
+    "Oral NSAIDs and review in 48 hours",
+    "Urgent hip aspiration and washout",
+    "MRI of the pelvis under sedation",
+    "Skin traction and bed rest",
+    "Abduction brace for containment"
+   ],
+   "a": 1,
+   "e": "Lecturer pearl: all four Kocher criteria are positive, so septic arthritis is very likely. This is a surgical emergency: aspirate (send for culture), then arthrotomy and washout with IV antibiotics. Pus under pressure in the hip can destroy the cartilage and cause AVN within hours. Containment bracing is a Perthes treatment.",
+   "w": [
+    "Wrong - NSAIDs and waiting treat transient synovitis, not a septic joint.",
+    "Correct - septic hip needs emergency drainage and IV antibiotics.",
+    "Wrong - MRI delays drainage when the diagnosis is already clear.",
+    "Wrong - traction does not drain the infection.",
+    "Wrong - containment is for Perthes disease, not infection."
+   ]
+  },
+  {
+   "t": "LCP",
+   "stem": "A 6-year-old boy with Perthes disease is now in the fragmentation stage. He has a mild limp and 30° of hip abduction. His parents ask about his long-term outlook.\nWhich finding is associated with the poorest prognosis?",
+   "o": [
+    "Symptom onset at 5 years of age",
+    "Lateral pillar intact at full height",
+    "Widening of the medial joint space",
+    "Lateral pillar height below 50%",
+    "Bone scan showing reduced uptake"
+   ],
+   "a": 3,
+   "e": "In the fragmentation stage the Herring lateral pillar classification predicts outcome. Group C (less than 50% of pillar height kept) has a poor prognosis, and group A (intact) a very good one. Younger age at onset (under 6-8 years) is favourable because there is more time to remodel. Medial joint widening and a cold bone scan are diagnostic features present in most cases, not prognostic markers.",
+   "w": [
+    "Wrong - young onset is a good prognostic factor.",
+    "Wrong - an intact pillar (Herring A) has a very good prognosis.",
+    "Wrong - this is an early diagnostic sign, not a prognostic one.",
+    "Correct - Herring C (< 50% pillar height) = poor prognosis.",
+    "Wrong - reduced uptake is expected in Perthes and does not grade prognosis."
+   ]
+  },
+  {
+   "t": "LCP",
+   "stem": "A 9-year-old boy developed Perthes disease 4 months ago. He has persistent loss of abduction despite physiotherapy. X-ray in the fragmentation stage shows the lateral pillar at about 50% height with early lateral extrusion, and an arthrogram shows that the head can be contained in abduction.\nWhat is the most appropriate treatment?",
+   "o": [
+    "Proximal femoral varus osteotomy",
+    "Observation and NSAIDs only",
+    "In situ screw fixation of the epiphysis",
+    "Valgus osteotomy for hinge abduction",
+    "Total hip arthroplasty"
+   ],
+   "a": 0,
+   "e": "Age over 8 at onset, Herring B/C, lateral extrusion and persistent loss of motion are indications for surgical containment. When the head can be contained, a proximal femoral varus osteotomy (or pelvic osteotomy) redirects it deep into the acetabulum so it remodels round. A valgus osteotomy is a salvage procedure for hinge abduction, which is not present here.",
+   "w": [
+    "Correct - containable head + poor prognostic factors = varus osteotomy.",
+    "Wrong - observation is for young children with good prognostic features.",
+    "Wrong - in situ fixation treats SCFE, not Perthes.",
+    "Wrong - valgus osteotomy is only for non-containable hinge abduction.",
+    "Wrong - arthroplasty is not an option in a 9-year-old with a remodelling head."
+   ]
+  },
+  {
+   "t": "LCP",
+   "stem": "An 8-year-old girl with Perthes disease is being planned for possible containment surgery. The surgeon needs to see, dynamically, whether the cartilaginous femoral head can be seated within the acetabulum in abduction or whether it hinges on the lateral lip.\nWhich investigation provides this information?",
+   "o": [
+    "Hip MRI",
+    "Technetium bone scan",
+    "Hip arthrogram",
+    "CT of the pelvis",
+    "Frog-leg lateral X-ray"
+   ],
+   "a": 2,
+   "e": "An arthrogram outlines the cartilaginous head and shows dynamically whether it is covered and contained in abduction, or whether it hinges on the lateral acetabular lip (hinge abduction). This decides between a varus containment osteotomy and a salvage valgus osteotomy. MRI shows the extent of necrosis, a bone scan shows a cold area, and plain films show only the ossified part.",
+   "w": [
+    "Wrong - MRI shows necrosis extent but is static.",
+    "Wrong - a bone scan shows perfusion, not containment.",
+    "Correct - arthrography shows containment and hinge abduction dynamically.",
+    "Wrong - CT shows bone, not the cartilage head, and is static.",
+    "Wrong - plain films show only the ossified epiphysis."
+   ]
+  },
+  {
+   "t": "SCFE",
+   "stem": "A 13-year-old boy with a BMI of 31 has had aching in his left knee for 5 weeks and now walks with a limp. Examination of the knee is normal. When the left hip is passively flexed it rolls into external rotation, and internal rotation is reduced.\nWhat is the most appropriate investigation?",
+   "o": [
+    "AP pelvis and frog-leg lateral X-rays",
+    "AP and lateral radiographs of the left knee",
+    "MRI of the left knee to assess the menisci",
+    "Ultrasound of the left hip",
+    "ESR, CRP and blood cultures"
+   ],
+   "a": 0,
+   "e": "Knee pain in an obese adolescent with obligatory external rotation on hip flexion (Drehmann sign) is SCFE until proven otherwise – hip pain is referred to the knee via the obturator nerve. The investigation is an AP pelvis and frog-leg lateral (cross-table lateral if the slip may be unstable). Knee imaging would be normal and delay diagnosis.",
+   "w": [
+    "Correct - AP pelvis + frog-leg lateral shows the slip.",
+    "Wrong - the knee is normal; this is the classic knee pain trap.",
+    "Wrong - knee MRI misses the hip pathology.",
+    "Wrong - ultrasound shows an effusion but not the slip.",
+    "Wrong - he is afebrile with a mechanical picture; bloods do not make the diagnosis."
+   ]
+  },
+  {
+   "t": "SCFE",
+   "stem": "A 12-year-old boy with obesity falls from a bicycle and cannot stand even with crutches. The hip X-ray shows a moderate slip of the right capital femoral epiphysis. He is admitted for surgery.\nWhich of the following should be AVOIDED?",
+   "o": [
+    "Strict non-weight bearing until surgery",
+    "Single cannulated screw in situ",
+    "Counselling about avascular necrosis",
+    "Forceful closed reduction of the slip",
+    "Assessing the opposite hip on X-ray"
+   ],
+   "a": 3,
+   "e": "This is an unstable slip (Loder: cannot weight bear even with crutches), which already carries a high AVN risk. Forceful manipulation stretches or tears the retinacular vessels and raises that risk further, so it must be avoided. Standard care is non-weight bearing, urgent in situ fixation with a single cannulated screw, counselling about AVN, and assessment of the other hip.",
+   "w": [
+    "Wrong - non-weight bearing is appropriate to prevent further slip.",
+    "Wrong - in situ screw fixation is the standard treatment.",
+    "Wrong - AVN counselling is essential in an unstable slip.",
+    "Correct - forceful reduction risks AVN and must be avoided.",
+    "Wrong - the contralateral hip should always be assessed (bilateral in ~25%)."
+   ]
+  },
+  {
+   "t": "SCFE",
+   "stem": "A 14-year-old girl presents with left groin pain and a limp after a minor stumble. X-rays confirm a slipped capital femoral epiphysis, and the registrar is counselling the family about the risk of avascular necrosis.\nWhich feature best predicts a high AVN risk?",
+   "o": [
+    "Symptoms present for longer than three weeks",
+    "Cannot weight bear with crutches",
+    "Obesity with a body mass index over 30",
+    "Bilateral involvement on the radiograph",
+    "Knee pain as the presenting complaint"
+   ],
+   "a": 1,
+   "e": "Lecturer pearl: the Loder classification is based on stability. A slip is unstable if the child cannot weight bear even with crutches; the AVN risk is then up to about 50%, compared with under 10% for stable slips. Symptom duration (acute vs chronic) and obesity are less useful in predicting AVN.",
+   "w": [
+    "Wrong - a chronic course suggests a stable slip with a lower AVN risk.",
+    "Correct - an unstable (Loder) slip carries the highest AVN risk.",
+    "Wrong - obesity is a risk factor for SCFE, not a predictor of AVN.",
+    "Wrong - bilaterality affects follow-up, not AVN risk in the slipped hip.",
+    "Wrong - referred knee pain causes delay but does not grade AVN risk."
+   ]
+  },
+  {
+   "t": "SCFE",
+   "stem": "A 9-year-old girl below the 10th centile for height and on the 50th for weight presents with a painful limp. She has been tired, constipated and gaining weight, and her teacher notes that she is always cold. X-ray shows a left slipped capital femoral epiphysis.\nWhich additional investigation is most important?",
+   "o": [
+    "Serum growth hormone level",
+    "Serum 25-hydroxy vitamin D",
+    "HLA-B27 typing",
+    "Bone age X-ray of the hand",
+    "TSH and free T4"
+   ],
+   "a": 4,
+   "e": "SCFE in a child under 10, or in one who is short or not obese, is atypical and needs an endocrine work-up: TSH, free T4 and serum creatinine. Fatigue, constipation, weight gain and cold intolerance point to hypothyroidism. An endocrine cause is also an indication for prophylactic fixation of the other hip because the risk of a bilateral slip is high.",
+   "w": [
+    "Wrong - GH deficiency is a cause, but her symptoms point to the thyroid.",
+    "Wrong - vitamin D deficiency does not explain cold intolerance and constipation.",
+    "Wrong - HLA-B27 is for spondyloarthropathy, not SCFE.",
+    "Wrong - bone age may be delayed but does not identify the cause.",
+    "Correct - hypothyroid features in an atypical SCFE = check thyroid function."
+   ]
+  },
+  {
+   "t": "SCFE",
+   "stem": "An 11-year-old boy with end-stage renal disease on haemodialysis (renal osteodystrophy) presents with a stable right slipped capital femoral epiphysis. His left hip is asymptomatic and its X-ray is normal.\nIn addition to in situ fixation of the right hip, what is the most appropriate management of the left hip?",
+   "o": [
+    "Prophylactic in situ fixation",
+    "Clinical review only if pain develops",
+    "Six-monthly radiographs until maturity",
+    "Abduction brace until physeal closure",
+    "Open reduction and fixation"
+   ],
+   "a": 0,
+   "e": "Lecturer pearl: prophylactic pinning of the contralateral hip is advised when SCFE has an endocrine or metabolic cause (renal osteodystrophy, hypothyroidism, GH therapy), in young children with a lot of growth remaining, and when follow-up is unreliable. Renal osteodystrophy carries a very high risk of a bilateral slip. Otherwise the opposite hip is observed.",
+   "w": [
+    "Correct - metabolic SCFE = prophylactic contralateral fixation.",
+    "Wrong - waiting for pain risks an unstable contralateral slip.",
+    "Wrong - observation is for typical slips, not metabolic ones.",
+    "Wrong - bracing does not prevent a slip.",
+    "Wrong - there is no slip to reduce on the left."
+   ]
+  },
+  {
+   "t": "SCFE",
+   "stem": "A 12-year-old boy has a painful limp. On the AP pelvic X-ray, a line drawn along the superior border of the left femoral neck does not intersect any part of the left capital femoral epiphysis, whereas on the right it crosses the lateral epiphysis.\nWhat is this radiological sign called?",
+   "o": [
+    "Drehmann sign",
+    "Crescent sign",
+    "Steel blanch sign",
+    "Broken Shenton line",
+    "Trethowan sign"
+   ],
+   "a": 4,
+   "e": "The line along the superior femoral neck is Klein’s line; when it fails to intersect the epiphysis, Trethowan’s sign is positive and indicates SCFE. Drehmann sign is a clinical sign (external rotation on flexion). The crescent sign is a subchondral fracture in Perthes. The Steel blanch sign is a metaphyseal double density on the AP view (Lecturer pearl). Note: the slide lists Trethowan’s sign alongside MRI findings; it is a plain X-ray sign.",
+   "w": [
+    "Wrong - Drehmann sign is a clinical examination finding.",
+    "Wrong - the crescent sign is a subchondral fracture in Perthes/AVN.",
+    "Wrong - Steel blanch is a metaphyseal double-density sign, not Klein’s line.",
+    "Wrong - Shenton’s line is used in DDH.",
+    "Correct - Klein’s line missing the epiphysis = Trethowan sign."
+   ]
+  },
+  {
+   "t": "DDH",
+   "stem": "A 2-day-old first-born girl delivered by caesarean section for breech presentation is examined. At rest the hip is located. With the hip flexed and adducted, gentle posterior pressure makes the femoral head slip out of the acetabulum with a palpable clunk, and it returns when the hip is abducted.\nHow is this hip best classified?",
+   "o": [
+    "Reduced, stable but dysplastic",
+    "Dislocated at rest but reducible",
+    "Reduced but dislocatable",
+    "Irreducible dislocation",
+    "Normal neonatal hip laxity"
+   ],
+   "a": 2,
+   "e": "Classification is based on the resting position. This hip is located at rest and dislocates with the Barlow manoeuvre, so it is ‘reduced but dislocatable’ (Barlow positive). An Ortolani-positive hip is dislocated at rest and reduces on abduction. The reduction seen here only follows the dislocation the examiner provoked. It needs ultrasound and Pavlik harness treatment.",
+   "w": [
+    "Wrong - a stable dysplastic hip does not dislocate on Barlow.",
+    "Wrong - this hip is located at rest, not dislocated.",
+    "Correct - located at rest, dislocates on Barlow = reduced but dislocatable.",
+    "Wrong - this hip reduces easily, so it is not irreducible.",
+    "Wrong - a hip that dislocates with a clunk is pathological, not physiological laxity."
+   ]
+  },
+  {
+   "t": "DDH",
+   "stem": "A 6-week-old first-born girl was delivered vaginally from a frank breech presentation. Her hip examination today, including the Barlow and Ortolani tests, is normal and abduction is symmetrical.\nWhat is the most appropriate next step?",
+   "o": [
+    "AP pelvic radiograph today",
+    "Ultrasound of both hips",
+    "Reassure; no further imaging needed",
+    "MRI of both hips under sedation",
+    "Pelvic X-ray when she starts walking"
+   ],
+   "a": 1,
+   "e": "She has three of the 4 F’s (female, first-born, frank breech), so a hip ultrasound is indicated even though the examination is normal; clinical tests miss dysplasia of a stable hip. Ultrasound is the imaging of choice before about 4-6 months, while the femoral head is cartilage (Graf alpha ≥ 60° is normal). Radiographs are used once the ossific nucleus appears.",
+   "w": [
+    "Wrong - the femoral head is not yet ossified, so X-ray is unreliable.",
+    "Correct - risk factors justify ultrasound under 4-6 months.",
+    "Wrong - breech + female + first-born warrants screening ultrasound.",
+    "Wrong - MRI is not a screening tool for DDH.",
+    "Wrong - waiting until walking misses the window for Pavlik treatment."
+   ]
+  },
+  {
+   "t": "DDH",
+   "stem": "A 4-month-old girl with a dislocated, Ortolani-positive left hip has worn a Pavlik harness full-time for 4 weeks. Ultrasound today shows that the femoral head remains dislocated.\nWhat is the most appropriate next step?",
+   "o": [
+    "Continue the harness for another 8 weeks",
+    "Tighten the straps to 120° of hip flexion",
+    "Open reduction with femoral osteotomy",
+    "Closed reduction and hip spica",
+    "Abduction brace"
+   ],
+   "a": 3,
+   "e": "The Pavlik harness should be stopped if the hip has not reduced within 3-4 weeks. Continuing risks erosion of the posterior acetabular wall (Pavlik disease) without achieving reduction. The next step is closed reduction (with arthrogram ± adductor tenotomy) and hip spica. Excessive flexion causes femoral nerve palsy, and open reduction is for failed closed reduction or children over 18 months.",
+   "w": [
+    "Wrong - persisting with a failed harness damages the posterior acetabulum.",
+    "Wrong - hyperflexion causes femoral nerve palsy and does not reduce the hip.",
+    "Wrong - open reduction comes after failed closed reduction or age > 18 months.",
+    "Correct - Pavlik failure at 3-4 weeks → closed reduction and spica.",
+    "Wrong - delaying leaves the hip dislocated during the key growth period."
+   ]
+  },
+  {
+   "t": "DDH",
+   "stem": "A 6-week-old boy is being treated with a Pavlik harness for DDH; his parents have been adjusting the straps at home. At review his mother says he no longer kicks with his right leg. There is no active knee extension and no visible quadriceps contraction, while hip abduction looks normal.\nWhich harness error is most likely responsible?",
+   "o": [
+    "Excessive hip abduction",
+    "Shoulder straps too tight",
+    "Insufficient hip flexion",
+    "Excessive hip flexion",
+    "Posterior straps too loose"
+   ],
+   "a": 3,
+   "e": "Lecturer pearl: in a Pavlik harness, excessive hip flexion stretches the femoral nerve under the inguinal ligament and causes femoral nerve palsy (loss of quadriceps activity). Excessive or forced abduction causes avascular necrosis, and tight shoulder straps can cause brachial plexus palsy. Femoral nerve palsy is managed by removing the harness until quadriceps function recovers.",
+   "w": [
+    "Wrong - excessive abduction causes AVN, not nerve palsy.",
+    "Wrong - tight shoulder straps cause brachial plexus palsy.",
+    "Wrong - insufficient flexion risks failure of reduction, not nerve palsy.",
+    "Correct - hyperflexion = femoral nerve palsy.",
+    "Wrong - loose posterior straps reduce abduction; they do not injure the femoral nerve."
+   ]
+  },
+  {
+   "t": "DDH",
+   "stem": "A 2½-year-old girl walks with a lurching limp. Her left leg is 2 cm shorter and abduction is limited. The AP pelvis shows the left femoral head ossific nucleus lying above Hilgenreiner’s line and lateral to Perkin’s line, with a broken Shenton’s line.\nWhat is the most appropriate management?",
+   "o": [
+    "Pavlik harness for 12 weeks",
+    "Open reduction ± pelvic osteotomy",
+    "Closed reduction and hip spica",
+    "Abduction brace and review",
+    "Observation until skeletal maturity"
+   ],
+   "a": 1,
+   "e": "Treatment of DDH depends on age: Pavlik harness under 6 months, closed reduction and spica at 6-18 months, and open reduction (± femoral shortening or pelvic osteotomy) after 18 months. At 2½ years soft-tissue contractures and an adaptive acetabulum make closed reduction unlikely to succeed. The radiographic lines confirm a dislocated hip.",
+   "w": [
+    "Wrong - the Pavlik harness is for infants under 6 months.",
+    "Correct - over 18 months = open reduction ± osteotomy.",
+    "Wrong - closed reduction is for 6-18 months and usually fails at this age.",
+    "Wrong - a brace cannot reduce an established dislocation.",
+    "Wrong - an untreated dislocation leads to limp, deformity and early arthritis."
+   ]
+  },
+  {
+   "t": "BLT",
+   "stem": "An 18-month-old boy who walked at 11 months has bowed legs noticed by his grandmother. The bowing is symmetrical, with a gentle curve involving both femur and tibia, and there is no lateral thrust. His height is on the 50th centile and his wrists are normal. Standing X-ray: metaphyseal-diaphyseal angle 8° on both sides; physes normal.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Infantile Blount disease",
+    "Nutritional rickets",
+    "Achondroplasia",
+    "Adolescent Blount disease",
+    "Physiological bowing"
+   ],
+   "a": 4,
+   "e": "Under 2 years, symmetrical gentle bowing of both femur and tibia with a metaphyseal-diaphyseal angle under about 9-11° is physiological and resolves, often swinging into valgus at 3-4 years. Blount disease shows abrupt proximal tibial angulation, lateral thrust and an angle over 11° (Lecturer pearl). Rickets causes widened wrists, metaphyseal cupping and fraying and a raised ALP.",
+   "w": [
+    "Wrong - Blount shows an abrupt proximal tibial angle > 11° and lateral thrust.",
+    "Wrong - rickets has widened wrists and metaphyseal cupping and fraying.",
+    "Wrong - achondroplasia causes short stature and rhizomelia.",
+    "Wrong - adolescent Blount occurs after 10 years.",
+    "Correct - young, symmetrical, gentle curve, normal angle = physiological."
+   ]
+  },
+  {
+   "t": "BLT",
+   "stem": "A 2½-year-old obese girl who walked at 9 months has progressive bowing of both legs and a lateral thrust of the knees on walking. Standing X-ray shows medial metaphyseal beaking of both proximal tibiae and a metaphyseal-diaphyseal angle of 15°, consistent with Langenskiöld stage II. Her bone profile is normal.\nWhat is the most appropriate management?",
+   "o": [
+    "Knee-ankle-foot orthosis",
+    "Reassurance and review in a year",
+    "Proximal tibial valgus osteotomy",
+    "Vitamin D and calcium replacement",
+    "Hemiepiphysiodesis"
+   ],
+   "a": 0,
+   "e": "This is infantile Blount disease (early walker, obese, bilateral, medial beaking, angle over 11°). Under 3 years with Langenskiöld stage I-II, a knee-ankle-foot orthosis worn for about 2 years can allow the bony changes to resolve. Osteotomy is indicated for stage I-II over 3 years, stage III-VI, any stage over 4 years, brace failure, or an angle over 20°.",
+   "w": [
+    "Correct - < 3 years and stage I-II = KAFO.",
+    "Wrong - progressive Blount should not just be observed.",
+    "Wrong - osteotomy is for older children, higher stages or brace failure.",
+    "Wrong - the bone profile is normal; this is not rickets.",
+    "Wrong - guided growth is mainly used in older children and adolescents."
+   ]
+  },
+  {
+   "t": "BLT",
+   "stem": "A 13-year-old obese boy (BMI 34) has progressive bowing of the right leg over 2 years, with medial knee ache. The left leg is straight. X-ray shows varus arising from the proximal tibia with a widened medial physis; the distal femur is in mild varus.\nWhat is the most appropriate management?",
+   "o": [
+    "Knee-ankle-foot orthosis for two years",
+    "Reassurance; it will resolve with growth",
+    "Proximal tibial osteotomy",
+    "Weight loss alone with annual review",
+    "Vitamin D supplements"
+   ],
+   "a": 2,
+   "e": "Adolescent Blount disease (over 10 years, usually unilateral, obese) is progressive and does not resolve spontaneously, and bracing is ineffective. Treatment is surgical: a proximal tibial valgus osteotomy, or guided growth while the physis is still open. Weight loss helps but does not correct an established deformity.",
+   "w": [
+    "Wrong - bracing works only in infantile Blount under 3 years.",
+    "Wrong - adolescent Blount progresses and does not resolve.",
+    "Correct - adolescent Blount needs surgical correction.",
+    "Wrong - weight loss alone does not correct established varus.",
+    "Wrong - there is no metabolic bone disease to treat."
+   ]
+  }
+ ]
+}

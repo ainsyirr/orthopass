@@ -1,0 +1,1593 @@
+{
+ "id": "dfu",
+ "title": "Diabetic Foot & Soft Tissue Infections",
+ "short": "DFU & STI",
+ "emoji": "🦶",
+ "source": "DFU & Soft Tissue Infection.pdf",
+ "topics": {
+  "DFA": "DFU: definition, pathophysiology, risk factors, examination & classification",
+  "DFM": "DFU: investigations & management",
+  "CN": "Charcot neuroarthropathy",
+  "SSI": "Folliculitis, furuncle, carbuncle, erysipelas & cellulitis",
+  "NF": "Necrotising fasciitis",
+  "GAN": "Gangrene: dry, wet & gas",
+  "HND": "Hand infections",
+  "BITE": "Human, cat & dog bites"
+ },
+ "cards": [
+  {
+   "t": "DFA",
+   "q": "How does the Malaysian CPG define a diabetic foot ulcer (diabetic foot)?",
+   "a": "• **Infection, ulceration or destruction** of tissues of the foot\n• associated with **neuropathy and/or peripheral arterial disease (PAD)**\n• in a person with **diabetes mellitus**",
+   "m": "Three verbs (infect, ulcerate, destroy) + two causes (nerves, arteries) + one disease (DM)."
+  },
+  {
+   "t": "DFA",
+   "q": "What are the three pathophysiological pillars of diabetic foot ulceration?",
+   "a": "• **Neuropathy** - sensory, motor, autonomic\n• **Vasculopathy** - peripheral arterial disease (macro- and microvascular)\n• **Immunopathy** - impaired host defence, so infection spreads fast",
+   "m": "The diabetic foot: **can't feel it, can't feed it, can't fight it**."
+  },
+  {
+   "t": "DFA",
+   "q": "How does sensory neuropathy lead to a foot ulcer?",
+   "a": "• **Loss of protective sensation** - pain no longer warns of injury\n• Repetitive unnoticed trauma: tight shoes, stones/foreign bodies in the shoe, burns\n• Ulcer forms at **high-pressure points** and is ignored until infected",
+   "m": "Pain is the foot's burglar alarm - neuropathy cuts the wire."
+  },
+  {
+   "t": "DFA",
+   "q": "How does motor neuropathy contribute to diabetic foot ulceration?",
+   "a": "• Weakness of **intrinsic foot muscles** -> long flexors/extensors unopposed\n• **Claw/hammer toes** with prominent **metatarsal heads** (fat pad pulled forward)\n• Raised plantar pressure -> **callus** -> ulcer beneath the callus",
+   "m": "Lecturer pearl: callus over a metatarsal head is a pre-ulcer - pare it."
+  },
+  {
+   "t": "DFA",
+   "q": "What are the effects of autonomic neuropathy on the diabetic foot?",
+   "a": "• Loss of sweating (**anhidrosis**) -> dry, cracked, fissured skin = portal for bacteria\n• **Arteriovenous shunting** -> warm foot, distended dorsal veins, bounding pulses\n• Increased bone blood flow -> osteopenia, a basis for **Charcot foot**",
+   "m": "Lecturer pearl: a warm, dry, cracked foot with good pulses is still a high-risk foot."
+  },
+  {
+   "t": "DFA",
+   "q": "What is the vascular (vasculopathy) contribution to diabetic foot ulcers?",
+   "a": "• **Peripheral arterial disease** - atherosclerosis, typically distal (infrapopliteal/tibial) vessels\n• Plus **microvascular** dysfunction\n• Ischaemia -> poor wound healing, poor antibiotic delivery, gangrene",
+   "m": "No blood, no healing - and no antibiotic reaches the bug."
+  },
+  {
+   "t": "DFA",
+   "q": "Why do infections spread rapidly in the diabetic foot (immunopathy)?",
+   "a": "• Hyperglycaemia impairs **neutrophil chemotaxis, phagocytosis and intracellular killing**\n• Inflammatory signs are often **blunted** (neuropathy + ischaemia)\n• So deep infection can be advanced before it is obvious",
+   "m": "Lecturer pearl: in diabetics, a mild-looking foot can hide a deep abscess - always probe and image."
+  },
+  {
+   "t": "DFA",
+   "q": "List the SYSTEMIC risk factors for diabetic foot ulcer given in the lecture.",
+   "a": "• **Poor glycaemic control**\n• **Cigarette smoking**\n• **Diabetic nephropathy**\n• **Visual impairment**",
+   "m": "Sugar, Smoke, Kidneys, Eyes."
+  },
+  {
+   "t": "DFA",
+   "q": "List the LOCAL risk factors for diabetic foot ulcer.",
+   "a": "• **Previous ulceration**\n• **Previous amputation**\n• **Peripheral vascular disease and neuropathy**\n• **Foot deformity**\n• **Infection**",
+   "m": "Lecturer pearl: a previous ulcer or amputation is the strongest predictor of a new ulcer."
+  },
+  {
+   "t": "DFA",
+   "q": "Why is visual impairment a risk factor for diabetic foot ulcer?",
+   "a": "• Patient cannot **inspect their own feet** daily\n• Small wounds, blisters and foreign bodies go unnoticed (especially with neuropathy)\n• Needs a carer to check feet and closer clinic monitoring",
+   "m": "Neuropathy removes the pain warning; blindness removes the visual warning."
+  },
+  {
+   "t": "DFA",
+   "q": "What are the clinical presentations of the diabetic foot listed in the lecture?",
+   "a": "• **Foot ulcer**\n• **Infection**\n• **Callus / hyperkeratosis**\n• **Cold** (ischaemic) or **warm** (neuropathic/Charcot) extremities\n• **Gangrene**\n• **Charcot foot**"
+  },
+  {
+   "t": "DFA",
+   "q": "Neuropathic vs ischaemic diabetic foot ulcer - how do you tell them apart?",
+   "a": "• **Neuropathic**: plantar pressure points (metatarsal heads, heel), **painless**, punched-out with **callus rim**, warm foot, **pulses present**\n• **Ischaemic**: toe tips / foot margins, **painful**, pale sloughy base, cold foot, **absent pulses**, delayed CRT",
+   "m": "Lecturer pearl: Neuropathic = Numb, warm, under pressure. Ischaemic = Insults the toe tips, cold, hurts."
+  },
+  {
+   "t": "DFA",
+   "q": "In the diabetic foot examination, what should general inspection and footwear inspection include?",
+   "a": "• Introduce, consent, expose to **at least mid-thigh** (respect modesty)\n• **Gait** assessment\n• **Footwear**: abnormal wear pattern, materials/foreign bodies inside the shoe, **remove and review insoles**",
+   "m": "The shoe is the crime scene - inspect it as carefully as the foot."
+  },
+  {
+   "t": "DFA",
+   "q": "Which pulses and perfusion sign are checked in the diabetic foot examination, and what is normal CRT?",
+   "a": "• **Femoral, popliteal, posterior tibial, dorsalis pedis** arteries\n• **Capillary refill time** normal **< 2 seconds**; > 2 s suggests poor circulation",
+   "m": "Work from groin to foot: F-P-PT-DP."
+  },
+  {
+   "t": "DFA",
+   "q": "What does the Semmes-Weinstein monofilament test detect and how is it performed?",
+   "a": "• Detects **loss of protective sensation** (LOPS)\n• **10 g** nylon monofilament pressed **perpendicular until it buckles** (~1-2 s)\n• 10 plantar sites: hallux, 1st/3rd/5th metatarsal heads, medial and lateral midfoot, medial and lateral heel, 1st and 5th toe pulps\n• Avoid callus, ulcers and scars",
+   "m": "Lecturer pearl: if the patient cannot feel 10 g, he cannot feel a stone in his shoe."
+  },
+  {
+   "t": "DFA",
+   "q": "Apart from the monofilament, which other sensory tests are part of the diabetic foot examination?",
+   "a": "• **Vibration** with a **128 Hz tuning fork** on a distal bony prominence (e.g. hallux IP joint)\n• **Glove-and-stocking** sensory loss (pinprick/light touch)\n• **Proprioception** (big toe joint position)",
+   "m": "Lecturer pearl: vibration and proprioception (large fibres) are often lost early - 128 Hz, not 512 Hz."
+  },
+  {
+   "t": "DFA",
+   "q": "What does the motor/musculoskeletal and reflex part of the diabetic foot examination include?",
+   "a": "• Toe **flexion and extension**\n• Ankle **dorsiflexion and plantarflexion**\n• Subtalar **inversion and eversion**\n• **Ankle jerk (S1-S2)** - often absent in neuropathy\n• Note: slide says 'inversion & inversion'; correct is inversion & eversion"
+  },
+  {
+   "t": "DFA",
+   "q": "What does the Wagner classification assess, and what are grades 0 and 1?",
+   "a": "• Assesses **ulcer depth** plus presence of **gangrene / loss of perfusion**\n• **Grade 0**: intact skin, pre-ulcerative lesion (callus, deformity, healed ulcer)\n• **Grade 1**: **superficial ulcer** (skin/subcutis only)",
+   "m": "Lecturer pearl: Wagner climbs from skin -> depth -> abscess/bone -> gangrene."
+  },
+  {
+   "t": "DFA",
+   "q": "Wagner grade 2 vs grade 3 - what is the difference?",
+   "a": "• **Grade 2**: deep ulcer reaching **tendon, capsule or bone** but **no abscess or osteomyelitis**\n• **Grade 3**: deep ulcer **with abscess, osteomyelitis or joint sepsis**",
+   "m": "Lecturer pearl: 2 = deep but clean; 3 = deep and dirty (pus/bone infection)."
+  },
+  {
+   "t": "DFA",
+   "q": "Wagner grade 4 vs grade 5 - what is the difference?",
+   "a": "• **Grade 4**: **localised gangrene** - toes or forefoot\n• **Grade 5**: gangrene of the **whole foot**\n• Grade 5 usually needs major (below/above-knee) amputation",
+   "m": "Lecturer pearl: 4 = part of the foot is dead; 5 = the foot is dead."
+  },
+  {
+   "t": "DFA",
+   "q": "What are the GRADES (depth) of the University of Texas (UT) classification?",
+   "a": "• **Grade 0**: pre- or post-ulcerative lesion, completely epithelialised\n• **Grade 1**: **superficial** wound, not involving tendon, capsule or bone\n• **Grade 2**: penetrates to **tendon or capsule**\n• **Grade 3**: penetrates to **bone or joint**",
+   "m": "Lecturer pearl: UT depth 0-3 = skin, superficial, tendon/capsule, bone."
+  },
+  {
+   "t": "DFA",
+   "q": "What are the STAGES of the UT classification and why is it better than Wagner?",
+   "a": "• **A**: clean, non-infected, non-ischaemic\n• **B**: **infected**\n• **C**: **ischaemic**\n• **D**: **infected AND ischaemic**\n• Adds infection and ischaemia to depth -> **better predicts amputation** and healing",
+   "m": "Lecturer pearl: B = Bugs, C = Circulation, D = Double trouble. Risk rises with both grade and stage."
+  },
+  {
+   "t": "DFM",
+   "q": "Which BEDSIDE investigations are done in a diabetic foot ulcer?",
+   "a": "• **Capillary refill time** (> 2 s = poor circulation)\n• **Dextrostix** (capillary glucose) - hyper/hypoglycaemia\n• **Pedal pulses** (PT, DP) - screen for PAD\n• **Ankle-brachial systolic pressure index (ABSI)** - severity of PAD\n• **Toe pressure or TcPO2** - local tissue perfusion"
+  },
+  {
+   "t": "DFM",
+   "q": "How is the ankle-brachial systolic pressure index (ABSI) interpreted?",
+   "a": "• **< 0.9**: peripheral arterial disease\n• **0.9-1.3**: normal\n• **> 1.3**: **non-compressible, calcified** vessels - unreliable\n• Note: gangrene slide quotes ABI < 1.0; use the < 0.9 cut-off",
+   "m": "Below 0.9 blocked; above 1.3 rock-hard pipes."
+  },
+  {
+   "t": "DFM",
+   "q": "Why may the ABSI be falsely reassuring in a diabetic, and what do you use instead?",
+   "a": "• **Medial arterial (Mönckeberg) calcification** makes ankle vessels **non-compressible**\n• Ankle pressure falsely high -> ABSI normal or **> 1.3** despite PAD\n• Use **toe pressure / toe-brachial index** or **transcutaneous oxygen pressure (TcPO2)**",
+   "m": "Toe arteries are spared from calcification - so measure at the toe."
+  },
+  {
+   "t": "DFM",
+   "q": "Which LABORATORY investigations are sent for a diabetic foot ulcer, and why?",
+   "a": "• **HbA1c** - long-term glycaemic control\n• **FBS/RBS** - current glucose\n• **Deep tissue culture** (if infected) - targeted antibiotics\n• **Blood culture** - if sepsis suspected\n• **FBC** - anaemia (impairs healing), leucocytosis\n• **Renal profile** - AKI, drug dosing"
+  },
+  {
+   "t": "DFM",
+   "q": "Why should a deep tissue sample, not a superficial swab, be sent for culture in an infected DFU?",
+   "a": "• Superficial swabs grow **skin colonisers** and miss deep pathogens\n• **Deep tissue (or bone) taken after cleansing/debridement** identifies the true causative organism\n• Guides **targeted** antibiotic therapy",
+   "m": "Swab the surface, you culture the passengers; biopsy the depth, you culture the driver."
+  },
+  {
+   "t": "DFM",
+   "q": "What X-ray findings may be seen in a diabetic foot?",
+   "a": "• **Osteolysis** (osteomyelitis)\n• **Arterial calcification**\n• **Gas shadow** in soft tissue (gas-forming infection)\n• **Malalignment** and **peri-articular fragmentation** (Charcot)\n• Lecturer pearl: bone changes lag **10-14 days** behind infection"
+  },
+  {
+   "t": "DFM",
+   "q": "What is the role of MRI vs CT in the diabetic foot?",
+   "a": "• **MRI**: most sensitive for **osteomyelitis** and **deep abscess** - imaging of choice\n• **CT**: assesses **chronic osteomyelitis** - sequestrum, involucrum, cloaca",
+   "m": "MRI = Marrow and pus; CT = Cortical bits (sequestrum)."
+  },
+  {
+   "t": "DFM",
+   "q": "What is the probe-to-bone test?",
+   "a": "• Sterile **blunt metal probe** inserted into the ulcer base\n• **Hard, gritty bone felt = positive**\n• Positive test strongly suggests **osteomyelitis** -> confirm with X-ray/MRI ± bone biopsy",
+   "m": "Lecturer pearl: if you can touch bone, assume the bone is infected."
+  },
+  {
+   "t": "DFM",
+   "q": "What are the four arms of PREVENTIVE management of the diabetic foot?",
+   "a": "• **Patient education** - daily foot care; neuropathic patients ignore injury\n• **Metabolic control** - individualised glycaemic targets\n• **Preventive footwear** - matched to foot risk\n• **Preventive surgery** - for deformity causing ulcer/re-ulceration",
+   "m": "E-M-F-S: Educate, Metabolic, Footwear, Surgery."
+  },
+  {
+   "t": "DFM",
+   "q": "What footwear advice is given to diabetic patients?",
+   "a": "• **Large toe box**, properly **cushioned**\n• **Breathable**, appropriate material\n• Check inside shoes for **foreign / penetrating bodies** before wearing\n• **No thong slippers**; never walk barefoot"
+  },
+  {
+   "t": "DFM",
+   "q": "Name the preventive surgeries for diabetic foot deformity and their purpose.",
+   "a": "• **Gastrocnemius-soleus fascia recession** and **Achilles tendon lengthening** - correct equinus, unload forefoot\n• **Percutaneous (flexor) tenotomy** - claw/hammer toe tip ulcers\n• **Osteotomy** (distal metatarsal) - lets the metatarsal head float up, offloads plantar ulcer\n• Aim: prevent ulceration or re-ulceration",
+   "m": "Tight calf = forefoot hammered with every step - release the calf, rescue the forefoot."
+  },
+  {
+   "t": "DFM",
+   "q": "What are the adverse effects of gastrocnemius-soleus recession?",
+   "a": "• **Subcutaneous haematoma** - resolves within ~3 weeks\n• **Sural nerve neurapraxia** - may persist for months\n• Benefit: dorsiflexion gain (~14.5°) and high ulcer healing rate",
+   "m": "Sural nerve runs with the short saphenous vein beside the calf - at risk in calf surgery."
+  },
+  {
+   "t": "DFM",
+   "q": "How is pain managed in a diabetic foot patient, including neuropathic pain?",
+   "a": "• **WHO analgesic ladder**: paracetamol/NSAID -> tramadol -> morphine\n• Neuropathic pain adjuvants: **amitriptyline** (TCA), **duloxetine** (SNRI), gabapentinoids\n• Caution with NSAIDs in nephropathy\n• Note: slide labels duloxetine an anticonvulsant; it is an SNRI antidepressant"
+  },
+  {
+   "t": "DFM",
+   "q": "What are the principles of antimicrobial use in an infected diabetic foot ulcer?",
+   "a": "• **Mild** infection: narrow agent, usually **not > 14 days**\n• **Moderate/severe**: **broad-spectrum empirical** therapy until **C&S** results, then de-escalate\n• Antibiotics are an **adjunct to surgical debridement**, not a substitute\n• Topical: mupirocin/bacitracin (Gram +), neomycin/silver sulphadiazine (Gram -); antiseptics iodine, chlorhexidine"
+  },
+  {
+   "t": "DFM",
+   "q": "What are the goals of DFU dressings and which advanced dressings are available?",
+   "a": "• Goal: **maintain moisture** and **remove dead tissue**\n• Basic: **gauze ± paraffin**\n• Advanced: **hydrogel, alginate, hydrofibre, foam, hydrocolloid, hyaluronic acid**\n• Lecturer pearl: hydrogel adds moisture to dry slough; alginate/hydrofibre absorb heavy exudate",
+   "m": "Wet wound -> dry it (alginate); dry wound -> wet it (hydrogel)."
+  },
+  {
+   "t": "DFM",
+   "q": "What are the adjuvant therapies for diabetic foot wounds?",
+   "a": "• **Maggot debridement therapy (MDT)** - larvae digest necrotic tissue only\n• **Hyperbaric oxygen therapy (HBOT)**\n• **Negative pressure wound therapy (NPWT)** - removes exudate, promotes granulation",
+   "m": "M-H-N: Maggots, Hyperbaric, Negative pressure."
+  },
+  {
+   "t": "DFM",
+   "q": "What are the surgical options in DFU management and their indications?",
+   "a": "• **Revascularisation** - offer to diabetics with PAD; **antiplatelet** therapy afterwards\n• **Surgical debridement** - when non-surgical debridement **fails** OR wound is **deep and infected**\n• **Reconstruction** - when primary closure not feasible or secondary healing unreliable"
+  },
+  {
+   "t": "DFM",
+   "q": "What is the key principle of ulcer rehabilitation and which offloading devices are used?",
+   "a": "• **Offloading is the key**\n• Non-removable: **total contact cast (TCC)** - gold standard for plantar neuropathic ulcers (forced adherence)\n• Removable: **removable cast walker**\n• Note: slide spells it 'Tocal contact cast'\n• Lecturer pearl: avoid TCC in active infection or significant ischaemia",
+   "m": "A removable device is removed at home - the TCC cannot cheat."
+  },
+  {
+   "t": "CN",
+   "q": "Define Charcot neuroarthropathy.",
+   "a": "• **Chronic, progressive** destruction of **foot and ankle joints and bones**\n• Results from **loss of protective sensation** (neuropathy)\n• Diabetes is the commonest cause today",
+   "m": "A joint that feels nothing gets destroyed by everything."
+  },
+  {
+   "t": "CN",
+   "q": "Explain the NEUROTRAUMATIC theory of Charcot neuroarthropathy.",
+   "a": "• Sensory neuropathy -> loss of protective pain sensation\n• Patient keeps walking on injured bone - **repetitive microtrauma** is painless and unnoticed\n• Progressive destruction of bones and joints",
+   "m": "Like driving on a flat tyre because the dashboard warning light is broken."
+  },
+  {
+   "t": "CN",
+   "q": "Explain the NEUROVASCULAR theory of Charcot neuroarthropathy.",
+   "a": "• **Autonomic neuropathy** -> persistent vasodilatation -> **increased bone blood flow**\n• Mismatch: **osteoclastic resorption > osteoblastic formation**\n• **Osteopenia** -> bone weak, fractures and collapses",
+   "m": "Too much blood washes bone away (hyperaemic osteopenia)."
+  },
+  {
+   "t": "CN",
+   "q": "What are the clinical features of ACUTE vs CHRONIC Charcot foot?",
+   "a": "• **Acute**: **swelling, warmth, erythema**; often little pain; skin temp > 2 °C higher than other foot\n• **Chronic**: **rocker-bottom** deformity, **collapse of medial arch**, **bony prominences** -> plantar ulcers",
+   "m": "Acute = hot red foot; Chronic = flat-bottomed boat (rocker-bottom)."
+  },
+  {
+   "t": "CN",
+   "q": "How do you clinically distinguish acute Charcot foot from cellulitis?",
+   "a": "• **Elevation test**: elevate the leg ~10 min - Charcot redness **settles**, cellulitis redness **persists**\n• Charcot: usually **no skin break**, mostly painless, systemically well\n• Cellulitis: portal of entry, fever, raised markers",
+   "m": "Lecturer pearl: Charcot blushes and fades when lifted; cellulitis stays angry."
+  },
+  {
+   "t": "CN",
+   "q": "Describe the Eichenholtz classification of Charcot neuroarthropathy.",
+   "a": "• **Stage 0 (prodromal)**: warm, swollen; X-ray normal, MRI bone oedema\n• **Stage I (fragmentation/development)**: fragmentation, subluxation, debris\n• **Stage II (coalescence)**: debris absorbed, swelling and warmth reduce\n• **Stage III (reconstruction/consolidation)**: bony remodelling, stable deformity",
+   "m": "Lecturer pearl: Prodrome -> Fragment -> Coalesce -> Consolidate (break, glue, set)."
+  },
+  {
+   "t": "CN",
+   "q": "Describe the Brodsky anatomical classification of Charcot foot.",
+   "a": "• **Type 1**: **midfoot** - tarsometatarsal and naviculocuneiform; **most common**, rocker-bottom\n• **Type 2**: **hindfoot** - Chopart and subtalar joints\n• **Type 3A**: **ankle** joint\n• **Type 3B**: **calcaneal tuberosity** fracture",
+   "m": "Lecturer pearl: 1 = middle (most), 2 = back, 3 = ankle (A) or heel bone (B)."
+  },
+  {
+   "t": "CN",
+   "q": "Which bone scan distinguishes Charcot foot from superimposed osteomyelitis?",
+   "a": "• **Technetium bone scan**: **positive in both** - cannot differentiate\n• **Indium-labelled WBC scan**: **cold (negative)** in neuropathic joint, **hot (positive)** in osteomyelitis\n• MRI also struggles to separate infection from Charcot",
+   "m": "Indium Identifies Infection."
+  },
+  {
+   "t": "CN",
+   "q": "Which investigations are done for suspected Charcot neuroarthropathy?",
+   "a": "• Labs: **FBC, ESR, CRP** (mainly to look for infection)\n• **Plain radiographs**: AP and lateral foot and ankle (weight-bearing if possible)\n• **MRI**: early bone marrow oedema, abscess vs soft tissue swelling\n• **Bone scan**: superimposed osteomyelitis"
+  },
+  {
+   "t": "CN",
+   "q": "What is the stage-wise treatment of Charcot neuroarthropathy?",
+   "a": "• **Stage 0**: serial X-rays, limited weight bearing, ± pharmacological\n• **Stage I**: **total contact casting** with serial review until warmth, swelling and erythema resolve\n• **Stage II**: TCC, then **Charcot restraint orthotic walker (CROW)**\n• **Stage III**: plantigrade -> **custom inlay shoes**; non-plantigrade/ulcer -> debridement, exostectomy, correction/fusion",
+   "m": "Hot foot = cast it; cold stable foot = shoe it; ugly ulcerating foot = operate."
+  },
+  {
+   "t": "CN",
+   "q": "What is the first-line treatment of ACUTE Charcot foot, and what should be avoided?",
+   "a": "• **Offloading in a total contact cast** (non-weight bearing initially), until warmth and swelling settle\n• Monitor with serial X-rays and skin temperature\n• **Antibiotics are NOT indicated** - it is not an infection\n• Avoid early surgery on the hot, fragmenting foot",
+   "m": "Lecturer pearl: treat the hot Charcot foot with a cast, not with cloxacillin."
+  },
+  {
+   "t": "CN",
+   "q": "What are the non-operative and operative options for Charcot neuroarthropathy?",
+   "a": "• Non-operative: **total contact casting**, **CROW**, **shoewear modification**, **bisphosphonates**\n• Operative: **exostectomy** (resect bony prominence) ± **TAL**\n• **Deformity correction arthrodesis** ± osteotomies\n• **Amputation** for unsalvageable or infected feet"
+  },
+  {
+   "t": "SSI",
+   "q": "What is folliculitis - organisms and typical sites?",
+   "a": "• **Superficial inflammation of the hair follicle**\n• Commonest organism **Staphylococcus aureus**; also viral (HSV), fungal, parasitic\n• Sites: axilla, scalp, face, upper trunk, buttock, groin, legs\n• Small, erythematous, **pruritic papules with pustules**",
+   "m": "One follicle, one pimple."
+  },
+  {
+   "t": "SSI",
+   "q": "How is folliculitis managed?",
+   "a": "• Usually **self-limiting**; good hygiene\n• **Topical fusidic acid 2%** or **mupirocin 2%**\n• Deep/extensive: **oral cloxacillin 500 mg QID** (6-hourly)\n• Refer to dermatologist if recurrent\n• Note: slide writes 'QOD' (every other day); correct is QID"
+  },
+  {
+   "t": "SSI",
+   "q": "What is a furuncle (boil) and where does it occur?",
+   "a": "• **Collection of pus in the dermis or deeper** around a hair follicle\n• Usually follows **folliculitis**\n• Sweat and friction sites: **axilla, neck, buttocks**\n• Tender erythematous nodule with pustule and spontaneous drainage",
+   "m": "Folliculitis that went deeper and formed a pus pocket."
+  },
+  {
+   "t": "SSI",
+   "q": "How is a furuncle managed?",
+   "a": "• **Moist heat / warm compresses** - promote localisation and drainage\n• Good hygiene\n• **Oral cloxacillin 500 mg QID for 5-7 days**\n• **Incision and drainage** if fluctuant\n• Note: slide says '5oomg QOD'; correct is 500 mg QID"
+  },
+  {
+   "t": "SSI",
+   "q": "What is a carbuncle and how is it treated?",
+   "a": "• **Multiple interconnected furuncles** extending into **subcutaneous tissue**, pus from several tracts\n• Risk factor: **diabetes**; organism **S. aureus**; sites nape of neck, back, thigh\n• Treatment: **incision and drainage (saucerisation)** + **IV cloxacillin 1-2 g QID**",
+   "m": "Carbuncle = a Crowd of boils sharing tunnels."
+  },
+  {
+   "t": "SSI",
+   "q": "Folliculitis vs furuncle vs carbuncle - what is the key distinction?",
+   "a": "• **Folliculitis**: superficial, follicle only -> topical antibiotics\n• **Furuncle**: single deeper abscess of a follicle -> warm compress ± oral cloxacillin ± I&D\n• **Carbuncle**: several furuncles joined in subcutis, multiple sinuses -> I&D + IV cloxacillin",
+   "m": "Pimple -> boil -> honeycomb; treatment escalates with depth."
+  },
+  {
+   "t": "SSI",
+   "q": "What is erysipelas - layer, organism, risk factors and sites?",
+   "a": "• Infection of the **superficial dermis** with **superficial lymphatics**\n• Organism: **Streptococcus pyogenes** (group A strep)\n• Risk factors: previous erysipelas, skin breaks, DM, immunocompromise\n• Sites: **lower limbs, face**"
+  },
+  {
+   "t": "SSI",
+   "q": "What does erysipelas look like and how is it treated (Malaysian NAG)?",
+   "a": "• **Shiny, tender, erythematous, raised, plaque-like, sharply demarcated** edge\n• Cold packs + analgesia\n• **Oral penicillin V 500 mg QID**\n• Severe: **IV cefuroxime 750 mg TDS**",
+   "m": "Erysipelas has an Edge you can feel with a fingertip."
+  },
+  {
+   "t": "SSI",
+   "q": "Erysipelas vs cellulitis - how do you differentiate them?",
+   "a": "• **Erysipelas**: superficial dermis + lymphatics; **raised, sharply demarcated** edge; mainly **Strep pyogenes**\n• **Cellulitis**: deep dermis + subcutaneous fat; **flat, ill-defined** margin; **S. aureus** and Strep pyogenes",
+   "m": "Erysipelas = Elevated Edge; Cellulitis = Cloudy margin."
+  },
+  {
+   "t": "SSI",
+   "q": "What is cellulitis - layer, organisms and risk factors?",
+   "a": "• Infection of the **deep dermis and subcutaneous tissue**\n• Organisms: **Staphylococcus aureus, Streptococcus pyogenes**\n• Risk factors: **DM, trauma** (laceration, abrasion), **burns**\n• Warm, erythematous, tender, swollen skin"
+  },
+  {
+   "t": "SSI",
+   "q": "How is cellulitis graded by severity (Malaysian NAG)?",
+   "a": "• **Mild**: no systemic signs\n• **Moderate**: systemic signs (fever, tachycardia) **without hypotension**\n• **Severe**: systemic signs **with hypotension**",
+   "m": "Look at the patient, not the leg: well / septic / shocked."
+  },
+  {
+   "t": "SSI",
+   "q": "What are the empirical antibiotics for cellulitis by severity (Malaysian NAG)?",
+   "a": "• **Mild**: **oral cloxacillin 500 mg QID**\n• **Moderate**: **IV cloxacillin 1-2 g QID** (6-hourly)\n• **Severe**: **IV piperacillin-tazobactam (Tazocin) 4.5 g** 6-8 hourly\n• Note: slide writes 'QOD' for mild; correct is QID",
+   "m": "Cloxacillin by mouth -> cloxacillin by vein -> Tazocin for shock."
+  },
+  {
+   "t": "NF",
+   "q": "What is necrotising fasciitis and what are its risk factors?",
+   "a": "• **Life-threatening** bacterial infection spreading **rapidly along fascial planes**\n• Risk factors: **immunosuppression (DM, obesity)**, bacterial introduction (**IV drug use, skin abrasions**)\n• May or may not be associated with overlying cellulitis"
+  },
+  {
+   "t": "NF",
+   "q": "What are the EARLY signs of necrotising fasciitis?",
+   "a": "• **Pain out of proportion** to clinical findings - severe, constant\n• Local erythema or **tense, shiny swelling**\n• Fever, malaise, flu-like symptoms\n• Tenderness beyond the visible erythema",
+   "m": "The skin looks innocent but the patient is screaming - think NF."
+  },
+  {
+   "t": "NF",
+   "q": "What are the LATE signs of necrotising fasciitis?",
+   "a": "• Tense oedema with a **woody feel**\n• **Bullae**, **dusky blue/purple** discolouration, skin necrosis\n• **Crepitus / surgical emphysema**\n• **Septic shock** and multi-organ dysfunction (confusion, anuria)\n• Anaesthesia of the skin (nerves destroyed)"
+  },
+  {
+   "t": "NF",
+   "q": "Describe the microbiological classification (types 1-4) of necrotising fasciitis.",
+   "a": "• **Type 1 - polymicrobial** (80-90%): aerobes + anaerobes; diabetics, cancer, post-op abdomen/perineum\n• **Type 2 - monomicrobial group A beta-haemolytic strep**: healthy people, limbs (~5%)\n• **Type 3 - Vibrio vulnificus**: marine exposure\n• **Type 4 - fungal**",
+   "m": "1 = Many bugs, 2 = Strep, 3 = Sea, 4 = Spores (fungi)."
+  },
+  {
+   "t": "NF",
+   "q": "What is the LRINEC score?",
+   "a": "• Laboratory Risk Indicator for NEcrotising fasCiitis\n• **CRP, WCC, haemoglobin, sodium, creatinine, glucose**\n• Score **≥ 6** suspicious; ≥ 8 strongly predictive\n• Supports, but **never excludes**, clinical suspicion",
+   "m": "Lecturer pearl: 'C-W-H-S-C-G' - Can We Help Septic Crumbling Gams?"
+  },
+  {
+   "t": "NF",
+   "q": "How is necrotising fasciitis diagnosed, and should you wait for imaging?",
+   "a": "• **Clinical diagnosis**; confirmed by **surgical exploration and tissue biopsy**\n• **Finger test**: grey, dishwater fluid; fascia separates with no resistance; no bleeding\n• **Do NOT delay surgery for CT/MRI**",
+   "m": "Lecturer pearl: the operating theatre is the investigation of choice."
+  },
+  {
+   "t": "NF",
+   "q": "What is the management of necrotising fasciitis?",
+   "a": "• **Emergent radical debridement** of all necrotic tissue, with planned re-look in ~24 h\n• **Broad-spectrum IV antibiotics** (penicillin, clindamycin, metronidazole, aminoglycoside), then culture-directed\n• Resuscitation/ICU\n• **Low threshold for amputation** when life-threatening",
+   "m": "Cut early, cut wide, cut again."
+  },
+  {
+   "t": "NF",
+   "q": "Why is clindamycin included in the antibiotic regimen for necrotising fasciitis?",
+   "a": "• Inhibits **bacterial protein synthesis** -> **suppresses toxin production** (streptococcal/clostridial exotoxins)\n• Works regardless of bacterial growth phase (penicillin fails at high bacterial load - Eagle effect)\n• Always combined with penicillin/broad-spectrum cover",
+   "m": "Lecturer pearl: penicillin kills the bugs; clindamycin switches off their toxin factory."
+  },
+  {
+   "t": "GAN",
+   "q": "Define gangrene and name its three types.",
+   "a": "• **Tissue death** due to **infection, ischaemia or both**\n• **Dry** - ischaemia without infection\n• **Wet** - ischaemic tissue becomes infected\n• **Gas** - Clostridium infection with gas in tissues"
+  },
+  {
+   "t": "GAN",
+   "q": "What causes dry gangrene and what does it look like?",
+   "a": "• **Prolonged ischaemia without infection** - atherosclerosis narrowing peripheral arteries\n• Risk factors: DM, smoking, hypertension, hyperlipidaemia\n• **Black, dry, shrunken, mummified** tissue with a clear line of demarcation",
+   "m": "Dry gangrene = mummy: dry, black and stable."
+  },
+  {
+   "t": "GAN",
+   "q": "What is wet gangrene and why is it common in diabetics?",
+   "a": "• **Ischaemic tissue that becomes infected**\n• Diabetics: impaired wound healing, immunopathy, neuropathy\n• Swollen, moist, foul-smelling, spreading - a **surgical emergency** (sepsis risk)",
+   "m": "Wet = infected = urgent; dry = stable = revascularise."
+  },
+  {
+   "t": "GAN",
+   "q": "What causes gas gangrene and what are its features?",
+   "a": "• **Clostridium species** (mainly **C. perfringens**) - contaminated traumatic or surgical wounds; spontaneous in immunocompromised\n• **Severe pain**, swelling, discolouration, **crepitus**, haemorrhagic blisters\n• **Rapid progression**, gas on X-ray, **high mortality**",
+   "m": "Gas gangrene crackles - Clostridium makes bubbles."
+  },
+  {
+   "t": "GAN",
+   "q": "Which investigations are done for gangrene?",
+   "a": "• **FBC** (WCC, inflammatory markers), **HbA1c**\n• **ABI** - **< 0.9** = arterial insufficiency (unreliable if > 1.3 calcified)\n• **X-ray** - gas in tissues; **CT/MRI** - depth and extent\n• **Wound cultures and Gram stain**\n• Note: slide gives ABI < 1.0; the accepted PAD cut-off is < 0.9"
+  },
+  {
+   "t": "GAN",
+   "q": "How is each type of gangrene treated, and what is the prognosis?",
+   "a": "• **Dry**: restore blood flow - **antiplatelet, statin, BP control** + **revascularisation** (endovascular/surgical)\n• **Wet or gas**: **urgent surgical debridement / amputation** + **broad-spectrum antibiotics**\n• Prognosis: DM + critical limb ischaemia - up to **50% amputation or death within 1 year**; gas gangrene high mortality"
+  },
+  {
+   "t": "HND",
+   "q": "What is a felon and where does it occur?",
+   "a": "• **Subcutaneous abscess of the fingertip pulp**\n• **15-20%** of hand infections\n• Most common in the **thumb and index finger**\n• Clinical diagnosis; **no history of injury in 50%**",
+   "m": "Felon = Fingertip pulp abscess."
+  },
+  {
+   "t": "HND",
+   "q": "What are the causes and organisms of a felon?",
+   "a": "• Penetrating injury: **glucose-monitoring needlestick**, splinters; spread from paronychia\n• **Staphylococcus aureus** - most common\n• Gram-negatives - immunosuppressed\n• **Eikenella corrodens** - diabetics who **bite their nails**",
+   "m": "The glucometer lancet is the diabetic's felon gun."
+  },
+  {
+   "t": "HND",
+   "q": "What is the key examination finding of a felon and why does it matter?",
+   "a": "• Severe **throbbing pain**, tense tender pulp\n• Swelling **does NOT extend proximal to the DIP flexion crease**\n• Swelling beyond it suggests **flexor sheath or joint** involvement\n• Pulp septa create closed compartments -> complications: **fingertip compartment syndrome, flexor tenosynovitis, osteomyelitis, digital tip necrosis**",
+   "m": "The DIP crease is the felon's fence."
+  },
+  {
+   "t": "HND",
+   "q": "How is a felon treated and when is an X-ray needed?",
+   "a": "• **Early felon (no drainable abscess)**: oral antibiotics + observation\n• **Abscess**: **bedside I&D + IV antibiotics** - lateral (midaxial) incision avoiding the pulp tactile surface and digital neurovascular bundle; avoid fish-mouth incisions\n• **X-ray only if trauma** - exclude fracture/foreign body"
+  },
+  {
+   "t": "HND",
+   "q": "Herpetic whitlow vs felon - how do you tell them apart and why does it matter?",
+   "a": "• **Herpetic whitlow** (HSV): **clear vesicles**, burning pain, pulp **not tense**; often healthcare/dental workers or children\n• **Felon**: tense, throbbing pulp with pus\n• Whitlow: **do NOT incise** (spreads infection, bacterial superinfection) - give **acyclovir**, it is self-limiting",
+   "m": "Lecturer pearl: vesicles = virus = no knife."
+  },
+  {
+   "t": "HND",
+   "q": "What is pyogenic flexor tenosynovitis - risk factors and organisms?",
+   "a": "• Infection of the **synovial sheath around a flexor tendon**\n• 2.5-9.4% of hand infections\n• Risk factors: **DM, IVDU, immunocompromise**\n• Mechanism: penetrating trauma; spread from felon, septic joint, deep space\n• Organisms: **S. aureus** (most common), S. epidermidis, Pseudomonas"
+  },
+  {
+   "t": "HND",
+   "q": "What are the four Kanavel signs of pyogenic flexor tenosynovitis?",
+   "a": "• **Flexed posture** of the digit\n• **Tenderness along the tendon sheath**\n• **Pain on passive extension**\n• **Fusiform (sausage) swelling** of the digit",
+   "m": "FFTP: Flexed, Fusiform, Tender sheath, Passive-stretch pain."
+  },
+  {
+   "t": "HND",
+   "q": "Which Kanavel sign is the most specific and usually the earliest?",
+   "a": "• **Pain on passive extension** of the digit\n• Stretching the inflamed, pus-filled sheath causes exquisite pain\n• Fusiform swelling is the commonest sign",
+   "m": "Lecturer pearl: Passive extension = Pus in the sheath."
+  },
+  {
+   "t": "HND",
+   "q": "How is pyogenic flexor tenosynovitis managed?",
+   "a": "• **Non-operative (rare)**: early presentation only - admit, **IV antibiotics, splint/immobilise, elevate**, review within **24 h**\n• **Operative**: **I&D / irrigation of the flexor sheath** + culture-specific IV antibiotics\n• Operate if **late presentation**, **no improvement in 24 h**; low threshold",
+   "m": "Give antibiotics 24 hours to prove themselves - then knife."
+  },
+  {
+   "t": "HND",
+   "q": "What are the complications of pyogenic flexor tenosynovitis?",
+   "a": "• **Stiffness** (adhesions)\n• **Tendon / pulley rupture** or necrosis\n• **Loss of soft tissue**\n• **Osteomyelitis**\n• **Spread of infection** (deep spaces, horseshoe abscess)"
+  },
+  {
+   "t": "HND",
+   "q": "Which deep fascial spaces of the hand get infected and how does each present?",
+   "a": "• Entry: puncture, bite, crush\n• **Thenar space**: pain on **thumb flexion**, thumb held abducted, first web swelling\n• **Hypothenar**: pain on **little finger flexion**\n• **Midpalmar**: pain on **middle, ring and little finger flexion**, loss of palmar concavity\n• All: **dorsal hand swelling** (lax dorsal skin and lymphatics)"
+  },
+  {
+   "t": "HND",
+   "q": "How are deep fascial space infections of the hand investigated and treated?",
+   "a": "• **Plain X-ray** AP and lateral (foreign body, gas, bone)\n• **MRI** for extent\n• Treatment: **incision and drainage** followed by **IV antibiotics**",
+   "m": "Pus in a closed space must be let out - antibiotics alone fail."
+  },
+  {
+   "t": "HND",
+   "q": "Acute vs chronic paronychia - what is the difference?",
+   "a": "• Infection of the **proximal/lateral nail folds**; cuticle barrier disrupted\n• **Acute (< 6 weeks)**: bacterial (**S. aureus**) - pain, redness, swelling, **pus at nail fold**\n• **Chronic (> 6 weeks)**: often fungal (**Candida albicans**) or mixed - nail fold thickening, mild pain; wet-work occupations",
+   "m": "Acute = Aureus; Chronic = Candida."
+  },
+  {
+   "t": "HND",
+   "q": "How is paronychia treated?",
+   "a": "• **No abscess**: warm soaks **5-6 times/day for 10-15 min** + triple antibiotic ointment\n• **Abscess**: **incision and drainage** (elevate the nail fold)\n• **Chronic**: avoid trauma and wet work; **topical/systemic antifungals** (itraconazole, terbinafine)\n• Differentials: felon, herpetic whitlow, onychomycosis, psoriasis, SCC"
+  },
+  {
+   "t": "HND",
+   "q": "What is a horseshoe abscess and how does it spread?",
+   "a": "• Infection spreading between the **radial bursa** (FPL/thumb sheath) and **ulnar bursa** (little finger sheath)\n• Bursae communicate via **Parona's space** (distal forearm, deep to FDP, superficial to pronator quadratus)\n• Swollen, red, shiny **thumb AND little finger** with palm pain\n• Note: slide places Parona's space in the mid-palm; it lies in the distal forearm",
+   "m": "Thumb and little finger joined by a U-shaped tunnel = horseshoe."
+  },
+  {
+   "t": "HND",
+   "q": "How is a horseshoe abscess investigated and treated, and what are its complications?",
+   "a": "• Investigate: **FBC, CRP, ESR**; **X-ray, MRI**\n• Treat: **IV antibiotics + incision and drainage** (Brunner incisions), then **regular physiotherapy**\n• Complications: **hand stiffness and loss of function**, **tendon necrosis/rupture**"
+  },
+  {
+   "t": "BITE",
+   "q": "What are the two mechanisms of human bite injury?",
+   "a": "• **Occlusal (direct) bite**: tissue crushed between upper and lower teeth\n• **Clenched-fist injury (fight bite)**: knuckle strikes teeth - usually **3rd/4th MCP joints**; bacteria driven into **tendon, joint or bone**"
+  },
+  {
+   "t": "BITE",
+   "q": "Why is a small 'fight bite' laceration over the knuckle so dangerous, and how is it managed?",
+   "a": "• Wound made with fist **clenched**; when fingers extend, the tendon/capsule wound **slides away** and seals contamination inside the MCP joint\n• Risk of **septic arthritis, tenosynovitis, osteomyelitis**\n• **X-ray**, **surgical exploration and washout**, leave open, **amoxicillin-clavulanate**",
+   "m": "Lecturer pearl: any laceration over a knuckle is a human bite until proven otherwise."
+  },
+  {
+   "t": "BITE",
+   "q": "What organisms cause human bite infections and what is the prophylaxis?",
+   "a": "• **Eikenella corrodens**, **Staphylococcus aureus**, **viridans streptococci**, anaerobes\n• Irrigate thoroughly with saline or sterile water\n• All bites that pierce skin: **amoxicillin-clavulanate for ~1 week**\n• Note: slide spells 'Eikonella'; correct is Eikenella",
+   "m": "Lecturer pearl: Eikenella resists cloxacillin and clindamycin - co-amoxiclav covers it."
+  },
+  {
+   "t": "BITE",
+   "q": "Dog bite vs cat bite - how do the wounds differ and which is more likely to get infected?",
+   "a": "• **Dog**: crush, puncture, avulsion, tears, abrasions (big blunt jaw)\n• **Cat**: small sharp teeth -> **deep puncture wounds that seal immediately**\n• **Cat bites have the higher infection risk** (bacteria inoculated deep, e.g. into tendon sheath or joint)",
+   "m": "Dogs tear, cats inject."
+  },
+  {
+   "t": "BITE",
+   "q": "What is the commonest organism in cat and dog bite infections?",
+   "a": "• **Pasteurella species** (P. multocida) - most common in both\n• Most infections **polymicrobial**, with at least one anaerobe\n• Pasteurella infections appear quickly (within 12-24 h)",
+   "m": "Pets carry Pasteurella."
+  },
+  {
+   "t": "BITE",
+   "q": "How are cat and dog bites managed?",
+   "a": "• **Copious irrigation**\n• **Prophylactic amoxicillin-clavulanate**\n• **Tetanus toxoid**; **± rabies prophylaxis** if any suspicion about the animal's behaviour\n• **Formal surgical debridement** if crush injury, foreign bodies or abscess"
+  }
+ ],
+ "mcq": [
+  {
+   "t": "DFA",
+   "stem": "A 62-year-old man with type 2 diabetes for 15 years has a plantar ulcer under the first metatarsal head. After debridement a sterile probe reaches the flexor tendon and joint capsule but does not touch bone. There is no pus, no surrounding cellulitis, and the X-ray shows no bony erosion. Foot pulses are palpable.\nWhat is the Wagner grade of this ulcer?",
+   "o": [
+    "Wagner grade 1",
+    "Wagner grade 3",
+    "Wagner grade 2",
+    "Wagner grade 4",
+    "Wagner grade 0"
+   ],
+   "a": 2,
+   "e": "Wagner grades depth then complications: grade 1 superficial, grade 2 deep to tendon, capsule or bone but without abscess or osteomyelitis, grade 3 deep with abscess or osteomyelitis, grades 4-5 gangrene. This ulcer is deep (tendon/capsule) but clean, so grade 2. Lecturer pearl: the Wagner table was image-only on the slides.",
+   "w": [
+    "Wrong - grade 1 is confined to skin and subcutis; this reaches tendon and capsule.",
+    "Wrong - grade 3 needs abscess, osteomyelitis or joint sepsis, none of which is present.",
+    "Correct - deep to tendon/capsule without abscess or osteomyelitis = grade 2.",
+    "Wrong - grade 4 means localised gangrene of toes or forefoot.",
+    "Wrong - grade 0 is intact skin or a pre-ulcerative lesion."
+   ]
+  },
+  {
+   "t": "DFA",
+   "stem": "A 58-year-old woman with diabetes has a foot ulcer over the fifth metatarsal head. The probe touches gritty bone. There is purulent discharge and erythema 3 cm around the wound. Dorsalis pedis and posterior tibial pulses are easily palpable and the ABSI is 1.05.\nHow is this wound classified using the University of Texas system?",
+   "o": [
+    "Grade 3, stage B",
+    "Grade 2, stage B",
+    "Grade 3, stage D",
+    "Grade 2, stage D",
+    "Grade 3, stage C"
+   ],
+   "a": 0,
+   "e": "The UT system pairs depth (grade 0-3) with stage: A clean, B infected, C ischaemic, D infected and ischaemic. Probe to bone makes it grade 3; pus and cellulitis with normal pulses and a normal ABSI make it infected but not ischaemic, stage B. Lecturer pearl: because UT adds infection and ischaemia it predicts amputation better than Wagner.",
+   "w": [
+    "Correct - penetrates to bone (grade 3), infected without ischaemia (stage B).",
+    "Wrong - grade 2 reaches tendon or capsule only; this probe touches bone.",
+    "Wrong - stage D needs ischaemia as well; pulses and ABSI are normal.",
+    "Wrong - the probe touches bone (grade 3) and there is no ischaemia for stage D.",
+    "Wrong - stage C is ischaemia without infection; this wound is infected and well perfused."
+   ]
+  },
+  {
+   "t": "DFA",
+   "stem": "A 70-year-old man with long-standing diabetes and nephropathy complains of night pain in the right forefoot. Pedal pulses are impalpable and the toes are cool. Ankle cuff pressures cannot be occluded even at 250 mmHg, giving an ABSI of 1.5. X-ray shows linear calcification of the tibial arteries.\nWhich test should be used next to assess limb perfusion?",
+   "o": [
+    "Repeat ABSI with a wider cuff",
+    "No further test; ABSI above 1.3 excludes PAD",
+    "Capillary refill time of the hallux",
+    "Toe systolic pressure or TcPO2",
+    "Plain X-ray of the foot in two views"
+   ],
+   "a": 3,
+   "e": "An ABSI above 1.3 means the ankle vessels are non-compressible from medial arterial calcification, common in diabetics and renal disease, so the reading is falsely high and unreliable. Digital arteries are usually spared, so toe pressure (toe-brachial index) or transcutaneous oxygen pressure gives a true measure of perfusion. ABSI below 0.9 indicates PAD and 0.9-1.3 is normal.",
+   "w": [
+    "Wrong - a bigger cuff cannot compress calcified vessels; the result stays falsely high.",
+    "Wrong - a high ABSI is unreliable, not reassuring; symptoms here suggest ischaemia.",
+    "Wrong - CRT is a crude bedside screen and does not quantify perfusion.",
+    "Correct - toe pressure or TcPO2 bypasses calcified ankle vessels.",
+    "Wrong - X-ray has already shown calcification; it does not measure perfusion."
+   ]
+  },
+  {
+   "t": "DFA",
+   "stem": "A 55-year-old diabetic has clawing of all lesser toes with prominent metatarsal heads and thick plantar callus beneath them. The fat pad appears displaced distally. Sensation to monofilament is absent at several sites.\nWhich mechanism best explains the toe deformity?",
+   "o": [
+    "Autonomic neuropathy causing anhidrosis",
+    "Motor neuropathy weakening intrinsic muscles",
+    "Microvascular occlusion of digital arteries",
+    "Sensory neuropathy alone causing unnoticed trauma",
+    "Impaired neutrophil chemotaxis from hyperglycaemia"
+   ],
+   "a": 1,
+   "e": "Motor neuropathy weakens the intrinsic foot muscles so the long flexors and extensors act unopposed, producing claw toes and pulling the protective fat pad forward. The metatarsal heads then carry high plantar pressure, forming callus and later ulcers. Sensory loss explains why the patient does not notice the damage, but not the deformity itself.",
+   "w": [
+    "Wrong - autonomic neuropathy causes dry cracked skin and AV shunting, not clawing.",
+    "Correct - intrinsic weakness leads to claw toes and prominent metatarsal heads.",
+    "Wrong - digital ischaemia causes pain and gangrene, not a dynamic toe deformity.",
+    "Wrong - sensory loss removes the warning of injury but does not deform the toes.",
+    "Wrong - immunopathy affects infection spread, not toe posture."
+   ]
+  },
+  {
+   "t": "DFA",
+   "stem": "A 49-year-old woman with type 2 diabetes attends the primary care clinic for her annual foot screen. She has no wounds. The doctor wants to identify whether she has lost the level of sensation that protects her from unnoticed injury, as recommended in the Malaysian diabetic foot CPG.\nWhich test is most appropriate?",
+   "o": [
+    "128 Hz tuning fork over the medial malleolus",
+    "Ankle jerk reflex with a tendon hammer",
+    "Pinprick with a sterile needle on the dorsum",
+    "Two-point discrimination over the toe pulps",
+    "10 g Semmes-Weinstein monofilament"
+   ],
+   "a": 4,
+   "e": "Loss of protective sensation is defined by inability to feel a 10 g monofilament pressed until it buckles at standard plantar sites (hallux, metatarsal heads, midfoot, heel, toe pulps). The 128 Hz tuning fork and ankle reflexes add information about large-fibre neuropathy but do not define LOPS. The tuning fork should be applied to a distal bony point such as the hallux, not the malleolus.",
+   "w": [
+    "Wrong - vibration is a supplementary test and is applied distally (hallux), not at the malleolus.",
+    "Wrong - an absent ankle jerk supports neuropathy but does not define protective sensation.",
+    "Wrong - pinprick is useful for glove-and-stocking loss but is not the standard LOPS test.",
+    "Wrong - two-point discrimination is a hand test, not a diabetic foot screen.",
+    "Correct - the 10 g monofilament is the standard test for loss of protective sensation."
+   ]
+  },
+  {
+   "t": "DFA",
+   "stem": "In a diabetic foot clinic, a 60-year-old man asks how likely he is to develop a foot ulcer. He has type 2 diabetes for 8 years and the following history items are recorded.\nWhich of these is the strongest predictor of a future foot ulcer?",
+   "o": [
+    "HbA1c of 8.5% last month",
+    "A previous ulcer that has healed",
+    "Hypertension controlled on two agents",
+    "Body mass index of 31 kg/m2",
+    "Smoking 5 cigarettes a day"
+   ],
+   "a": 1,
+   "e": "Previous ulceration and previous amputation are listed as local risk factors, and a healed ulcer marks a foot that already has the neuropathy, deformity and pressure pattern that caused it, giving a very high recurrence rate. Poor glycaemic control and smoking are systemic risk factors but are weaker predictors. Lecturer pearl: patients in remission from an ulcer are the highest-risk group for intensive follow-up.",
+   "w": [
+    "Wrong - poor glycaemic control is a risk factor but a weaker predictor than previous ulcer.",
+    "Correct - a previous ulcer (or amputation) is the strongest predictor of a new ulcer.",
+    "Wrong - hypertension is a vascular risk factor, not a strong direct ulcer predictor.",
+    "Wrong - obesity is not a listed predictor of foot ulceration.",
+    "Wrong - smoking is a systemic risk factor but less predictive than a previous ulcer."
+   ]
+  },
+  {
+   "t": "DFA",
+   "stem": "A 67-year-old diabetic smoker has a painful, pale, sloughy ulcer at the tip of the second toe. Pain is worse at night and eased by hanging the leg over the bed. The foot is cool, hairless and pulseless, capillary refill is 5 seconds, and monofilament sensation is intact at all sites.\nWhat type of ulcer is this?",
+   "o": [
+    "Neuropathic ulcer",
+    "Venous ulcer",
+    "Pressure (decubitus) ulcer",
+    "Ischaemic ulcer",
+    "Neuroischaemic ulcer"
+   ],
+   "a": 3,
+   "e": "Ischaemic ulcers occur at toe tips and foot margins, are painful with a pale sloughy base, and come with a cold, pulseless foot and rest pain relieved by dependency. Neuropathic ulcers are painless, on plantar pressure points with a callus rim, in a warm foot with pulses. Intact sensation here excludes a neuroischaemic picture. Lecturer pearl: this contrast was not spelt out on the slides.",
+   "w": [
+    "Wrong - neuropathic ulcers are painless, plantar, callused, with sensory loss.",
+    "Wrong - venous ulcers lie in the gaiter area with oedema and pigmentation.",
+    "Wrong - pressure ulcers occur over heels/sacrum in immobile patients.",
+    "Correct - toe-tip, painful, cold, pulseless foot with intact sensation = ischaemic.",
+    "Wrong - neuroischaemic ulcers need neuropathy too; sensation is intact here."
+   ]
+  },
+  {
+   "t": "DFA",
+   "stem": "A 72-year-old woman with diabetes presents with black, dry, shrivelled second and third toes with a clear line of demarcation at the metatarsophalangeal level. The rest of the forefoot, midfoot and heel are viable. There is no pus.\nWhat is the Wagner grade?",
+   "o": [
+    "Wagner grade 4",
+    "Wagner grade 3",
+    "Wagner grade 5",
+    "Wagner grade 2",
+    "Wagner grade 1"
+   ],
+   "a": 0,
+   "e": "Wagner grades 4 and 5 are defined by gangrene: grade 4 is localised to toes or forefoot, grade 5 involves the whole foot. Gangrene limited to two toes with a viable remaining foot is grade 4. Grade 3 is a deep ulcer with abscess or osteomyelitis but no gangrene. Lecturer pearl: Wagner table was image-only on the slides.",
+   "w": [
+    "Correct - localised gangrene of toes = grade 4.",
+    "Wrong - grade 3 is deep infection (abscess/osteomyelitis) without gangrene.",
+    "Wrong - grade 5 is gangrene of the whole foot; here the foot is mostly viable.",
+    "Wrong - grade 2 is a deep ulcer without infection or gangrene.",
+    "Wrong - grade 1 is a superficial ulcer."
+   ]
+  },
+  {
+   "t": "DFA",
+   "stem": "A 64-year-old diabetic man has a shallow 1 cm ulcer on the dorsum of the hallux that does not reach tendon. The base is clean with no discharge or erythema. Foot pulses are absent and his ABSI is 0.6.\nHow is this wound classified using the University of Texas system?",
+   "o": [
+    "Grade 1, stage A",
+    "Grade 1, stage B",
+    "Grade 2, stage C",
+    "Grade 1, stage D",
+    "Grade 1, stage C"
+   ],
+   "a": 4,
+   "e": "A superficial wound not reaching tendon, capsule or bone is UT grade 1. Absent pulses with an ABSI below 0.9 indicate ischaemia, and the absence of discharge or erythema means no infection, so stage C. Stage D would require infection as well as ischaemia.",
+   "w": [
+    "Wrong - stage A is non-ischaemic; ABSI 0.6 indicates PAD.",
+    "Wrong - stage B is infected; there are no signs of infection.",
+    "Wrong - grade 2 reaches tendon or capsule; this ulcer is superficial.",
+    "Wrong - stage D requires infection plus ischaemia.",
+    "Correct - superficial (grade 1) and ischaemic without infection (stage C)."
+   ]
+  },
+  {
+   "t": "DFA",
+   "stem": "A 52-year-old man with poorly controlled diabetes has deep painful fissures over both heels. The feet are warm and dry with no sweating, the dorsal veins are distended, and the pedal pulses are bounding.\nWhich component of diabetic neuropathy best explains these findings?",
+   "o": [
+    "Sensory neuropathy",
+    "Motor neuropathy",
+    "Autonomic neuropathy",
+    "Macrovascular disease",
+    "Diabetic immunopathy"
+   ],
+   "a": 2,
+   "e": "Autonomic neuropathy abolishes sweating, leaving dry skin that cracks and fissures and lets bacteria in. It also opens arteriovenous shunts, giving a warm foot with distended veins and bounding pulses despite poor nutritive flow. The same increased bone blood flow underlies the neurovascular theory of Charcot foot.",
+   "w": [
+    "Wrong - sensory loss removes pain warnings but does not cause dry skin or shunting.",
+    "Wrong - motor neuropathy causes claw toes and pressure points.",
+    "Correct - anhidrosis and AV shunting are autonomic effects.",
+    "Wrong - macrovascular PAD causes a cold, pulseless foot.",
+    "Wrong - immunopathy impairs infection control, not sweating or vessel tone."
+   ]
+  },
+  {
+   "t": "DFM",
+   "stem": "A 59-year-old woman with diabetes has a 3-week-old plantar ulcer under the second metatarsal head. A sterile probe touches hard, gritty bone. She is afebrile, CRP is 48 mg/L, and plain X-rays taken today are normal.\nWhich investigation is most appropriate to confirm or exclude osteomyelitis?",
+   "o": [
+    "MRI of the foot",
+    "CT scan of the foot",
+    "Repeat plain X-ray in 6 months",
+    "Technetium-99m bone scan",
+    "Ultrasound of the soft tissues"
+   ],
+   "a": 0,
+   "e": "A positive probe-to-bone test strongly suggests osteomyelitis, and plain X-ray changes lag 10-14 days behind infection, so a normal film does not exclude it. MRI is the most sensitive test for osteomyelitis and deep abscess in the diabetic foot. CT is better reserved for chronic osteomyelitis (sequestrum, involucrum, cloaca), and technetium scans are non-specific.",
+   "w": [
+    "Correct - MRI is the most sensitive investigation for osteomyelitis and deep abscess.",
+    "Wrong - CT shows chronic changes such as sequestrum but is less sensitive early.",
+    "Wrong - waiting months delays treatment of likely osteomyelitis.",
+    "Wrong - technetium scans are positive in many non-infective conditions, including Charcot.",
+    "Wrong - ultrasound cannot assess bone marrow."
+   ]
+  },
+  {
+   "t": "DFM",
+   "stem": "A 66-year-old man with diabetes has an infected heel ulcer with purulent discharge and 3 cm of surrounding erythema. He is to start empirical antibiotics and the team wants a sample that identifies the true causative organism.\nWhich specimen is most appropriate?",
+   "o": [
+    "Superficial swab before wound cleaning",
+    "Swab of the surrounding intact skin",
+    "Deep tissue sample after debridement",
+    "Mid-stream urine for culture",
+    "Swab of exudate on the old dressing"
+   ],
+   "a": 2,
+   "e": "Superficial swabs of a chronic ulcer grow colonising skin flora and can mislead antibiotic choice. Deep tissue (or bone) taken after cleansing and debridement represents the infecting organism and allows targeted therapy once C&S results return. Blood cultures are added if sepsis is suspected.",
+   "w": [
+    "Wrong - superficial swabs culture colonisers rather than the pathogen.",
+    "Wrong - intact skin flora is irrelevant to the deep infection.",
+    "Correct - deep tissue after debridement identifies the causative organism.",
+    "Wrong - urine culture does not help a foot infection.",
+    "Wrong - old dressing exudate is heavily contaminated."
+   ]
+  },
+  {
+   "t": "DFM",
+   "stem": "A 54-year-old man with diabetic neuropathy has a 2 cm clean plantar ulcer under the first metatarsal head that has not healed in 3 months despite dressings. There is no infection, pedal pulses are palpable and the ABSI is 1.0. He admits removing his prescribed boot at home.\nWhat is the most effective offloading method?",
+   "o": [
+    "Removable cast walker",
+    "Bed rest with a wheelchair",
+    "Custom insoles in normal shoes",
+    "Crutches with partial weight bearing",
+    "Total contact cast"
+   ],
+   "a": 4,
+   "e": "Offloading is the key to healing a plantar neuropathic ulcer. A non-removable total contact cast is the gold standard because it redistributes plantar pressure and cannot be taken off, guaranteeing adherence, which is why it outperforms removable walkers. It is suitable here because there is no infection and no significant ischaemia. Note: slide spells it 'Tocal contact cast'.",
+   "w": [
+    "Wrong - removable walkers fail when patients take them off, as this patient does.",
+    "Wrong - strict bed rest is impractical and carries thromboembolic and deconditioning risks.",
+    "Wrong - insoles are for prevention, not for healing an active ulcer.",
+    "Wrong - neuropathic patients rarely comply with partial weight bearing.",
+    "Correct - a non-removable TCC is the gold standard offloading method."
+   ]
+  },
+  {
+   "t": "DFM",
+   "stem": "A 61-year-old woman with diabetes has a superficial toe ulcer with 1 cm of surrounding erythema and slight purulence. She is systemically well, with no deep tissue involvement. Pulses are palpable. Oral antibiotics are started together with wound care.\nWhat is the appropriate maximum duration of antibiotics for this infection?",
+   "o": [
+    "3 days",
+    "6 weeks",
+    "Until the ulcer fully heals",
+    "Up to 14 days",
+    "Three months"
+   ],
+   "a": 3,
+   "e": "For mild diabetic foot infection, antibiotics should be narrow-spectrum and usually not continued beyond 14 days; prolonged therapy promotes resistance and adverse effects without improving healing. Antibiotics treat infection, not the ulcer itself, so they are not continued until epithelialisation. Six weeks or longer is reserved for osteomyelitis.",
+   "w": [
+    "Wrong - 3 days is too short for a soft tissue diabetic foot infection.",
+    "Wrong - 6 weeks is the duration for osteomyelitis, not mild soft tissue infection.",
+    "Wrong - antibiotics treat infection, not an uninfected healing wound.",
+    "Correct - mild infection: should not exceed 14 days.",
+    "Wrong - months of therapy has no role in mild infection."
+   ]
+  },
+  {
+   "t": "DFM",
+   "stem": "A 57-year-old diabetic man has a forefoot ulcer with spreading erythema to the ankle, a deep plantar collection, temperature 38.8 °C and heart rate 112/min. Deep tissue samples have been sent and surgical debridement is planned.\nWhat is the most appropriate antibiotic strategy?",
+   "o": [
+    "Oral cloxacillin and review in two weeks",
+    "Broad-spectrum IV, then tailor to C&S",
+    "Topical silver sulphadiazine and mupirocin",
+    "Withhold antibiotics until culture returns",
+    "Oral metronidazole alone as anaerobic cover"
+   ],
+   "a": 1,
+   "e": "Moderate and severe diabetic foot infections are often polymicrobial and need broad-spectrum empirical therapy started promptly, then narrowed once culture and sensitivity results are available. Antibiotics act as an adjunct to surgical debridement of the collection. Topical agents and narrow oral regimens are inadequate for systemic infection.",
+   "w": [
+    "Wrong - a narrow oral agent is suitable only for mild infection.",
+    "Correct - broad-spectrum empirical IV therapy, de-escalated per C&S.",
+    "Wrong - topical agents cannot treat deep or systemic infection.",
+    "Wrong - delaying antibiotics in a septic patient is dangerous.",
+    "Wrong - metronidazole alone misses Gram-positive and aerobic Gram-negative organisms."
+   ]
+  },
+  {
+   "t": "DFM",
+   "stem": "A 63-year-old diabetic woman has a 3 cm cavity ulcer on the lateral foot after debridement of an abscess. Infection is controlled, but the wound produces heavy exudate that soaks through gauze twice a day, macerating the surrounding skin.\nWhich dressing is most appropriate?",
+   "o": [
+    "Hydrogel",
+    "Dry gauze",
+    "Hydrocolloid",
+    "Alginate",
+    "Paraffin gauze"
+   ],
+   "a": 3,
+   "e": "Dressings aim to maintain a moist (not wet) environment and remove dead tissue. Alginate (and hydrofibre) dressings absorb large volumes of exudate and can pack cavities, protecting the skin from maceration. Hydrogel donates moisture and suits dry sloughy wounds; hydrocolloids are occlusive and suit low-exudate wounds. Lecturer pearl: dressing choice by exudate was not detailed on the slides.",
+   "w": [
+    "Wrong - hydrogel adds moisture and would worsen maceration.",
+    "Wrong - dry gauze is a basic dressing that will saturate and adhere.",
+    "Wrong - hydrocolloid is occlusive, for low-exudate wounds.",
+    "Correct - alginate absorbs heavy exudate and fills cavities.",
+    "Wrong - paraffin gauze is a basic non-adherent contact layer with little absorbency."
+   ]
+  },
+  {
+   "t": "DFM",
+   "stem": "A 58-year-old man with diabetes has had three recurrences of a plantar forefoot ulcer under the metatarsal heads. Ankle dorsiflexion is limited to -5° with the knee extended but improves to 15° when the knee is flexed. The ulcer is currently healed and pulses are normal.\nWhich preventive procedure is most appropriate?",
+   "o": [
+    "Distal metatarsal osteotomy",
+    "Gastrocnemius recession",
+    "Transmetatarsal amputation",
+    "Percutaneous flexor tenotomy",
+    "Ankle arthrodesis"
+   ],
+   "a": 1,
+   "e": "Equinus increases forefoot plantar pressure and drives recurrent forefoot ulcers. Dorsiflexion that improves with knee flexion (Silfverskiöld test) shows that the tightness is in the gastrocnemius, which crosses the knee, so gastrocnemius-soleus fascia recession is indicated; tightness that persists with the knee flexed would favour Achilles tendon lengthening. Lecturer pearl: the Silfverskiöld test is beyond the slides.",
+   "w": [
+    "Wrong - osteotomy offloads a single metatarsal head but does not correct the equinus.",
+    "Correct - isolated gastrocnemius tightness is treated by gastrocnemius recession.",
+    "Wrong - amputation is not a preventive procedure for a healed ulcer.",
+    "Wrong - flexor tenotomy treats toe-tip ulcers from clawed toes.",
+    "Wrong - arthrodesis would stiffen the ankle and worsen forefoot loading."
+   ]
+  },
+  {
+   "t": "DFM",
+   "stem": "A 68-year-old woman with diabetic neuropathy has a recurrent ulcer on the tip of the third toe. The toe is held in flexion at the interphalangeal joints but can be passively straightened. Pulses are palpable, the ulcer is clean, and X-ray shows no osteomyelitis.\nWhich procedure is most appropriate to prevent recurrence?",
+   "o": [
+    "Percutaneous flexor tenotomy",
+    "Gastrocnemius recession",
+    "Achilles tendon lengthening",
+    "Third ray amputation",
+    "Total contact casting"
+   ],
+   "a": 0,
+   "e": "A flexible claw or hammer toe loads the toe tip, producing apical ulcers. Percutaneous flexor tenotomy releases the deforming tendon, letting the toe straighten; toe-tip ulcers without osteomyelitis heal in about 3 weeks with very few complications. Calf procedures address forefoot pressure from equinus, not toe-tip ulcers.",
+   "w": [
+    "Correct - flexor tenotomy straightens a flexible clawed toe and heals tip ulcers.",
+    "Wrong - gastrocnemius recession treats equinus-driven forefoot ulcers.",
+    "Wrong - Achilles lengthening also targets equinus, not toe flexion.",
+    "Wrong - amputation is excessive for a clean ulcer without osteomyelitis.",
+    "Wrong - a TCC offloads the plantar forefoot and does not correct the toe deformity."
+   ]
+  },
+  {
+   "t": "DFM",
+   "stem": "A 71-year-old diabetic smoker has a 4-month non-healing ulcer on the lateral border of the foot. The foot is cold and pulseless with rest pain, ABSI is 0.45, and there are no signs of infection. Duplex ultrasound shows a short occlusion of the superficial femoral artery.\nWhat is the most appropriate next step?",
+   "o": [
+    "Total contact cast offloading",
+    "Hyperbaric oxygen therapy course",
+    "Revascularisation assessment",
+    "Primary below-knee amputation",
+    "Maggot debridement of the ulcer"
+   ],
+   "a": 2,
+   "e": "Revascularisation should be offered to diabetic patients with peripheral arterial disease, as no wound will heal without inflow. A short occlusion is amenable to endovascular or surgical revascularisation, followed by antiplatelet therapy. Total contact casts are avoided in significant ischaemia, and adjuvants such as HBOT or MDT do not replace restoring blood flow.",
+   "w": [
+    "Wrong - TCC is avoided in significant ischaemia and does not fix inflow.",
+    "Wrong - HBOT is an adjuvant, not a substitute for revascularisation.",
+    "Correct - ischaemic ulcers need revascularisation, then antiplatelet therapy.",
+    "Wrong - amputation is premature when the lesion is revascularisable.",
+    "Wrong - maggots debride slough but cannot heal an ischaemic wound."
+   ]
+  },
+  {
+   "t": "CN",
+   "stem": "A 56-year-old man with diabetic neuropathy has a 2-week history of a swollen, red, warm left midfoot with no skin break. He is afebrile, WCC is 8.9 × 10^9/L, and the foot is 3 °C warmer than the right. The redness fades markedly after 10 minutes of leg elevation. X-rays are normal; MRI shows midfoot bone marrow oedema.\nWhat is the most appropriate management?",
+   "o": [
+    "IV cloxacillin for cellulitis",
+    "Oral NSAIDs and full weight bearing",
+    "Urgent surgical debridement",
+    "Exostectomy and Achilles lengthening",
+    "Total contact cast offloading"
+   ],
+   "a": 4,
+   "e": "A hot, swollen, painless foot without a portal of entry, a temperature difference above 2 °C, redness that settles on elevation and normal X-rays with MRI marrow oedema indicate acute (Eichenholtz stage 0) Charcot foot, not cellulitis. Treatment is offloading and immobilisation in a total contact cast with serial review. Antibiotics are not indicated and surgery is avoided in the active phase. Lecturer pearl: elevation test and stage 0 are beyond the slides.",
+   "w": [
+    "Wrong - no infection: redness settling on elevation favours Charcot over cellulitis.",
+    "Wrong - continued weight bearing drives fragmentation and collapse.",
+    "Wrong - there is no necrotic or infected tissue to debride.",
+    "Wrong - exostectomy is for chronic stage III prominences, not the acute foot.",
+    "Correct - acute Charcot is treated by offloading in a total contact cast."
+   ]
+  },
+  {
+   "t": "CN",
+   "stem": "A 62-year-old woman with long-standing Charcot midfoot deformity develops a plantar ulcer over the collapsed cuboid with rising CRP. MRI shows marrow oedema throughout the midfoot that the radiologist cannot confidently attribute to infection or to the neuropathic joint.\nWhich investigation best distinguishes superimposed osteomyelitis from Charcot arthropathy?",
+   "o": [
+    "Weight-bearing plain radiographs",
+    "Three-phase technetium-99m bone scan",
+    "CT scan of the foot",
+    "Repeat MRI with gadolinium",
+    "Indium-labelled WBC scan"
+   ],
+   "a": 4,
+   "e": "Technetium bone scans are positive in both neuropathic joints and osteomyelitis, and MRI struggles to separate them. An indium-labelled white cell scan is typically cold in a neuropathic joint and hot in osteomyelitis, so it is used to detect superimposed infection. Bone biopsy remains the definitive test if doubt persists.",
+   "w": [
+    "Wrong - X-ray changes of Charcot and osteomyelitis overlap.",
+    "Wrong - technetium uptake is increased in both Charcot and osteomyelitis.",
+    "Wrong - CT shows bony architecture but not active infection reliably.",
+    "Wrong - MRI is already equivocal; contrast does not resolve this well.",
+    "Correct - indium WBC scan is cold in Charcot and hot in osteomyelitis."
+   ]
+  },
+  {
+   "t": "CN",
+   "stem": "A 59-year-old diabetic man has a 6-week history of a warm, swollen right foot. The foot remains 3 °C warmer than the left. Weight-bearing X-rays now show bony debris, fragmentation of the tarsometatarsal joints and early subluxation.\nWhich Eichenholtz stage is this?",
+   "o": [
+    "Eichenholtz stage I",
+    "Eichenholtz stage 0",
+    "Eichenholtz stage II",
+    "Eichenholtz stage III",
+    "Eichenholtz stage IV"
+   ],
+   "a": 0,
+   "e": "Eichenholtz staging follows the radiographic evolution: stage 0 has clinical inflammation with normal X-rays, stage I (fragmentation/development) shows debris, fragmentation and subluxation in a hot foot, stage II (coalescence) shows absorption of debris with reducing warmth, and stage III (reconstruction) shows remodelling and a stable deformity. There is no stage IV. Lecturer pearl: Eichenholtz table was image-only on the slides.",
+   "w": [
+    "Correct - fragmentation and subluxation in a hot foot = stage I.",
+    "Wrong - stage 0 has normal X-rays.",
+    "Wrong - stage II shows coalescence with absorption of debris and reducing warmth.",
+    "Wrong - stage III is a cool, consolidated, remodelled foot.",
+    "Wrong - Eichenholtz has no stage IV."
+   ]
+  },
+  {
+   "t": "CN",
+   "stem": "A 65-year-old woman with diabetic neuropathy has a cool, painless foot with a rocker-bottom sole and collapse of the medial arch. Lateral X-ray shows dorsal dislocation at the junction of the metatarsal bases and the cuneiforms.\nWhich joint complex is primarily involved?",
+   "o": [
+    "Ankle (tibiotalar) joint",
+    "Tarsometatarsal (Lisfranc) joints",
+    "Subtalar and Chopart joints",
+    "Calcaneal tuberosity",
+    "Metatarsophalangeal joints"
+   ],
+   "a": 1,
+   "e": "Brodsky type 1, involving the tarsometatarsal and naviculocuneiform joints, is the most common pattern of Charcot foot and produces the classic rocker-bottom deformity with medial arch collapse. Type 2 is the hindfoot (Chopart and subtalar), type 3A the ankle and type 3B a calcaneal tuberosity fracture. Lecturer pearl: Brodsky table was image-only on the slides.",
+   "w": [
+    "Wrong - ankle involvement (type 3A) causes instability, not a rocker-bottom midfoot.",
+    "Correct - TMT (Lisfranc) involvement, Brodsky type 1, causes rocker-bottom foot.",
+    "Wrong - hindfoot (type 2) involvement causes hindfoot instability.",
+    "Wrong - calcaneal tuberosity fracture is type 3B.",
+    "Wrong - forefoot joints are not part of the Brodsky types and do not cause rocker-bottom."
+   ]
+  },
+  {
+   "t": "CN",
+   "stem": "A 60-year-old man with chronic consolidated Charcot foot has a fixed, non-plantigrade midfoot with a bony plantar prominence. He has had recurrent ulcers over this prominence despite custom footwear. The foot is cool and the ulcer is currently healed; there is no osteomyelitis.\nWhat is the most appropriate management?",
+   "o": [
+    "Total contact cast indefinitely",
+    "Custom inlay shoes only",
+    "Intravenous bisphosphonate infusion",
+    "Exostectomy of the prominence",
+    "Primary below-knee amputation"
+   ],
+   "a": 3,
+   "e": "In Eichenholtz stage III the foot is consolidated. A plantigrade foot can be managed with custom inlay shoes, but a non-plantigrade foot or recurrent ulceration over a bony prominence needs surgery: exostectomy (often with Achilles lengthening) or deformity correction and fusion with internal fixation. Amputation is reserved for unsalvageable feet.",
+   "w": [
+    "Wrong - casting is for the active stages, not a consolidated deformity.",
+    "Wrong - footwear alone has already failed in this non-plantigrade foot.",
+    "Wrong - bisphosphonates have a possible role in the acute phase only.",
+    "Correct - stage III with recurrent ulcer over a prominence: exostectomy.",
+    "Wrong - the foot is salvageable, so amputation is not first-line."
+   ]
+  },
+  {
+   "t": "CN",
+   "stem": "A 54-year-old woman with diabetic autonomic neuropathy develops a Charcot ankle. She asks why her bones became so weak. DEXA of the affected foot shows marked regional osteopenia compared with the other side.\nWhich mechanism best explains this osteopenia?",
+   "o": [
+    "Ischaemic avascular necrosis",
+    "Direct bacterial invasion of bone",
+    "Hyperaemia raising osteoclast activity",
+    "Urate crystal deposition in joints",
+    "Disuse from prolonged immobilisation"
+   ],
+   "a": 2,
+   "e": "The neurovascular theory proposes that autonomic neuropathy causes persistent vasodilatation and increased bone blood flow, so osteoclastic resorption exceeds osteoblastic formation, producing osteopenia that fractures under load. The neurotraumatic theory adds repeated unnoticed microtrauma from loss of protective sensation. Infection, gout and ischaemia are not the mechanism.",
+   "w": [
+    "Wrong - Charcot bone has increased, not reduced, blood flow.",
+    "Wrong - Charcot is non-infective.",
+    "Correct - autonomic hyperaemia shifts the balance towards osteoclastic resorption.",
+    "Wrong - gout is a crystal arthropathy unrelated to Charcot.",
+    "Wrong - she has kept walking; disuse is not the driver of Charcot osteopenia."
+   ]
+  },
+  {
+   "t": "SSI",
+   "stem": "A 48-year-old woman with diabetes presents with a 1-day history of fever and a painful red area on her left cheek. There is a bright red, shiny, raised plaque with a sharply demarcated edge that can be felt with a fingertip. There is no fluctuance and no pustule.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Cellulitis",
+    "Erysipelas",
+    "Necrotising fasciitis",
+    "Carbuncle",
+    "Contact dermatitis"
+   ],
+   "a": 1,
+   "e": "Erysipelas involves the superficial dermis and superficial lymphatics, so lymphatic oedema produces a raised plaque with a sharp, palpable margin; it is caused mainly by Streptococcus pyogenes and favours the face and lower limbs. Cellulitis lies deeper (deep dermis and subcutis) and has a flat, ill-defined edge. Necrotising fasciitis is suggested by pain out of proportion, bullae and systemic toxicity.",
+   "w": [
+    "Wrong - cellulitis has a flat, ill-defined margin because it is deeper.",
+    "Correct - raised, shiny, sharply demarcated plaque on the face = erysipelas.",
+    "Wrong - no pain out of proportion, bullae, crepitus or shock.",
+    "Wrong - a carbuncle is a nodular abscess with multiple draining tracts.",
+    "Wrong - contact dermatitis is itchy and non-febrile, with no sharp tender raised edge."
+   ]
+  },
+  {
+   "t": "SSI",
+   "stem": "A 55-year-old man presents with a tender, bright red, raised plaque on the shin with a sharply demarcated margin after a small abrasion. Temperature is 37.6 °C, heart rate 88/min, BP 132/80. He has no drug allergies and can take oral medication.\nWhat is the first-line antibiotic according to the Malaysian National Antimicrobial Guideline?",
+   "o": [
+    "Oral ciprofloxacin 500 mg BD",
+    "IV piperacillin-tazobactam 4.5 g",
+    "Oral metronidazole 400 mg TDS",
+    "Topical fusidic acid 2% TDS",
+    "Oral penicillin V 500 mg QID"
+   ],
+   "a": 4,
+   "e": "The sharply demarcated raised plaque indicates erysipelas, usually due to Streptococcus pyogenes, which remains sensitive to penicillin. NAG recommends cold packs, analgesia and oral penicillin V 500 mg QID, reserving IV cefuroxime 750 mg TDS for severe disease. Broad-spectrum agents are unnecessary and topical agents cannot reach the dermal lymphatics.",
+   "w": [
+    "Wrong - ciprofloxacin has poor streptococcal cover.",
+    "Wrong - piperacillin-tazobactam is reserved for severe cellulitis with hypotension.",
+    "Wrong - metronidazole covers anaerobes only.",
+    "Wrong - topical therapy is for folliculitis, not dermal infection.",
+    "Correct - oral penicillin V 500 mg QID is first-line for mild erysipelas."
+   ]
+  },
+  {
+   "t": "SSI",
+   "stem": "A 63-year-old diabetic woman has a hot, swollen, tender left leg with poorly defined erythema spreading from a heel fissure. Temperature is 39.2 °C, heart rate 124/min and BP 82/50 mmHg despite 1 L of crystalloid. There is no crepitus, bullae or pain out of proportion.\nWhich empirical antibiotic is most appropriate per Malaysian NAG?",
+   "o": [
+    "IV Tazocin 4.5 g QID",
+    "Oral cloxacillin 500 mg QID",
+    "IV cloxacillin 2 g QID",
+    "IV cefuroxime 750 mg TDS",
+    "Oral penicillin V 500 mg QID"
+   ],
+   "a": 0,
+   "e": "NAG grades cellulitis by systemic involvement: mild has no systemic signs (oral cloxacillin 500 mg QID), moderate has systemic signs without hypotension (IV cloxacillin 1-2 g QID), and severe has systemic signs with hypotension (IV piperacillin-tazobactam 4.5 g). Hypotension makes this severe cellulitis. Note: slide writes cloxacillin 'QOD'; the correct frequency is QID (6-hourly).",
+   "w": [
+    "Correct - severe cellulitis (systemic signs + hypotension) needs IV piperacillin-tazobactam.",
+    "Wrong - oral cloxacillin is for mild cellulitis without systemic signs.",
+    "Wrong - IV cloxacillin is for moderate cellulitis without hypotension.",
+    "Wrong - IV cefuroxime is the NAG option for severe erysipelas.",
+    "Wrong - oral penicillin is for mild erysipelas."
+   ]
+  },
+  {
+   "t": "SSI",
+   "stem": "A 47-year-old man has 3 days of spreading, poorly demarcated erythema and swelling of the forearm after a laceration. Temperature is 38.6 °C and heart rate 106/min; BP is 128/76 mmHg and he is alert. There is no fluctuance.\nWhich empirical antibiotic is most appropriate per Malaysian NAG?",
+   "o": [
+    "Oral cloxacillin 500 mg QID",
+    "Oral penicillin V 500 mg QID",
+    "IV cloxacillin 2 g QID",
+    "IV Tazocin 4.5 g QID",
+    "Topical mupirocin 2% TDS"
+   ],
+   "a": 2,
+   "e": "Fever and tachycardia without hypotension classify this as moderate cellulitis, treated with IV cloxacillin 1-2 g QID to cover Staphylococcus aureus and Streptococcus pyogenes. Oral cloxacillin is for mild cellulitis without systemic features, and piperacillin-tazobactam is kept for severe cellulitis with hypotension.",
+   "w": [
+    "Wrong - oral therapy is for mild cellulitis with no systemic signs.",
+    "Wrong - penicillin V lacks reliable staphylococcal cover and is for erysipelas.",
+    "Correct - systemic signs without hypotension = moderate: IV cloxacillin 1-2 g QID.",
+    "Wrong - Tazocin is reserved for severe cellulitis with hypotension.",
+    "Wrong - topical agents cannot treat subcutaneous infection."
+   ]
+  },
+  {
+   "t": "SSI",
+   "stem": "A 58-year-old man with poorly controlled diabetes has a 6 cm indurated, very tender lesion on the nape of his neck. Pus drains from several separate openings on its surface. Temperature is 38.1 °C. Pus culture later grows Staphylococcus aureus.\nWhat is the most appropriate management?",
+   "o": [
+    "Warm compresses and topical fusidic acid",
+    "Oral penicillin V with cold packs",
+    "Needle aspiration and oral cephalexin",
+    "Saucerisation plus IV cloxacillin",
+    "Oral cloxacillin and dermatology referral"
+   ],
+   "a": 3,
+   "e": "Several furuncles joined together in the subcutaneous tissue, discharging through multiple tracts on the nape of the neck in a diabetic, form a carbuncle. The interconnected loculi need incision and drainage (saucerisation) together with systemic IV cloxacillin 1-2 g QID. Warm compresses and oral cloxacillin are sufficient only for simple furuncles.",
+   "w": [
+    "Wrong - topical therapy is for folliculitis, far too little for a carbuncle.",
+    "Wrong - this is the erysipelas regimen and misses staphylococci.",
+    "Wrong - aspiration cannot drain multiple interconnected loculi.",
+    "Correct - carbuncle: incision and drainage (saucerisation) plus IV cloxacillin.",
+    "Wrong - oral therapy alone is inadequate for a febrile carbuncle."
+   ]
+  },
+  {
+   "t": "SSI",
+   "stem": "A 24-year-old obese man has a 4-day history of a single, painful, red nodule about 1.5 cm across in the right axilla. It has a central yellow point and is becoming fluctuant. A week earlier he noticed small itchy papules with pustules around the hair follicles in the same area. He is afebrile.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Folliculitis",
+    "Carbuncle",
+    "Erysipelas",
+    "Furuncle",
+    "Cellulitis"
+   ],
+   "a": 3,
+   "e": "A furuncle (boil) is a collection of pus in the dermis or deeper around a single follicle, usually following folliculitis, at sweat and friction sites such as the axilla, neck and buttocks. Folliculitis is superficial with small pustular papules; a carbuncle is a larger subcutaneous lesion formed by several furuncles with multiple draining tracts. Treat with warm compresses, oral cloxacillin 500 mg QID for 5-7 days and drainage if fluctuant.",
+   "w": [
+    "Wrong - folliculitis was the preceding stage; it is superficial without a nodule.",
+    "Wrong - a carbuncle has multiple draining tracts and is usually larger.",
+    "Wrong - erysipelas is a raised plaque, not a pointing nodule.",
+    "Correct - single deeper follicular abscess after folliculitis = furuncle.",
+    "Wrong - cellulitis is diffuse spreading erythema without a pointing abscess."
+   ]
+  },
+  {
+   "t": "NF",
+   "stem": "A 57-year-old diabetic man has 2 days of severe left leg pain after a minor scratch. The pain is far greater than the mild erythema suggests. The calf is tense and shiny with dusky patches, bullae and crepitus. Temperature is 39 °C, BP 90/55 mmHg. CRP 250 mg/L, WCC 26 × 10^9/L, Na 128 mmol/L, glucose 22 mmol/L. IV fluids and broad-spectrum antibiotics have been started.\nWhat is the most appropriate next step?",
+   "o": [
+    "Emergency radical debridement",
+    "MRI of the leg to define extent",
+    "IV antibiotics and review in 24 hours",
+    "Elevation and IV cloxacillin",
+    "Hyperbaric oxygen therapy first"
+   ],
+   "a": 0,
+   "e": "Pain out of proportion, bullae, dusky skin, crepitus, septic shock and a high LRINEC score indicate necrotising fasciitis. Mortality rises with every hour of delay, so after starting resuscitation and antibiotics the patient goes straight to theatre for emergent radical debridement, which also confirms the diagnosis (finger test, tissue biopsy). Imaging must not delay surgery, and there should be a low threshold for amputation if life-threatening.",
+   "w": [
+    "Correct - urgent radical surgical debridement is life-saving and diagnostic.",
+    "Wrong - imaging must never delay surgery in suspected necrotising fasciitis.",
+    "Wrong - antibiotics alone cannot penetrate necrotic fascia; waiting is fatal.",
+    "Wrong - this treats simple cellulitis and ignores the necrotising process.",
+    "Wrong - HBOT is at most an adjunct after debridement, never first."
+   ]
+  },
+  {
+   "t": "NF",
+   "stem": "A 61-year-old fisherman with alcoholic liver cirrhosis cut his hand while cleaning fish in seawater. Within 24 hours he has severe forearm pain, haemorrhagic bullae and hypotension. Surgical exploration shows grey necrotic fascia; Gram stain shows curved Gram-negative rods.\nWhich type of necrotising fasciitis is this?",
+   "o": [
+    "Type 1 polymicrobial",
+    "Type 2 group A streptococcal",
+    "Type 4 fungal",
+    "Clostridial myonecrosis",
+    "Type 3 Vibrio vulnificus"
+   ],
+   "a": 4,
+   "e": "Type 3 necrotising fasciitis is caused by marine Vibrio vulnificus, a Gram-negative rod, after seawater or seafood exposure, and is especially severe in patients with liver disease. Type 1 is polymicrobial (80-90%, diabetics and immunosuppressed), type 2 is monomicrobial group A strep in healthy people, and type 4 is fungal.",
+   "w": [
+    "Wrong - type 1 is polymicrobial, typically diabetics or post-operative perineum/abdomen.",
+    "Wrong - group A strep are Gram-positive cocci in chains.",
+    "Wrong - fungal infection would show hyphae, not Gram-negative rods.",
+    "Wrong - clostridia are Gram-positive rods causing gas gangrene.",
+    "Correct - marine exposure with Gram-negative rods = type 3 (Vibrio vulnificus)."
+   ]
+  },
+  {
+   "t": "NF",
+   "stem": "A 50-year-old diabetic man has a swollen, extremely painful thigh. The registrar is calculating his LRINEC score to support a suspicion of a necrotising soft tissue infection and has ordered several blood tests.\nWhich of the following results is NOT part of the LRINEC score?",
+   "o": [
+    "C-reactive protein",
+    "ESR",
+    "Serum sodium",
+    "Haemoglobin",
+    "Serum creatinine"
+   ],
+   "a": 1,
+   "e": "LRINEC (Laboratory Risk Indicator for Necrotising Fasciitis) uses six tests: CRP, white cell count, haemoglobin, sodium, creatinine and glucose. A score of 6 or more is suspicious and 8 or more strongly predictive. ESR is not included. A low score never excludes the diagnosis, which remains clinical and surgical.",
+   "w": [
+    "Wrong - CRP is a LRINEC component (≥ 150 mg/L scores heavily).",
+    "Correct - ESR is not part of the LRINEC score.",
+    "Wrong - hyponatraemia (< 135 mmol/L) is a component.",
+    "Wrong - low haemoglobin is a component.",
+    "Wrong - raised creatinine is a component."
+   ]
+  },
+  {
+   "t": "NF",
+   "stem": "A 34-year-old previously healthy woman has necrotising fasciitis of the arm after a minor cut. Tissue culture grows Streptococcus pyogenes sensitive to penicillin. She is on high-dose IV benzylpenicillin after debridement, and the consultant insists clindamycin is continued alongside it.\nWhat is the main reason for adding clindamycin?",
+   "o": [
+    "Reliable cover of MRSA strains",
+    "Better anaerobe cover than metronidazole",
+    "Suppression of bacterial toxin synthesis",
+    "Synergy with aminoglycosides on Gram-negatives",
+    "Superior penetration into abscess cavities"
+   ],
+   "a": 2,
+   "e": "Clindamycin inhibits bacterial protein synthesis and therefore shuts down production of streptococcal (and clostridial) exotoxins that drive shock and tissue necrosis. It works regardless of growth phase, whereas penicillin is less effective at high bacterial loads (Eagle effect). It is used with, not instead of, penicillin. Lecturer pearl: the toxin-suppression rationale is beyond the slides.",
+   "w": [
+    "Wrong - MRSA is not the issue here and clindamycin resistance is common.",
+    "Wrong - anaerobes are irrelevant in pure streptococcal infection.",
+    "Correct - clindamycin suppresses toxin production via protein synthesis inhibition.",
+    "Wrong - clindamycin has no useful Gram-negative synergy.",
+    "Wrong - penetration is not the main reason for its use in NF."
+   ]
+  },
+  {
+   "t": "NF",
+   "stem": "A 28-year-old previously healthy footballer grazed his thigh during a match. Thirty-six hours later he has rapidly spreading, exquisitely painful swelling of the thigh, fever of 39.5 °C and hypotension. He has no diabetes, no marine exposure and no recent surgery.\nWhich organism is most likely responsible?",
+   "o": [
+    "Clostridium perfringens",
+    "Vibrio vulnificus",
+    "Streptococcus pyogenes",
+    "Pseudomonas aeruginosa",
+    "Bacteroides fragilis"
+   ],
+   "a": 2,
+   "e": "Type 2 necrotising fasciitis is monomicrobial, most often group A beta-haemolytic streptococcus (Streptococcus pyogenes), and typically affects the limbs of young healthy people after minor trauma, often with toxic shock. Type 1 polymicrobial infection is the commonest overall but occurs in diabetics and immunosuppressed or post-operative patients. Vibrio follows marine exposure.",
+   "w": [
+    "Wrong - clostridia cause gas gangrene after contaminated deep wounds.",
+    "Wrong - Vibrio requires marine or seafood exposure.",
+    "Correct - healthy young patient with limb NF = type 2, group A strep.",
+    "Wrong - Pseudomonas is not a typical NF pathogen in healthy people.",
+    "Wrong - Bacteroides is part of type 1 polymicrobial infection."
+   ]
+  },
+  {
+   "t": "GAN",
+   "stem": "A 35-year-old construction worker sustains a crushed, soil-contaminated open wound of the calf. Twenty-four hours later he has severe pain, swelling, bronze discolouration with haemorrhagic blisters, and crackling on palpation. X-ray shows gas tracking along the muscle planes. He is tachycardic and confused.\nWhich organism is most likely responsible?",
+   "o": [
+    "Group A beta-haemolytic streptococcus",
+    "Staphylococcus aureus",
+    "Vibrio vulnificus",
+    "Pasteurella multocida",
+    "Clostridium perfringens"
+   ],
+   "a": 4,
+   "e": "Gas gangrene (clostridial myonecrosis) follows traumatic or surgical wounds contaminated with Clostridium species, chiefly C. perfringens, whose toxins destroy muscle and produce gas. Features are severe pain, swelling, discolouration, crepitus, haemorrhagic blisters and rapid progression with high mortality. Treatment is urgent surgical debridement or amputation plus broad-spectrum antibiotics.",
+   "w": [
+    "Wrong - group A strep causes type 2 NF but does not typically form gas.",
+    "Wrong - S. aureus causes abscesses and cellulitis, not gas-forming myonecrosis.",
+    "Wrong - Vibrio follows marine exposure.",
+    "Wrong - Pasteurella follows cat and dog bites.",
+    "Correct - soil-contaminated crush wound with gas in muscle = Clostridium perfringens."
+   ]
+  },
+  {
+   "t": "GAN",
+   "stem": "A 74-year-old diabetic smoker has a black, dry, shrivelled fourth toe with a clear line of demarcation. There is no discharge, odour or surrounding erythema. He is afebrile and WCC is normal. ABI is 0.4 and angiography shows focal stenoses of the superficial femoral and tibial arteries.\nWhat is the most appropriate management?",
+   "o": [
+    "Urgent guillotine amputation at the ankle",
+    "Revascularise; antiplatelet and statin",
+    "IV broad-spectrum antibiotics alone",
+    "Hyperbaric oxygen therapy course",
+    "Wet dressings to soften the eschar"
+   ],
+   "a": 1,
+   "e": "Dry gangrene is ischaemic necrosis without infection; the priority is to restore blood flow by endovascular or surgical revascularisation, with antiplatelet agents, statins and blood pressure control, before any limited amputation of the demarcated toe. Wet or gas gangrene, by contrast, needs urgent debridement or amputation and broad-spectrum antibiotics. ABI below 0.9 indicates arterial insufficiency (slide quotes < 1.0).",
+   "w": [
+    "Wrong - urgent major amputation is for life-threatening wet or gas gangrene.",
+    "Correct - dry gangrene: restore blood flow plus antiplatelet and statin therapy.",
+    "Wrong - there is no infection to treat.",
+    "Wrong - HBOT does not correct a proximal arterial stenosis.",
+    "Wrong - moistening dry gangrene risks converting it to wet gangrene."
+   ]
+  },
+  {
+   "t": "GAN",
+   "stem": "A 66-year-old woman with diabetes has a black second toe whose discolouration is now spreading onto the dorsum of the foot, which is swollen, moist and foul-smelling with pus. Temperature is 39 °C and WCC 21 × 10^9/L. Dorsalis pedis pulse is weak.\nWhat is the most appropriate management?",
+   "o": [
+    "Urgent debridement/amputation + IV antibiotics",
+    "Revascularisation first, then reassess in two weeks",
+    "Oral co-amoxiclav and outpatient wound review",
+    "Allow auto-amputation with dry dressings at home",
+    "Total contact cast and offloading for six weeks"
+   ],
+   "a": 0,
+   "e": "Ischaemic tissue that has become infected is wet gangrene, common in diabetics because of impaired healing. It is a source of spreading sepsis and needs urgent surgical debridement or amputation of the infected necrotic tissue together with broad-spectrum IV antibiotics; vascular assessment follows once sepsis is controlled. Diabetics with critical limb ischaemia have up to 50% amputation or death within a year.",
+   "w": [
+    "Correct - wet gangrene: urgent source control plus broad-spectrum IV antibiotics.",
+    "Wrong - delaying source control in a septic foot risks the limb and life.",
+    "Wrong - oral outpatient therapy is inadequate for a septic patient.",
+    "Wrong - auto-amputation is only acceptable for dry, uninfected gangrene.",
+    "Wrong - casting is contraindicated in an infected ischaemic foot."
+   ]
+  },
+  {
+   "t": "HND",
+   "stem": "A 29-year-old dental nurse has a 2-day history of burning pain in the tip of her right index finger. There are clusters of small vesicles containing clear fluid on an erythematous base. The pulp is soft, not tense, and there is no pus. She had a cold sore a week ago.\nWhat is the most appropriate management?",
+   "o": [
+    "Incision and drainage under digital block",
+    "IV cloxacillin and splintage",
+    "Fish-mouth incision of the pulp",
+    "Oral acyclovir; avoid incision",
+    "Lateral midaxial incision and packing"
+   ],
+   "a": 3,
+   "e": "Clear vesicles with burning pain and a soft pulp in a healthcare worker suggest herpetic whitlow (HSV), an important differential of felon and paronychia. It is self-limiting and treated with antivirals such as acyclovir; incision is contraindicated because it can spread the virus and cause bacterial superinfection. A felon, by contrast, is a tense, throbbing pulp abscess needing drainage.",
+   "w": [
+    "Wrong - incising a herpetic whitlow spreads infection and invites superinfection.",
+    "Wrong - this is a viral infection; antistaphylococcal therapy does not help.",
+    "Wrong - fish-mouth incisions are avoided even for felons.",
+    "Correct - herpetic whitlow: antiviral therapy and no incision.",
+    "Wrong - drainage incisions are for bacterial felons, not HSV."
+   ]
+  },
+  {
+   "t": "HND",
+   "stem": "A 35-year-old florist pricked the palmar aspect of her right index finger on a rose thorn 2 days ago. The finger is now painful, warm and red. You are examining for signs that indicate infection within a synovial sheath.\nWhich examination finding is the most specific early sign?",
+   "o": [
+    "Pain on passive extension",
+    "Fusiform swelling of the digit",
+    "Flexed resting posture",
+    "Tenderness along the tendon sheath",
+    "Erythema over the dorsum of the hand"
+   ],
+   "a": 0,
+   "e": "The four Kanavel signs of pyogenic flexor tenosynovitis are a flexed posture, fusiform swelling, tenderness along the flexor sheath and pain on passive extension. Pain on passive extension, caused by stretching the pus-filled sheath, is the earliest and most specific; fusiform swelling is the most common. Lecturer pearl: specificity ranking is beyond the slides.",
+   "w": [
+    "Correct - pain on passive extension is the earliest and most specific Kanavel sign.",
+    "Wrong - fusiform swelling is the most common sign but less specific.",
+    "Wrong - flexed posture is a Kanavel sign but less specific.",
+    "Wrong - sheath tenderness is a Kanavel sign but less specific than passive-stretch pain.",
+    "Wrong - dorsal erythema is non-specific and not a Kanavel sign."
+   ]
+  },
+  {
+   "t": "HND",
+   "stem": "A 45-year-old man with diabetes presents 4 days after a puncture wound to the palmar middle finger. The finger is held flexed with uniform sausage-like swelling, tenderness along the whole flexor sheath and severe pain on passive extension. Temperature is 38.4 °C.\nWhat is the most appropriate management?",
+   "o": [
+    "Oral co-amoxiclav and a resting splint",
+    "IV antibiotics; review in 48 hours",
+    "Elevation, warm soaks and analgesia",
+    "Flexor sheath drainage and irrigation",
+    "Ray amputation of the middle finger"
+   ],
+   "a": 3,
+   "e": "All four Kanavel signs indicate pyogenic flexor tenosynovitis. Non-operative IV antibiotics, splintage and elevation are only for very early cases, with review within 24 hours. Late presentation (here 4 days), a diabetic host or failure to improve in 24 hours mandates operative incision, drainage and irrigation of the flexor sheath followed by culture-specific IV antibiotics, to prevent tendon necrosis, rupture and stiffness.",
+   "w": [
+    "Wrong - oral outpatient treatment is inadequate for an established sheath infection.",
+    "Wrong - a 48-hour trial is too long and inappropriate for late presentation.",
+    "Wrong - supportive care alone allows tendon necrosis.",
+    "Correct - late PFFT: operative sheath drainage and irrigation plus IV antibiotics.",
+    "Wrong - amputation is not first-line for a salvageable finger."
+   ]
+  },
+  {
+   "t": "HND",
+   "stem": "A 52-year-old diabetic woman who checks her capillary glucose from her right thumb has severe throbbing pain in the thumb tip for 3 days. The pulp is tense, red and exquisitely tender with a fluctuant area; swelling stops at the distal interphalangeal flexion crease. X-ray is not required.\nWhat is the most appropriate management?",
+   "o": [
+    "Oral antibiotics and observation",
+    "Warm soaks and topical antibiotic",
+    "Lateral incision and drainage",
+    "Central fish-mouth incision of pulp",
+    "Elevation of the eponychial fold"
+   ],
+   "a": 2,
+   "e": "A tense, fluctuant pulp abscess whose swelling stops at the DIP crease is a felon, commonly from glucometer needlesticks in diabetics. Once there is a drainable abscess, bedside incision and drainage with antibiotics is required; a lateral (midaxial) incision avoids the tactile pulp and digital neurovascular bundles, and fish-mouth incisions are avoided because of scarring and instability. Oral antibiotics alone are only for early felons without abscess.",
+   "w": [
+    "Wrong - oral antibiotics alone suit only an early felon without an abscess.",
+    "Wrong - soaks and ointment are for paronychia without abscess.",
+    "Correct - drainable felon: lateral incision and drainage with antibiotics.",
+    "Wrong - fish-mouth incisions cause painful scars and an unstable pulp.",
+    "Wrong - lifting the eponychial fold drains a paronychia, not a pulp abscess."
+   ]
+  },
+  {
+   "t": "HND",
+   "stem": "A 30-year-old fishmonger had a fish bone puncture at the base of his thumb 3 days ago. The ball of the thumb and first web space are tense and swollen, the thumb is held abducted, and thumb flexion and opposition are very painful. The dorsum of the hand is puffy. Index, middle, ring and little fingers flex without pain.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Midpalmar space infection",
+    "Hypothenar space infection",
+    "Collar-button (web space) abscess",
+    "Pyogenic flexor tenosynovitis",
+    "Thenar space infection"
+   ],
+   "a": 4,
+   "e": "Deep fascial space infections are localised by which finger movements are painful: thenar space - pain on thumb flexion with swelling of the thenar eminence and first web and an abducted thumb; hypothenar - pain on little finger flexion; midpalmar - pain on middle, ring and little finger flexion. Dorsal swelling occurs in all because the dorsal skin is lax. Treatment is incision and drainage followed by IV antibiotics.",
+   "w": [
+    "Wrong - midpalmar infection causes pain on middle, ring and little finger flexion.",
+    "Wrong - hypothenar infection causes pain on little finger flexion.",
+    "Wrong - a collar-button abscess lies between two fingers and spreads them apart.",
+    "Wrong - flexor tenosynovitis gives Kanavel signs along a single digit.",
+    "Correct - painful thumb flexion with first web swelling and abducted thumb = thenar space."
+   ]
+  },
+  {
+   "t": "HND",
+   "stem": "A 46-year-old cook who washes dishes for many hours daily has had swollen, mildly tender nail folds on three fingers for 3 months. The cuticles are absent, the nail folds are thickened and boggy, and there is no pus. Nail plates show ridging.\nWhat is the most appropriate management?",
+   "o": [
+    "Oral cloxacillin for two weeks",
+    "Antifungal and avoid wet work",
+    "Incision of the lateral nail fold",
+    "Oral acyclovir for five days",
+    "Warm soaks with antibiotic ointment"
+   ],
+   "a": 1,
+   "e": "Paronychia lasting more than 6 weeks is chronic, often fungal (Candida albicans) or mixed, and linked to wet work that destroys the cuticle barrier. Management is to avoid trauma and moisture and to use topical or systemic antifungals such as itraconazole or terbinafine. Acute paronychia (under 6 weeks) is usually Staphylococcus aureus, treated with warm soaks or drainage if an abscess forms.",
+   "w": [
+    "Wrong - antistaphylococcal antibiotics treat acute bacterial paronychia.",
+    "Correct - chronic paronychia: antifungals and protection from wet work and trauma.",
+    "Wrong - there is no abscess to drain.",
+    "Wrong - antivirals treat herpetic whitlow.",
+    "Wrong - soaks with antibiotic ointment suit acute paronychia without abscess."
+   ]
+  },
+  {
+   "t": "HND",
+   "stem": "A 40-year-old intravenous drug user presented 5 days ago with an infected little finger flexor sheath and did not return. He now has a diffusely swollen, erythematous, shiny little finger AND thumb, with pain in the palm and distal forearm. The index, middle and ring fingers are spared.\nThrough which route has the infection most likely spread to the thumb?",
+   "o": [
+    "Midpalmar space via lumbrical canals",
+    "Thenar space via the first web",
+    "Dorsal subaponeurotic space",
+    "Carpal tunnel along the median nerve",
+    "Parona's space in the forearm"
+   ],
+   "a": 4,
+   "e": "The little finger sheath continues as the ulnar bursa and the thumb (FPL) sheath as the radial bursa. These bursae communicate through Parona's space, which lies in the distal forearm between FDP and pronator quadratus, so pus in one spreads to the other, producing a horseshoe abscess. Treatment is IV antibiotics, incision and drainage (Brunner incisions) and physiotherapy. Note: slide places Parona's space in the mid-palm; it lies in the distal forearm.",
+   "w": [
+    "Wrong - midpalmar spread would involve the middle and ring fingers.",
+    "Wrong - thenar space infection does not connect the little finger sheath to the thumb.",
+    "Wrong - the dorsal space does not link the flexor bursae.",
+    "Wrong - the carpal tunnel transmits the bursae but the communication occurs in Parona's space.",
+    "Correct - radial and ulnar bursae communicate via Parona's space = horseshoe abscess."
+   ]
+  },
+  {
+   "t": "HND",
+   "stem": "A 26-year-old woman had a manicure 3 days ago. Her right ring finger now has a red, swollen, throbbing lateral nail fold with a collection of yellow pus visible beneath the skin, which is fluctuant. The pulp is soft and there are no vesicles.\nWhat is the most appropriate management?",
+   "o": [
+    "Warm soaks and triple antibiotic ointment",
+    "Incision and drainage of the fold",
+    "Topical terbinafine for six weeks",
+    "Oral acyclovir and observation",
+    "Surgical removal of the whole nail"
+   ],
+   "a": 1,
+   "e": "Acute paronychia (under 6 weeks) is usually Staphylococcus aureus entering through a breached cuticle. Without an abscess, warm soaks 5-6 times daily for 10-15 minutes with antibiotic ointment suffice, but once pus has collected the abscess must be incised and drained by elevating the nail fold. Antifungals are for chronic paronychia and antivirals for herpetic whitlow.",
+   "w": [
+    "Wrong - soaks and ointment are only for paronychia without an abscess.",
+    "Correct - acute paronychia with abscess: incision and drainage.",
+    "Wrong - antifungals are for chronic (fungal) paronychia.",
+    "Wrong - antivirals treat herpetic whitlow, which has clear vesicles.",
+    "Wrong - total nail removal is excessive for a localised fold abscess."
+   ]
+  },
+  {
+   "t": "BITE",
+   "stem": "A 23-year-old man says he cut his hand on a door last night. There is a 5 mm laceration over the dorsum of the right fourth metacarpophalangeal joint with swelling and pain on movement of the finger. X-ray shows no fracture or foreign body. He later admits to punching someone in the mouth.\nWhat is the most appropriate next step?",
+   "o": [
+    "Primary wound suture and oral cloxacillin",
+    "Steri-strips and review in one week",
+    "Oral co-amoxiclav alone at home",
+    "Formal exploration and washout in theatre",
+    "Tetanus toxoid and a dry dressing"
+   ],
+   "a": 3,
+   "e": "A small laceration over the 3rd or 4th MCP joint from a clenched fist is a fight bite until proven otherwise. When the finger extends, the extensor tendon wound slides away and seals oral bacteria inside the joint, risking septic arthritis and osteomyelitis. Management is formal surgical exploration and washout, leaving the wound open, plus amoxicillin-clavulanate covering Eikenella corrodens, staphylococci and streptococci.",
+   "w": [
+    "Wrong - closing a contaminated bite traps bacteria; cloxacillin misses Eikenella.",
+    "Wrong - superficial closure ignores possible joint penetration.",
+    "Wrong - antibiotics alone do not clean a contaminated joint.",
+    "Correct - fight bite: formal exploration and washout plus co-amoxiclav.",
+    "Wrong - tetanus is needed but does not treat the joint contamination."
+   ]
+  },
+  {
+   "t": "BITE",
+   "stem": "A 30-year-old man presents 3 days after punching another man in the mouth, with a swollen, discharging wound over the third knuckle. Culture grows a slow-growing, fastidious Gram-negative rod that pits the agar and gives a bleach-like odour. It is resistant to clindamycin.\nWhich organism is this?",
+   "o": [
+    "Eikenella corrodens",
+    "Pasteurella multocida",
+    "Capnocytophaga canimorsus",
+    "Vibrio vulnificus",
+    "Bartonella henselae"
+   ],
+   "a": 0,
+   "e": "Human bite infections are polymicrobial, typically Eikenella corrodens, Staphylococcus aureus, viridans streptococci and anaerobes. Eikenella is a fastidious Gram-negative rod from human oral flora that corrodes (pits) agar; it is resistant to clindamycin and cloxacillin but sensitive to amoxicillin-clavulanate. Note: slide spells it 'Eikonella'. Lecturer pearl: laboratory features are beyond the slides.",
+   "w": [
+    "Correct - human oral flora, agar-pitting Gram-negative rod = Eikenella corrodens.",
+    "Wrong - Pasteurella comes from cat and dog bites.",
+    "Wrong - Capnocytophaga follows dog bites, especially in asplenic patients.",
+    "Wrong - Vibrio follows marine exposure.",
+    "Wrong - Bartonella causes cat-scratch disease."
+   ]
+  },
+  {
+   "t": "BITE",
+   "stem": "A 30-year-old woman was bitten on the dorsum of her hand by her own vaccinated pet cat 2 hours ago. There are two small, deep puncture wounds that have already sealed. There is no tendon injury. Her tetanus booster was 3 years ago and she has no drug allergies.\nApart from copious irrigation, which antibiotic is most appropriate?",
+   "o": [
+    "Oral cloxacillin 500 mg QID",
+    "Oral cephalexin 500 mg QID",
+    "Oral co-amoxiclav",
+    "Oral clindamycin alone",
+    "No antibiotics; observe only"
+   ],
+   "a": 2,
+   "e": "Cat teeth make deep punctures that seal immediately, inoculating bacteria into deep tissue, so cat bites carry a higher infection risk than dog bites. Infections are polymicrobial with anaerobes, and Pasteurella multocida is the commonest isolate from both cats and dogs. Prophylactic amoxicillin-clavulanate covers these; cloxacillin, cephalexin and clindamycin alone have poor Pasteurella activity. Give tetanus toxoid if due, and consider rabies prophylaxis if the animal's behaviour is suspicious.",
+   "w": [
+    "Wrong - cloxacillin has poor activity against Pasteurella.",
+    "Wrong - first-generation cephalosporins cover Pasteurella poorly.",
+    "Correct - amoxicillin-clavulanate covers Pasteurella and anaerobes.",
+    "Wrong - clindamycin alone misses Pasteurella.",
+    "Wrong - deep cat punctures are high-risk and warrant prophylaxis."
+   ]
+  }
+ ]
+}

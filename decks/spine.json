@@ -1,0 +1,1596 @@
+{
+ "id": "spine",
+ "title": "Spinal Disorders",
+ "short": "Spine",
+ "emoji": "🦴",
+ "source": "A8 Spinal Disorders.pdf",
+ "topics": {
+  "RED": "Approach to back pain & red flags",
+  "INJ": "Spinal injury",
+  "LIS": "Spondylolysis & spondylolisthesis",
+  "INF": "Spine infection (pyogenic & TB)",
+  "PID": "Prolapsed intervertebral disc",
+  "SCO": "Scoliosis",
+  "DEG": "Degenerative spine disease"
+ },
+ "cards": [
+  {
+   "t": "RED",
+   "q": "At what level does the adult spinal cord end, and what lies below it? Why does this matter clinically?",
+   "a": "• Cord ends (conus medullaris) at about **L1**\n• Below L1 the canal holds nerve roots only = **cauda equina**\n• Lesions below L1 give **lower motor neurone** signs (flaccid weakness, areflexia, saddle anaesthesia, bladder/bowel dysfunction)\n• Lesions above give **upper motor neurone** signs below the level",
+   "m": "Cord stops at L1 - below that it is a horse's tail (cauda equina), not a cord."
+  },
+  {
+   "t": "RED",
+   "q": "What does the mnemonic TUNA FISH stand for in back pain red flags?",
+   "a": "• **T**rauma\n• **U**nexplained weight / appetite loss\n• **N**eurological symptoms, **N**ight pain, **N**ot relieved by analgesics\n• **A**ge <20 or >50 years\n• **F**ever (infection: pyogenic or TB spondylitis)\n• **I**mmunocompromised\n• **S**addle anaesthesia, **S**exual/bowel/bladder dysfunction\n• **H**istory of cancer",
+   "m": "A TUNA FISH that smells bad = something serious lurking in the spine."
+  },
+  {
+   "t": "RED",
+   "q": "Mechanical vs inflammatory back pain: how do they differ?",
+   "a": "• **Mechanical**: precipitating injury, aching, worse with **activity**, relieved by **rest**, worse at end of day, transient stiffness\n• **Inflammatory**: insidious onset, **severe prolonged morning stiffness**, worse with **rest**, better with **activity/exercise**, early-morning and night pain\n• Inflammatory pattern -> ask about psoriasis, diarrhoea, urethral discharge, eye trouble (spondyloarthropathy)",
+   "m": "Mechanical = moves make it worse. Inflammatory = rest makes it rusty; exercise oils it."
+  },
+  {
+   "t": "RED",
+   "q": "Which red flags suggest a spinal fracture?",
+   "a": "• **Sudden onset** of severe **central** spinal pain\n• Pain **relieved by lying down**\n• History of **major trauma** (or minor trauma with **osteoporosis**)\n• Long-term **corticosteroid** use raises fracture risk",
+   "m": "Lying flat unloads a broken vertebra - so fracture pain eases on lying, cancer pain does not."
+  },
+  {
+   "t": "RED",
+   "q": "What are the red flags for cauda equina syndrome?",
+   "a": "• Severe or progressive **bilateral** leg neurological deficit\n• Recent-onset **urinary retention** and/or incontinence\n• Recent-onset **faecal incontinence**\n• **Perianal/perineal sensory loss** (saddle anaesthesia or paraesthesia)\n• Action: **urgent MRI** and surgical decompression",
+   "m": "Saddle, bladder, bowel, both legs - the 4 Bs of cauda equina (Bum, Bladder, Bowel, Bilateral legs)."
+  },
+  {
+   "t": "RED",
+   "q": "Which red flags in back pain point to a spinal infection?",
+   "a": "• **Fever**\n• Tuberculosis exposure or recent **UTI**\n• **Diabetes**\n• **IV drug use**\n• **HIV** infection\n• **Immunosuppressant** use",
+   "m": "Infection needs a door in (IVDU, UTI) and a weak guard (diabetes, HIV, steroids)."
+  },
+  {
+   "t": "RED",
+   "q": "Which features of back pain raise suspicion of spinal malignancy?",
+   "a": "• Age **50 or older**, gradual onset\n• Severe **unremitting** pain that persists when **supine**\n• Aching **night pain** disturbing sleep\n• Pain aggravated by straining; **thoracic** pain\n• **Unexplained weight loss**; past history of cancer",
+   "m": "Cancer pain never sleeps - it is worse at night and lying flat does not help."
+  },
+  {
+   "t": "RED",
+   "q": "Which primary cancers most commonly metastasise to the spine?",
+   "a": "• **P**rostate\n• **B**reast\n• **K**idney\n• **T**hyroid\n• **L**ung",
+   "m": "'Lead (Pb) Kettle (KTL)': Prostate, Breast, Kidney, Thyroid, Lung."
+  },
+  {
+   "t": "RED",
+   "q": "Which past medical and drug history items in a back pain patient each point to a specific spinal risk?",
+   "a": "• **Osteoporosis** -> fragility (compression) fracture\n• **Corticosteroids** -> increased fracture risk (and infection)\n• **Malignancy** -> spinal metastases\n• **Recent infection** -> discitis\n• Previous back surgery / scoliosis -> recurrence or deformity"
+  },
+  {
+   "t": "RED",
+   "q": "Which drugs are commonly prescribed for back pain (analgesic ladder from the slides)?",
+   "a": "• **Paracetamol**\n• **NSAIDs** (ibuprofen, diclofenac)\n• **Opioids** (codeine, tramadol, morphine)\n• **Benzodiazepines** (diazepam) for muscle spasm\n• **Pregabalin** for neuropathic/radicular pain",
+   "m": "Start simple (paracetamol, NSAID), step up (opioid), add spasm (diazepam) or nerve (pregabalin) cover."
+  },
+  {
+   "t": "INJ",
+   "q": "What are the three mechanisms of spinal injury, and which is the commonest cause of significant spinal damage?",
+   "a": "• **Traction/avulsion**: sudden muscle/ligament pull tears off bone (lumbar transverse processes, C7 spinous process)\n• **Direct**: penetrating (gunshot, knife) - rarely unstable but commonly cause **direct neurological injury**\n• **Indirect**: force transmitted to the spine - **most common** cause of significant damage (fall from height landing on feet, violent neck/trunk movement)",
+   "m": "The spine is usually broken from a distance - indirect force is the big one."
+  },
+  {
+   "t": "INJ",
+   "q": "What is a clay-shoveller's fracture?",
+   "a": "• **Avulsion** fracture of the **C7 (or C6/T1) spinous process**\n• Mechanism: **traction** from sudden forceful muscle pull (trapezius/rhomboids)\n• Stable; treated symptomatically",
+   "m": "Shovelling heavy clay - the muscles yank the C7 spinous tip off."
+  },
+  {
+   "t": "INJ",
+   "q": "Define a stable vs an unstable spinal injury.",
+   "a": "• **Stable**: vertebral components will **not be displaced by normal physiological loads**\n• **Unstable**: significant risk of **displacement** and damage to **neural tissue**\n• Instability dictates need for immobilisation/fixation"
+  },
+  {
+   "t": "INJ",
+   "q": "Outline the AO (two-column) classification of thoracolumbar injuries.",
+   "a": "• Two columns: **anterior** (vertebral body + disc) and **posterior** (pedicles, laminae, facets, posterior ligamentous complex)\n• **Type A**: anterior column **compression** - tend to be stable\n• **Type B**: anterior + posterior with **distraction** - unstable\n• **Type C**: double-column with **rotation or shear** - unstable",
+   "m": "A = Axial compression, B = Bending/distraction (Belt), C = Crazy rotation/shear. Instability rises A -> C."
+  },
+  {
+   "t": "INJ",
+   "q": "What structures form each column in the Denis three-column concept?",
+   "a": "• **Anterior**: ALL, anterior **two-thirds** of vertebral body and annulus\n• **Middle**: posterior **one-third** of body and annulus, posterior vertebral wall, **PLL**\n• **Posterior**: everything behind the PLL - pedicles, facets, neural arch, ligamentum flavum, interspinous/supraspinous ligaments\n• Note: slide spells it 'Dennis'; correct is **Denis** (Francis Denis)",
+   "m": "Two-thirds / one-third / back bits. The PLL belongs to the MIDDLE column."
+  },
+  {
+   "t": "INJ",
+   "q": "According to Denis, when is a thoracolumbar injury unstable, and which column is the key?",
+   "a": "• Injury of **two or more columns** = **unstable**\n• Risk: progressive deformity, instability and neurological compromise\n• The **middle column** is key - if it fails (e.g. burst), fragments can retropulse into the canal",
+   "m": "Middle column = the tiebreaker: once it goes, the spine goes."
+  },
+  {
+   "t": "INJ",
+   "q": "What is atlanto-occipital dislocation (AOD), and what causes it?",
+   "a": "• Disruption of **all ligaments between the atlas and occiput** (occipito-cervical dislocation/instability)\n• Traumatic: **high-energy** trauma (often fatal)\n• Acquired predisposition: **rheumatoid arthritis**, **Down syndrome** (ligamentous laxity)\n• Imaging: lateral C-spine radiograph, **sagittal CT** reconstruction (Traynelis classification)"
+  },
+  {
+   "t": "INJ",
+   "q": "How is Power's ratio calculated and interpreted?",
+   "a": "• Ratio = **BC / OA** on lateral C-spine\n• **B** = basion, **C** = anterior surface of posterior arch of C1\n• **O** = opisthion, **A** = posterior surface of anterior arch of C1\n• **<1 normal**; **>1 = anterior atlanto-occipital dislocation**",
+   "m": "'Big Cats Over All' - BC over OA; if the top number wins (>1), the skull has slid forward."
+  },
+  {
+   "t": "INJ",
+   "q": "What is the mechanism of a Jefferson fracture of C1?",
+   "a": "• **Axial load** on the vertex drives the occipital condyles into C1\n• The C1 ring **bursts outwards**, shearing the lateral masses outward with anterior and/or posterior arch fractures\n• Young: high-energy - classically **diving head first into shallow water**\n• Elderly: low-energy trauma on osteoarthritic neck",
+   "m": "Head hits pool floor -> C1 ring bursts like a stepped-on doughnut."
+  },
+  {
+   "t": "INJ",
+   "q": "What are the radiographic features of a Jefferson fracture?",
+   "a": "• **Open-mouth (odontoid) view**: lateral masses of C1 **displaced laterally** (overhang) relative to C2\n• **Lateral view**: widening of the **pre-dental space** (atlanto-dens interval)\n• CT confirms arch fractures\n• Lecturer pearl: combined overhang **>7 mm** (rule of Spence) suggests **transverse ligament rupture**",
+   "m": "Spence's 7: more than 7 mm of overhang = the transverse ligament has gone."
+  },
+  {
+   "t": "INJ",
+   "q": "Describe the Landells classification of C1 (atlas) fractures and their stability.",
+   "a": "• **Type 1**: isolated anterior **or** posterior arch fracture - **stable**\n• **Type 2**: Jefferson burst - bilateral anterior **and** posterior arch fractures - stable if **transverse ligament intact**, unstable if disrupted\n• **Type 3**: **unilateral lateral mass** fracture - stable if transverse ligament intact, unstable if disrupted",
+   "m": "The transverse ligament is the referee for C1 - it decides stable vs unstable."
+  },
+  {
+   "t": "INJ",
+   "q": "How is a C1 burst fracture managed according to transverse ligament status?",
+   "a": "• **Ligament intact (stable)**: **hard collar**\n• Unstable with **bony avulsion** of the ligament: **halo vest** (bone can heal)\n• Unstable with **intrasubstance (mid-substance) ligament tear**: **C1-C2 fusion** (ligament will not heal)",
+   "m": "Bone heals, ligament doesn't: bony avulsion -> halo; ligament tear -> fuse."
+  },
+  {
+   "t": "INJ",
+   "q": "What is a Hangman's fracture?",
+   "a": "• **Traumatic spondylolisthesis of the axis**\n• **Bilateral fracture of the pars interarticularis of C2**\n• Mechanism: **cervical hyperextension** (e.g. face/forehead hits windscreen; judicial hanging)\n• X-ray: C2 body slips **forward on C3**\n• Classified by **Levine and Edwards**",
+   "m": "The hangman's knot snaps the head back - both C2 pars break and C2 slides forward."
+  },
+  {
+   "t": "INJ",
+   "q": "Levine-Edwards types I and II Hangman's fracture: features and management?",
+   "a": "• **Type I**: <3 mm displacement, no angulation, C2-3 disc intact - **stable** -> **rigid collar 4-6 weeks**\n• **Type II**: >3 mm displacement, significant angulation, C2-3 disc disrupted - **unstable**\n• Type II <5 mm: **traction reduction then halo** 6-12 weeks; >5 mm: surgery or prolonged traction"
+  },
+  {
+   "t": "INJ",
+   "q": "Why must traction be AVOIDED in a type IIa Hangman's fracture, and what is type III?",
+   "a": "• **Type IIa**: **flexion-distraction** injury - **severe angulation, minimal displacement**\n• Traction **distracts** the already-distracted segment and worsens displacement\n• Treat with gentle **axial load + hyperextension** reduction, then **compression halo** 6-12 weeks\n• **Type III**: **C2-3 facet dislocation** - highly unstable -> **surgical reduction + stabilisation**",
+   "m": "IIa = Angulated and Already distracted - never pull on it."
+  },
+  {
+   "t": "INJ",
+   "q": "What is the Anderson-D'Alonzo classification of odontoid (dens) fractures?",
+   "a": "• **Type I**: avulsion of the **tip** of the dens\n• **Type II**: fracture at the **junction of the dens and body** of C2 (base)\n• **Type III**: fracture extends into the **body** of C2\n• Imaging: **open-mouth** and **lateral** views; CT",
+   "m": "I = tip, II = waist (neck), III = body - going down the peg."
+  },
+  {
+   "t": "INJ",
+   "q": "Which odontoid fracture type has the highest risk of non-union, and why?",
+   "a": "• **Type II** (base of dens)\n• Lecturer pearl: **watershed blood supply** and small area of contact with little cancellous bone\n• Risk higher if elderly, displacement >5 mm, posterior displacement, smoker\n• Often needs **halo** or **surgical fixation** (odontoid screw / C1-C2 fusion); type III usually heals in collar/halo",
+   "m": "Type II is the troublesome middle child - it refuses to unite."
+  },
+  {
+   "t": "INJ",
+   "q": "What is a thoracolumbar compression (wedge) fracture?",
+   "a": "• **Flexion-compression** forces -> failure of the **anterior column**; **middle column intact**\n• Elderly **osteoporotic** with low-energy trauma; young need high energy\n• **Wedge**-shaped collapse: loss of **anterior** vertebral height\n• Usually **stable**; neurological injury **uncommon** (posterior wall intact)",
+   "m": "Wedge = front squashed, back wall standing - so the cord stays safe."
+  },
+  {
+   "t": "INJ",
+   "q": "How are minimal and moderate (20-40%) wedge compression fractures managed?",
+   "a": "• **Minimal**: bed rest **1-2 weeks**, analgesia, gradual mobilisation, **no brace**\n• **Moderate (20-40%)** with intact posterior ligamentous complex: bed rest ~1 week, then **thoracolumbar brace / body cast in extension** for **8-12 weeks**\n• At **3 months**, out-of-brace **flexion-extension X-rays**; stop brace if no instability"
+  },
+  {
+   "t": "INJ",
+   "q": "What does >40% loss of anterior vertebral height in a wedge fracture imply, and how is it managed?",
+   "a": "• Suggests **posterior ligamentous complex (PLC) disruption** -> **unstable**\n• Confirm with **clinical exam** (interspinous tenderness/gap) and **MRI**\n• Treatment: **posterior spinal fixation** to stabilise and prevent progressive kyphosis",
+   "m": "Past 40%, the hinge at the back has torn open - fix it from behind."
+  },
+  {
+   "t": "INJ",
+   "q": "What is a burst fracture?",
+   "a": "• **High-energy axial compression** -> failure of **anterior and middle** columns\n• Commonest at the **thoracolumbar junction (T10-L2)**\n• Fall from height, diving, object striking head\n• **Retropulsed fragments** may compress cord/roots -> neurological deficit\n• **Unstable** (middle column involved)",
+   "m": "Burst = vertebra explodes in all directions, including backwards into the canal."
+  },
+  {
+   "t": "INJ",
+   "q": "Which radiographic features distinguish a burst fracture from a simple wedge compression fracture?",
+   "a": "• **AP view**: **widened interpedicular distance**, marked loss of body height\n• **Lateral view**: **retropulsion** of fragment into canal (canal stenosis), loss of **posterior** wall height, increased kyphosis\n• Wedge: only **anterior** height loss, posterior wall intact\n• CT best defines retropulsion",
+   "m": "Pedicles pushed apart on AP = the body has burst sideways too."
+  },
+  {
+   "t": "INJ",
+   "q": "What is a Chance fracture? Give its mechanism, imaging and key association.",
+   "a": "• **Flexion-distraction** (jack-knife / seat-belt) injury of thoracolumbar spine\n• **Lap belt**: pelvis restrained, trunk flexes forward over belt; fulcrum **anterior** to the spine -> posterior elements pulled apart\n• X-ray: **horizontal split** through spinous process, laminae, **pedicles**, body; **widened interspinous distance**\n• Unstable (all three columns); associated **bowel/mesenteric injury**",
+   "m": "Lap belt bruise on the tummy + back pain = look for a Chance fracture AND a gut injury."
+  },
+  {
+   "t": "INJ",
+   "q": "How does management differ between a bony and a ligamentous Chance injury?",
+   "a": "• **Bony (all-bone)**: bone heals well -> bed rest, **thoracolumbar brace** in extension, close follow-up (fixation optional for early mobilisation)\n• **Ligamentous**: ligaments heal unreliably -> **posterior instrumented fusion** (pedicle screws and rods)",
+   "m": "Bone knits, ligaments don't - same rule as C1."
+  },
+  {
+   "t": "INJ",
+   "q": "What is a thoracolumbar fracture-dislocation and its mechanism?",
+   "a": "• The **most severe** thoracolumbar injury: fracture + **translation** of one vertebra on the next\n• **All three columns** disrupted -> grossly unstable, high risk of **cord injury**\n• **High-energy** flexion-rotation and **shear** (MVA, falls, sports, violence); often with head/chest/abdominal injuries\n• Note: one slide copy-pastes the lap-belt (Chance) mechanism; correct mechanism is **flexion-rotation/shear**, not pure flexion-distraction",
+   "m": "Fracture-dislocation = AO type C: Crazy rotation and shear."
+  },
+  {
+   "t": "LIS",
+   "q": "Define spondylolysis and spondylolisthesis.",
+   "a": "• **Spondylolysis**: defect or stress fracture of the **pars interarticularis**\n• **Spondylolisthesis**: **anterior displacement** of a vertebra relative to the one below\n• Greek: spondylos = spine, listhesis = to slip",
+   "m": "Lysis = Lose the pars (break). Listhesis = sLip forward."
+  },
+  {
+   "t": "LIS",
+   "q": "What is the commonest level and commonest cause of spondylolisthesis?",
+   "a": "• Commonest level: **L5/S1**\n• Commonest cause: **spondylolysis** - pars defect (**isthmic**, Wiltse type II)\n• Isthmic type typical in **young, active** patients (gymnasts, fast bowlers - repeated hyperextension)"
+  },
+  {
+   "t": "LIS",
+   "q": "What is the Wiltse classification of spondylolisthesis?",
+   "a": "• **I Dysplastic** - congenital deficiency of facets/sacrum\n• **II Isthmic** - pars defect; **most common**, young, L5/S1\n• **III Degenerative** - facet arthritis, pars intact; **L4/5, older women**\n• **IV Traumatic** - acute fracture other than pars\n• **V Pathological** - tumour, infection, bone disease\n• **VI Iatrogenic** - post-laminectomy",
+   "m": "Lecturer pearl (slide was image-only; slide spells 'Wiltze' - correct Wiltse). 'Di Is De Tra Pa I': Dysplastic, Isthmic, Degenerative, Traumatic, Pathological, Iatrogenic."
+  },
+  {
+   "t": "LIS",
+   "q": "Degenerative (Wiltse III) vs isthmic (Wiltse II) spondylolisthesis - key contrasts?",
+   "a": "• **Degenerative**: **older women**, **L4/5**, **pars intact**, facet arthritis -> slip rarely >grade I-II, often **spinal stenosis/neurogenic claudication**\n• **Isthmic**: **adolescents/young**, **L5/S1**, **pars defect**, can progress to high grade\n• Lecturer pearl",
+   "m": "Degenerative = grandma at L4/5. Isthmic = gymnast at L5/S1."
+  },
+  {
+   "t": "LIS",
+   "q": "What is the Meyerding grading of spondylolisthesis?",
+   "a": "• Based on % slip of upper vertebra over width of the one below (lateral X-ray)\n• **Grade I**: <25%\n• **Grade II**: 25-50%\n• **Grade III**: 50-75%\n• **Grade IV**: 75-100%\n• **Grade V**: >100% = **spondyloptosis** (complete slip)",
+   "m": "Lecturer pearl (slide image-only; slide spells 'Meyerdig' - correct Meyerding). Quarter steps: each grade = another 25%."
+  },
+  {
+   "t": "LIS",
+   "q": "What are the look, feel and move findings in spondylolisthesis?",
+   "a": "• **Look**: anteriorly shifted posture, **increased lumbar lordosis**; **Phalen-Dickson sign** (stands with hips and knees flexed)\n• **Feel**: tenderness, palpable **step** deformity\n• **Move**: **extension** restricted/painful; **flexion** may relieve symptoms\n• Neuro: reduced power, sensation, reflexes per level",
+   "m": "The slip makes a step you can feel, and bending forward takes the pressure off."
+  },
+  {
+   "t": "LIS",
+   "q": "What is the stork test and what does a positive result suggest?",
+   "a": "• Patient stands on **one leg** and **hyperextends** the lumbar spine (± rotation)\n• Pain on the stance side = positive\n• Suggests **pars interarticularis defect** (spondylolysis)",
+   "m": "Stand like a stork, bend back - a cracked pars complains."
+  },
+  {
+   "t": "LIS",
+   "q": "What is the 'Scotty dog' sign?",
+   "a": "• Seen on **oblique** lumbar radiograph\n• Posterior elements look like a Scottish terrier: nose = transverse process, eye = pedicle, ear = superior facet, **neck = pars interarticularis**, front leg = inferior facet\n• **Spondylolysis**: a lucent **collar** across the dog's neck\n• Lateral view shows the forward slip and arch elongation; MRI/CT most commonly used",
+   "m": "A broken pars = the Scotty dog wearing a collar."
+  },
+  {
+   "t": "LIS",
+   "q": "What is the conservative management of symptomatic spondylolisthesis?",
+   "a": "• Short-term bed rest ± **lumbar corset**\n• **Activity restriction** (avoid hyperextension sports)\n• **Physiotherapy** (core strengthening)\n• **Analgesia**: NSAIDs, muscle relaxants"
+  },
+  {
+   "t": "LIS",
+   "q": "What are the indications for surgery in spondylolisthesis, and what operations are done?",
+   "a": "• **Disability** interfering with work/recreation despite conservative care\n• Slip **>50% and progressing**\n• **Significant neurological compression** / deficit\n• Operations: **spinal fusion** (e.g. **TLIF**) ± **decompression**",
+   "m": "Operate for the 3 Ps: Pain that disables, Progression past 50%, Pressure on nerves."
+  },
+  {
+   "t": "INF",
+   "q": "Which organisms cause pyogenic spondylodiscitis, and which is commonest?",
+   "a": "• **Staphylococcus aureus** - commonest\n• Staph epidermidis (post-op/implants)\n• **E. coli** (urinary source)\n• Streptococcus species",
+   "m": "Staph aureus is king of bone infection everywhere - spine included."
+  },
+  {
+   "t": "INF",
+   "q": "Describe the pathogenesis of haematogenous pyogenic spondylodiscitis.",
+   "a": "• Organisms seed the **vascular arcades of the vertebral metaphysis** (near endplate)\n• **Bacterial enzymes destroy the endplate** -> spread into the **disc** -> into the **adjacent endplate**\n• Hence **two vertebrae + intervening disc** involved\n• Sources: **haematogenous**, direct inoculation (surgery, injection), contiguous spread",
+   "m": "Pyogenic eats the disc early - 'pus digests the disc'."
+  },
+  {
+   "t": "INF",
+   "q": "What are the risk factors for pyogenic spondylodiscitis?",
+   "a": "• **IV drug abuse**\n• Recent systemic infection (**UTI, pneumonia**, skin infection)\n• **Diabetes**\n• Malignancy\n• **Immunodeficiency** / immunosuppression; organ transplant"
+  },
+  {
+   "t": "INF",
+   "q": "What are the complications of spread in pyogenic spondylodiscitis?",
+   "a": "• **Posterior**: through posterior cortex -> **epidural abscess** -> cord / cauda equina compression, neurological deficit\n• **Bone**: destruction -> vertebral **collapse** -> **kyphosis**\n• **Lateral/anterior**: **psoas**, retroperitoneal, subphrenic, paravertebral, retropharyngeal, mediastinal abscess",
+   "m": "Back = epidural abscess, Down = collapse, Sideways = psoas."
+  },
+  {
+   "t": "INF",
+   "q": "What are the clinical features of pyogenic spondylodiscitis?",
+   "a": "• **Severe localised back pain**, insidious, persistent, worse with activity\n• **Fever**, chills, malaise\n• Neurological symptoms: radiculopathy, myelopathy\n• Exam: distressed, **localised spinal tenderness**, **paraspinal spasm**, reduced ROM, sensory/motor deficit"
+  },
+  {
+   "t": "INF",
+   "q": "Which laboratory investigations are used in suspected pyogenic spondylodiscitis?",
+   "a": "• **FBC (WCC)**, **CRP**, **ESR** - usually raised; CRP also tracks treatment response\n• **Blood cultures** (ideally before antibiotics)\n• **Biopsy** (CT-guided or open) for culture and histology if cultures negative\n• Lecturer pearl: in a stable patient, withhold antibiotics until cultures/biopsy taken",
+   "m": "Bugs first, drugs second - unless the patient is septic."
+  },
+  {
+   "t": "INF",
+   "q": "What does each imaging modality show in pyogenic spondylodiscitis, and which is investigation of choice?",
+   "a": "• **X-ray**: **disc space narrowing**, endplate erosion, loss of body height, kyphosis (Lecturer pearl: lags 2-3 weeks behind infection)\n• **CT**: bony destruction, subtle pathological fractures, instability; guides biopsy\n• **MRI** = **investigation of choice**: early detection, soft tissue/abscess; **T1 hypointense, T2 hyperintense** disc and adjacent bodies",
+   "m": "X-ray is late, CT shows bone, MRI sees it first."
+  },
+  {
+   "t": "INF",
+   "q": "What is the antibiotic regimen for pyogenic spondylodiscitis?",
+   "a": "• **Septic/critically ill**: immediate empirical broad-spectrum, e.g. **vancomycin + ceftriaxone**\n• Otherwise organism-specific once cultured and sensitivities known\n• **2 weeks IV**, then if clinically improved switch to **oral** to complete **6 weeks total**\n• Resistant organisms: **linezolid, daptomycin**",
+   "m": "'2 then 6': two weeks in the vein, six weeks in total."
+  },
+  {
+   "t": "INF",
+   "q": "What supportive and operative treatments are used in pyogenic spondylodiscitis?",
+   "a": "• **Supportive**: bracing, bed rest, physiotherapy and rehabilitation\n• **Operative**: neurological **decompression**, surgical **debridement**, spinal **stabilisation**, open biopsy\n• Lecturer pearl: operate for **neurological deficit / epidural abscess**, instability or deformity, or failure of antibiotics"
+  },
+  {
+   "t": "INF",
+   "q": "What are the clinical features of spinal TB (Pott's disease)?",
+   "a": "• **Back pain**, localised swelling/tenderness, paraspinal spasm\n• **Kyphosis / gibbus** deformity (anterior collapse)\n• **Neurological deficit** - limb weakness -> if untreated bladder/bowel dysfunction, sensory loss, **Pott's paraplegia**\n• **Cold abscess**\n• **Constitutional**: malaise, low-grade fever, **night sweats, weight loss**",
+   "m": "Pott's 4: Pain, Pointed gibbus, Paraplegia, Pus that is cold."
+  },
+  {
+   "t": "INF",
+   "q": "What is a cold abscess in spinal TB?",
+   "a": "• A collection of caseous TB pus **without signs of acute inflammation** (no heat, redness, marked tenderness)\n• Forms near the lesion and tracks along tissue planes - e.g. **psoas abscess** pointing in the **groin/thigh**, paravertebral, retropharyngeal (cervical)\n• Pyogenic abscesses, in contrast, are hot and tender",
+   "m": "Cold because TB is slow and sneaky - no inflammatory fireworks."
+  },
+  {
+   "t": "INF",
+   "q": "Which laboratory findings support spinal TB, and what confirms it?",
+   "a": "• **FBC**: lymphocytosis, **low Hb**\n• **ESR** elevated\n• **PPD (Mantoux)** positive\n• Confirmation: **tissue biopsy** - **AFB stain** and **TB culture** (Lecturer pearl: plus histology for caseating granuloma and GeneXpert)"
+  },
+  {
+   "t": "INF",
+   "q": "What are the early and late radiological features of spinal TB?",
+   "a": "• **Early X-ray**: anterior vertebral body involvement with **sparing of the disc space**\n• **Late**: lucency and collapse of adjacent bodies, **disc destruction**, severe **kyphosis**\n• **MRI**: septated, smooth-walled **paravertebral abscess** with **subligamentous** spread, endplate disruption, cord oedema/myelomalacia",
+   "m": "TB tunnels under the ligaments and leaves the disc alone at first."
+  },
+  {
+   "t": "INF",
+   "q": "How is spinal TB treated?",
+   "a": "• **Intensive phase: RHZE for 2 months** (rifampicin, isoniazid, pyrazinamide, ethambutol)\n• **Continuation: RH** - slide states 9-18 months; Malaysian TB CPG treats bone/joint TB **6-9 months total**, spinal TB often extended (~9-12 months)\n• Supportive: **spinal orthosis**, bed rest\n• Surgery: anterior decompression/corpectomy + **strut graft** ± posterior instrumentation; kyphectomy/osteotomy for deformity",
+   "m": "2 months of 4 drugs (RHZE), then 2 drugs (RH) for the long haul."
+  },
+  {
+   "t": "INF",
+   "q": "Pyogenic spondylodiscitis vs spinal TB - key contrasts?",
+   "a": "• **Onset**: pyogenic acute, toxic, high fever; TB **insidious**, night sweats, weight loss\n• **Disc**: pyogenic **destroys disc early**; TB **spares disc early**\n• **Abscess**: pyogenic hot; TB **cold**, large paravertebral, subligamentous spread\n• **Deformity**: TB -> **gibbus/kyphosis** common\n• Treatment: 6 weeks antibiotics vs months of anti-TB therapy",
+   "m": "Pyogenic Punches the disc; TB Tiptoes around it."
+  },
+  {
+   "t": "PID",
+   "q": "What is a prolapsed intervertebral disc and who gets it?",
+   "a": "• Displacement of the **nucleus pulposus** beyond the disc space due to underlying **disc degeneration**\n• Peak **4th-5th decades**\n• **Male:female 3:1**\n• Risk factors: **heavy lifting with torsion**, strenuous activity, **occupational driving** (vibration)"
+  },
+  {
+   "t": "PID",
+   "q": "At which levels does lumbar PID most commonly occur, and which root does a posterolateral L4/5 disc compress?",
+   "a": "• Commonest: **L4/5** and **L5/S1**\n• Lecturer pearl: a **posterolateral** disc compresses the **traversing (lower)** root\n• L4/5 disc -> **L5 root**; L5/S1 disc -> **S1 root**\n• A far-lateral (foraminal) disc hits the **exiting** root (L4/5 -> L4)",
+   "m": "Posterolateral disc picks on the root passing below it (the number below)."
+  },
+  {
+   "t": "PID",
+   "q": "What are the stages of disc herniation?",
+   "a": "• **Protrusion**: disc bulges, **annulus intact**\n• **Extrusion**: annulus **perforated**, nucleus pushed out into the epidural space\n• **Sequestration**: fragment **separated** and free-floating in the canal -> significant pain and neuro symptoms",
+   "m": "Bulge -> Burst -> Breakaway."
+  },
+  {
+   "t": "PID",
+   "q": "What is the typical history of a lumbar PID?",
+   "a": "• **Sudden** pain after **lifting** a heavy object\n• Axial **low back pain** followed by **radicular** (buttock and leg) pain\n• Leg pain **worse with coughing/straining** (raised intrathecal pressure)\n• Relief lying **supine with hips and knees flexed**\n• Cauda equina in **1-10%**: bilateral leg pain, weakness, saddle anaesthesia, bladder/bowel",
+   "m": "Cough makes the leg zing - a classic disc clue."
+  },
+  {
+   "t": "PID",
+   "q": "What are the examination findings in lumbar PID?",
+   "a": "• **Inspection**: limited lumbar ROM; patient **leans away from the side of radiculopathy** (sciatic list / sciatic scoliosis)\n• **Palpation**: midline tenderness, **paravertebral spasm**\n• **Neuro**: weakness, paraesthesia/numbness, **depressed reflexes** in the affected dermatome/myotome\n• Nerve tension tests: SLR, crossed SLR, femoral stretch"
+  },
+  {
+   "t": "PID",
+   "q": "How is the straight leg raise (SLR) performed and interpreted, and what is the crossed SLR?",
+   "a": "• Supine, passively raise the straight leg; positive if **radicular pain below the knee** at **30-70°**\n• Tests **L5/S1** roots (sciatic nerve); sensitive but less specific\n• Enhanced by ankle dorsiflexion (Bragard)\n• **Crossed SLR**: raising the **unaffected** leg reproduces pain in the affected leg - **highly specific** for disc herniation",
+   "m": "Lecturer pearl (special-test slide was image-only). SLR = Sensitive, crossed SLR = Specific."
+  },
+  {
+   "t": "PID",
+   "q": "What are the femoral stretch test and Spurling's test used for?",
+   "a": "• **Femoral stretch test**: patient prone, flex knee / extend hip -> anterior thigh pain = **upper lumbar roots L2-L4** (high lumbar disc)\n• **Spurling's test**: neck extended, rotated and laterally flexed to the affected side + axial compression -> arm pain = **cervical radiculopathy** (foraminal compression)",
+   "m": "Lecturer pearl. Femoral stretch for the front-thigh roots; Spurling squeezes the cervical foramen."
+  },
+  {
+   "t": "PID",
+   "q": "What are the motor, sensory and reflex findings of an L4 root lesion?",
+   "a": "• **Motor**: knee extension (quadriceps), **ankle dorsiflexion** (tibialis anterior)\n• **Sensory**: **medial** leg / medial malleolus\n• **Reflex**: **knee jerk** reduced",
+   "m": "Lecturer pearl. L4 = 'knee on the floor': knee jerk, medial shin."
+  },
+  {
+   "t": "PID",
+   "q": "What are the motor, sensory and reflex findings of an L5 root lesion?",
+   "a": "• **Motor**: **extensor hallucis longus** (big toe extension), ankle dorsiflexion, hip abduction\n• **Sensory**: lateral leg and **dorsum of foot** / first web space\n• **Reflex**: **no reliable reflex** (reflexes usually normal)",
+   "m": "Lecturer pearl. L5 = 'big toe up to the sky' - EHL, dorsum of foot, no reflex."
+  },
+  {
+   "t": "PID",
+   "q": "What are the motor, sensory and reflex findings of an S1 root lesion?",
+   "a": "• **Motor**: **plantarflexion** (gastrocnemius-soleus) - can't tiptoe; eversion\n• **Sensory**: **lateral foot**, sole and little toe\n• **Reflex**: **ankle jerk** reduced/absent",
+   "m": "Lecturer pearl. 'S1 - buckle my shoe': ankle jerk 1-2 (S1-S2)."
+  },
+  {
+   "t": "PID",
+   "q": "What imaging is used in prolapsed intervertebral disc?",
+   "a": "• **Plain radiographs**: to **exclude bony pathology** (fracture, tumour, infection, spondylolisthesis) - cannot show the disc\n• **MRI**: **default investigation** - shows herniation, root compression, level"
+  },
+  {
+   "t": "PID",
+   "q": "What is the conservative management of lumbar PID?",
+   "a": "• Short bed rest only, heat/ice, short course **analgesics** and **NSAIDs**, muscle relaxants, antidepressants\n• **Advice to stay active**, exercise therapy, physiotherapy; massage, manipulation, traction, acupuncture\n• **Nerve root corticosteroid injection**\n• Most improve within **6-12 weeks**"
+  },
+  {
+   "t": "PID",
+   "q": "What are the indications for surgery in lumbar PID, and why is cauda equina an emergency?",
+   "a": "• **Absolute**: **cauda equina syndrome**\n• **Relative**: neurological deterioration, persistent pain, failed conservative treatment\n• Operation: **discectomy** / laminectomy\n• Cauda equina: **urgent MRI**, decompression ideally **<48 h** (Lecturer pearl) - delay risks permanent bladder, bowel and sexual dysfunction",
+   "m": "Cauda equina = cut now; everything else = can wait and try conservative."
+  },
+  {
+   "t": "SCO",
+   "q": "Define scoliosis and the radiographic threshold for diagnosis.",
+   "a": "• **Lateral curvature** of the spine **with vertebral rotation** within the curve\n• Diagnosed when **Cobb angle ≥10°** on standing radiograph",
+   "m": "Scoliosis is 3-D: bend sideways AND twist."
+  },
+  {
+   "t": "SCO",
+   "q": "Structural vs postural (non-structural) scoliosis - what is the difference?",
+   "a": "• **Structural**: **fixed, irreversible** curve with **structural vertebral changes** and **rotation** -> rib hump persists on forward bending\n• **Postural/non-structural**: **secondary/compensatory** to a cause outside the spine; **no rotation**; corrects when the cause is removed or on bending",
+   "m": "Structural = stuck. Postural = passes."
+  },
+  {
+   "t": "SCO",
+   "q": "What are the causes of structural scoliosis and which is commonest?",
+   "a": "• **Idiopathic** - **commonest (80-85%)**, often familial\n• **Congenital** - vertebral anomalies\n• **Neuromuscular** - CP, polio, muscular dystrophy etc.\n• **Syndromic** - e.g. Marfan, neurofibromatosis"
+  },
+  {
+   "t": "SCO",
+   "q": "What are the features of adolescent idiopathic scoliosis?",
+   "a": "• Onset **≥10 years**; commonest idiopathic type (~90%)\n• Mostly **girls**\n• Primary **thoracic** curves usually **convex to the right**; lumbar curves to the left\n• Most curves **<20°** resolve or stay unchanged\n• Lecturer pearl: a **left thoracic** curve is atypical -> MRI for **syrinx / cord anomaly**",
+   "m": "Right thoracic is Right (typical); Left thoracic, Look for a lesion."
+  },
+  {
+   "t": "SCO",
+   "q": "How do juvenile and infantile idiopathic scoliosis differ from adolescent?",
+   "a": "• **Juvenile (4-9 years)**: uncommon, similar features but **worse prognosis**; brace may control curve until age 10\n• **Infantile (<4 years)**: rare; **90% resolve spontaneously**, but progressive curves can become **very severe**",
+   "m": "Earlier onset = more growth left = more chance to worsen (unless it is infantile and resolves)."
+  },
+  {
+   "t": "SCO",
+   "q": "What is Adams forward bend test and how is it interpreted?",
+   "a": "• Patient bends forward at the waist, examiner looks from behind/front\n• **Rib hump or lumbar prominence** = vertebral **rotation** = **structural** scoliosis\n• Curve **disappears** = **non-structural / postural** scoliosis",
+   "m": "Bend forward: the hump stays = structural; the curve goes = postural."
+  },
+  {
+   "t": "SCO",
+   "q": "What should you look for on general examination of a child with scoliosis?",
+   "a": "• Expose trunk; front, side, back: **shoulder asymmetry**, **scapular prominence**, **uneven waistline**, trunk shift\n• Skin: **hair tufts**, **sacral dimples**, pigmentation (café-au-lait = neurofibromatosis) - spinal dysraphism clues\n• **Leg length** (compensatory curve)\n• **Neurological** exam: power, reflexes, gait"
+  },
+  {
+   "t": "SCO",
+   "q": "What X-rays are needed in scoliosis and how is severity measured?",
+   "a": "• **Standing full-length spine** X-ray, **AP and lateral**, cervical to sacrum\n• **Cobb angle**: angle between lines along the endplates of the **most tilted** upper and lower end vertebrae (Lecturer pearl)\n• ≥10° = scoliosis; classed mild, moderate, severe"
+  },
+  {
+   "t": "SCO",
+   "q": "What is Risser's sign and how does it relate to curve progression?",
+   "a": "• Grade of **ossification of the iliac crest apophysis** on pelvic X-ray = **skeletal maturity**\n• Graded **0-5**\n• **0-2**: active growth -> **higher** progression risk\n• **3-5**: growth slowing/complete -> **lower** risk",
+   "m": "Low Risser = Lots of growth Remaining = Risk."
+  },
+  {
+   "t": "SCO",
+   "q": "What is the significance of vertebral rotation in scoliosis?",
+   "a": "• Present in **structural**, absent in postural scoliosis\n• Causes **rib hump** and asymmetry on forward bending\n• Graded on X-ray by the **Nash-Moe** method (pedicle position)\n• Reflects **severity and rigidity** of the curve"
+  },
+  {
+   "t": "SCO",
+   "q": "When is bracing used in idiopathic scoliosis, and what determines success?",
+   "a": "• Growing child with curve **20-30°** (slides); many guidelines use **25-40°** with Risser 0-2\n• Worn **>20 hours a day** - removed only for sport/bathing\n• **Compliance** determines success; aim is to **halt progression**, not correct\n• Braces: **Boston** (TLSO), **Milwaukee** (CTLSO)\n• Exercise alone does not change the curve",
+   "m": "Brace the 20s-30s in a growing child, 20+ hours a day."
+  },
+  {
+   "t": "SCO",
+   "q": "What are the indications for surgery in idiopathic scoliosis and the approaches used?",
+   "a": "• Curves **predicted >50° at maturity** in growing patients (many use **>45-50°**)\n• Established large, **cosmetically unacceptable** curves\n• **Posterior instrumentation**: segmental pedicle screws/hooks + precontoured rods, correction via mobile discs\n• **Anterior surgery**: disc excision, vertebral body screws + rod - useful in **thoracolumbar** curves",
+   "m": "Past 50 the curve keeps marching even after growth stops - so fuse."
+  },
+  {
+   "t": "SCO",
+   "q": "What are the features and associations of congenital scoliosis?",
+   "a": "• **Failure of formation** (**hemivertebra**) - more common\n• **Failure of segmentation** (**unsegmented bar**) - less common\n• Skin: hair, dimples, fat pad over spine\n• Associated **renal, cardiac and neurological** anomalies -> renal USG, echo, MRI spine\n• Progressive curves **do not respond to bracing**; may need **hemivertebra resection and fusion**",
+   "m": "Hemivertebra = half a brick in the wall; check the kidneys and heart too (they form at the same time)."
+  },
+  {
+   "t": "SCO",
+   "q": "What are the features and management of neuromuscular scoliosis?",
+   "a": "• Typically a **long C-shaped curve**, flexible then **rigid**\n• Progresses to **pelvic obliquity** -> **sitting problems** and pressure sores\n• Causes: poliomyelitis, **cerebral palsy**, syringomyelia, Friedreich's ataxia, **muscular dystrophies**\n• Mild: no treatment; moderate: as idiopathic; severe with lost sitting balance: **seating support** first, then **surgery**",
+   "m": "Weak trunk muscles let the whole spine sag into one long C."
+  },
+  {
+   "t": "SCO",
+   "q": "What are the types of non-structural scoliosis?",
+   "a": "• **Postural**: mild, usually convex to left, **disappears on forward bending**, does not progress\n• **Compensatory**: due to **pelvic tilt** (leg length discrepancy, hip disease) - **disappears on sitting** if short leg is the cause\n• **Sciatic**: painful **paraspinal spasm** from nerve irritation (e.g. **PID**) - resolves when cause treated",
+   "m": "Postural (bend it away), Compensatory (sit it away), Sciatic (treat the disc away)."
+  },
+  {
+   "t": "DEG",
+   "q": "What is degenerative spine disease and how can it present?",
+   "a": "• **Age-related** degeneration of discs, vertebrae, facet joints and ligaments\n• Presentations: **local neck/back pain**, **nerve-root compression** (radiculopathy), **spinal-cord compression** (myelopathy), **spinal stenosis** (neurogenic claudication)"
+  },
+  {
+   "t": "DEG",
+   "q": "Describe the pathophysiology of cervical spondylosis.",
+   "a": "• Ageing -> **disc degeneration** (loss of water, loss of height)\n• -> Increased stress on **facet joints** -> facet degeneration and **osteophytes**\n• -> Narrowing of **canal** and **intervertebral foramina**\n• -> **Axial neck pain**, **radiculopathy** (foramen) or **myelopathy** (canal)",
+   "m": "Dry disc -> sinks -> facets overload -> spurs grow -> spaces shrink."
+  },
+  {
+   "t": "DEG",
+   "q": "What are the features of axial neck pain in cervical spondylosis?",
+   "a": "• Usually **>40 years**\n• **Insidious** neck pain, worse with sustained posture\n• Stiffness, **reduced ROM**, headache, muscle spasm, **grinding (crepitus)** on movement\n• Exam: posterior/lateral neck and periscapular tenderness and spasm"
+  },
+  {
+   "t": "DEG",
+   "q": "What are the features of cervical radiculopathy?",
+   "a": "• **Radiating arm pain** in a dermatomal pattern\n• **Dermatomal numbness**, **myotomal weakness**\n• **Reduced reflexes** at that level (LMN)\n• **Spurling's test positive**\n• Lecturer pearl: C6 - thumb, biceps/brachioradialis reflex; C7 - middle finger, triceps reflex",
+   "m": "Radiculopathy = a single Root = one stripe of pain down the arm."
+  },
+  {
+   "t": "DEG",
+   "q": "What are the symptoms of cervical myelopathy?",
+   "a": "• **Numb, weak, clumsy hands** - loss of **dexterity** (handwriting, buttoning)\n• **Gait imbalance**, falls\n• **Hyperreflexia**\n• Late: bladder dysfunction",
+   "m": "Myelopathy = clumsy hands + wobbly legs."
+  },
+  {
+   "t": "DEG",
+   "q": "Which signs should you elicit for cervical myelopathy?",
+   "a": "• **Hoffmann sign** (flick middle finger DIP -> thumb/index flexion)\n• **Babinski** (upgoing plantar)\n• **Ankle clonus**\n• Abnormal **tandem gait**\n• Increased lower limb **tone and reflexes**; hand wasting",
+   "m": "Hoffmann in the hand, Babinski in the foot - UMN at both ends."
+  },
+  {
+   "t": "DEG",
+   "q": "Cervical radiculopathy vs cervical myelopathy - how do you tell them apart?",
+   "a": "• **Radiculopathy**: **root** in the foramen; unilateral dermatomal arm pain; **LMN** signs - reduced reflex at that level; Spurling positive\n• **Myelopathy**: **cord** in the canal; bilateral clumsy hands, gait disturbance; **UMN** signs - hyperreflexia, Hoffmann, Babinski, clonus\n• Myelopathy is typically **progressive** -> surgical decompression",
+   "m": "Root = Reduced reflexes; Cord = Cranked-up reflexes."
+  },
+  {
+   "t": "DEG",
+   "q": "What imaging findings are seen in cervical spondylosis, and how is it managed?",
+   "a": "• **X-ray**: narrowed disc spaces, **anterior osteophytes** (bony spurs); **MRI** for cord/root compression\n• **Conservative**: analgesia, NSAIDs, heat, massage, **short-term soft collar**, physiotherapy, posture correction\n• **Surgery**: **ACDF** (anterior cervical discectomy and fusion), posterior foraminotomy, disc replacement, **laminoplasty**"
+  },
+  {
+   "t": "DEG",
+   "q": "What is lumbar spinal stenosis and what causes it?",
+   "a": "• **Narrowing** of the space around the lumbar spinal nerves (canal, lateral recess, foramina)\n• Ageing -> disc degeneration -> **facet overload, osteophytes**, ligamentum flavum thickening, instability (± degenerative spondylolisthesis)\n• Results in **radiculopathy** and **neurogenic claudication**\n• **MRI** = gold standard"
+  },
+  {
+   "t": "DEG",
+   "q": "What are the clinical and radiographic features of lumbar spondylosis with stenosis?",
+   "a": "• **Mechanical low back pain** (severity follows facet arthritis)\n• **Radicular** symptoms: buttock pain radiating down the leg, numbness, tingling, weakness\n• **Neurogenic claudication**\n• Exam: lumbar ROM, neuro exam, **SLR**, gait, **peripheral pulses** (exclude vascular cause)\n• Lateral X-ray: **narrowed disc spaces**, **anterior osteophytes**; **MRI** gold standard",
+   "m": "Older patient + legs give out on walking + good pulses = think stenosis."
+  },
+  {
+   "t": "DEG",
+   "q": "Neurogenic vs vascular claudication - how do you distinguish them?",
+   "a": "• **Neurogenic**: buttock/leg pain, heaviness, tingling on **standing or walking**; **relieved by sitting or bending forward** (**shopping-trolley sign**); can cycle uphill; **pulses present**\n• **Vascular**: calf cramp at a **fixed distance**, relieved by **standing still**; posture irrelevant; **weak/absent pulses**, low ABPI\n• Always check **peripheral pulses**",
+   "m": "Neurogenic needs to sit and lean; vascular just needs to stop."
+  },
+  {
+   "t": "DEG",
+   "q": "How is lumbar spinal stenosis managed?",
+   "a": "• **Conservative**: reassurance and education, analgesia, **NSAIDs**, **non-impact exercise**, aerobic fitness, activity modification, **epidural steroid injection**\n• **Surgical** (failed conservative, disabling claudication, deficit): **posterior decompression** - laminectomy, **undercutting facetectomies**; **fusion** added if instability"
+  }
+ ],
+ "mcq": [
+  {
+   "t": "RED",
+   "stem": "A 45-year-old warehouse worker presents with 5 days of low back pain that began after lifting heavy boxes. The pain radiates to both buttocks. He is afebrile. Lumbar flexion is limited by pain and there is paraspinal spasm.\nWhich additional finding would most strongly warrant emergency MRI of the spine?",
+   "o": [
+    "Pain radiating into the right buttock",
+    "Paraspinal muscle spasm on palpation",
+    "Reduced perianal sensation",
+    "Pain worse on bending and lifting",
+    "Limited lumbar flexion on examination"
+   ],
+   "a": 2,
+   "e": "Perianal (saddle) sensory loss is a red flag for cauda equina syndrome, which needs emergency MRI and decompression. Buttock radiation, spasm, pain on bending and restricted movement are all features of ordinary mechanical back pain and do not change urgency on their own.",
+   "w": [
+    "Wrong - buttock referral is common in mechanical pain and is not a red flag.",
+    "Wrong - spasm is a non-specific feature of mechanical back pain.",
+    "Correct - saddle anaesthesia signals cauda equina compression: emergency MRI.",
+    "Wrong - pain on bending and lifting is a classic mechanical pattern.",
+    "Wrong - restricted flexion is expected with acute mechanical pain."
+   ]
+  },
+  {
+   "t": "RED",
+   "stem": "A 24-year-old man has 6 months of low back pain. He has 90 minutes of stiffness every morning, the pain is worse after sitting still and improves with exercise, and it wakes him in the early hours. Two years ago he had a painful red eye treated by an ophthalmologist.\nWhat is the most likely nature of his back pain?",
+   "o": [
+    "Mechanical facet joint pain",
+    "Inflammatory spondyloarthropathy",
+    "Discogenic pain from a disc prolapse",
+    "Myofascial lumbar strain",
+    "Neurogenic claudication"
+   ],
+   "a": 1,
+   "e": "Insidious onset, prolonged morning stiffness, worsening with rest, improvement with exercise and night pain are the inflammatory pattern. The prior anterior uveitis points to a seronegative spondyloarthropathy such as ankylosing spondylitis, which is why the history should ask about eye trouble, psoriasis, diarrhoea and urethral discharge.",
+   "w": [
+    "Wrong - mechanical pain worsens with activity and eases with rest.",
+    "Correct - inflammatory pattern plus uveitis suggests spondyloarthropathy.",
+    "Wrong - disc pain is usually sudden after lifting with radicular leg pain.",
+    "Wrong - a strain is activity-related and self-limiting, not stiff for 90 minutes.",
+    "Wrong - neurogenic claudication is leg pain on walking in older adults."
+   ]
+  },
+  {
+   "t": "RED",
+   "stem": "A 72-year-old woman with rheumatoid arthritis on long-term prednisolone develops sudden severe central mid-back pain while lifting a pot. The pain eases when she lies flat. She is afebrile with no weight loss. There is focal tenderness over T12 and neurological examination is normal.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Pyogenic vertebral osteomyelitis",
+    "Spinal metastatic deposit",
+    "Thoracic disc prolapse",
+    "Vertebral fragility fracture",
+    "Acute aortic dissection"
+   ],
+   "a": 3,
+   "e": "Sudden severe central pain relieved by lying down is the red-flag pattern for spinal fracture, and corticosteroids plus age and RA predispose to osteoporosis. Metastatic pain is gradual, unremitting and persists lying supine; infection brings fever and raised markers.",
+   "w": [
+    "Wrong - infection is insidious with fever and is not relieved by lying flat.",
+    "Wrong - metastatic pain is gradual, at night, and persists when supine.",
+    "Wrong - thoracic disc prolapse is rare and gives radicular or cord signs.",
+    "Correct - steroids plus sudden pain eased by lying = osteoporotic compression fracture.",
+    "Wrong - dissection gives tearing pain radiating to the back, unaffected by posture."
+   ]
+  },
+  {
+   "t": "RED",
+   "stem": "A 30-year-old nurse has had 3 days of low back pain after lifting a patient. There is no radiation, no fever, weight loss, trauma or bladder symptoms. Examination shows paraspinal tenderness with normal neurology and a negative straight leg raise.\nWhat is the most appropriate management?",
+   "o": [
+    "Analgesia and advice to keep active",
+    "Urgent MRI of the lumbosacral spine",
+    "Strict bed rest for two weeks",
+    "Lumbar spine radiographs with ESR and CRP",
+    "Referral for a spinal surgery opinion"
+   ],
+   "a": 0,
+   "e": "Without red flags, acute mechanical back pain is managed with simple analgesia (paracetamol, NSAIDs) and advice to stay active. Imaging and blood tests are driven by red flags, not by pain alone. Prolonged bed rest delays recovery.",
+   "w": [
+    "Correct - no red flags: reassure, simple analgesia, stay active.",
+    "Wrong - MRI is reserved for red flags or persistent radicular symptoms.",
+    "Wrong - prolonged bed rest worsens outcome; only brief rest is advised.",
+    "Wrong - investigations are not indicated without red flags.",
+    "Wrong - there is no surgical problem in uncomplicated mechanical pain."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 25-year-old motorcyclist is brought in after a high-speed collision. He is intubated with a rigid collar in place. On the lateral cervical radiograph, the distance from the basion to the posterior arch of C1 divided by the distance from the opisthion to the anterior arch of C1 is 1.4.\nWhat is the most likely injury?",
+   "o": [
+    "Jefferson burst fracture of C1",
+    "Type II odontoid fracture",
+    "Hangman's fracture of C2",
+    "Atlantoaxial rotatory subluxation",
+    "Atlanto-occipital dislocation"
+   ],
+   "a": 4,
+   "e": "This is Power's ratio (BC/OA). A value below 1 is normal; above 1 indicates anterior atlanto-occipital dislocation, a high-energy disruption of all ligaments between the occiput and atlas. RA and Down syndrome predispose to non-traumatic occipitocervical instability.",
+   "w": [
+    "Wrong - Jefferson fracture is diagnosed by lateral mass overhang on the open-mouth view.",
+    "Wrong - odontoid fractures are seen as a fracture line at the dens base.",
+    "Wrong - Hangman's shows C2 slipping forward on C3 with pars fractures.",
+    "Wrong - rotatory subluxation is assessed with CT, not Power's ratio.",
+    "Correct - Power's ratio >1 = atlanto-occipital dislocation."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 19-year-old man dived head first into a shallow river. He has severe upper neck pain but is neurologically intact. The open-mouth view shows both lateral masses of C1 overhanging C2, with a combined overhang of 8 mm. CT confirms two fractures of the anterior arch and two of the posterior arch.\nThe integrity of which structure most determines stability and management?",
+   "o": [
+    "Transverse atlantal ligament",
+    "Anterior longitudinal ligament",
+    "Alar ligaments",
+    "Ligamentum flavum",
+    "Posterior longitudinal ligament"
+   ],
+   "a": 0,
+   "e": "This is a Jefferson (Landells type 2) burst fracture from axial loading. Stability depends on the transverse ligament: intact means stable (hard collar), disrupted means unstable. Lecturer pearl: combined overhang above about 7 mm (rule of Spence) suggests transverse ligament rupture, confirmed on MRI.",
+   "w": [
+    "Correct - transverse ligament status decides stable vs unstable C1 burst.",
+    "Wrong - the ALL is part of the anterior column of the subaxial spine.",
+    "Wrong - alar ligaments limit rotation but do not define Jefferson stability.",
+    "Wrong - ligamentum flavum is a posterior element, not relevant here.",
+    "Wrong - the PLL is not the stabiliser of the C1-C2 complex."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 34-year-old man sustains bilateral anterior and posterior arch fractures of C1 after a fall onto his head. Combined lateral mass overhang is 9 mm. MRI shows a mid-substance tear of the transverse atlantal ligament with no bony avulsion.\nWhat is the most appropriate definitive management?",
+   "o": [
+    "Hard cervical collar for 6-8 weeks",
+    "Halo vest immobilisation for 12 weeks",
+    "Skull traction followed by a soft collar",
+    "Posterior C1-C2 instrumented fusion",
+    "Analgesia and early mobilisation"
+   ],
+   "a": 3,
+   "e": "An unstable Jefferson fracture is managed by the type of transverse ligament failure. Bony avulsion can heal, so a halo vest is used; an intrasubstance ligament tear will not heal reliably, so C1-C2 fusion is needed. A collar alone is only for injuries with an intact ligament.",
+   "w": [
+    "Wrong - a collar is for stable fractures with an intact transverse ligament.",
+    "Wrong - halo suits bony avulsion, which can heal; torn ligament cannot.",
+    "Wrong - traction and a soft collar do not restore C1-C2 stability.",
+    "Correct - intrasubstance ligament tear -> C1-C2 fusion.",
+    "Wrong - this is an unstable upper cervical injury needing stabilisation."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 33-year-old driver has neck pain after a road traffic crash. He is neurologically intact. CT shows bilateral fractures of the C2 pars interarticularis with marked angulation of C2 on C3 but minimal translation. The C2-3 facets are not dislocated.\nWhich intervention should be AVOIDED?",
+   "o": [
+    "Halo vest immobilisation",
+    "Cervical skull traction",
+    "Gentle extension with axial compression",
+    "MRI of the cervical spine",
+    "Rigid collar during transfer"
+   ],
+   "a": 1,
+   "e": "Severe angulation with minimal displacement is a Levine-Edwards type IIa Hangman's fracture, a flexion-distraction pattern. Traction distracts it further and can worsen displacement, so it is avoided. It is reduced with gentle axial load and hyperextension, then held in a compression halo for 6-12 weeks.",
+   "w": [
+    "Wrong - a halo is the definitive treatment after reduction.",
+    "Correct - traction over-distracts type IIa and is contraindicated.",
+    "Wrong - this is the recommended reduction manoeuvre for type IIa.",
+    "Wrong - MRI is a safe and useful assessment of disc and ligament.",
+    "Wrong - a rigid collar is appropriate spinal protection during transfer."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 40-year-old construction worker falls 8 m from scaffolding. He has complete paraplegia below T12. CT shows T12 translated forwards and rotated on L1, with fractures through the vertebral body, pedicles, laminae and transverse processes and dislocated facets.\nWhich mechanism best explains this injury?",
+   "o": [
+    "Pure axial compression load",
+    "Lap-belt flexion-distraction",
+    "Low-energy flexion-compression",
+    "Hyperextension of the trunk",
+    "Flexion-rotation and shear"
+   ],
+   "a": 4,
+   "e": "Translation with fractures of all three columns is a fracture-dislocation (AO type C), produced by high-energy flexion-rotation and shear. It is grossly unstable with a high rate of cord injury. Note: one slide copy-pastes the lap-belt (Chance) mechanism under fracture-dislocation; that mechanism describes flexion-distraction injuries, not translation.",
+   "w": [
+    "Wrong - axial compression gives a burst fracture without translation.",
+    "Wrong - lap-belt flexion-distraction gives a Chance fracture (slide slip).",
+    "Wrong - low-energy flexion-compression gives a stable wedge fracture.",
+    "Wrong - hyperextension does not produce rotatory translation with dislocated facets.",
+    "Correct - rotation and shear disrupt all three columns: fracture-dislocation."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "An 81-year-old woman falls at home and strikes her forehead. She has neck pain and is neurologically intact. CT shows a transverse fracture through the junction of the dens and the body of C2, displaced 6 mm posteriorly.\nWhich classification and type best describe this injury?",
+   "o": [
+    "Anderson-D'Alonzo type I",
+    "Levine-Edwards type II",
+    "Anderson-D'Alonzo type II",
+    "Anderson-D'Alonzo type III",
+    "Landells type 3"
+   ],
+   "a": 2,
+   "e": "Odontoid fractures follow Anderson-D'Alonzo: I is tip avulsion, II is at the dens-body junction, III extends into the C2 body. Type II has the highest non-union rate (watershed blood supply), especially in the elderly with displacement >5 mm, so it often needs fixation. Levine-Edwards grades Hangman's fractures and Landells grades C1 fractures.",
+   "w": [
+    "Wrong - type I is an avulsion of the dens tip.",
+    "Wrong - Levine-Edwards classifies Hangman's (C2 pars) fractures.",
+    "Correct - fracture at the dens-body junction = type II, high non-union risk.",
+    "Wrong - type III extends down into the cancellous C2 body.",
+    "Wrong - Landells classifies atlas (C1) fractures."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 52-year-old labourer was digging hard clay with a shovel when he felt a sudden snap and pain at the base of his neck. He is neurologically intact. A lateral radiograph shows an isolated fracture of the tip of the C7 spinous process.\nWhich mechanism of spinal injury does this represent?",
+   "o": [
+    "Direct blow to the spine",
+    "Muscular traction avulsion",
+    "Indirect axial compression",
+    "Hyperextension of the neck",
+    "Flexion-distraction of the neck"
+   ],
+   "a": 1,
+   "e": "The clay-shoveller's fracture is a traction or avulsion injury: forceful muscle pull tears off the C7 spinous process. The same mechanism avulses lumbar transverse processes. It is stable and is treated symptomatically.",
+   "w": [
+    "Wrong - no direct blow occurred; penetrating or direct injuries rarely isolate the spinous tip.",
+    "Correct - muscle pull avulses the spinous process (clay-shoveller's).",
+    "Wrong - axial compression produces burst or Jefferson fractures.",
+    "Wrong - hyperextension injures anterior structures or the C2 pars.",
+    "Wrong - flexion-distraction disrupts the whole posterior column, not just the tip."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 28-year-old man falls 4 m from a roof and lands on his feet. He has thoracolumbar pain and bilateral heel tenderness. The AP radiograph shows widening of the interpedicular distance at L1; the lateral view shows loss of anterior and posterior vertebral body height.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Stable wedge compression fracture",
+    "Chance flexion-distraction fracture",
+    "Fracture-dislocation of T12/L1",
+    "Transverse process avulsion",
+    "Burst fracture of L1"
+   ],
+   "a": 4,
+   "e": "Axial loading from a fall onto the feet causes a burst fracture, failing the anterior and middle columns, most often at T10-L2. Widened interpedicular distance and loss of posterior wall height separate it from a wedge fracture, where only the anterior column fails. Retropulsion makes it unstable and can cause neurological deficit.",
+   "w": [
+    "Wrong - a wedge fracture spares the posterior wall and pedicle spacing.",
+    "Wrong - a Chance fracture shows horizontal splitting and widened interspinous gap.",
+    "Wrong - there is no translation of one vertebra on another.",
+    "Wrong - transverse process avulsion does not widen the pedicles.",
+    "Correct - axial load + widened interpedicular distance = burst fracture."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 45-year-old man falls from a ladder. CT shows a T12 wedge fracture with 50% loss of anterior vertebral height and an intact posterior vertebral wall. There is marked tenderness and a palpable gap between the T12 and L1 spinous processes. He is neurologically intact.\nWhat is the most appropriate management?",
+   "o": [
+    "Posterior instrumented spinal fixation",
+    "Bed rest, then mobilise without a brace",
+    "Thoracolumbar brace in extension for 12 weeks",
+    "Body cast in flexion for 8 weeks",
+    "Analgesia and clinic review in 6 weeks"
+   ],
+   "a": 0,
+   "e": "Loss of more than 40% of anterior height suggests the posterior ligamentous complex has failed, which a palpable interspinous gap supports; MRI confirms it. The injury is then unstable and posterior fixation is preferred to prevent progressive kyphosis. Bracing suits 20-40% wedges with an intact PLC.",
+   "w": [
+    "Correct - >40% collapse with PLC disruption = unstable: fix posteriorly.",
+    "Wrong - unbraced mobilisation is only for minimal wedge fractures.",
+    "Wrong - bracing is for moderate 20-40% wedges with an intact PLC.",
+    "Wrong - casting in flexion would worsen the kyphosis.",
+    "Wrong - an unstable injury needs stabilising, not observation."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 35-year-old man had an L1 wedge fracture with 30% anterior height loss; MRI showed an intact posterior ligamentous complex. He has worn a thoracolumbar brace in extension for 3 months, is pain-free and neurologically normal.\nWhich investigation should be done before the brace is discontinued?",
+   "o": [
+    "MRI of the thoracolumbar spine",
+    "CT of the thoracolumbar spine",
+    "Isotope bone scan",
+    "Flexion-extension radiographs",
+    "DEXA bone densitometry scan"
+   ],
+   "a": 3,
+   "e": "Moderate wedge fractures are braced for about 8-12 weeks. At 3 months, flexion-extension radiographs are taken out of the brace to look for dynamic instability; if none, the brace is stopped. Static imaging cannot show instability under load.",
+   "w": [
+    "Wrong - static MRI cannot show movement under load.",
+    "Wrong - CT shows bony union but not dynamic instability.",
+    "Wrong - a bone scan stays active for months and does not assess stability.",
+    "Correct - dynamic films out of the brace confirm stability before stopping.",
+    "Wrong - densitometry is not the stability check in a young trauma patient."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 26-year-old woman was a rear-seat passenger wearing only a lap belt in a head-on collision. She has a transverse band of bruising across the lower abdomen and severe back pain. CT shows a horizontal fracture passing through the L2 spinous process, laminae, pedicles and vertebral body.\nWhich associated injury must be actively excluded?",
+   "o": [
+    "Bilateral calcaneal fractures",
+    "Posterior hip dislocation",
+    "Hollow viscus injury",
+    "Hangman's fracture of C2",
+    "Fracture of the sternum"
+   ],
+   "a": 2,
+   "e": "A lap belt acts as a fulcrum anterior to the spine, producing a flexion-distraction (Chance) fracture. The same mechanism compresses the abdominal contents against the spine, so small bowel and mesenteric injuries are classically associated and can be missed. Calcaneal fractures go with burst fractures from falls.",
+   "w": [
+    "Wrong - calcaneal fractures accompany axial-load burst fractures from falls.",
+    "Wrong - posterior hip dislocation is a dashboard injury of the front-seat occupant.",
+    "Correct - the seat-belt fulcrum also injures bowel and mesentery.",
+    "Wrong - Hangman's is a hyperextension injury of the neck.",
+    "Wrong - sternal fracture goes with a shoulder belt or steering wheel."
+   ]
+  },
+  {
+   "t": "INJ",
+   "stem": "A 30-year-old man has back pain after a lap-belt crash. CT shows no fracture but there is focal kyphosis at L1/2 and widening of the interspinous distance. MRI shows disruption of the supraspinous and interspinous ligaments, facet capsules and the L1/2 disc. He is neurologically intact.\nWhat is the most appropriate management?",
+   "o": [
+    "Thoracolumbar brace for 12 weeks",
+    "Hyperextension body cast for 3 months",
+    "Bed rest and early physiotherapy",
+    "Posterior instrumented fusion",
+    "Anterior corpectomy and strut graft"
+   ],
+   "a": 3,
+   "e": "This is a purely ligamentous flexion-distraction (Chance-type) injury. Ligaments heal unreliably, so non-operative care risks late instability and kyphosis; posterior pedicle screw and rod fusion is required. A purely bony Chance fracture, by contrast, often heals in an extension brace.",
+   "w": [
+    "Wrong - bracing suits bony Chance fractures that heal reliably.",
+    "Wrong - casting relies on healing that torn ligaments will not achieve.",
+    "Wrong - this ignores a three-column unstable injury.",
+    "Correct - ligamentous Chance injury -> posterior instrumented fusion.",
+    "Wrong - the anterior column is not crushed; the failure is posterior tension."
+   ]
+  },
+  {
+   "t": "LIS",
+   "stem": "A 15-year-old female gymnast has 3 months of low back pain that is worse when arching her back. Standing on her right leg and extending her spine reproduces the pain. Neurological examination is normal. AP and lateral lumbar radiographs appear normal.\nWhich radiographic projection is most likely to show the lesion?",
+   "o": [
+    "Oblique views of the lumbar spine",
+    "Dynamic flexion-extension lateral views",
+    "Coned lateral view of L5-S1",
+    "Standing full-length spine AP view",
+    "Ferguson angled AP pelvis view"
+   ],
+   "a": 0,
+   "e": "Repeated hyperextension and a positive stork test suggest a pars interarticularis stress defect (spondylolysis). On oblique views the posterior elements form the Scotty dog, and the pars defect appears as a collar on its neck. CT or MRI are now often used for confirmation.",
+   "w": [
+    "Correct - oblique films show the collared Scotty dog of a pars defect.",
+    "Wrong - dynamic views assess instability of an established slip.",
+    "Wrong - a coned lateral may show a slip but often misses an isolated pars defect.",
+    "Wrong - full-length films are for scoliosis assessment.",
+    "Wrong - the Ferguson view is for the sacroiliac joints and lumbosacral junction."
+   ]
+  },
+  {
+   "t": "LIS",
+   "stem": "A 68-year-old woman has 2 years of low back pain and bilateral leg heaviness when walking, relieved by sitting. Pedal pulses are normal. Lateral radiograph shows L4 displaced forwards on L5 by 15%, with an intact pars interarticularis and marked facet joint arthritis.\nWhich Wiltse type of spondylolisthesis is this?",
+   "o": [
+    "Isthmic (type II)",
+    "Dysplastic (type I)",
+    "Degenerative (type III)",
+    "Traumatic (type IV)",
+    "Pathological (type V)"
+   ],
+   "a": 2,
+   "e": "Wiltse type III (degenerative) slips occur at L4/5 in older women, from facet arthritis with an intact pars, and often cause spinal stenosis with neurogenic claudication. Isthmic (type II) slips have a pars defect, occur at L5/S1 and present younger. Lecturer pearl: Wiltse table was image-only; slide spells it 'Wiltze'.",
+   "w": [
+    "Wrong - isthmic slips have a pars defect, typically at L5/S1 in the young.",
+    "Wrong - dysplastic slips are congenital facet/sacral deficiency in children.",
+    "Correct - older woman, L4/5, intact pars, facet arthritis = degenerative.",
+    "Wrong - no acute injury or fracture is described.",
+    "Wrong - no tumour, infection or bone disease is present."
+   ]
+  },
+  {
+   "t": "LIS",
+   "stem": "A 16-year-old boy has low back pain and tight hamstrings. Lateral lumbar radiograph shows L5 has slipped forwards on S1 by 60% of the width of the S1 endplate.\nWhat is the Meyerding grade of this slip?",
+   "o": [
+    "Grade I",
+    "Grade II",
+    "Grade IV",
+    "Grade V (spondyloptosis)",
+    "Grade III"
+   ],
+   "a": 4,
+   "e": "Meyerding grades the slip as a percentage of the width of the vertebra below: I <25%, II 25-50%, III 50-75%, IV 75-100%, V >100% (spondyloptosis). A 60% slip is grade III, a high-grade slip where surgery is often considered. Lecturer pearl: slide image-only; slide spells it 'Meyerdig'.",
+   "w": [
+    "Wrong - grade I is below 25%.",
+    "Wrong - grade II is 25-50%.",
+    "Wrong - grade IV is 75-100%.",
+    "Wrong - grade V is complete slip beyond the body below.",
+    "Correct - 50-75% slip = grade III."
+   ]
+  },
+  {
+   "t": "LIS",
+   "stem": "A 14-year-old footballer has low back pain after training. Radiographs show an isthmic L5/S1 spondylolisthesis with a 15% slip. Neurological examination is normal and straight leg raise is negative. The pain settles with rest.\nWhat is the most appropriate initial management?",
+   "o": [
+    "L5-S1 transforaminal interbody fusion",
+    "Rest from sport and physiotherapy",
+    "Posterior decompressive laminectomy",
+    "Direct pars repair with screw fixation",
+    "Strict bed rest for six weeks"
+   ],
+   "a": 1,
+   "e": "Low-grade symptomatic slips without neurological deficit are managed conservatively: activity restriction, physiotherapy for core strength, NSAIDs, and a lumbar corset if needed. Surgery is for disabling pain despite conservative care, slips above 50% or progressing, or significant nerve compression.",
+   "w": [
+    "Wrong - fusion is reserved for failed conservative care, high-grade or progressive slips.",
+    "Correct - low-grade slip, no deficit: conservative management first.",
+    "Wrong - decompression alone may destabilise and there is no compression.",
+    "Wrong - pars repair is an operation reserved for failed conservative care.",
+    "Wrong - only short-term bed rest is advised; prolonged rest is harmful."
+   ]
+  },
+  {
+   "t": "LIS",
+   "stem": "A 16-year-old girl with isthmic L5/S1 spondylolisthesis has been followed up in clinic for 2 years. She has persistent back pain but normal neurology.\nWhich finding is the strongest indication for spinal fusion?",
+   "o": [
+    "Positive stork test on the left",
+    "Collar sign on oblique radiograph",
+    "Increased lumbar lordosis on standing",
+    "Slip of 20% with pain after netball",
+    "Slip increased from 40% to 60%"
+   ],
+   "a": 4,
+   "e": "Indications for surgery are disability despite conservative care, a slip above 50% that is progressing, and significant neural compression. Signs that confirm the diagnosis (stork test, Scotty dog collar, lordosis) do not by themselves justify operation. Fusion (e.g. TLIF) with or without decompression is performed.",
+   "w": [
+    "Wrong - a positive stork test only suggests a pars defect.",
+    "Wrong - the collar sign is diagnostic, not an indication for surgery.",
+    "Wrong - lordosis is an expected clinical sign of a slip.",
+    "Wrong - a low-grade slip with activity pain is treated conservatively.",
+    "Correct - progressive slip beyond 50% is a surgical indication."
+   ]
+  },
+  {
+   "t": "INF",
+   "stem": "A 58-year-old man with poorly controlled diabetes has 3 weeks of severe constant lumbar pain and fevers to 38.6°C. He had a carbuncle on his thigh a month ago. CRP is 190 mg/L and WCC 17 x10⁹/L. MRI shows T2 hyperintensity of the L3/4 disc and both adjacent vertebral bodies, with destruction of the disc.\nWhat is the most likely causative organism?",
+   "o": [
+    "Escherichia coli",
+    "Mycobacterium tuberculosis",
+    "Staphylococcus aureus",
+    "Pseudomonas aeruginosa",
+    "Staphylococcus epidermidis"
+   ],
+   "a": 2,
+   "e": "Pyogenic spondylodiscitis is most often caused by Staphylococcus aureus, spread through the blood from a skin source as here. Early disc destruction with high fever and very high CRP favours pyogenic over TB infection. E. coli follows urinary sources and S. epidermidis follows surgery or implants.",
+   "w": [
+    "Wrong - E. coli usually follows a urinary tract source.",
+    "Wrong - TB is insidious and spares the disc early.",
+    "Correct - S. aureus is the commonest organism, here from a skin focus.",
+    "Wrong - Pseudomonas is associated with IV drug use.",
+    "Wrong - S. epidermidis is typical after spinal surgery or implants."
+   ]
+  },
+  {
+   "t": "INF",
+   "stem": "A 65-year-old woman has 2 weeks of worsening lumbar pain, night sweats and a temperature of 38.2°C. She has focal tenderness at L2 and ESR of 95 mm/h. Plain lumbar radiographs are normal.\nWhich investigation is most sensitive for early diagnosis?",
+   "o": [
+    "Repeat plain radiograph in 2 weeks",
+    "CT of the lumbar spine",
+    "Technetium bone scan",
+    "MRI of the lumbar spine",
+    "Ultrasound of the paraspinal region"
+   ],
+   "a": 3,
+   "e": "Radiographic signs of discitis (disc narrowing, endplate erosion) lag 2-3 weeks behind the infection, so a normal film does not exclude it. MRI is the investigation of choice: it detects marrow oedema early (T1 low, T2 high), shows abscesses and epidural extension, and assesses the cord.",
+   "w": [
+    "Wrong - waiting delays diagnosis; radiographs lag behind infection.",
+    "Wrong - CT shows bony destruction and guides biopsy but is less sensitive early.",
+    "Wrong - a bone scan is sensitive but non-specific and shows no soft tissue.",
+    "Correct - MRI is the investigation of choice for early spinal infection.",
+    "Wrong - ultrasound cannot image the disc or vertebral marrow."
+   ]
+  },
+  {
+   "t": "INF",
+   "stem": "A 50-year-old man with MSSA spondylodiscitis of L4/5 has completed 2 weeks of IV cloxacillin. He is now afebrile, his pain is improving, and CRP has fallen from 200 to 40 mg/L. He has no neurological deficit.\nWhat is the most appropriate next step?",
+   "o": [
+    "Continue IV cloxacillin for a further 10 weeks",
+    "Switch to oral therapy to total 6 weeks",
+    "Stop antibiotics and mobilise",
+    "Add linezolid for resistant cover",
+    "Surgical debridement and fusion"
+   ],
+   "a": 1,
+   "e": "Organism-specific therapy is given for about 6 weeks: 2 weeks IV, then if the patient is improving clinically and biochemically, switch to oral to complete the course. Surgery is reserved for neurological deficit, abscess, instability or failure of medical therapy. Linezolid or daptomycin are for resistant organisms.",
+   "w": [
+    "Wrong - prolonged IV therapy is unnecessary when responding.",
+    "Correct - 2 weeks IV then oral to complete 6 weeks.",
+    "Wrong - 2 weeks is too short; relapse risk is high.",
+    "Wrong - MSSA is sensitive; resistant cover is not needed.",
+    "Wrong - no indication for surgery in a responding patient."
+   ]
+  },
+  {
+   "t": "INF",
+   "stem": "A 62-year-old man is on day 3 of IV antibiotics for T10/11 spondylodiscitis. He develops bilateral leg weakness (power 3/5), a sensory level at T11 and urinary retention. MRI shows a dorsal epidural collection compressing the cord.\nWhat is the most appropriate management?",
+   "o": [
+    "Urgent surgical decompression",
+    "Change to broader IV antibiotics",
+    "CT-guided aspiration of the collection",
+    "Rigid thoracolumbar brace and bed rest",
+    "High-dose IV dexamethasone alone"
+   ],
+   "a": 0,
+   "e": "An epidural abscess causing progressive neurological deficit needs urgent surgical decompression and debridement, with antibiotics continued. Spread of infection through the posterior vertebral cortex into the epidural space is the mechanism of cord and cauda equina compression in pyogenic spondylodiscitis.",
+   "w": [
+    "Correct - progressive deficit from epidural abscess = urgent decompression.",
+    "Wrong - antibiotics alone will not relieve mechanical cord compression.",
+    "Wrong - percutaneous aspiration is inadequate for a compressing epidural abscess.",
+    "Wrong - bracing does not address cord compression.",
+    "Wrong - steroids do not treat an infective compressive lesion."
+   ]
+  },
+  {
+   "t": "INF",
+   "stem": "A 32-year-old man from rural Sabah has 3 months of mid-back pain, night sweats, 6 kg weight loss and evening low-grade fevers. There is a mild angular prominence at the thoracolumbar junction. Radiographs show destruction of the anterior parts of the T9 and T10 bodies with preserved T9/10 disc height and a fusiform paravertebral soft-tissue shadow.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Pyogenic spondylodiscitis",
+    "Tuberculous spondylitis",
+    "Metastatic vertebral deposit",
+    "Osteoporotic wedge fracture",
+    "Multiple myeloma of the spine"
+   ],
+   "a": 1,
+   "e": "Spinal TB begins in the anterior vertebral body and, early on, spares the disc; it spreads beneath the ligaments to involve adjacent levels and forms a paravertebral (cold) abscess, seen as a fusiform shadow. Constitutional symptoms and gibbus support it. Pyogenic infection destroys the disc early and presents acutely.",
+   "w": [
+    "Wrong - pyogenic infection destroys the disc early and is acute and toxic.",
+    "Correct - anterior body lesion, disc spared, paravertebral abscess, night sweats.",
+    "Wrong - metastases usually affect a single body and pedicle without an abscess.",
+    "Wrong - there is no fragility history and fever with weight loss suggests infection.",
+    "Wrong - myeloma gives punched-out lesions in older adults without a paravertebral abscess."
+   ]
+  },
+  {
+   "t": "INF",
+   "stem": "A 25-year-old woman on treatment for L1 spinal TB notices a slowly enlarging swelling in the right groin extending below the inguinal ligament. It is fluctuant but not warm, red or tender. Passive extension of the right hip is uncomfortable. She is afebrile.\nWhat is the most likely cause of the swelling?",
+   "o": [
+    "Inguinal lymphadenitis",
+    "Irreducible inguinal hernia",
+    "Femoral artery pseudoaneurysm",
+    "Psoas cold abscess",
+    "Pyogenic iliopsoas abscess"
+   ],
+   "a": 3,
+   "e": "TB pus from the lumbar spine tracks down the psoas sheath and points in the groin or upper thigh. It is a cold abscess: no heat, redness or marked tenderness, unlike a pyogenic collection. Irritation of psoas makes hip extension painful.",
+   "w": [
+    "Wrong - TB nodes can be cold but do not track from the spine along psoas.",
+    "Wrong - a hernia would have a cough impulse and is not fluctuant pus.",
+    "Wrong - a pseudoaneurysm is pulsatile and follows arterial puncture.",
+    "Correct - painless, non-inflamed fluctuant swelling tracking along psoas.",
+    "Wrong - a pyogenic abscess is hot, tender and the patient is septic."
+   ]
+  },
+  {
+   "t": "INF",
+   "stem": "A 40-year-old man has biopsy-proven tuberculous spondylitis of T11-T12. He has no neurological deficit and a 20° kyphosis. HIV test is negative and the organism is drug-sensitive.\nWhat is the intensive phase of drug treatment?",
+   "o": [
+    "RHZE for 2 months",
+    "RH for 2 months",
+    "RHZE for 6 months",
+    "RHZE plus streptomycin for 3 months",
+    "IV vancomycin and ceftriaxone for 2 weeks"
+   ],
+   "a": 0,
+   "e": "Drug-sensitive spinal TB starts with a 2-month intensive phase of rifampicin, isoniazid, pyrazinamide and ethambutol (RHZE). It continues with rifampicin and isoniazid (RH); the slide states 9-18 months, while the Malaysian TB CPG treats bone and joint TB for 6-9 months total, often longer for spinal disease. Streptomycin regimens are not first-line, and vancomycin/ceftriaxone are for pyogenic infection.",
+   "w": [
+    "Correct - 2 months of four drugs (RHZE) is the intensive phase.",
+    "Wrong - RH alone is the continuation phase, not intensive.",
+    "Wrong - pyrazinamide and ethambutol are not given for the full 6 months.",
+    "Wrong - streptomycin regimens are not first-line for new drug-sensitive TB.",
+    "Wrong - this is empirical cover for septic pyogenic infection."
+   ]
+  },
+  {
+   "t": "INF",
+   "stem": "A 35-year-old man with T8-T9 tuberculous spondylitis has been on anti-TB therapy for 4 weeks. His leg power has worsened from 4/5 to 2/5. MRI shows an anterior epidural abscess with bony debris compressing the cord and a 40° kyphosis.\nWhat is the most appropriate management?",
+   "o": [
+    "Wide posterior laminectomy without fusion",
+    "Continue anti-TB drugs and bed rest",
+    "Halo-pelvic traction alone",
+    "Percutaneous vertebroplasty",
+    "Anterior debridement and strut graft"
+   ],
+   "a": 4,
+   "e": "Worsening Pott's paraplegia despite therapy and significant kyphosis are indications for surgery. Disease and compression are anterior, so anterior decompression (corpectomy), debridement and strut grafting, often with posterior instrumentation, is the approach. Lecturer pearl: laminectomy alone removes the only intact column and worsens kyphosis and instability.",
+   "w": [
+    "Wrong - removing posterior elements destabilises an already destroyed anterior column.",
+    "Wrong - progressive deficit on adequate therapy needs decompression.",
+    "Wrong - traction may be adjunctive but does not decompress the cord.",
+    "Wrong - cement into infected bone is contraindicated.",
+    "Correct - anterior decompression with strut graft ± posterior fixation."
+   ]
+  },
+  {
+   "t": "INF",
+   "stem": "A 45-year-old woman has 4 months of thoracolumbar pain and weight loss. ESR is 88 mm/h and Mantoux is 15 mm. MRI shows L1-L2 involvement with a septated paravertebral abscess and subligamentous spread.\nWhich investigation gives the definitive diagnosis?",
+   "o": [
+    "Erythrocyte sedimentation rate",
+    "Chest radiograph",
+    "CT-guided biopsy with AFB culture",
+    "Interferon-gamma release assay",
+    "Contrast-enhanced MRI of the whole spine"
+   ],
+   "a": 2,
+   "e": "Lymphocytosis, anaemia, raised ESR, a positive Mantoux and typical MRI features support spinal TB but are not diagnostic. Tissue obtained by biopsy for AFB stain, TB culture (with sensitivity) and histology confirms it and excludes tumour or pyogenic infection.",
+   "w": [
+    "Wrong - ESR is a non-specific marker of inflammation.",
+    "Wrong - a chest film may show TB elsewhere but does not prove spinal TB.",
+    "Correct - tissue for AFB, culture and histology is definitive.",
+    "Wrong - IGRA shows TB exposure, not active spinal disease.",
+    "Wrong - MRI is suggestive but cannot exclude tumour or other infection."
+   ]
+  },
+  {
+   "t": "PID",
+   "stem": "A 35-year-old man develops low back pain after lifting a heavy box, followed by pain radiating down the lateral leg to the dorsum of the foot and great toe. There is weakness of great toe extension and numbness of the first web space. Knee and ankle reflexes are normal.\nWhich nerve root is most likely compressed?",
+   "o": [
+    "L3 root",
+    "L4 root",
+    "L5 root",
+    "S1 root",
+    "L4 and L5 roots"
+   ],
+   "a": 2,
+   "e": "L5 supplies extensor hallucis longus, sensation over the lateral leg and dorsum of foot, and has no reliable reflex, so normal reflexes fit. L4 reduces the knee jerk and S1 the ankle jerk. A posterolateral L4/5 disc typically compresses the traversing L5 root. Lecturer pearl.",
+   "w": [
+    "Wrong - L3 affects the anterior thigh and knee jerk.",
+    "Wrong - L4 gives medial leg numbness and a reduced knee jerk.",
+    "Correct - weak EHL, dorsum of foot numbness, normal reflexes = L5.",
+    "Wrong - S1 gives lateral foot numbness, weak plantarflexion and a lost ankle jerk.",
+    "Wrong - no L4 features (knee jerk, medial leg) are present."
+   ]
+  },
+  {
+   "t": "PID",
+   "stem": "A 42-year-old lorry driver has 3 weeks of left sciatica. He has numbness along the lateral border and sole of the left foot, cannot tiptoe on the left, and the left ankle jerk is absent.\nAt which disc level is a posterolateral prolapse most likely?",
+   "o": [
+    "L5/S1 disc",
+    "L4/5 disc",
+    "L3/4 disc",
+    "L2/3 disc",
+    "L4/5 far-lateral disc"
+   ],
+   "a": 0,
+   "e": "The findings are an S1 radiculopathy. A posterolateral disc compresses the traversing root, so S1 is compressed by the L5/S1 disc. An L4/5 posterolateral disc would affect L5, and an L4/5 far-lateral disc compresses the exiting L4 root.",
+   "w": [
+    "Correct - posterolateral L5/S1 disc compresses the traversing S1 root.",
+    "Wrong - a posterolateral L4/5 disc compresses L5.",
+    "Wrong - L3/4 disc compresses L4 (knee jerk).",
+    "Wrong - L2/3 disc compresses L3 (anterior thigh).",
+    "Wrong - a far-lateral L4/5 disc compresses the exiting L4 root."
+   ]
+  },
+  {
+   "t": "PID",
+   "stem": "A 40-year-old man with a known L4/5 disc prolapse returns with 2 days of bilateral leg pain, numbness around the anus and no urine passed for 12 hours. A bladder scan shows 900 mL. Anal tone is reduced.\nWhat is the most appropriate next step?",
+   "o": [
+    "Epidural steroid injection",
+    "Analgesia and review in 2 weeks",
+    "Outpatient MRI and physiotherapy",
+    "Catheterise and discharge home",
+    "Urgent MRI and decompression"
+   ],
+   "a": 4,
+   "e": "Saddle anaesthesia, urinary retention, reduced anal tone and bilateral symptoms indicate cauda equina syndrome, the absolute indication for disc surgery. Catheterise, obtain an urgent MRI and decompress urgently, ideally within 48 hours (Lecturer pearl), to protect bladder, bowel and sexual function.",
+   "w": [
+    "Wrong - injections do not relieve a massive central compression.",
+    "Wrong - delay risks permanent sphincter loss.",
+    "Wrong - this is an emergency, not an outpatient problem.",
+    "Wrong - catheterisation is needed but discharge misses a surgical emergency.",
+    "Correct - cauda equina syndrome: urgent MRI and surgical decompression."
+   ]
+  },
+  {
+   "t": "PID",
+   "stem": "A 38-year-old woman has 4 weeks of right-sided sciatica. On examination, raising the right leg to 50° reproduces pain below the knee. Raising the straight left leg also reproduces pain in the right leg. There is paraspinal spasm and a list to the left.\nWhich finding is the most specific for a disc herniation compressing a nerve root?",
+   "o": [
+    "Ipsilateral SLR positive at 50°",
+    "Crossed straight leg raise",
+    "Positive femoral stretch test",
+    "Paraspinal muscle spasm",
+    "Lumbar list to one side"
+   ],
+   "a": 1,
+   "e": "The ipsilateral SLR (pain below the knee at 30-70°) is sensitive but not specific for lower lumbar disc herniation. The crossed SLR, where lifting the unaffected leg reproduces pain in the affected leg, is much less sensitive but highly specific. Spasm and list are non-specific. Lecturer pearl: special-test slides were image-only.",
+   "w": [
+    "Wrong - ipsilateral SLR is sensitive but less specific.",
+    "Correct - crossed SLR is the most specific sign of disc herniation.",
+    "Wrong - the femoral stretch test assesses upper lumbar roots (L2-L4).",
+    "Wrong - spasm accompanies many causes of back pain.",
+    "Wrong - a sciatic list is suggestive but non-specific."
+   ]
+  },
+  {
+   "t": "PID",
+   "stem": "A 52-year-old man has 2 weeks of pain in the front of the left thigh, weakness of knee extension and a reduced left knee jerk. The straight leg raise is negative bilaterally.\nWhich examination test is most likely to be positive?",
+   "o": [
+    "Crossed straight leg raise",
+    "Spurling's test",
+    "Stork test",
+    "Femoral stretch test",
+    "Adams forward bend test"
+   ],
+   "a": 3,
+   "e": "Anterior thigh pain, quadriceps weakness and a reduced knee jerk suggest an upper lumbar (L3/L4) root lesion. The SLR tests L5/S1 and is often negative here; the femoral stretch test (prone, knee flexion or hip extension) stretches the femoral nerve roots L2-L4. Lecturer pearl.",
+   "w": [
+    "Wrong - crossed SLR tests lower lumbar (L5/S1) roots.",
+    "Wrong - Spurling's test is for cervical radiculopathy.",
+    "Wrong - the stork test detects a pars defect.",
+    "Correct - femoral stretch test is positive with L2-L4 root irritation.",
+    "Wrong - Adams forward bend test is for scoliosis."
+   ]
+  },
+  {
+   "t": "PID",
+   "stem": "A 44-year-old man has severe left leg pain. MRI shows a fragment of nucleus pulposus lying behind the L5 vertebral body, completely separated from the L4/5 disc, with no continuity with the parent disc.\nWhich stage of disc herniation is this?",
+   "o": [
+    "Sequestration",
+    "Extrusion",
+    "Protrusion",
+    "Contained disc bulge",
+    "Schmorl's node"
+   ],
+   "a": 0,
+   "e": "A protrusion bulges with an intact annulus; in an extrusion the annulus is breached but the material stays continuous with the disc; a sequestered fragment has broken free and can migrate in the canal. Sequestered fragments can cause marked pain and neurological symptoms.",
+   "w": [
+    "Correct - a free fragment separate from the parent disc is sequestration.",
+    "Wrong - extruded material remains continuous with the disc.",
+    "Wrong - a protrusion has an intact annulus.",
+    "Wrong - a contained bulge is a protrusion with no annular breach.",
+    "Wrong - a Schmorl's node is herniation through the endplate into the body."
+   ]
+  },
+  {
+   "t": "PID",
+   "stem": "A 36-year-old man has 10 weeks of severe right S1 sciatica. MRI shows a concordant L5/S1 disc extrusion. Analgesia, physiotherapy and a nerve root steroid injection have failed and he cannot work. Bladder and bowel function are normal and power is stable.\nWhat is the most appropriate next step?",
+   "o": [
+    "Strict bed rest for 4 weeks",
+    "Long-term opioid therapy",
+    "L5/S1 spinal fusion",
+    "Repeat MRI in 6 months",
+    "Microdiscectomy at L5/S1"
+   ],
+   "a": 4,
+   "e": "Persistent disabling radicular pain despite adequate conservative treatment is a relative indication for discectomy, provided imaging matches the clinical root. Cauda equina syndrome is the only absolute indication. Fusion is not needed for a simple disc herniation without instability.",
+   "w": [
+    "Wrong - prolonged bed rest is harmful and not effective.",
+    "Wrong - long-term opioids are inappropriate for a surgically correctable lesion.",
+    "Wrong - fusion is not indicated for a simple disc herniation.",
+    "Wrong - further waiting prolongs disability after failed conservative care.",
+    "Correct - failed conservative treatment with concordant MRI: discectomy."
+   ]
+  },
+  {
+   "t": "SCO",
+   "stem": "A 13-year-old premenarchal girl is brought by her mother, who has noticed uneven shoulders. On forward bending there is a right thoracic rib hump. Standing radiograph shows a right thoracic curve with a Cobb angle of 28° and Risser grade 1. Neurological examination is normal.\nWhat is the most appropriate management?",
+   "o": [
+    "Observation with 6-monthly radiographs",
+    "Brace worn over 20 hours a day",
+    "Posterior instrumented fusion",
+    "Physiotherapy exercises alone",
+    "Night-time brace only"
+   ],
+   "a": 1,
+   "e": "A moderate curve in a growing child (Risser 0-2, premenarchal) has a high risk of progression. Bracing is used for curves of about 20-30° (many guidelines use 25-40°) and must be worn for more than 20 hours a day to halt progression. Exercise maintains muscle tone but does not alter the curve.",
+   "w": [
+    "Wrong - observation suits curves under 20° or skeletally mature patients.",
+    "Correct - growing child, 28° curve: full-time brace over 20 h/day.",
+    "Wrong - surgery is for curves above about 45-50°.",
+    "Wrong - exercise does not change the curve.",
+    "Wrong - part-time wear is insufficient; compliance over 20 h/day determines success."
+   ]
+  },
+  {
+   "t": "SCO",
+   "stem": "A 15-year-old girl, 2 years after menarche, has a right thoracic curve with a Cobb angle of 55° and Risser grade 4. She is unhappy with her rib prominence and shoulder asymmetry. Neurological examination is normal.\nWhat is the most appropriate management?",
+   "o": [
+    "Boston brace for 23 hours a day",
+    "Observation until skeletal maturity",
+    "Milwaukee brace and physiotherapy",
+    "Posterior instrumented fusion",
+    "Anterior hemivertebra excision"
+   ],
+   "a": 3,
+   "e": "Curves above about 50° tend to progress even after skeletal maturity and are cosmetically unacceptable, so surgery is indicated. Posterior segmental instrumentation with pedicle screws and rods corrects the curve through the mobile discs. Bracing works only in growing children with moderate curves.",
+   "w": [
+    "Wrong - bracing does not control a 55° curve near maturity.",
+    "Wrong - curves over 50° keep progressing in adulthood.",
+    "Wrong - bracing is ineffective at this size and maturity.",
+    "Correct - curve over 50° with cosmetic concern: posterior fusion.",
+    "Wrong - hemivertebra excision is for congenital scoliosis."
+   ]
+  },
+  {
+   "t": "SCO",
+   "stem": "A 12-year-old girl is referred after her teacher noticed she stands crookedly. Standing, there is a mild lumbar curve convex to the left. On forward bending the curve disappears and there is no rib or lumbar prominence. Leg lengths are equal and she has no back pain.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Adolescent idiopathic scoliosis",
+    "Compensatory scoliosis",
+    "Postural scoliosis",
+    "Congenital scoliosis",
+    "Sciatic scoliosis"
+   ],
+   "a": 2,
+   "e": "A curve that disappears on forward bending, with no rotational prominence, is non-structural. With equal leg lengths and no pain, it is postural scoliosis, which usually does not progress. Structural curves, such as idiopathic ones, persist with a rib hump on Adams test.",
+   "w": [
+    "Wrong - idiopathic scoliosis is structural with a hump on forward bending.",
+    "Wrong - compensatory curves need a leg length or pelvic cause.",
+    "Correct - disappears on forward bend, equal legs, no pain = postural.",
+    "Wrong - congenital curves are structural with vertebral anomalies.",
+    "Wrong - sciatic scoliosis is painful, from nerve root irritation."
+   ]
+  },
+  {
+   "t": "SCO",
+   "stem": "A 10-year-old boy has a lumbar curve on standing examination. There is no rib hump on forward bending. His anterior superior iliac spines are at different heights and his right leg is 2.5 cm shorter after an old femoral fracture.\nWhich manoeuvre best confirms the cause of the curve?",
+   "o": [
+    "Measure Cobb angle on a standing X-ray",
+    "Assess Risser grade on pelvic X-ray",
+    "MRI of the whole spine",
+    "Re-examine with the patient seated",
+    "Bending films towards the convexity"
+   ],
+   "a": 3,
+   "e": "Compensatory scoliosis results from pelvic tilt due to a short leg or hip disease. Sitting removes the effect of leg length, so the curve disappears when the child sits (or stands on a block). It resolves once the primary problem is corrected.",
+   "w": [
+    "Wrong - Cobb angle measures size, not the cause.",
+    "Wrong - Risser grade assesses skeletal maturity.",
+    "Wrong - MRI is not needed for a clear compensatory cause.",
+    "Correct - the curve vanishes seated if leg length is the cause.",
+    "Wrong - bending films assess curve flexibility for surgery."
+   ]
+  },
+  {
+   "t": "SCO",
+   "stem": "A 3-year-old boy has a curvature of the spine noted by his parents. There is a tuft of hair over the lower thoracic spine. Radiographs show a hemivertebra at T11 with a 25° curve.\nWhich additional investigation is most important to look for associated anomalies outside the spine?",
+   "o": [
+    "DEXA scan",
+    "Serum creatine kinase",
+    "Renal ultrasound",
+    "Nerve conduction studies",
+    "Isotope bone scan"
+   ],
+   "a": 2,
+   "e": "Congenital scoliosis from failure of formation (hemivertebra) or segmentation (bar) is commonly associated with renal, cardiac and neurological anomalies, because these develop at the same embryological time. Renal ultrasound and echocardiography are needed, and MRI of the spine for dysraphism. Progressive congenital curves do not respond to bracing.",
+   "w": [
+    "Wrong - bone density is not the concern in congenital scoliosis.",
+    "Wrong - CK screens for muscular dystrophy in neuromuscular curves.",
+    "Correct - renal anomalies are commonly associated with hemivertebra.",
+    "Wrong - nerve conduction studies do not screen for associated anomalies.",
+    "Wrong - a bone scan has no role here."
+   ]
+  },
+  {
+   "t": "SCO",
+   "stem": "An 11-year-old girl with a right thoracic curve of 18° is reviewed in clinic. She has no back pain and normal neurology.\nWhich finding at this visit most increases her risk of curve progression?",
+   "o": [
+    "Risser grade 0 and premenarchal",
+    "Risser grade 5 on the pelvic radiograph",
+    "Menarche three years ago",
+    "Curve that corrects on bending",
+    "Absence of vertebral rotation"
+   ],
+   "a": 0,
+   "e": "Progression is driven by remaining growth. Risser grades 0-2 indicate active growth and higher progression risk; 3-5 mean growth is slowing or complete. Premenarchal status also means the pubertal growth spurt is ahead. A fully correcting curve without rotation is non-structural.",
+   "w": [
+    "Correct - much growth remaining = highest progression risk.",
+    "Wrong - Risser 5 means skeletal maturity and low risk.",
+    "Wrong - three years after menarche, growth is nearly complete.",
+    "Wrong - a curve that corrects is non-structural.",
+    "Wrong - no rotation suggests a postural curve that rarely progresses."
+   ]
+  },
+  {
+   "t": "SCO",
+   "stem": "A 14-year-old boy with spastic quadriplegic cerebral palsy uses a wheelchair. He has a long C-shaped thoracolumbar curve of 50° with pelvic obliquity. He can no longer sit without propping himself on one arm and has an early sacral pressure sore.\nWhat is the most appropriate first step in management?",
+   "o": [
+    "Boston brace over 20 hours a day",
+    "Custom moulded seating support",
+    "Hemivertebra resection and fusion",
+    "Observation and 6-monthly X-rays",
+    "Physiotherapy exercises alone"
+   ],
+   "a": 1,
+   "e": "Neuromuscular scoliosis typically forms a long C curve that stiffens and causes pelvic obliquity, sitting imbalance and pressure areas. Severe curves with loss of sitting balance are managed first with suitable seating support; if that fails, operative stabilisation is indicated. Treatment depends on functional disability.",
+   "w": [
+    "Wrong - TLSO bracing is poorly tolerated and does not restore sitting balance.",
+    "Correct - seating support first; surgery if it fails.",
+    "Wrong - hemivertebra resection is for congenital scoliosis.",
+    "Wrong - loss of sitting balance and pressure sores need action.",
+    "Wrong - exercise does not alter a neuromuscular curve."
+   ]
+  },
+  {
+   "t": "DEG",
+   "stem": "A 64-year-old man has 8 months of numb, clumsy hands with difficulty buttoning shirts and writing, and two recent falls from unsteadiness. There is wasting of the hand intrinsics, brisk reflexes in all four limbs, thumb flexion on flicking the middle finger nail, and upgoing plantars.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Bilateral carpal tunnel syndrome",
+    "Cervical radiculopathy",
+    "Peripheral polyneuropathy",
+    "Lumbar spinal stenosis",
+    "Cervical spondylotic myelopathy"
+   ],
+   "a": 4,
+   "e": "Loss of hand dexterity, gait imbalance and upper motor neurone signs (hyperreflexia, Hoffmann, Babinski) indicate cord compression: cervical myelopathy, commonly from spondylosis. Radiculopathy gives dermatomal arm pain and reduced reflexes at one level. MRI confirms; progressive myelopathy needs surgical decompression.",
+   "w": [
+    "Wrong - carpal tunnel causes no UMN signs or gait disturbance.",
+    "Wrong - radiculopathy gives LMN signs (reduced reflexes) in one root.",
+    "Wrong - neuropathy reduces reflexes rather than making them brisk.",
+    "Wrong - lumbar stenosis cannot produce hand or UMN upper limb signs.",
+    "Correct - clumsy hands, falls and UMN signs = cord compression."
+   ]
+  },
+  {
+   "t": "DEG",
+   "stem": "A 50-year-old woman has neck pain radiating to the lateral forearm and thumb, with numbness of the thumb and index finger. Elbow flexion and wrist extension are weak and the biceps and brachioradialis reflexes are reduced. Extending and rotating her neck to the right with axial pressure reproduces the arm pain.\nWhich nerve root is most likely affected?",
+   "o": [
+    "C5 root",
+    "C7 root",
+    "C8 root",
+    "T1 root",
+    "C6 root"
+   ],
+   "a": 4,
+   "e": "A positive Spurling's test with dermatomal pain and LMN signs indicates cervical radiculopathy. C6 supplies the thumb and index finger, elbow flexion and wrist extension, and the biceps and brachioradialis reflexes. C7 affects the middle finger and triceps reflex. Lecturer pearl.",
+   "w": [
+    "Wrong - C5 affects the shoulder (deltoid) and lateral upper arm.",
+    "Wrong - C7 affects the middle finger, triceps and triceps reflex.",
+    "Wrong - C8 affects the little finger and finger flexors.",
+    "Wrong - T1 affects the medial arm and hand intrinsics.",
+    "Correct - thumb, wrist extension, biceps and brachioradialis reflex = C6."
+   ]
+  },
+  {
+   "t": "DEG",
+   "stem": "A 72-year-old man has a year of bilateral buttock and thigh heaviness after walking about 200 m. He has to sit down or lean forward on a shopping trolley for relief, but can cycle for 30 minutes without symptoms. Pedal pulses are palpable and ABPI is 1.0. Neurological examination at rest is normal.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Peripheral arterial disease",
+    "Lumbar spinal stenosis",
+    "Acute lumbar disc prolapse",
+    "Bilateral hip osteoarthritis",
+    "Diabetic peripheral neuropathy"
+   ],
+   "a": 1,
+   "e": "Neurogenic claudication is relieved by sitting or flexing forward (the shopping-trolley sign), because flexion enlarges the canal; cycling in flexion is tolerated. Vascular claudication eases on simply standing still, is unaffected by posture, and comes with weak pulses and a low ABPI. Always check peripheral pulses.",
+   "w": [
+    "Wrong - normal pulses and ABPI and relief with flexion exclude vascular claudication.",
+    "Correct - posture-dependent leg symptoms with normal pulses = neurogenic claudication.",
+    "Wrong - an acute disc gives sudden radicular pain, not walking-induced claudication.",
+    "Wrong - hip OA causes groin pain on movement, not relieved by leaning forward.",
+    "Wrong - neuropathy gives constant distal symptoms unrelated to walking."
+   ]
+  },
+  {
+   "t": "DEG",
+   "stem": "A 70-year-old woman has neurogenic claudication limiting her walking to 100 m despite 6 months of analgesia and physiotherapy. Pedal pulses are normal. Surgery is being considered.\nWhich investigation is the gold standard to confirm the diagnosis and plan surgery?",
+   "o": [
+    "Ankle-brachial pressure index",
+    "Lateral lumbar radiograph",
+    "MRI of the lumbar spine",
+    "Nerve conduction studies",
+    "Lower limb arterial duplex"
+   ],
+   "a": 2,
+   "e": "MRI is the gold standard for lumbar spinal stenosis, showing the level and cause of compression (disc, facet hypertrophy, ligamentum flavum, slip). Plain radiographs show disc narrowing and osteophytes but not neural compression. Vascular tests are for excluding arterial claudication, which normal pulses already make unlikely.",
+   "w": [
+    "Wrong - ABPI assesses arterial disease, not neural compression.",
+    "Wrong - radiographs show bony degeneration but not canal narrowing.",
+    "Correct - MRI defines the level and severity of stenosis.",
+    "Wrong - nerve studies do not image the canal.",
+    "Wrong - duplex is for vascular claudication."
+   ]
+  },
+  {
+   "t": "DEG",
+   "stem": "A 60-year-old man has 6 months of worsening hand clumsiness and an unsteady gait. Examination shows hyperreflexia and a positive Hoffmann sign. MRI shows C5/6 disc-osteophyte compression of the cord with high T2 signal within the cord.\nWhat is the most appropriate management?",
+   "o": [
+    "Anterior cervical discectomy and fusion",
+    "Soft cervical collar and physiotherapy",
+    "Cervical traction and NSAIDs",
+    "Interlaminar cervical epidural steroid injection",
+    "Spinal manipulation and posture advice"
+   ],
+   "a": 0,
+   "e": "Cervical myelopathy is usually progressive, and cord signal change indicates established damage, so surgical decompression is indicated to halt deterioration. Anterior cervical discectomy and fusion suits one- or two-level anterior compression; laminoplasty is used for multilevel disease. Conservative measures are for axial pain or mild radiculopathy.",
+   "w": [
+    "Correct - progressive myelopathy with cord compression: decompress (ACDF).",
+    "Wrong - a collar does not stop progressive myelopathy.",
+    "Wrong - traction risks the compressed cord and does not decompress it.",
+    "Wrong - injections treat radicular pain, not myelopathy.",
+    "Wrong - manipulation is dangerous with cord compression."
+   ]
+  },
+  {
+   "t": "DEG",
+   "stem": "A 68-year-old woman has mild neurogenic claudication and can walk about 800 m before needing to sit. She has no neurological deficit and no bladder symptoms. MRI shows moderate L4/5 spinal stenosis without instability.\nWhat is the most appropriate initial management?",
+   "o": [
+    "Posterior decompressive laminectomy",
+    "Decompression with instrumented fusion",
+    "Undercutting facetectomy at L4/5",
+    "Analgesia and non-impact exercise",
+    "Strict bed rest and lumbar corset"
+   ],
+   "a": 3,
+   "e": "Mild stenosis without deficit is managed conservatively first: education, analgesia/NSAIDs, a non-impact exercise programme, aerobic fitness, activity modification and epidural steroid injection. Posterior decompression (with fusion only if unstable) is for failed conservative care or progressive disability.",
+   "w": [
+    "Wrong - surgery is for failed conservative care or disabling symptoms.",
+    "Wrong - fusion is added only when there is instability.",
+    "Wrong - this is a surgical decompression technique, premature here.",
+    "Correct - conservative care first for mild stenosis.",
+    "Wrong - bed rest deconditions and is not recommended."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1604 @@
+{
+ "id": "tumour",
+ "title": "Musculoskeletal Tumours",
+ "short": "Tumours",
+ "emoji": "🎗️",
+ "source": "musculoskeletal tumours_compressed.pdf",
+ "topics": {
+  "APP": "Approach: history, imaging, biopsy & margins",
+  "BEN": "Benign bone tumours",
+  "MAL": "Primary malignant bone tumours",
+  "CYS": "Simple & aneurysmal bone cysts",
+  "MM": "Multiple myeloma",
+  "MET": "Metastatic bone disease & Mirels score",
+  "STT": "Soft tissue tumours"
+ },
+ "cards": [
+  {
+   "t": "APP",
+   "q": "What are the commonest benign and malignant PRIMARY bone tumours?",
+   "a": "• Benign: **osteochondroma**\n• Malignant (overall, esp. children/adolescents): **osteosarcoma**\n• Malignant in adults: **chondrosarcoma** becomes the commonest\n• Location: ~60% of bone sarcomas arise in the **lower-limb long bones, especially around the knee**",
+   "m": "Kids make Osteo-SARCOMA; grown-ups make CHONDRO-sarcoma."
+  },
+  {
+   "t": "APP",
+   "q": "A patient over 40 has a new lytic bone lesion. What should you think of FIRST, and why?",
+   "a": "• **Metastasis** (and **multiple myeloma**) first\n• In adults >40, metastases are **far commoner than primary bone sarcomas**\n• So: look for a primary (breast, prostate, lung, kidney, thyroid) and check SPEP/UPEP before calling it a sarcoma",
+   "m": "Over 40 + lytic = ‘mets or myeloma until proven otherwise’."
+  },
+  {
+   "t": "APP",
+   "q": "What are the commonest benign and malignant soft tissue tumours (as taught in this lecture)?",
+   "a": "• Benign: **lipoma** (most soft tissue tumours are benign)\n• Malignant: **liposarcoma** is one of the commonest soft tissue sarcomas in adults\n• Soft tissue tumours arise from **mesenchymal** tissue: fat, muscle, fibrous tissue, vessels, peripheral nerves\n• Slightly **commoner in males**"
+  },
+  {
+   "t": "APP",
+   "q": "Which features of PAIN in the history should raise suspicion of a bone tumour?",
+   "a": "• **Night pain** that wakes the patient\n• **Non-mechanical / rest pain**, not related to activity\n• **Progressive** pain, increasing as the mass grows\n• Pain **not responding to simple analgesia**\n• Plus systemic red flags: fever, weight loss, loss of appetite, previous cancer or radiotherapy",
+   "m": "Bone pain at night = tumour until proven otherwise."
+  },
+  {
+   "t": "APP",
+   "q": "List the systematic points you describe on a plain X-ray of a bone lesion.",
+   "a": "• **Location**: which bone; epiphysis / metaphysis / diaphysis; central vs eccentric\n• **Solitary or multiple**\n• **Type**: lytic, sclerotic (blastic) or mixed; matrix (osteoid, chondroid ‘rings and arcs’)\n• **Zone of transition**: narrow (well defined) vs wide (ill defined)\n• **Periosteal reaction** and **cortex** (thinned, expanded, breached)\n• **Soft tissue mass**",
+   "m": "Where, how many, what is it made of, how does it meet bone, how does bone react."
+  },
+  {
+   "t": "APP",
+   "q": "Which X-ray features suggest an AGGRESSIVE (likely malignant) bone lesion?",
+   "a": "• **Wide zone of transition** (ill-defined edge)\n• **Permeative / moth-eaten** bone destruction\n• **Interrupted periosteal reaction**: Codman triangle, sunburst, onion-skin\n• **Cortical breach** with a **soft tissue mass**\n• Benign pattern = narrow zone, sclerotic rim, solid periosteal reaction, intact cortex",
+   "m": "Lecturer pearl: a lesion the bone has had time to wall off (sclerotic rim) is slow; one it cannot contain (wide, permeative) is fast."
+  },
+  {
+   "t": "APP",
+   "q": "Match the periosteal reaction to its classic tumour: Codman triangle, sunburst, onion-skin.",
+   "a": "• **Codman triangle**: periosteum lifted, new bone forms an angle with the cortex - aggressive lesions, classically **osteosarcoma**\n• **Sunburst** (spiculated, perpendicular): **osteosarcoma**\n• **Onion-skin** (lamellated, multilayered): **Ewing sarcoma**\n• All are **interrupted** reactions = aggressive growth",
+   "m": "Sun shines on Osteo; onions make you cry like Ewing."
+  },
+  {
+   "t": "APP",
+   "q": "Lecturer pearl: which tumours classically arise in the epiphysis, metaphysis and diaphysis?",
+   "a": "• **Epiphysis**: **giant cell tumour** (skeletally mature, extends to subchondral bone), **chondroblastoma** (skeletally immature)\n• **Metaphysis**: **osteosarcoma**, **osteochondroma**, **simple and aneurysmal bone cysts**\n• **Diaphysis**: **Ewing sarcoma** (also osteoid osteoma, adamantinoma)",
+   "m": "Lecturer pearl: Ends = GCT/Chondroblastoma, Metaphysis = growth-plate tumours, Diaphysis = Ewing."
+  },
+  {
+   "t": "APP",
+   "q": "What is the role of MRI, CT, bone scan and PET in a suspected bone sarcoma?",
+   "a": "• **MRI** (whole bone): **local extent** - marrow spread, soft tissue mass, joint and neurovascular involvement, **skip lesions**; best for soft tissue and cartilage lesions\n• **CT**: cortical detail, matrix; **CT chest** to stage the **lungs**\n• **Bone scan**: very sensitive for **skeletal metastases / skip lesions**\n• **PET(-CT)**: aggressiveness and distant (bone, lung, liver, nodal) spread",
+   "m": "MRI = local; CT chest = lungs; bone scan/PET = the rest of the skeleton."
+  },
+  {
+   "t": "APP",
+   "q": "Lecturer pearl: state the key principles of biopsying a suspected primary bone or soft tissue sarcoma.",
+   "a": "• Biopsy is the **LAST investigation** - after imaging and staging\n• Done by (or planned with) **the surgeon / sarcoma centre doing the definitive resection**\n• **Core needle** (image-guided) preferred; track placed **along the future incision line** so it can be excised en bloc\n• **Longitudinal** incisions; avoid contaminating other **compartments, joints and the neurovascular bundle**\n• Meticulous haemostasis; no drains far from the wound",
+   "m": "Lecturer pearl: ‘The biopsy track is part of the tumour.’"
+  },
+  {
+   "t": "APP",
+   "q": "Define the four Enneking surgical margins.",
+   "a": "• **Intralesional**: through the tumour (curettage, debulking) - fine for benign lesions; **tumour spill** in malignancy\n• **Marginal**: through the **pseudocapsule / reactive zone** - OK for benign/intermediate; leaves satellite cells → **local recurrence** in sarcoma\n• **Wide**: tumour + pseudocapsule + **cuff of normal tissue** - standard for sarcoma\n• **Radical**: removes the **entire anatomical compartment**",
+   "m": "In-the-lesion, at-the-margin, Wide cuff, Radical compartment: I-M-W-R gets progressively bigger."
+  },
+  {
+   "t": "APP",
+   "q": "What are the principles of treating a primary bone sarcoma, and when is amputation chosen over limb salvage?",
+   "a": "• **Complete surgical resection** of the primary (and resectable metastases) with a **wide margin**, planned on **MRI/CT staging**\n• **Limb salvage**: resection + reconstruction (endoprosthesis, graft) - first choice when a wide margin is achievable\n• **Amputation**: **major neurovascular involvement**, **fungating** tumour, or **wide margins impossible**\n• Plus chemo/radiotherapy depending on tumour type",
+   "m": "Lecturer pearl: oncological clearance first, function second."
+  },
+  {
+   "t": "BEN",
+   "q": "What is the classic presentation of osteoid osteoma, and why does aspirin/NSAID relieve it?",
+   "a": "• Adolescent/young adult **male** (10-35 y)\n• **Night pain** dramatically relieved by **NSAIDs/aspirin**\n• The **nidus produces prostaglandins** (high COX activity) → pain and surrounding inflammation; NSAIDs block COX\n• May cause synovitis/effusion if intra-articular, limp, limb-length discrepancy",
+   "m": "Night pain + NSAID magic = osteoid osteoma."
+  },
+  {
+   "t": "BEN",
+   "q": "Where does osteoid osteoma occur, and how does it present in the spine?",
+   "a": "• **Long bones** (65-80%), **femur most common** (esp. **femoral neck**) and tibia; usually **diaphyseal/cortical**\n• Phalanges ~20%, vertebrae ~10%\n• Spine: **posterior elements**, mainly lumbar\n• Spinal lesion → **painful scoliosis** from **paravertebral muscle spasm** (lesion on the concave side - lecturer pearl)",
+   "m": "Painful scoliosis in a teenager = osteoid osteoma until proven otherwise."
+  },
+  {
+   "t": "BEN",
+   "q": "What are the imaging findings of osteoid osteoma, and which test best shows the nidus?",
+   "a": "• X-ray: may be normal; **dense reactive sclerosis** and **solid cortical thickening** that may hide the nidus\n• **CT (investigation of choice)**: small **lucent nidus <2 cm** surrounded by sclerosis, ± **central sclerotic dot**\n• Bone scan: intensely **hot** (lecturer pearl: ‘double density’ sign)\n• Genetics: **FOS rearrangement** in ~90%",
+   "m": "Nidus is a ‘bullseye’: lucent ring, dense dot, sclerotic halo."
+  },
+  {
+   "t": "BEN",
+   "q": "What is the preferred treatment of osteoid osteoma, and what is its natural history?",
+   "a": "• **CT-guided radiofrequency ablation (RFA)** - preferred, highly successful, minimally invasive\n• **NSAIDs** for symptom control while waiting / if surgery unwanted\n• Untreated it slowly **regresses**: pain settles over ~**3 years**, lesion over **5-7 years**\n• Open excision/curettage now rarely needed",
+   "m": "Burn the nidus: RFA."
+  },
+  {
+   "t": "BEN",
+   "q": "Osteoid osteoma vs osteoblastoma: how do you tell them apart?",
+   "a": "• **Size**: osteoid osteoma nidus **<2 cm**; osteoblastoma **>2 cm** (2-10 cm)\n• **Site**: OO - femur/tibia cortex; OB - **spine posterior elements** (neural arch), axial skeleton\n• **NSAIDs**: OO pain **relieved**; OB pain usually **NOT** relieved\n• **Behaviour**: OO self-limiting; OB **progressive**, can be locally aggressive with neural compression\n• Both: **FOS** rearrangement",
+   "m": "Blastoma is the Big Brother: bigger, spinal, NSAID-resistant, keeps growing."
+  },
+  {
+   "t": "BEN",
+   "q": "Does aspirin/NSAID relieve the pain of osteoblastoma?",
+   "a": "• **Usually NOT** - osteoblastoma pain is dull and typically **not relieved by aspirin or NSAIDs**\n• Contrast: **osteoid osteoma** night pain is **relieved by NSAIDs/aspirin** (prostaglandin-driven)\n• Note: slide says ‘relieved by aspirin not NSAIDs’; correct is that osteoblastoma pain is typically not relieved by either\n• Spinal osteoblastoma may cause **nerve root compression**",
+   "m": "NSAID test: works for the small one (OO), fails for the big one (OB)."
+  },
+  {
+   "t": "BEN",
+   "q": "How is osteoblastoma treated, and what are the surgical complications?",
+   "a": "• **Extended intralesional curettage** (± bone graft); **RFA** for small-volume lesions\n• **En bloc resection** for aggressive/recurrent lesions\n• Complications: **recurrence 15-20%**, **heavy intraoperative haemorrhage** → reduce with **preoperative (percutaneous) embolisation**\n• Observation only rarely",
+   "m": "Blastoma bleeds and comes back: embolise, then curette well."
+  },
+  {
+   "t": "BEN",
+   "q": "What is an osteochondroma and what are its X-ray features?",
+   "a": "• **Commonest benign bone tumour**; a cartilage-capped bony outgrowth from the **metaphysis**\n• **Cortex and medulla are continuous** with the host bone (key sign)\n• **Sessile or pedunculated** (‘cauliflower’ summit), stalk **points away from the joint**\n• Commonest sites: **distal femur**, proximal tibia, humerus; commonest tumour of the scapula\n• MRI shows the **cartilage cap** (thick in children, thins with age)",
+   "m": "A coat-hook pointing away from the knee."
+  },
+  {
+   "t": "BEN",
+   "q": "What is hereditary multiple exostoses (multiple osteochondromas)?",
+   "a": "• **Autosomal dominant**; ~15% of osteochondromas (85% solitary/sporadic)\n• Germline mutation of **EXT1** (or **EXT2**) - biallelic inactivation in the lesion\n• Presents in childhood: multiple lumps, **short stature**, **limb-length discrepancy**, forearm/knee **deformities**\n• Higher lifetime risk of **secondary chondrosarcoma** than solitary lesions",
+   "m": "EXT = EXostosis genes."
+  },
+  {
+   "t": "BEN",
+   "q": "What complications can a benign osteochondroma cause?",
+   "a": "• **Bursitis** over the tip (painful, may mimic growth)\n• **Nerve or vessel compression** (e.g. peroneal nerve, popliteal artery pseudoaneurysm - lecturer pearl)\n• **Fracture of the stalk**\n• **Mechanical block** to joint movement\n• **Limb-length discrepancy / deformity** (in multiple exostoses)\n• **Malignant transformation** to chondrosarcoma"
+  },
+  {
+   "t": "BEN",
+   "q": "Lecturer pearl: which features suggest malignant transformation of an osteochondroma into chondrosarcoma?",
+   "a": "• **Cartilage cap >2 cm thick in an adult** (on MRI)\n• **Growth after skeletal maturity**\n• **New pain** (once bursitis/fracture excluded)\n• Irregular, ill-defined cap with scattered calcification or soft tissue mass\n• Pelvic/shoulder girdle and multiple-exostoses patients at higher risk",
+   "m": "Lecturer pearl: ‘Grown-ups do not grow osteochondromas.’ Adult growth or cap >2 cm = chondrosarcoma until proven otherwise."
+  },
+  {
+   "t": "BEN",
+   "q": "When is excision of an osteochondroma indicated?",
+   "a": "• Asymptomatic: **no treatment** needed\n• Excise if: **pressure effects** on nerves/vessels/tendons, mechanical block, **cosmesis**, recurrent bursitis\n• **Suspected malignant transformation** in adults (growth, cap >2 cm, pain)\n• Excise at the base **including the cartilage cap and perichondrium** to prevent recurrence (lecturer pearl)"
+  },
+  {
+   "t": "BEN",
+   "q": "What is an enchondroma and what does it look like on X-ray?",
+   "a": "• Benign **intramedullary hyaline cartilage** tumour; 10-30 y; often an **incidental** finding\n• **Most common primary bone tumour of the hand** - **proximal phalanx** commonest (~50% in hands/feet)\n• X-ray: **central**, well-defined, lobulated lytic lesion with thin sclerotic rim and **‘rings and arcs’ / popcorn calcification**\n• Hand lesions often present with a **pathological fracture**",
+   "m": "Popcorn in the finger."
+  },
+  {
+   "t": "BEN",
+   "q": "Which features suggest an apparent enchondroma is really a low-grade chondrosarcoma?",
+   "a": "• **Pain without fracture**\n• **Axial / proximal site**: pelvis, ribs, scapula, sternum, proximal femur\n• Large size (>5 cm - lecturer pearl)\n• Deep **endosteal scalloping** (>2/3 of cortex), **cortical breach**, periosteal reaction, soft tissue mass\n• Malignant transformation risk in solitary enchondroma ~**5%** (far higher in Ollier/Maffucci)",
+   "m": "Painful, proximal, punching through cortex = chondrosarcoma."
+  },
+  {
+   "t": "BEN",
+   "q": "Ollier disease vs Maffucci syndrome: what is the difference?",
+   "a": "• Both: **multiple enchondromas**, non-inherited, **IDH1/IDH2** mutations (lecturer pearl), deformity and limb shortening\n• **Ollier**: multiple enchondromas alone\n• **Maffucci**: enchondromas **+ soft tissue haemangiomas** (phleboliths on X-ray)\n• Both have a **high risk of chondrosarcoma**; Maffucci higher, plus other malignancies (e.g. angiosarcoma)",
+   "m": "Maffucci = More: more lesions (haemangiomas) and more malignancy."
+  },
+  {
+   "t": "BEN",
+   "q": "How is an enchondroma managed?",
+   "a": "• Asymptomatic: **observation** ± serial X-rays\n• **Intralesional curettage and bone grafting** if painful or after **pathological fracture**\n• With a fracture: usually let the **fracture unite first**, then curette and graft (lecturer pearl)\n• **Biopsy** if appearance unclear or chondrosarcoma suspected"
+  },
+  {
+   "t": "BEN",
+   "q": "What are the classic clinical and X-ray features of giant cell tumour of bone?",
+   "a": "• **Skeletally mature** adult, peak **20-30 y** (20-50)\n• Sites: **distal femur / proximal tibia** (50-65%), **distal radius**, sacrum, proximal humerus\n• X-ray: **eccentric lytic** lesion of the **epiphysis/metaphysis** extending to **subchondral bone**, narrow non-sclerotic margin, **‘soap bubble’** look\n• Presents with pain, swelling around knee; 5-10% with **pathological fracture**",
+   "m": "GCT = Grown-up, Close to joint, Thin soap bubble."
+  },
+  {
+   "t": "BEN",
+   "q": "Why is giant cell tumour called ‘benign but locally aggressive’, and what does that mean for staging?",
+   "a": "• Osteoclast-like **giant cells** driven by **RANKL**-expressing stromal cells destroy bone\n• **High local recurrence** after simple curettage\n• Can give **benign pulmonary metastases** (~2-5%, lecturer pearl) → **CT chest** at staging\n• **Malignant transformation <10%**\n• Campanacci grades: I intraosseous, II cortical thinning/expansion, III cortical breach + soft tissue mass",
+   "m": "Benign histology, malignant manners."
+  },
+  {
+   "t": "BEN",
+   "q": "How is giant cell tumour of bone treated?",
+   "a": "• **Extended intralesional curettage** (high-speed burr) + **adjuvant** (phenol / cryotherapy / argon - lecturer pearl) + **cement or bone graft** - Campanacci I-II and most III\n• **En bloc resection** + reconstruction when joint destroyed / extensive grade III\n• **Denosumab** (anti-**RANKL** antibody) for unresectable sites (sacrum, spine) or to downstage\n• Bisphosphonates, radiotherapy - adjuncts in selected cases",
+   "m": "RANK-L drives the giant cells; deno-SU-mab SUppresses RANKL."
+  },
+  {
+   "t": "BEN",
+   "q": "Lecturer pearl: which important mimic must be excluded before diagnosing giant cell tumour, and how?",
+   "a": "• **Brown tumour of hyperparathyroidism** - histologically also giant-cell rich\n• Check **serum calcium, phosphate, ALP and PTH**\n• Clues: multiple lesions, subperiosteal resorption (radial side of middle phalanges), renal stones\n• Other differentials: **aneurysmal bone cyst**, chondroblastoma (immature skeleton), telangiectatic osteosarcoma",
+   "m": "Lecturer pearl: giant cells + high calcium = brown tumour, not GCT."
+  },
+  {
+   "t": "MAL",
+   "q": "What is the age distribution of osteosarcoma, and what explains the second peak?",
+   "a": "• Most common **primary malignant bone tumour**\n• **Bimodal**: adolescence (10-14 y, growth spurt) and **elderly (7th decade)**\n• Second peak = **secondary osteosarcoma**: **Paget disease**, previous **radiotherapy**, chronic osteomyelitis, fibrous dysplasia\n• Male > female (1.4:1)",
+   "m": "Teens: growth spurt; old age: Paget and radiation."
+  },
+  {
+   "t": "MAL",
+   "q": "Where does osteosarcoma typically arise?",
+   "a": "• **Metaphysis** of long bones (fastest growth)\n• **Distal femur** > **proximal tibia** > **proximal humerus** - i.e. **around the knee**\n• Arises within bone and spreads rapidly through the cortex into the periosteum and soft tissues",
+   "m": "Close to the knee, far from the elbow."
+  },
+  {
+   "t": "MAL",
+   "q": "What are the genetic and acquired risk factors for osteosarcoma?",
+   "a": "• **RB1** mutation - hereditary **retinoblastoma**\n• **TP53** - **Li-Fraumeni syndrome** (breast cancer, brain tumours, adrenocortical carcinoma, sarcoma)\n• **Rothmund-Thomson syndrome** (autosomal recessive, poikiloderma) - note: slide spells it ‘Rothmound’\n• **Radiotherapy** (within ~20 y) or chemotherapy, **Paget disease**, chronic osteomyelitis, fibrous dysplasia",
+   "m": "RB, P53, Rothmund, Radiation, Paget."
+  },
+  {
+   "t": "MAL",
+   "q": "What are the classic X-ray and histological features of osteosarcoma?",
+   "a": "• X-ray: aggressive **mixed lytic-sclerotic** metaphyseal lesion, wide zone of transition, **cortical breach + soft tissue mass**\n• **Codman triangle** and **sunburst** periosteal reaction\n• Histology (diagnostic): **malignant pleomorphic stromal cells directly producing lace-like osteoid**",
+   "m": "Malignant cells MAKING osteoid = osteosarcoma by definition."
+  },
+  {
+   "t": "MAL",
+   "q": "Which blood tests matter in osteosarcoma and what do they tell you?",
+   "a": "• **Serum ALP and LDH**: raised levels reflect **high tumour volume** and a **poorer prognosis**; useful to monitor\n• **FBC, ESR, CRP**: baseline and to help **exclude osteomyelitis**\n• Renal/liver function and audiology/echo before chemotherapy (lecturer pearl)",
+   "m": "ALP = osteoblast activity; LDH = tumour bulk."
+  },
+  {
+   "t": "MAL",
+   "q": "How is osteosarcoma staged, and where does it most commonly metastasise?",
+   "a": "• **MRI of the whole bone**: local extent, joint, neurovascular bundle, **skip lesions**\n• **CT chest**: **lungs = commonest site of metastasis**\n• **Bone scan / PET-CT**: skeletal metastases\n• Then **biopsy** (last), at the treating sarcoma centre",
+   "m": "Sarcomas spread by blood to the lungs - always CT the chest."
+  },
+  {
+   "t": "MAL",
+   "q": "What is the standard treatment sequence for a high-grade osteosarcoma?",
+   "a": "• **Neoadjuvant multi-agent chemotherapy** (8-12 weeks): shrinks tumour, kills **micrometastases**, tests drug response\n• **Surgical resection with wide margins**: **limb salvage** + reconstruction where possible; amputation if neurovascular involvement, fungating, or wide margin impossible\n• **Adjuvant chemotherapy** to clear residual microscopic disease\n• Radiotherapy has little role (relatively radioresistant)",
+   "m": "Chemo - Cut - Chemo."
+  },
+  {
+   "t": "MAL",
+   "q": "What are the main prognostic factors in osteosarcoma?",
+   "a": "• **Metastases at diagnosis** - the most important\n• **Histological response to neoadjuvant chemo**: **≥90% tumour necrosis** = good responder\n• **Surgical margin** achieved\n• Tumour **size/site** (axial worse), **raised ALP/LDH**\n• Skip lesions = poor",
+   "m": "Lecturer pearl: ‘Did it spread, and did it die on chemo?’"
+  },
+  {
+   "t": "MAL",
+   "q": "Describe the typical chondrosarcoma patient and site.",
+   "a": "• **Second most common** primary malignant bone tumour; **commonest in adults**\n• Age **40-70**, male > female (3:2)\n• **Axial / proximal** skeleton: **pelvis**, **proximal femur**, proximal humerus, scapula, ribs\n• Deep, dull, gradually worsening pain ± swelling; pathological fracture",
+   "m": "Old, central, cartilage."
+  },
+  {
+   "t": "MAL",
+   "q": "What is the difference between primary and secondary chondrosarcoma?",
+   "a": "• **Primary**: arises de novo (usually central, intramedullary)\n• **Secondary**: from a pre-existing benign cartilage lesion - **enchondroma** (central) or **osteochondroma** cartilage cap (peripheral)\n• High risk with **Ollier, Maffucci** and **multiple hereditary exostoses**\n• Also classified by location (central/peripheral) and cell type"
+  },
+  {
+   "t": "MAL",
+   "q": "What are the imaging features of chondrosarcoma?",
+   "a": "• **‘Popcorn’ / rings-and-arcs chondroid calcification** in the medullary canal\n• **Deep endosteal scalloping** with **cortical thinning, expansion or thickening**\n• **Cortical destruction**, soft tissue mass in higher grades\n• **CT**: matrix calcification, permeative destruction; **MRI**: extent, areas of malignant change, helps grade",
+   "m": "Enchondroma with an attitude: scalloping deep and cortex breached."
+  },
+  {
+   "t": "MAL",
+   "q": "Why is surgery the only curative treatment for chondrosarcoma?",
+   "a": "• Chondrosarcoma is **resistant to chemotherapy and radiotherapy**: **poor vascularity**, **slow cell division**, cells shielded by **dense cartilage matrix** (lecturer pearl)\n• So: **complete wide surgical resection** (radical resection/amputation in severe cases)\n• Grade 1 (low grade) in limbs may be managed with wide local excision (or extended curettage in selected cases)\n• Chemo/radiotherapy only **palliative**",
+   "m": "Cartilage has no blood supply - so drugs and rays cannot reach it: CUT it."
+  },
+  {
+   "t": "MAL",
+   "q": "How does grade determine prognosis in chondrosarcoma?",
+   "a": "• **Grade I**: low cellularity, abundant hyaline matrix → ~5% metastasise, 5-year survival **90-100%**\n• **Grade II**: more cellular, enlarged nuclei → ~20% metastasise, ~**60%**\n• **Grade III**: highly cellular, pleomorphic, mitoses → ~70% metastasise, **30-40%**\n• Also depends on stage, size, site, resection margin",
+   "m": "Mets 5-20-70; survival 90-60-30."
+  },
+  {
+   "t": "MAL",
+   "q": "Who gets Ewing sarcoma and where?",
+   "a": "• **Second most common primary malignant bone tumour in children**; age **10-20**, male > female\n• **Diaphysis** of long bones (femur, tibia, fibula), also **pelvis**, ribs, clavicle\n• Rarely in soft tissue (extraskeletal Ewing)\n• Origin: marrow mesenchymal stem cell with **neuroectodermal** features",
+   "m": "Ewing lives in the shaft."
+  },
+  {
+   "t": "MAL",
+   "q": "What is the genetic hallmark and histology of Ewing sarcoma?",
+   "a": "• Translocation **t(11;22)(q24;q12)** → **EWS-FLI1** (EWSR1-FLI1) fusion protein (note: slide writes ‘EWS-FL1’)\n• Histology: sheets of monotonous **small round blue cells**, high nuclear:cytoplasmic ratio, **pseudo-rosettes**\n• IHC: strong membranous **CD99** (~95%)\n• Necrotic tumour may look like **pus** at biopsy",
+   "m": "Ewing at 11:22 - eleven-twenty-two, CD-ninety-nine."
+  },
+  {
+   "t": "MAL",
+   "q": "Why is Ewing sarcoma often mistaken for osteomyelitis?",
+   "a": "• **Fever**, night sweats, malaise, **raised ESR/CRP** and **leucocytosis**\n• Warm, tender swelling\n• Permeative, **moth-eaten** lesion with periosteal reaction on X-ray (like infection)\n• Biopsy material can look like **pus**\n• So: send **biopsy for histology AND culture** in every ‘osteomyelitis’ (lecturer pearl)",
+   "m": "Lecturer pearl: ‘Culture every tumour, biopsy every infection.’"
+  },
+  {
+   "t": "MAL",
+   "q": "What are the X-ray features of Ewing sarcoma?",
+   "a": "• **Permeative / moth-eaten** lytic destruction of the **diaphysis**\n• **Onion-skin** (lamellated, multilayered) periosteal reaction; may show Codman triangle\n• Often a **large soft tissue mass** out of proportion to bone change\n• Little or no matrix mineralisation (unlike osteosarcoma)",
+   "m": "Moth-eaten onion in the shaft."
+  },
+  {
+   "t": "MAL",
+   "q": "How is Ewing sarcoma staged, and which test is specific to it compared with osteosarcoma?",
+   "a": "• **MRI whole bone**: intraosseous extent, skip lesions, soft tissue\n• **CT chest**: pulmonary metastases\n• **Bone scan / PET-CT**: skeletal metastases\n• **Bone marrow aspirate and trephine biopsy** - Ewing spreads to **marrow**\n• **LDH**: raised = larger tumour, poorer prognosis",
+   "m": "Ewing is a marrow tumour - so sample the marrow."
+  },
+  {
+   "t": "MAL",
+   "q": "How is Ewing sarcoma treated, and how does it differ from osteosarcoma?",
+   "a": "• **Neoadjuvant chemotherapy** (8-12 weeks) → **local control** → **adjuvant chemotherapy** (6-12 months)\n• Local control: **wide surgical resection** preferred (lower local recurrence ~5-10%)\n• Ewing is **radiosensitive** (unlike osteosarcoma): **radiotherapy** for positive margins, metastatic disease, or **unresectable sites** (spine, pelvis)\n• Radiotherapy alone: higher local recurrence (~35%) and late effects - growth disturbance, contracture, fracture, **secondary malignancy**",
+   "m": "Ewing is radiosensitive; osteosarcoma and chondrosarcoma are not."
+  },
+  {
+   "t": "MAL",
+   "q": "What are the poor prognostic factors in Ewing sarcoma?",
+   "a": "• **Metastases at diagnosis** - the most important (bone/marrow mets worse than lung-only)\n• **Axial site**: spine/pelvis worst > proximal limb > distal limb (best)\n• **Size >8 cm**, extensive marrow involvement\n• **Poor chemo response**: <90% necrosis\n• Older age (>14), male, **raised LDH**, additional **TP53** mutation",
+   "m": "Big, central, spread, and chemo-resistant = bad."
+  },
+  {
+   "t": "CYS",
+   "q": "What is a simple (unicameral) bone cyst and where does it typically occur?",
+   "a": "• Solitary, **unilocular** cavity lined by a **thin fibrous membrane** (no epithelium), filled with **serous / straw-coloured fluid**\n• Age **<20**, male > female (~2:1)\n• **Proximal humerus** > proximal femur > proximal tibia\n• **Central, metaphyseal**, adjacent to the physis; migrates towards the diaphysis with growth",
+   "m": "Simple = Single chamber, Straw fluid, Shoulder (humerus)."
+  },
+  {
+   "t": "CYS",
+   "q": "How does a simple bone cyst usually present and what is the pathognomonic X-ray sign?",
+   "a": "• ~80% **asymptomatic** until a **pathological fracture** after minor trauma\n• X-ray: **central**, well-defined lucent metaphyseal lesion, thinned slightly expanded cortex, may look septated\n• **Fallen fragment (‘fallen leaf’) sign**: fractured cortical fragment **sinks to the dependent part** of the fluid-filled cyst - pathognomonic\n• Diagnosis usually on history, exam and X-ray alone",
+   "m": "A leaf falls through water, not through solid tumour."
+  },
+  {
+   "t": "CYS",
+   "q": "How is a simple bone cyst managed?",
+   "a": "• Fracture: **immobilise (e.g. sling)** and let it heal; some cysts heal after fracture\n• **Aspiration + methylprednisolone acetate injection** for active cysts (± bone marrow/demineralised matrix - lecturer pearl)\n• **Curettage and bone grafting ± internal fixation**: failed injections, displaced fractures, weight-bearing sites (proximal femur)\n• Advanced imaging/biopsy only if malignancy cannot be excluded"
+  },
+  {
+   "t": "CYS",
+   "q": "What are the complications of a simple bone cyst?",
+   "a": "• **Recurrence** 10-20% after treatment (higher in young ‘active’ cysts near the physis)\n• **Growth arrest / limb shortening** (physeal damage, large cysts)\n• **Avascular necrosis of the femoral head** after proximal femoral fracture\n• Malunion, repeated pathological fractures"
+  },
+  {
+   "t": "CYS",
+   "q": "What is an aneurysmal bone cyst?",
+   "a": "• Benign, **expansile**, locally aggressive lesion of **blood-filled spaces** separated by septa, **without endothelial lining**\n• Age mostly **<20** (10-30); equal sex distribution\n• **Eccentric metaphyseal** lesion of long bones (femur, tibia, humerus) and **posterior elements of the spine**\n• Can be **primary** (USP6 rearrangement) or **secondary** to GCT, osteoblastoma, chondroblastoma, osteosarcoma (lecturer pearl)\n• Spinal ABC may cause neurological deficit",
+   "m": "ABC = A Blood Cyst that blows out the bone."
+  },
+  {
+   "t": "CYS",
+   "q": "What are the imaging features of aneurysmal bone cyst, and which dangerous lesion mimics it?",
+   "a": "• X-ray: **eccentric, expansile, ‘blown-out’ bubbly lytic lesion** with thin cortical shell\n• MRI: multiple septations with **fluid-fluid levels** (blood products settling)\n• Key mimic: **telangiectatic osteosarcoma** (also fluid-fluid levels) - also GCT, SBC\n• So **biopsy is required** to confirm diagnosis",
+   "m": "Fluid-fluid levels: think ABC, but exclude telangiectatic osteosarcoma."
+  },
+  {
+   "t": "CYS",
+   "q": "How is an aneurysmal bone cyst treated?",
+   "a": "• **Aggressive curettage (± adjuvant: burr, phenol, cryotherapy) + bone grafting** - standard for symptomatic lesions\n• **Sclerotherapy** (e.g. **polidocanol**) - causes fibrosis of cyst spaces\n• **Selective arterial embolisation** - blocks inflow; useful in spine/pelvis or before surgery\n• **Recurrence up to 20%**"
+  },
+  {
+   "t": "CYS",
+   "q": "Simple bone cyst vs aneurysmal bone cyst: key differences?",
+   "a": "• **Position**: SBC **central**; ABC **eccentric**\n• **Contents**: SBC **serous fluid**; ABC **blood**\n• **Expansion**: SBC mild; ABC marked, ‘blown-out’\n• **Imaging sign**: SBC **fallen fragment**; ABC **fluid-fluid levels**\n• **Site**: SBC proximal humerus/femur; ABC long bones + **spinal posterior elements**\n• **Diagnosis**: SBC on X-ray; ABC needs **biopsy**",
+   "m": "Simple sits in the middle; Aneurysmal bulges to the side."
+  },
+  {
+   "t": "MM",
+   "q": "What is multiple myeloma and who typically gets it?",
+   "a": "• Malignant proliferation of **clonal plasma cells (B-cell lineage) in the bone marrow**\n• Older adults (typically **>60** - lecturer pearl)\n• **Commonest primary malignancy of bone** in older adults (lecturer pearl)\n• Produces monoclonal immunoglobulin (**M-protein**) and/or free light chains (**Bence Jones protein**)"
+  },
+  {
+   "t": "MM",
+   "q": "What does the mnemonic CRAB stand for in myeloma?",
+   "a": "• **C**alcium raised - hypercalcaemia (bone resorption)\n• **R**enal impairment - light-chain cast nephropathy, hypercalcaemia\n• **A**naemia - marrow replacement → fatigue\n• **B**one lesions - lytic lesions, bone pain, **pathological fractures**\n• Also recurrent infections (immunoparesis)",
+   "m": "Old man feeling CRAB-by with back pain = myeloma."
+  },
+  {
+   "t": "MM",
+   "q": "How does myeloma destroy bone, and why is the bone scan often normal?",
+   "a": "• Myeloma cells activate the **RANKL** system → **osteoclast** activation → lytic lesions, diffuse osteoporosis, cortical thinning\n• They also **suppress osteoblasts** (lecturer pearl: e.g. DKK1)\n• No reactive new bone → **ALP usually normal** and **bone scan ‘cold’ / false negative**\n• Hence use skeletal survey, low-dose CT or MRI instead",
+   "m": "Bone scan sees osteoBLASTS; myeloma has switched them off."
+  },
+  {
+   "t": "MM",
+   "q": "Which investigations confirm multiple myeloma?",
+   "a": "• **Serum and urine protein electrophoresis** (SPEP/UPEP) ± immunofixation: **M-band**, Bence Jones protein\n• **Serum free light chains** (kappa:lambda ratio) - lecturer pearl\n• **Bone marrow aspirate and biopsy**: clonal plasma cells (≥10% - lecturer pearl)\n• Supporting: FBC, renal profile, **calcium**, ESR, albumin, **beta-2 microglobulin** (prognosis; note: slide says ‘macroglobulin’)",
+   "m": "Protein, light chains, marrow."
+  },
+  {
+   "t": "MM",
+   "q": "What imaging is used in myeloma and what are the classic findings?",
+   "a": "• **Skeletal survey** (skull, spine, pelvis, ribs, humeri, femora): **punched-out lytic lesions**, **‘pepper-pot’ skull**, diffuse osteopenia, vertebral collapse\n• **Whole-body low-dose CT** - more sensitive, now preferred; shows fractures, soft tissue masses, fracture-risk areas\n• **MRI / PET-CT**: marrow infiltration, response to treatment\n• **Avoid relying on bone scan** - often falsely negative",
+   "m": "Pepper-pot skull, punched-out holes, cold bone scan."
+  },
+  {
+   "t": "MM",
+   "q": "How is multiple myeloma managed?",
+   "a": "• **Systemic therapy**: combinations of chemotherapy/proteasome inhibitor, **steroid** and **immunomodulatory** agent (e.g. bortezomib, lenalidomide, dexamethasone - lecturer pearl)\n• **Autologous stem-cell transplant** in fit patients\n• Bone disease: **bisphosphonates** (or denosumab)\n• Surgery: **stabilise** existing/impending pathological fractures, **decompress** spinal cord, pain relief; radiotherapy for painful lesions"
+  },
+  {
+   "t": "MET",
+   "q": "What is the commonest malignant tumour of bone, and which primaries most often spread to bone?",
+   "a": "• **Metastases** - far commoner than primary bone tumours, especially **>40 y**\n• Primaries: **Breast, Prostate, Kidney, Thyroid, Lung**\n• Mnemonic (lecturer pearl): **‘Lead Kettle’ = PbKTL** - Pb (Prostate, breast), K (kidney), T (thyroid), L (lung)",
+   "m": "Lead Kettle: Pb-K-T-L."
+  },
+  {
+   "t": "MET",
+   "q": "Which metastases are typically lytic, blastic or mixed?",
+   "a": "• **Lytic**: **lung, kidney, thyroid** - ill-defined, punched-out, thinned trabeculae\n• **Blastic (sclerotic)**: **prostate** (~90%) - dense white nodular patches\n• **Mixed**: **breast** (can be lytic, blastic or mixed)\n• **Kidney and thyroid mets are hypervascular** → **preoperative embolisation**",
+   "m": "Prostate makes bone (blastic); kidney and thyroid eat it and bleed."
+  },
+  {
+   "t": "MET",
+   "q": "Where in the skeleton do metastases most often go, and why?",
+   "a": "• **Spine** (esp. thoracic/lumbar) > **pelvis** > **ribs** > **proximal femur** > **proximal humerus**\n• Red-marrow-rich axial skeleton with high blood flow\n• Spinal spread via the **valveless Batson vertebral venous plexus** (lecturer pearl)\n• Mets **distal to elbow/knee** (acral) are rare - think **lung** primary (lecturer pearl)"
+  },
+  {
+   "t": "MET",
+   "q": "What are the three types of pain in metastatic bone disease and what do they imply?",
+   "a": "• **Tumorigenic**: dull, boring, gradual, **worse at night** - tumour activity\n• **Mechanical**: pain on **weight-bearing / activity** - structural weakness → **impending fracture**\n• **Radicular**: sharp, shooting, electric-shock along a **dermatome** - nerve root compression",
+   "m": "Night = tumour; walking = fracture risk; shooting = nerve."
+  },
+  {
+   "t": "MET",
+   "q": "What are the early and late signs of metastatic spinal cord compression and the immediate actions?",
+   "a": "• **Early**: **back pain** (esp. thoracic, night, worse lying), **limb weakness**, **paraesthesia/numbness** at or below the level\n• **Late**: **autonomic** - bladder/bowel dysfunction, impotence\n• Actions (lecturer pearl): urgent **MRI of the whole spine**, **high-dose dexamethasone**, urgent spinal surgery and/or **radiotherapy**\n• Do not wait for sphincter loss - outcome depends on function at presentation",
+   "m": "Lecturer pearl: walk in, walk out - treat before paralysis."
+  },
+  {
+   "t": "MET",
+   "q": "What are the symptoms of hypercalcaemia of malignancy?",
+   "a": "• **GI**: nausea, anorexia, abdominal pain, **constipation**\n• **Neurological**: **confusion**, altered mental state, depression\n• **Renal**: **polyuria, polydipsia**, dehydration, stones\n• Treat (lecturer pearl): **IV normal saline** then **IV bisphosphonate**",
+   "m": "Bones, stones, abdominal groans and psychic moans."
+  },
+  {
+   "t": "MET",
+   "q": "How do you work up a bone lesion suspected to be metastatic with no known primary?",
+   "a": "• History/exam: **breast, prostate, thyroid**, lungs, abdomen, lymph nodes\n• Bloods: FBC, ESR, renal & liver function, **calcium**, **ALP**, **PSA**, **SPEP/UPEP**, LDH, coagulation\n• **CT chest/abdomen/pelvis** (search for primary) + **bone scan / PET** (other lesions); **MRI** most sensitive for marrow mets\n• **Biopsy LAST** - a solitary lesion must be biopsied to **exclude a primary bone sarcoma** before any fixation",
+   "m": "Never nail a solitary lesion until you know it is not a sarcoma."
+  },
+  {
+   "t": "MET",
+   "q": "What are the four components of Mirels' score and how is each scored?",
+   "a": "• **Site**: upper limb **1**, lower limb **2**, **peritrochanteric 3**\n• **Pain**: mild **1**, moderate **2**, **functional** (on weight-bearing) **3**\n• **Lesion**: blastic **1**, mixed **2**, **lytic 3**\n• **Size** (fraction of cortical diameter): <1/3 **1**, 1/3-2/3 **2**, **>2/3 3**\n• Range 4-12 (note: slide writes ‘Mirel's’; correct is Mirels')",
+   "m": "Site-Pain-Lesion-Size, 1-2-3 each; the worst of each = 3."
+  },
+  {
+   "t": "MET",
+   "q": "How does the Mirels' score guide management of a long-bone metastasis?",
+   "a": "• **≤7**: low fracture risk → **radiotherapy** and observation\n• **8**: borderline → **clinical judgement**\n• **≥9**: high risk (score 9 ≈ **33% fracture risk**) → **prophylactic fixation BEFORE radiotherapy**\n• Why fix first: radiotherapy causes temporary bone weakening/ delayed healing, and fixing an impending fracture is easier and safer than a completed one",
+   "m": "Nine or more? Nail before the rays."
+  },
+  {
+   "t": "MET",
+   "q": "What treatment options exist for metastatic bone disease?",
+   "a": "• **Medical**: analgesic ladder (NSAIDs → opioids), **bisphosphonates / denosumab**, chemotherapy, **hormonal** and targeted therapy\n• **Radiation**: external beam, stereotactic body RT; **radium-223 / strontium-89** for diffuse blastic pain\n• **Surgery**: **intramedullary nail** for shaft lesions (protects whole bone), **arthroplasty/endoprosthesis** for periarticular lesions; **preop embolisation** for renal/thyroid\n• **Minimally invasive**: RFA, cryoablation, **cementoplasty**; palliative care"
+  },
+  {
+   "t": "STT",
+   "q": "Which features of a soft tissue mass are red flags for sarcoma?",
+   "a": "• **Size >5 cm**\n• **Deep to the deep fascia**\n• **Increasing in size**\n• **Painful**\n• **Recurrence** after previous excision\n• Any one → **MRI** and **urgent referral to a sarcoma centre BEFORE any excision**",
+   "m": "Lecturer pearl: ‘Bigger than a golf ball, deep, growing, painful or back again.’"
+  },
+  {
+   "t": "STT",
+   "q": "What is a ‘whoops’ excision, and why must it be avoided?",
+   "a": "• Unplanned shelling-out of a presumed benign lump that turns out to be a **sarcoma**\n• Margins are **positive**; tumour cells spilled through the whole operative field and tissue planes\n• Needs much larger **re-excision ± radiotherapy**, sometimes amputation; worse local control\n• Prevent: **MRI first**, **core needle biopsy planned by the sarcoma team**",
+   "m": "Lecturer pearl: if in doubt, scan it - do not cut it."
+  },
+  {
+   "t": "STT",
+   "q": "What are the general treatment principles for an adult soft tissue sarcoma of a limb?",
+   "a": "• Stage first: **MRI** (local) + **CT chest** (lungs = commonest metastatic site); **core biopsy** at the sarcoma centre\n• **Wide local excision** (tumour + biopsy tract + cuff of normal tissue) with limb preservation where possible\n• **Radiotherapy** neoadjuvant or adjuvant for high grade, deep, large tumours or close margins\n• **Chemotherapy** for chemosensitive types (rhabdomyosarcoma, synovial sarcoma) or metastatic disease\n• Amputation only when a functional limb with clear margins is impossible",
+   "m": "Scan, stage, sample, then Wide excision + radiotherapy."
+  },
+  {
+   "t": "STT",
+   "q": "What are the features of a simple lipoma and how is it managed?",
+   "a": "• **Commonest benign soft tissue tumour**; middle to old age\n• **Soft, painless, mobile, slow-growing, lobulated**; subcutaneous on back, neck, shoulder, proximal limbs (or intramuscular)\n• Mature adipocytes in lobules\n• Diagnosis clinical; **ultrasound** for superficial lumps; **MRI** if large or deep\n• Asymptomatic: observe; symptomatic: **marginal excision** (recurrence rare superficially, commoner intramuscular)",
+   "m": "Slip sign: the edge slips away under the finger."
+  },
+  {
+   "t": "STT",
+   "q": "On MRI, which features suggest an atypical lipomatous tumour / well-differentiated liposarcoma rather than a lipoma?",
+   "a": "• **Large** (>10 cm - lecturer pearl), **deep** (intramuscular/retroperitoneal)\n• **Thick, irregular, enhancing septa** (>2 mm)\n• **Nodular or globular non-fatty soft tissue** components\n• Less than ~75% fat\n• Confirm with **core needle biopsy** (MDM2 amplification - lecturer pearl)",
+   "m": "A lipoma looks like pure fat; a liposarcoma is fat with lumps and thick strings."
+  },
+  {
+   "t": "STT",
+   "q": "Where does liposarcoma occur and what are its subtypes?",
+   "a": "• Adults after the 3rd decade; **deep**: **thigh**, groin, calf, popliteal fossa, buttock, retroperitoneum\n• **Well-differentiated (ALT)**: low grade\n• **Myxoid**: intermediate grade - t(12;16) FUS-DDIT3 (lecturer pearl)\n• **Round cell, pleomorphic, dedifferentiated**: high grade\n• May cause nerve compression or limb oedema from venous occlusion",
+   "m": "Deep thigh fat in an adult = liposarcoma until proven otherwise."
+  },
+  {
+   "t": "STT",
+   "q": "How is liposarcoma investigated and treated?",
+   "a": "• **MRI** for local extent; **CT (chest)** for staging; **core needle biopsy** for subtype/grade\n• **Wide local excision** - mainstay (well-differentiated)\n• **Radiotherapy**: neoadjuvant to reduce recurrence, or adjuvant for close margins / high grade (myxoid is radiosensitive - lecturer pearl)\n• **Chemotherapy**: metastatic or unresectable high-grade disease"
+  },
+  {
+   "t": "STT",
+   "q": "What are the superficial fibromatoses?",
+   "a": "• Myofibroblast proliferation that lays down collagen and **contracts**\n• **Palmar** - Dupuytren disease\n• **Plantar** - Ledderhose disease\n• **Penile** - Peyronie disease\n• **Knuckle pads** - Garrod disease\n• Firm painless nodules, skin puckering, contracture; family history; recurrence common. Treat symptomatic disease with **collagenase** or **(dermo)fasciectomy**",
+   "m": "Dupuytren's hand, Ledderhose foot, Peyronie's... elsewhere, Garrod's knuckles."
+  },
+  {
+   "t": "STT",
+   "q": "What is desmoid-type fibromatosis and how is it managed?",
+   "a": "• **Deep, infiltrative, locally aggressive** myofibroblastic tumour that **does not metastasise**\n• Sporadic: **beta-catenin (CTNNB1) mutation** in ~85%; syndromic: **FAP / Gardner (APC)** - lecturer pearl\n• Sites: abdominal wall, chest wall, shoulder, thigh, mesentery\n• **~50% recurrence** after surgery\n• Asymptomatic: **active surveillance**; symptomatic: **NSAIDs, tamoxifen**, chemotherapy, radiotherapy, surgery",
+   "m": "Desmoid: Does not spread, but Doesn't stay away (recurs)."
+  },
+  {
+   "t": "STT",
+   "q": "What are the key features of dermatofibrosarcoma protuberans (DFSP)?",
+   "a": "• **Low-grade** malignant dermal tumour; males, 3rd-5th decade; **trunk**, groin, proximal limbs\n• Slow-growing **erythematous/violaceous plaque** that becomes **nodular / protuberant**\n• Histology: spindle cells in a **storiform (cartwheel)** pattern with **honeycomb infiltration** of fat; **CD34 positive**\n• **Locally aggressive** (~50% recurrence if inadequately excised), rarely metastasises\n• **Wide excision** or **Mohs** surgery; imatinib for advanced disease (COL1A1-PDGFB - lecturer pearl)",
+   "m": "DFSP: Storiform, Sticking up, CD34."
+  },
+  {
+   "t": "STT",
+   "q": "Fibrosarcoma vs myxofibrosarcoma: how do they differ?",
+   "a": "• **Fibrosarcoma**: adults ~50 y; **deep** mass in thigh/trunk/arm; spindle cells in a **herringbone** pattern; mets to **lung and bone**\n• **Myxofibrosarcoma**: **elderly** (~60 y); usually **subcutaneous** in limbs; **myxoid background**, pleomorphic cells, **curvilinear vessels**; **infiltrative margins** → high local recurrence\n• Both: MRI, core biopsy, **CT chest**, **wide excision** ± radiotherapy",
+   "m": "Herringbone = fibrosarcoma; jelly + curly vessels = myxofibrosarcoma."
+  },
+  {
+   "t": "STT",
+   "q": "What are the types of haemangioma and how are soft tissue haemangiomas managed?",
+   "a": "• **Capillary**: superficial red patch (‘birthmark’)\n• **Cavernous**: sponge-like blood spaces, may extend into fascia and muscle; aching/heaviness worse with activity\n• X-ray: **phleboliths**; **MRI with gadolinium** separates it from AVM and angiosarcoma\n• **NSAIDs, observation, compression stockings** first; **sclerotherapy/embolisation** for large painful lesions; excision if resistant",
+   "m": "Phleboliths = small calcified clots in slow-flow vessels."
+  },
+  {
+   "t": "STT",
+   "q": "What is the classic triad and the two bedside tests of a glomus tumour?",
+   "a": "• Benign perivascular (glomus body) tumour, typically **subungual**, age 20-40\n• **Triad**: **paroxysmal pain**, **exquisite pinpoint tenderness**, **cold intolerance**\n• Small **bluish** spot under the nail, nail ridging\n• **Love (pin) test**: pinhead pressure reproduces the pain\n• **Hildreth (tourniquet) test**: pain abolished after exsanguination and cuff inflation",
+   "m": "Love the pin, Hildreth the cuff."
+  },
+  {
+   "t": "STT",
+   "q": "How is a glomus tumour investigated and treated?",
+   "a": "• X-ray: **pressure erosion** of the underlying distal phalanx\n• **MRI**: small, oval, well-defined enhancing mass (most sensitive)\n• **Surgical excision** (usually through the nail bed) when symptoms affect quality of life - curative\n• Large nail-bed defects: reconstruct (e.g. autologous fat graft)"
+  },
+  {
+   "t": "STT",
+   "q": "What are the risk factors and prognosis of angiosarcoma?",
+   "a": "• Rare, aggressive malignant tumour of **vascular endothelium**\n• Risk factors: **previous radiotherapy**, **chronic lymphoedema / vascular stasis** (Stewart-Treves after mastectomy - lecturer pearl), **polyvinyl chloride**, trauma, foreign material/AV fistula, **Maffucci**\n• Overlying **skin changes**, bruising; may cause **coagulopathy, anaemia**\n• **Poor prognosis**: ~50% die in the first year; mets to lung, bone, soft tissue, nodes",
+   "m": "Radiation, lymphoedema, PVC - think angiosarcoma."
+  },
+  {
+   "t": "STT",
+   "q": "What are the features of leiomyosarcoma?",
+   "a": "• Aggressive malignant **spindle-cell tumour of smooth muscle** (note: slide spells it ‘Leiomysarcoma’)\n• Sites: **retroperitoneum**, skin, and **large vessels** (IVC, iliac, femoral vein) → venous occlusion and **limb swelling**\n• Abdominal mass, pain, weight loss, nausea\n• Highly **vascular** on angiography/duplex\n• Poor prognosis (5-year survival ~25%); mets to lung, bone, soft tissue, skin"
+  },
+  {
+   "t": "STT",
+   "q": "What is pigmented villonodular synovitis (tenosynovial giant cell tumour) and how does it present?",
+   "a": "• Benign but locally aggressive proliferation of synovium/tendon sheath with **histiocytes, giant cells and haemosiderin**; renamed **TGCT** by WHO\n• Types: **giant cell tumour of tendon sheath**, **localised PVNS**, **diffuse intra-articular PVNS**\n• Young adults; **knee** > hip, ankle\n• **Insidious pain, swelling, stiffness** and **recurrent atraumatic haemarthrosis** (brown, blood-stained aspirate)\n• Note: slide spells ‘villonodullar’; correct is villonodular",
+   "m": "Young knee bleeding again and again without injury or clotting disorder = PVNS."
+  },
+  {
+   "t": "STT",
+   "q": "How is PVNS diagnosed and treated?",
+   "a": "• X-ray/CT: **cystic erosions on both sides of the joint**, joint space preserved early\n• **MRI (most sensitive)**: low-signal synovial masses with **‘blooming’ on gradient echo** from **haemosiderin**\n• Arthroscopy: brown/red **frond-like** papillary synovium; biopsy confirms\n• Treatment: **total synovectomy** (gold standard), arthroplasty if joint destroyed; radiotherapy/radiosynovectomy; **tyrosine kinase (CSF1R) inhibitors** for recurrent diffuse disease\n• High recurrence in diffuse form",
+   "m": "Iron (haemosiderin) blooms on gradient echo."
+  },
+  {
+   "t": "STT",
+   "q": "What are the key features of synovial sarcoma?",
+   "a": "• High-grade sarcoma of **adolescents/young adults** (15-40 - lecturer pearl)\n• **Periarticular** (near, rarely within, joints), **80% lower limb**, esp. around the **knee**; may be painful or painless\n• **Not from synovium** despite the name\n• Genetics: **t(X;18)(p11;q11) → SS18-SSX** fusion\n• X-ray/CT: **small peripheral calcifications**; MRI: heterogeneous ‘triple signal’ with septa and fluid levels\n• Can spread to **lymph nodes**; treat with wide excision + radiotherapy ± chemotherapy",
+   "m": "X marks the synovial sarcoma: t(X;18)."
+  },
+  {
+   "t": "STT",
+   "q": "Schwannoma vs neurofibroma: how do they differ?",
+   "a": "• **Schwannoma**: Schwann cells, **encapsulated**, **eccentric** to the nerve → can be **shelled out (enucleated)** preserving fascicles; flexor surfaces, head & neck\n• **Neurofibroma**: **central/fusiform**, fascicles run **through** it → cannot be enucleated without sacrificing the nerve; associated with **NF1** (multiple, plexiform)\n• Both: mobile side-to-side not along the nerve, **Tinel-like tingling**, MRI",
+   "m": "Schwannoma sits beside the nerve (shell it); neurofibroma swallows the nerve."
+  },
+  {
+   "t": "STT",
+   "q": "What musculoskeletal features are associated with neurofibromatosis type 1?",
+   "a": "• Multiple **neurofibromas** (cutaneous, plexiform), café-au-lait spots, axillary freckling (lecturer pearl)\n• **Scoliosis** (dystrophic), **congenital pseudarthrosis of the tibia**\n• **Overgrowth** of a digit or whole limb\n• Nerve root lesions can **mimic disc prolapse**\n• Risk of **MPNST** - leading cause of death in NF1"
+  },
+  {
+   "t": "STT",
+   "q": "When should you suspect a malignant peripheral nerve sheath tumour (MPNST), and how is it investigated?",
+   "a": "• ~50% arise from a **neurofibroma in NF1** (rest sporadic)\n• Red flags: **rapidly enlarging, painful** neurofibroma, new **neurological deficit** (numbness, weakness)\n• Major nerves: sciatic (thigh), brachial plexus, pelvis\n• **MRI** + **FDG-PET** (high uptake identifies malignant change, guides biopsy)\n• Treat: **wide surgical resection + radiotherapy**; poor prognosis",
+   "m": "NF1 lump that suddenly grows and hurts = MPNST."
+  },
+  {
+   "t": "STT",
+   "q": "What are the subtypes of rhabdomyosarcoma and who gets them?",
+   "a": "• **Commonest soft tissue sarcoma of children**; malignant striated (skeletal) muscle cells\n• **Embryonal** (commonest): infants/young children - head & neck, genitourinary\n• **Botryoid** (embryonal variant): infants - grape-like mass in hollow organs\n• **Alveolar**: adolescents/young adults - limbs; t(2;13) PAX3-FOXO1 (lecturer pearl)\n• **Pleomorphic**: older adults 40-70\n• IHC: **desmin, myogenin** (lecturer pearl); biopsy gold standard; chemo + surgery ± radiotherapy",
+   "m": "Embryonal = Early; Alveolar = Adolescent; Pleomorphic = Pensioner."
+  },
+  {
+   "t": "STT",
+   "q": "Lecturer pearl: which soft tissue sarcomas commonly spread to lymph nodes?",
+   "a": "• Most sarcomas spread **by blood to the lungs** - nodal spread is unusual\n• Exceptions (‘**SCARE**’): **S**ynovial sarcoma, **C**lear cell sarcoma, **A**ngiosarcoma, **R**habdomyosarcoma, **E**pithelioid sarcoma\n• So examine and image **regional nodes** in these tumours",
+   "m": "Lecturer pearl: sarcomas that SCARE the lymph nodes."
+  }
+ ],
+ "mcq": [
+  {
+   "t": "APP",
+   "stem": "A 68-year-old man, a heavy smoker, has had 3 months of right thigh pain that wakes him at night, with 6 kg weight loss. Examination shows tenderness over the proximal thigh but no palpable mass. X-ray shows a solitary ill-defined lytic lesion in the proximal femoral diaphysis without matrix mineralisation or periosteal reaction.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Osteosarcoma",
+    "Ewing sarcoma",
+    "Chondrosarcoma",
+    "Giant cell tumour of bone",
+    "Metastatic carcinoma"
+   ],
+   "a": 4,
+   "e": "Age is the strongest single clue to a bone lesion. In adults over 40, metastases are far commoner than any primary bone tumour, and a smoker with weight loss points to a lung primary, which typically gives lytic deposits. Primary sarcomas are considered only after metastasis and myeloma have been excluded.",
+   "w": [
+    "Wrong - osteosarcoma peaks in adolescence; the elderly peak is secondary (Paget or radiation) and usually shows bone formation and soft tissue mass.",
+    "Wrong - Ewing sarcoma affects children and adolescents (10-20 y) and gives an onion-skin periosteal reaction.",
+    "Wrong - chondrosarcoma occurs at this age but usually shows chondroid ‘rings and arcs’ calcification and endosteal scalloping; metastasis is still far commoner.",
+    "Wrong - giant cell tumour is epiphyseal-metaphyseal in young adults (20-40 y), not diaphyseal in the elderly.",
+    "Correct - over 40 with a lytic lesion, metastasis (here likely lung) is the commonest cause."
+   ]
+  },
+  {
+   "t": "APP",
+   "stem": "A 15-year-old boy at a district hospital has a painful swelling above the knee. X-ray shows an aggressive mixed lesion of the distal femoral metaphysis with a sunburst periosteal reaction. Local MRI has been done. The medical officer wants to confirm the diagnosis before referring to the regional orthopaedic oncology unit.\nWhat is the most appropriate approach to tissue diagnosis?",
+   "o": [
+    "Core needle biopsy planned with the sarcoma surgeon, along the future incision line",
+    "Open biopsy at the district hospital through a transverse incision to reduce scarring",
+    "Excisional biopsy of the whole lesion with marginal margins so histology is complete",
+    "Fine-needle aspiration via a medial approach next to the femoral vessels for easy access",
+    "Proceed directly to amputation because the radiological appearance is already diagnostic"
+   ],
+   "a": 0,
+   "e": "The biopsy is the last investigation and must be planned by the surgeon or unit that will perform the definitive resection. The track is placed in line with the future incision so it can be excised en bloc, avoiding transverse incisions, uninvolved compartments and the neurovascular bundle. Poorly placed biopsies can convert a limb-salvage case into an amputation.",
+   "w": [
+    "Correct - image-guided core biopsy by the treating sarcoma team, along the planned resection line, is the standard.",
+    "Wrong - transverse incisions contaminate a wide area and cannot be excised with the specimen; biopsy should be done at the treating centre.",
+    "Wrong - marginal excision of a sarcoma leaves tumour in the reactive zone and contaminates the field.",
+    "Wrong - passing a needle next to the femoral vessels contaminates the neurovascular bundle, which may force amputation.",
+    "Wrong - treatment, especially amputation, is never undertaken without histological confirmation."
+   ]
+  },
+  {
+   "t": "APP",
+   "stem": "A 16-year-old girl has biopsy-confirmed high-grade osteosarcoma of the proximal tibia. MRI of the whole tibia shows no skip lesions and the popliteal vessels are clear. Her ALP is raised.\nWhich investigation is most important to look for the commonest site of distant metastasis?",
+   "o": [
+    "Technetium bone scan",
+    "Whole-body PET-CT",
+    "Ultrasound of abdomen",
+    "Repeat tibial MRI",
+    "CT of the thorax"
+   ],
+   "a": 4,
+   "e": "Bone sarcomas spread haematogenously, and the lungs are the commonest site of metastasis. CT of the chest is therefore mandatory in staging every bone sarcoma. Bone scan or PET-CT looks for skeletal metastases, the second commonest site.",
+   "w": [
+    "Wrong - bone scan detects skeletal metastases, which are less common than pulmonary ones.",
+    "Wrong - PET-CT is a useful adjunct but CT thorax remains the key test for small lung nodules.",
+    "Wrong - abdominal (liver) metastases are uncommon in osteosarcoma.",
+    "Wrong - local staging is already complete; repeating the MRI adds nothing for distant disease.",
+    "Correct - CT thorax detects pulmonary metastases, the commonest distant spread."
+   ]
+  },
+  {
+   "t": "APP",
+   "stem": "A 40-year-old man has a high-grade sarcoma confined to the vastus lateralis in the anterior compartment of the thigh. At surgery the tumour is removed with a continuous cuff of normal muscle around it; the pseudocapsule is never exposed, but the rest of the anterior compartment is preserved.\nWhich surgical margin has been achieved?",
+   "o": [
+    "Intralesional",
+    "Wide",
+    "Marginal",
+    "Radical",
+    "Palliative debulking"
+   ],
+   "a": 1,
+   "e": "Enneking margins describe the plane of dissection. A wide margin passes entirely through normal tissue, removing the tumour, its pseudocapsule and reactive zone with a cuff of normal tissue, while leaving the rest of the compartment behind. A radical margin removes the whole anatomical compartment.",
+   "w": [
+    "Wrong - intralesional means cutting through the tumour itself, as in curettage.",
+    "Correct - a cuff of normal tissue all round without removing the whole compartment is a wide margin.",
+    "Wrong - marginal excision passes through the pseudocapsule/reactive zone, leaving satellite cells.",
+    "Wrong - radical excision would remove the entire anterior compartment.",
+    "Wrong - debulking deliberately leaves gross tumour; this was a complete resection."
+   ]
+  },
+  {
+   "t": "APP",
+   "stem": "A 14-year-old boy has had 6 weeks of aching pain around the left knee, now waking him at night. There is no history of trauma. Examination shows mild warmth and tenderness over the distal femur. An X-ray of the distal femur has been requested.\nWhich radiographic feature would most strongly suggest an aggressive lesion needing urgent referral?",
+   "o": [
+    "Wide, permeative zone of transition",
+    "Thick, solid, uninterrupted periosteal new bone",
+    "A pedunculated stalk continuous with the cortex",
+    "Narrow zone of transition with a sclerotic rim",
+    "Expansile lesion with an intact thin cortical shell"
+   ],
+   "a": 0,
+   "e": "The zone of transition reflects how fast a lesion grows relative to the bone's ability to wall it off. A wide, permeative or moth-eaten pattern means the lesion is infiltrating faster than bone can respond, typical of sarcoma, infection or round cell tumours. Narrow sclerotic margins and solid periosteal reactions indicate slow, usually benign growth.",
+   "w": [
+    "Correct - a wide, permeative zone of transition is the hallmark of an aggressive lesion.",
+    "Wrong - solid, uninterrupted periosteal reaction indicates slow growth (e.g. osteoid osteoma).",
+    "Wrong - a stalk continuous with the cortex and medulla is an osteochondroma.",
+    "Wrong - a narrow zone with a sclerotic rim indicates a slow-growing, usually benign lesion.",
+    "Wrong - an intact expanded shell suggests a slower lesion such as a bone cyst or enchondroma."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 17-year-old boy has had 4 months of a dull ache in the left thigh. It wakes him at night and is dramatically relieved within an hour by ibuprofen. He is afebrile with normal inflammatory markers. X-ray shows fusiform cortical thickening and dense sclerosis of the mid-femoral diaphysis.\nWhich investigation best confirms the diagnosis?",
+   "o": [
+    "MRI with gadolinium",
+    "Repeat radiograph in 6 weeks",
+    "Technetium bone scan",
+    "Thin-slice CT",
+    "Open incisional biopsy"
+   ],
+   "a": 3,
+   "e": "Night pain relieved by NSAIDs with reactive cortical sclerosis in a teenager is classic for osteoid osteoma. The small nidus is often hidden by sclerosis on X-ray; thin-slice CT is the investigation of choice, showing a lucent nidus under 2 cm with or without a central mineralised dot. MRI can overcall the surrounding oedema and mimic infection or tumour.",
+   "w": [
+    "Wrong - MRI shows extensive marrow and soft tissue oedema that may mislead; the nidus is better seen on CT.",
+    "Wrong - repeating the X-ray delays diagnosis and the nidus may stay hidden by sclerosis.",
+    "Wrong - bone scan is hot but non-specific; it localises rather than characterises the lesion.",
+    "Correct - thin-slice CT best demonstrates the lucent nidus with surrounding sclerosis.",
+    "Wrong - open biopsy is unnecessary when CT appearances are characteristic."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 19-year-old man has night pain in the right tibia relieved only by regular NSAIDs, which now upset his stomach. CT shows an 8 mm lucent nidus with a central mineralised dot inside thickened cortex of the tibial diaphysis. He wants definitive treatment.\nWhat is the most appropriate management?",
+   "o": [
+    "Wide en bloc resection with allograft reconstruction",
+    "CT-guided radiofrequency ablation",
+    "Neoadjuvant chemotherapy followed by resection",
+    "Indefinite high-dose NSAID therapy alone",
+    "External beam radiotherapy"
+   ],
+   "a": 1,
+   "e": "CT-guided radiofrequency ablation of the nidus is the preferred treatment for osteoid osteoma: it is minimally invasive, highly successful and avoids weakening the bone. Untreated lesions do regress over years, but NSAID side-effects make that path unsuitable here. Osteoid osteoma is benign, so oncological resection, chemotherapy and radiotherapy are inappropriate.",
+   "w": [
+    "Wrong - en bloc resection is excessive for a benign 8 mm lesion and weakens the tibia.",
+    "Correct - CT-guided RFA is the preferred definitive treatment.",
+    "Wrong - chemotherapy has no role in a benign bone-forming tumour.",
+    "Wrong - NSAIDs control pain but he is already intolerant; regression may take around 3 years.",
+    "Wrong - radiotherapy is not used for benign lesions and risks sarcoma and growth problems."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 19-year-old man has had 8 months of progressive low back pain, not relieved by naproxen, and now has pain radiating down the left leg in an L5 distribution. CT shows a 4 cm expansile lytic lesion with internal mineralisation and a sclerotic rim arising from the left pedicle and lamina of L4. MRI shows no fluid-fluid levels.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Osteoid osteoma",
+    "Osteoblastoma",
+    "Aneurysmal bone cyst",
+    "Ewing sarcoma",
+    "Metastatic carcinoma"
+   ],
+   "a": 1,
+   "e": "Osteoblastoma is a bone-forming tumour like osteoid osteoma but larger than 2 cm, favours the posterior elements of the spine, grows progressively and may compress nerve roots. Its pain is typically NOT relieved by aspirin or NSAIDs, which is a key discriminator from osteoid osteoma. Note: the slide states it is relieved by aspirin but not NSAIDs; the correct teaching is that neither reliably helps.",
+   "w": [
+    "Wrong - osteoid osteoma has a nidus under 2 cm and pain that responds to NSAIDs.",
+    "Correct - a 4 cm mineralised posterior-element lesion with NSAID-resistant pain and radiculopathy fits osteoblastoma.",
+    "Wrong - ABC also affects posterior elements but is blood-filled with fluid-fluid levels and no matrix mineralisation.",
+    "Wrong - Ewing sarcoma is permeative with a soft tissue mass, usually in long-bone diaphyses or pelvis.",
+    "Wrong - metastasis is unlikely at 19 years with a well-defined, mineralised, sclerotic-rimmed lesion."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 34-year-old man has had a painless bony lump on his proximal femur since his teens. Over the past year it has become painful and seems larger. There is no history of trauma. X-ray shows a sessile bony outgrowth from the metaphysis with irregular calcification at its tip.\nWhich finding would most strongly suggest malignant transformation?",
+   "o": [
+    "Cortex continuous with the host bone cortex",
+    "Stalk pointing away from the adjacent joint",
+    "Fluid-filled bursa over the tip of the lesion",
+    "Cartilage cap 4 cm thick on MRI",
+    "Medullary cavity confluent with the host bone"
+   ],
+   "a": 3,
+   "e": "Osteochondromas stop growing at skeletal maturity, and the cartilage cap thins with age. Growth or new pain in an adult, or a cartilage cap thicker than 2 cm on MRI, suggests secondary (peripheral) chondrosarcoma. Cortical and medullary continuity and a stalk pointing away from the joint are the normal defining features of any osteochondroma.",
+   "w": [
+    "Wrong - cortical continuity is the defining feature of every osteochondroma.",
+    "Wrong - pointing away from the joint is the normal orientation of an osteochondroma.",
+    "Wrong - a bursa causes pain and apparent enlargement but is a benign complication.",
+    "Correct - a cap over 2 cm thick in an adult indicates chondrosarcomatous change (lecturer pearl).",
+    "Wrong - medullary continuity is the normal defining feature of osteochondroma."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 9-year-old boy has multiple hard, painless bony lumps around both knees and wrists, short stature and bowing of the forearms with ulnar shortening. His father has similar lumps and had one removed for nerve compression. X-rays show multiple sessile and pedunculated metaphyseal outgrowths continuous with the host cortex.\nMutation of which gene is most likely responsible?",
+   "o": [
+    "TP53",
+    "RB1",
+    "GNAS",
+    "IDH1",
+    "EXT1"
+   ],
+   "a": 4,
+   "e": "Hereditary multiple exostoses (multiple osteochondromas) is autosomal dominant and caused by germline mutation of EXT1 (or EXT2), with biallelic inactivation in the lesions. It causes deformity, short stature and limb-length discrepancy, and carries a higher risk of secondary chondrosarcoma than a solitary osteochondroma.",
+   "w": [
+    "Wrong - TP53 is Li-Fraumeni syndrome, associated with osteosarcoma and other cancers.",
+    "Wrong - RB1 is hereditary retinoblastoma with increased osteosarcoma risk.",
+    "Wrong - GNAS mutation causes fibrous dysplasia / McCune-Albright syndrome.",
+    "Wrong - IDH1/IDH2 mutations are found in Ollier disease and Maffucci syndrome (multiple enchondromas).",
+    "Correct - EXT1/EXT2 mutations cause hereditary multiple exostoses (autosomal dominant)."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 28-year-old woman jammed her little finger playing netball. The proximal phalanx is swollen and tender. X-ray shows a well-defined central lytic lesion of the proximal phalanx with a thinned, slightly expanded cortex, stippled ‘rings and arcs’ calcification, and an undisplaced fracture through the lesion. She had no pain before the injury.\nWhat is the most appropriate management?",
+   "o": [
+    "Immediate curettage and grafting within 24 hours",
+    "Splint until fracture union, then curettage and bone graft",
+    "Ray amputation of the finger for presumed chondrosarcoma",
+    "CT-guided biopsy before any treatment is given",
+    "Observation only; no further treatment is ever needed"
+   ],
+   "a": 1,
+   "e": "This is an enchondroma, the commonest bone tumour of the hand, presenting with a pathological fracture. The usual approach is to let the fracture heal with splinting first, then perform intralesional curettage and bone grafting to prevent re-fracture (lecturer pearl). A painless phalangeal lesion with typical chondroid matrix does not need biopsy or radical surgery.",
+   "w": [
+    "Wrong - operating through an acute fracture is technically harder; most surgeons allow union first.",
+    "Correct - splint to union, then curettage and bone grafting of the symptomatic enchondroma.",
+    "Wrong - a painless hand lesion with typical features is benign; amputation is grossly excessive.",
+    "Wrong - biopsy is reserved for atypical lesions; this appearance is characteristic.",
+    "Wrong - a lesion that has fractured is symptomatic and is usually curetted and grafted to prevent recurrence."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 22-year-old man has progressive deformity and shortening of the left hand and forearm with multiple hard lumps on his fingers. He also has several soft, bluish, compressible subcutaneous swellings on the same limb. X-rays show multiple expansile lytic lesions with chondroid calcification in the phalanges and metacarpals, and small round calcifications in the soft tissues.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Ollier disease",
+    "Hereditary multiple exostoses",
+    "Neurofibromatosis type 1",
+    "Maffucci syndrome",
+    "McCune-Albright syndrome"
+   ],
+   "a": 3,
+   "e": "Multiple enchondromas with soft tissue haemangiomas (the soft bluish swellings, with phleboliths on X-ray) define Maffucci syndrome. Ollier disease has multiple enchondromas alone. Both carry a high risk of chondrosarcoma, higher in Maffucci, which also predisposes to other malignancies, so lifelong surveillance is needed.",
+   "w": [
+    "Wrong - Ollier disease has multiple enchondromas but no haemangiomas.",
+    "Wrong - multiple exostoses are surface outgrowths continuous with cortex, not intramedullary lytic lesions.",
+    "Wrong - NF1 gives neurofibromas, café-au-lait spots, scoliosis and tibial pseudarthrosis.",
+    "Correct - enchondromas plus haemangiomas (phleboliths) = Maffucci syndrome.",
+    "Wrong - McCune-Albright is polyostotic fibrous dysplasia with café-au-lait spots and endocrine features."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 27-year-old woman has 3 months of increasing pain and swelling over the lateral side of the right knee. Her physes are closed. X-ray shows an eccentric lytic lesion of the lateral femoral condyle, involving epiphysis and metaphysis and extending up to the subchondral bone, with a narrow non-sclerotic margin and a multiloculated ‘soap bubble’ appearance. Serum calcium and PTH are normal.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Giant cell tumour",
+    "Chondroblastoma",
+    "Aneurysmal bone cyst",
+    "Telangiectatic osteosarcoma",
+    "Unicameral bone cyst"
+   ],
+   "a": 0,
+   "e": "An eccentric lytic epiphyseal-metaphyseal lesion reaching subchondral bone in a skeletally mature young adult is classic for giant cell tumour. Chondroblastoma is also epiphyseal but occurs before physeal closure and has a sclerotic rim. Normal calcium and PTH exclude a brown tumour, the main histological mimic.",
+   "w": [
+    "Correct - skeletally mature, eccentric, epiphyseal to subchondral bone, soap bubble = GCT.",
+    "Wrong - chondroblastoma is epiphyseal but in skeletally immature patients and usually has a sclerotic rim.",
+    "Wrong - ABC is metaphyseal, usually under 20 y, and does not typically extend to subchondral bone.",
+    "Wrong - telangiectatic osteosarcoma is aggressive with a wide zone and cortical destruction.",
+    "Wrong - a simple bone cyst is central and metaphyseal in children, not epiphyseal in adults."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 32-year-old man has biopsy-confirmed giant cell tumour of the distal radius, Campanacci grade II. MRI shows no soft tissue extension. Calcium and PTH are normal. Surgery is being planned.\nWhich additional staging investigation is specifically indicated because of this tumour's behaviour?",
+   "o": [
+    "Whole-body skeletal survey",
+    "Bone marrow aspirate and trephine",
+    "Serum protein electrophoresis",
+    "CT of the chest",
+    "Ultrasound of the abdomen"
+   ],
+   "a": 3,
+   "e": "Although histologically benign, giant cell tumour can produce ‘benign’ pulmonary metastases in a small percentage of patients, more often after local recurrence and in distal radius lesions. CT chest is therefore part of the staging. Skeletal survey and SPEP are for myeloma, and marrow biopsy for Ewing sarcoma.",
+   "w": [
+    "Wrong - skeletal survey is used to stage myeloma, not giant cell tumour.",
+    "Wrong - bone marrow biopsy is part of Ewing sarcoma staging.",
+    "Wrong - SPEP is used in suspected myeloma or plasmacytoma.",
+    "Correct - GCT can give benign lung metastases, so CT chest is part of staging.",
+    "Wrong - abdominal metastases are not a feature of giant cell tumour."
+   ]
+  },
+  {
+   "t": "BEN",
+   "stem": "A 35-year-old man has severe sacral pain and constipation. MRI and biopsy confirm a giant cell tumour involving S1-S3 with a soft tissue mass. The spinal team advises that en bloc resection would sacrifice the sacral nerve roots, causing permanent bowel and bladder dysfunction.\nWhich medical therapy is most appropriate?",
+   "o": [
+    "Denosumab",
+    "Imatinib",
+    "Zoledronic acid alone",
+    "Tamoxifen",
+    "Methotrexate-based chemotherapy"
+   ],
+   "a": 0,
+   "e": "The giant cells in GCT are osteoclast-like cells recruited by RANKL secreted by the neoplastic stromal cells. Denosumab, a monoclonal antibody against RANKL, halts bone destruction, shrinks the tumour and is used for unresectable sites such as the sacrum or spine, or to downstage before surgery. Bisphosphonates are a weaker adjunct.",
+   "w": [
+    "Correct - denosumab blocks RANKL and is the agent of choice for unresectable GCT.",
+    "Wrong - imatinib targets PDGFRB in DFSP and KIT in GIST.",
+    "Wrong - bisphosphonates have some activity but are inferior to RANKL blockade for unresectable GCT.",
+    "Wrong - tamoxifen is used for desmoid-type fibromatosis.",
+    "Wrong - methotrexate-based chemotherapy is used for osteosarcoma, not GCT."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 14-year-old boy has had 2 months of pain above the left knee, now present at night, with a firm tender swelling. Serum ALP and LDH are raised; CRP is normal. X-ray shows a poorly defined mixed sclerotic and lytic lesion of the distal femoral metaphysis with spiculated new bone radiating perpendicular to the cortex and a triangular elevation of periosteum at the edge.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Ewing sarcoma",
+    "Osteosarcoma",
+    "Chondrosarcoma",
+    "Osteochondroma",
+    "Acute osteomyelitis"
+   ],
+   "a": 1,
+   "e": "An adolescent with a metaphyseal lesion around the knee showing bone formation, a sunburst reaction and a Codman triangle has osteosarcoma until proven otherwise. Raised ALP reflects osteoblastic activity, and raised ALP/LDH indicates tumour burden and poorer prognosis. Ewing sarcoma favours the diaphysis with an onion-skin reaction.",
+   "w": [
+    "Wrong - Ewing sarcoma is typically diaphyseal and lytic with an onion-skin periosteal reaction.",
+    "Correct - knee metaphysis, sunburst and Codman triangle in a teenager = osteosarcoma.",
+    "Wrong - chondrosarcoma occurs in adults over 40 with chondroid calcification.",
+    "Wrong - osteochondroma is a well-defined outgrowth continuous with the cortex, not destructive.",
+    "Wrong - osteomyelitis would usually raise CRP and does not produce a sunburst reaction."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 15-year-old girl has biopsy-proven high-grade conventional osteosarcoma of the proximal tibia. CT thorax and bone scan show no metastases. MRI shows a soft tissue mass but the popliteal neurovascular bundle is free.\nWhat is the most appropriate treatment plan?",
+   "o": [
+    "Immediate above-knee amputation without systemic chemotherapy",
+    "Definitive radiotherapy alone as the primary curative treatment",
+    "Wide resection first, then chemotherapy only if margins are positive",
+    "Intralesional curettage and cementing, then adjuvant radiotherapy",
+    "Neoadjuvant chemo, limb-salvage resection, adjuvant chemo"
+   ],
+   "a": 4,
+   "e": "Most patients with osteosarcoma have micrometastases at diagnosis, so multi-agent neoadjuvant chemotherapy (8-12 weeks) is given first: it treats systemic disease, shrinks the tumour and allows histological response to be assessed. Wide resection with limb salvage follows when margins are achievable, then adjuvant chemotherapy. Osteosarcoma is relatively radioresistant.",
+   "w": [
+    "Wrong - surgery alone leaves micrometastases untreated, and limb salvage is feasible here.",
+    "Wrong - osteosarcoma is relatively radioresistant; radiotherapy is not the primary treatment.",
+    "Wrong - chemotherapy is essential for all high-grade osteosarcomas regardless of margin.",
+    "Wrong - intralesional surgery leaves tumour behind and spills it; wide margins are required.",
+    "Correct - neoadjuvant chemotherapy, wide limb-salvage resection, then adjuvant chemotherapy."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 16-year-old boy with non-metastatic osteosarcoma of the distal femur completed neoadjuvant chemotherapy and underwent wide resection with endoprosthetic replacement. The histopathologist is reporting the resection specimen; margins are clear.\nWhich finding in the specimen best predicts his survival?",
+   "o": [
+    "Chondroblastic histological subtype",
+    "Number of mitoses per field",
+    "Percentage of tumour necrosis",
+    "Degree of osteoid mineralisation",
+    "Presence of multinucleated giant cells"
+   ],
+   "a": 2,
+   "e": "In non-metastatic osteosarcoma, histological response to neoadjuvant chemotherapy is a major prognostic factor. At least 90% tumour necrosis defines a good responder with better survival; poor responders do worse. The single most important factor overall is metastatic disease at diagnosis.",
+   "w": [
+    "Wrong - histological subtype matters little compared with chemotherapy response.",
+    "Wrong - mitotic count is not the key prognostic marker after chemotherapy.",
+    "Correct - at least 90% necrosis after neoadjuvant chemotherapy predicts better survival.",
+    "Wrong - mineralisation of osteoid does not predict outcome.",
+    "Wrong - reactive giant cells are common and not prognostic."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 17-year-old girl is diagnosed with osteosarcoma of the proximal humerus. Her mother developed breast cancer at 31, her brother had an adrenocortical carcinoma at age 6, and a maternal uncle died of a brain tumour.\nGermline mutation of which gene is most likely?",
+   "o": [
+    "RB1",
+    "TP53",
+    "APC",
+    "BRCA1",
+    "NF1"
+   ],
+   "a": 1,
+   "e": "Early-onset breast cancer, adrenocortical carcinoma, brain tumours and sarcomas in one family is Li-Fraumeni syndrome, caused by germline TP53 mutation, a recognised risk factor for osteosarcoma. RB1 (hereditary retinoblastoma) is the other classic genetic association. Patients with Li-Fraumeni should avoid unnecessary radiation.",
+   "w": [
+    "Wrong - RB1 links retinoblastoma with osteosarcoma; no retinoblastoma here.",
+    "Correct - TP53 (Li-Fraumeni) explains breast, adrenocortical, brain tumours and sarcoma.",
+    "Wrong - APC causes familial adenomatous polyposis and desmoid tumours.",
+    "Wrong - BRCA1 explains breast/ovarian cancer but not adrenocortical carcinoma or sarcoma.",
+    "Wrong - NF1 predisposes to MPNST and gliomas rather than this pattern."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 72-year-old man with long-standing Paget disease of the right femur and pelvis has had 2 months of severe, unremitting thigh pain at rest and at night, with a new tender swelling. His serum ALP has risen sharply from a stable baseline. X-ray shows a destructive lesion with cortical breach and a soft tissue mass within the thickened pagetic femur.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Multiple myeloma",
+    "Paget disease flare",
+    "Insufficiency fracture",
+    "Secondary osteosarcoma",
+    "Metastatic prostate carcinoma"
+   ],
+   "a": 3,
+   "e": "Malignant transformation to osteosarcoma is the most feared complication of Paget disease and explains the second (elderly) peak of osteosarcoma. New rest pain, a soft tissue mass, cortical destruction and a sudden ALP rise in pagetic bone suggest sarcoma. It carries a poor prognosis.",
+   "w": [
+    "Wrong - myeloma gives punched-out lytic lesions, usually with normal ALP.",
+    "Wrong - an active Paget phase does not cause cortical destruction with a soft tissue mass.",
+    "Wrong - fissure fractures in Paget are on the convex cortex without a soft tissue mass.",
+    "Correct - new pain, destruction, soft tissue mass and rising ALP in pagetic bone = secondary osteosarcoma.",
+    "Wrong - prostate metastases are usually multiple and sclerotic without a large soft tissue mass."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 55-year-old man has had 1 year of a deep, dull ache in the right groin that now disturbs his sleep. X-ray shows a 7 cm lesion in the proximal femoral metaphysis-diaphysis containing ‘rings and arcs’ calcification, with endosteal scalloping over more than two-thirds of the cortical thickness and focal cortical thickening.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Enchondroma",
+    "Bone infarct",
+    "Chondrosarcoma",
+    "Osteosarcoma",
+    "Metastatic prostate carcinoma"
+   ],
+   "a": 2,
+   "e": "A chondroid (rings and arcs) lesion in an adult over 40 that is painful, large, proximal and causes deep endosteal scalloping is chondrosarcoma rather than enchondroma. Pain without fracture, size over about 5 cm, axial or proximal location, deep scalloping, cortical thickening or breach favour malignancy. Chondrosarcoma is the commonest primary bone sarcoma in adults.",
+   "w": [
+    "Wrong - enchondromas are usually painless, smaller and cause only shallow scalloping.",
+    "Wrong - a bone infarct has a serpiginous sclerotic rim and does not scallop the cortex.",
+    "Correct - painful, large, proximal chondroid lesion with deep scalloping in a 55-year-old = chondrosarcoma.",
+    "Wrong - osteosarcoma produces osteoid (cloud-like) matrix and is commoner in adolescents.",
+    "Wrong - prostate metastases are sclerotic without chondroid calcification."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 50-year-old woman has a biopsy-proven grade II chondrosarcoma of the iliac wing. CT thorax and bone scan show no metastases. She is fit for surgery.\nWhat is the most appropriate definitive treatment?",
+   "o": [
+    "Neoadjuvant chemotherapy followed by surgery",
+    "Definitive external beam radiotherapy",
+    "Wide en bloc surgical resection",
+    "Intralesional curettage with phenol",
+    "Denosumab with serial imaging"
+   ],
+   "a": 2,
+   "e": "Chondrosarcoma is resistant to chemotherapy and radiotherapy because of poor vascularity, slow cell division and a dense cartilage matrix. Complete surgical resection with wide margins is the only curative treatment, particularly for intermediate and high-grade or pelvic tumours. Chemo- and radiotherapy are reserved for palliation.",
+   "w": [
+    "Wrong - conventional chondrosarcoma does not respond to chemotherapy.",
+    "Wrong - chondrosarcoma is radioresistant; radiotherapy is palliative only.",
+    "Correct - wide en bloc resection is the definitive, curative treatment.",
+    "Wrong - intralesional surgery is inadequate for a grade II pelvic chondrosarcoma.",
+    "Wrong - denosumab is used for giant cell tumour, not chondrosarcoma."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 12-year-old boy has a 3-week history of painful swelling of the right mid-thigh, with fever to 38.3 °C and night sweats. WCC is 14 x 10^9/L and ESR 85 mm/h. Blood cultures are negative and there is no improvement after 10 days of IV antibiotics. X-ray shows permeative destruction of the femoral diaphysis with a lamellated, multilayered periosteal reaction and a large soft tissue mass.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Chronic osteomyelitis",
+    "Primary lymphoma of bone",
+    "Osteosarcoma",
+    "Langerhans cell histiocytosis",
+    "Ewing sarcoma"
+   ],
+   "a": 4,
+   "e": "Ewing sarcoma classically mimics osteomyelitis with fever, raised ESR and leucocytosis. A permeative diaphyseal lesion with an onion-skin periosteal reaction and a large soft tissue mass in a child aged 10-20 strongly suggests it. Failure to respond to antibiotics should prompt biopsy, sent for both histology and culture.",
+   "w": [
+    "Wrong - osteomyelitis should respond to antibiotics, and a large soft tissue mass is unusual.",
+    "Wrong - primary lymphoma of bone is mostly a disease of adults.",
+    "Wrong - osteosarcoma is metaphyseal with sunburst bone formation, without a systemic inflammatory picture.",
+    "Wrong - LCH gives punched-out lesions, often in the skull, and seldom a large soft tissue mass.",
+    "Correct - fever, raised markers, permeative diaphyseal lesion with onion-skin reaction = Ewing sarcoma."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 13-year-old girl has a painful swelling of the fibular diaphysis with an onion-skin periosteal reaction. Core biopsy shows sheets of monotonous small round blue cells with scant cytoplasm and pseudo-rosettes.\nWhich combination of findings would confirm the most likely diagnosis?",
+   "o": [
+    "CD34 positivity with t(17;22)",
+    "S100 positivity with t(X;18)",
+    "CD99 positivity with t(11;22)",
+    "Desmin positivity with t(2;13)",
+    "Nuclear beta-catenin with APC mutation"
+   ],
+   "a": 2,
+   "e": "Ewing sarcoma shows strong membranous CD99 staining in about 95% and the t(11;22)(q24;q12) translocation creating the EWS-FLI1 fusion protein. Note: the slide writes ‘EWS-FL1’; the correct name is EWS-FLI1. Other small round blue cell tumours, such as rhabdomyosarcoma, lymphoma and neuroblastoma, are separated by immunohistochemistry and genetics.",
+   "w": [
+    "Wrong - CD34 with t(17;22) COL1A1-PDGFB is dermatofibrosarcoma protuberans.",
+    "Wrong - t(X;18) is synovial sarcoma.",
+    "Correct - CD99 and t(11;22) EWS-FLI1 confirm Ewing sarcoma.",
+    "Wrong - desmin with t(2;13) PAX3-FOXO1 is alveolar rhabdomyosarcoma.",
+    "Wrong - beta-catenin/APC abnormalities characterise desmoid-type fibromatosis."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 10-year-old girl has biopsy-confirmed Ewing sarcoma of the proximal fibula. MRI of the whole leg shows no skip lesions, and CT thorax and bone scan are clear. LDH is mildly raised.\nWhich further investigation completes her staging?",
+   "o": [
+    "Serum and urine protein electrophoresis",
+    "Lumbar puncture with CSF cytology",
+    "Whole-body skeletal survey radiographs",
+    "Ultrasound of the liver and abdomen",
+    "Bone marrow aspirate and trephine"
+   ],
+   "a": 4,
+   "e": "Ewing sarcoma arises from marrow mesenchymal cells and can metastasise to the bone marrow, which carries a worse prognosis than lung-only disease. Staging therefore includes bone marrow aspirate and trephine biopsy in addition to MRI, CT chest and bone scan or PET-CT. This is a key difference from osteosarcoma staging.",
+   "w": [
+    "Wrong - protein electrophoresis is for myeloma.",
+    "Wrong - CSF spread is not a feature of limb Ewing sarcoma.",
+    "Wrong - skeletal survey is insensitive; bone scan/PET already assesses the skeleton.",
+    "Wrong - liver metastases are uncommon at presentation and would be seen on PET-CT.",
+    "Correct - marrow aspirate and trephine biopsy is part of Ewing sarcoma staging."
+   ]
+  },
+  {
+   "t": "MAL",
+   "stem": "A 15-year-old boy has Ewing sarcoma of the left sacrum and iliac bone involving the S1 and S2 foramina. After induction chemotherapy the tumour has shrunk, but the surgeons judge that resection with clear margins would cause unacceptable neurological and functional loss. There are no metastases.\nWhat is the most appropriate local control?",
+   "o": [
+    "Denosumab until radiological healing",
+    "Hindquarter amputation regardless of deficit",
+    "Intralesional curettage and bone cement",
+    "Radiotherapy with continued chemotherapy",
+    "Observation once chemotherapy is complete"
+   ],
+   "a": 3,
+   "e": "Ewing sarcoma, unlike osteosarcoma and chondrosarcoma, is radiosensitive. Surgery gives better local control when wide margins are achievable, but for unresectable sites such as the spine or pelvis, or where the functional deficit is unacceptable, definitive radiotherapy with chemotherapy is used. Its cost is higher local recurrence and late effects, including secondary malignancy.",
+   "w": [
+    "Wrong - denosumab is for giant cell tumour, not Ewing sarcoma.",
+    "Wrong - mutilating surgery is not justified when an effective non-surgical option exists.",
+    "Wrong - intralesional surgery leaves tumour behind and contaminates the field.",
+    "Correct - radiotherapy plus chemotherapy is the standard for unresectable Ewing sarcoma.",
+    "Wrong - chemotherapy alone without local control gives unacceptable recurrence."
+   ]
+  },
+  {
+   "t": "CYS",
+   "stem": "A 9-year-old boy fell onto his outstretched hand and now has pain in the upper arm. He had no symptoms before. X-ray shows a central, well-defined lucent lesion in the proximal humeral metaphysis abutting the physis, with a thinned cortex and a transverse fracture; a small cortical fragment lies in the dependent part of the lesion.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Giant cell tumour",
+    "Aneurysmal bone cyst",
+    "Fibrous dysplasia",
+    "Simple bone cyst",
+    "Telangiectatic osteosarcoma"
+   ],
+   "a": 3,
+   "e": "A central metaphyseal lucent lesion of the proximal humerus in a child, found after a pathological fracture, is a simple (unicameral) bone cyst. The cortical fragment that has sunk to the dependent part of the fluid-filled cavity is the ‘fallen fragment’ sign, which is pathognomonic. A solid tumour cannot let a fragment fall through it.",
+   "w": [
+    "Wrong - GCT occurs after skeletal maturity and is epiphyseal.",
+    "Wrong - ABC is eccentric, more expansile and blood-filled; fragments do not ‘fall’.",
+    "Wrong - fibrous dysplasia gives a ground-glass lesion and shepherd's crook deformity.",
+    "Correct - central proximal humeral cyst with a fallen fragment = simple bone cyst.",
+    "Wrong - telangiectatic osteosarcoma is aggressive with a wide zone of transition and cortical destruction."
+   ]
+  },
+  {
+   "t": "CYS",
+   "stem": "A 10-year-old girl has an undisplaced pathological fracture through a central, well-defined, fluid-filled cyst of the proximal humeral metaphysis showing a fallen fragment sign. Her arm is otherwise neurovascularly intact.\nWhat is the most appropriate initial management?",
+   "o": [
+    "Urgent curettage, bone grafting and locking plate",
+    "Sling until the fracture heals, then reassess the cyst",
+    "En bloc resection with endoprosthetic replacement",
+    "Core biopsy followed by neoadjuvant chemotherapy",
+    "Polidocanol sclerotherapy as an inpatient tomorrow"
+   ],
+   "a": 1,
+   "e": "Most pathological fractures through a simple bone cyst of the upper limb unite with a sling, and some cysts heal after fracture. Persistent active cysts are then treated with aspiration and methylprednisolone injection, or curettage and grafting if that fails or the fracture is displaced. Weight-bearing sites such as the proximal femur more often need fixation.",
+   "w": [
+    "Wrong - surgery is reserved for displaced fractures, weight-bearing sites or failed injection.",
+    "Correct - non-weight-bearing limb: immobilise, let the fracture heal, then reassess the cyst.",
+    "Wrong - this is a benign cyst; en bloc resection is grossly excessive.",
+    "Wrong - the appearance is diagnostic of a benign cyst; chemotherapy is not indicated.",
+    "Wrong - polidocanol sclerotherapy is a treatment for aneurysmal bone cyst."
+   ]
+  },
+  {
+   "t": "CYS",
+   "stem": "A 14-year-old girl has 4 months of progressive pain and swelling over the distal tibia. X-ray shows an eccentric, expansile, ‘blown-out’ lytic lesion of the metaphysis with a thin cortical shell. MRI shows multiple septated cavities with fluid-fluid levels.\nWhat is the most appropriate next step?",
+   "o": [
+    "Biopsy to exclude telangiectatic osteosarcoma",
+    "Sclerotherapy straight away without any tissue diagnosis",
+    "Reassurance and a repeat radiograph in 12 months",
+    "Methylprednisolone injection as for a unicameral cyst",
+    "Skeletal survey and SPEP to look for myeloma"
+   ],
+   "a": 0,
+   "e": "These features suggest an aneurysmal bone cyst, but fluid-fluid levels are not specific: telangiectatic osteosarcoma, GCT with secondary ABC change and other lesions can look identical. Diagnosis of ABC must therefore be confirmed by biopsy before treatment. Missing a telangiectatic osteosarcoma would be catastrophic.",
+   "w": [
+    "Correct - biopsy is required to confirm ABC and exclude telangiectatic osteosarcoma.",
+    "Wrong - treating without histology risks missing a malignant mimic.",
+    "Wrong - a growing, painful expansile lesion needs diagnosis and treatment, not delay.",
+    "Wrong - steroid injection is for simple bone cysts; this lesion is an eccentric blood-filled cyst.",
+    "Wrong - myeloma does not occur in a 14-year-old."
+   ]
+  },
+  {
+   "t": "CYS",
+   "stem": "A 16-year-old boy has a painful, expanding lesion of the proximal fibula. Biopsy confirms a primary aneurysmal bone cyst with no malignant or giant cell tumour component. There is no fracture and the common peroneal nerve is functioning normally.\nWhat is the most appropriate definitive management?",
+   "o": [
+    "External beam radiotherapy as first-line therapy",
+    "Wide resection after neoadjuvant chemotherapy",
+    "Aggressive curettage with adjuvant and bone graft",
+    "Observation, as it heals spontaneously after fracture",
+    "Single methylprednisolone injection into the cyst"
+   ],
+   "a": 2,
+   "e": "Symptomatic aneurysmal bone cysts are treated with aggressive (extended) curettage, often with an adjuvant such as a high-speed burr, phenol or cryotherapy, and bone grafting. Sclerotherapy (e.g. polidocanol) and selective arterial embolisation are alternatives, especially in the spine or pelvis. Recurrence occurs in up to 20%.",
+   "w": [
+    "Wrong - radiotherapy risks sarcoma and growth disturbance and is avoided in benign lesions.",
+    "Wrong - ABC is benign; chemotherapy and wide resection are not indicated.",
+    "Correct - extended curettage with adjuvant and grafting is the standard for symptomatic ABC.",
+    "Wrong - spontaneous healing after fracture is a feature of some simple bone cysts, not ABC.",
+    "Wrong - steroid injection is a simple bone cyst treatment."
+   ]
+  },
+  {
+   "t": "MM",
+   "stem": "A 68-year-old man has 3 months of back pain, fatigue and recurrent chest infections. Hb is 8.9 g/dL, corrected calcium 3.0 mmol/L and creatinine 210 µmol/L. Total protein is high with low albumin. A skull X-ray shows multiple small punched-out lytic lesions.\nWhich investigation is most useful to confirm the diagnosis?",
+   "o": [
+    "Technetium-99m bone scan",
+    "Serum/urine protein electrophoresis",
+    "Serum PSA measurement",
+    "CT-guided biopsy of a lytic skull lesion",
+    "Serum PTH and vitamin D levels"
+   ],
+   "a": 1,
+   "e": "Anaemia, hypercalcaemia, renal impairment, lytic bone lesions (CRAB), infections and a high globulin gap point to multiple myeloma. SPEP/UPEP (with immunofixation and serum free light chains) demonstrate the monoclonal paraprotein, and bone marrow biopsy confirms clonal plasma cells. Bone scan is often falsely negative.",
+   "w": [
+    "Wrong - myeloma lesions are purely lytic, so bone scans are often cold or falsely negative.",
+    "Correct - SPEP/UPEP identify the monoclonal M-protein and Bence Jones protein.",
+    "Wrong - PSA looks for prostate cancer, which gives sclerotic metastases.",
+    "Wrong - biopsying a skull lesion is unnecessary; electrophoresis and marrow biopsy are less invasive and diagnostic.",
+    "Wrong - PTH explains hypercalcaemia from hyperparathyroidism but not anaemia, renal failure and a globulin gap."
+   ]
+  },
+  {
+   "t": "MM",
+   "stem": "A 64-year-old woman has newly diagnosed multiple myeloma confirmed on bone marrow biopsy, with an IgG paraprotein. She has back and rib pain. A junior doctor requests a technetium bone scan to map her skeletal disease.\nWhich imaging is most appropriate to assess her bone disease?",
+   "o": [
+    "Whole-body low-dose CT",
+    "Ultrasound of the long bones",
+    "Technetium-99m bone scan",
+    "Plain chest radiograph only",
+    "DEXA scan"
+   ],
+   "a": 0,
+   "e": "Myeloma suppresses osteoblasts while activating osteoclasts, so lesions are purely lytic with no reactive bone formation; bone scans are therefore often cold or falsely negative. Whole-body low-dose CT (or a skeletal survey, MRI or PET-CT) is used to detect lytic lesions, fractures and areas at risk of fracture.",
+   "w": [
+    "Correct - whole-body low-dose CT is more sensitive than a skeletal survey and is now preferred.",
+    "Wrong - ultrasound cannot survey the skeleton for lytic lesions.",
+    "Wrong - bone scan relies on osteoblastic activity and frequently misses myeloma lesions.",
+    "Wrong - a chest X-ray alone misses spine, pelvis and limb lesions.",
+    "Wrong - DEXA measures bone density, not focal lytic lesions."
+   ]
+  },
+  {
+   "t": "MM",
+   "stem": "A 70-year-old man with multiple myeloma has widespread lytic lesions on whole-body CT, including a vertebral collapse. Curiously, his serum ALP is normal and an earlier bone scan was reported as normal.\nWhat is the best explanation for these findings?",
+   "o": [
+    "Paraprotein binding the tracer within the blood",
+    "Lesions too small to be resolved by gamma camera",
+    "Renal impairment reducing tracer delivery to bone",
+    "Hepatic dysfunction lowering ALP production",
+    "Osteoclast activation with osteoblast suppression"
+   ],
+   "a": 4,
+   "e": "Myeloma cells activate the RANKL pathway, increasing osteoclastic resorption, and also inhibit osteoblasts (e.g. via DKK1). Without osteoblastic repair, ALP stays normal and technetium bone scans, which depend on osteoblastic activity, are often negative. This is why skeletal survey, low-dose CT, MRI or PET-CT are used instead.",
+   "w": [
+    "Wrong - paraprotein does not bind bone-scan tracer.",
+    "Wrong - many myeloma lesions are large; the issue is the lack of osteoblastic response, not size.",
+    "Wrong - renal impairment would, if anything, increase background activity, not abolish lesion uptake.",
+    "Wrong - there is no hepatic dysfunction; ALP is normal because osteoblasts are suppressed.",
+    "Correct - uncoupled bone turnover (osteoclasts on, osteoblasts off) explains normal ALP and a cold bone scan."
+   ]
+  },
+  {
+   "t": "MET",
+   "stem": "A 58-year-old man with renal cell carcinoma has an ache in his right upper arm, moderate in severity, not limited to activity. X-ray shows a purely lytic lesion in the humeral diaphysis destroying about half of the cortical diameter.\nWhat is his Mirels' score?",
+   "o": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "a": 2,
+   "e": "Mirels' score adds site (upper limb 1, lower limb 2, peritrochanteric 3), pain (mild 1, moderate 2, functional 3), lesion type (blastic 1, mixed 2, lytic 3) and size as a fraction of cortical diameter (under 1/3 = 1, 1/3-2/3 = 2, over 2/3 = 3). Here: upper limb 1 + moderate 2 + lytic 3 + half 2 = 8, a borderline score needing clinical judgement. Note: slide writes ‘Mirel's’; correct is Mirels'.",
+   "w": [
+    "Wrong - this undercounts; check that lytic scores 3 and 1/3-2/3 scores 2.",
+    "Wrong - one point short; moderate pain scores 2.",
+    "Correct - 1 (upper limb) + 2 (moderate) + 3 (lytic) + 2 (1/3-2/3) = 8.",
+    "Wrong - 9 would require functional pain or a lower-limb site.",
+    "Wrong - 10 overcounts; upper limb lesions score only 1 for site."
+   ]
+  },
+  {
+   "t": "MET",
+   "stem": "A 64-year-old woman with metastatic breast cancer has right hip pain that is worst when walking. X-ray shows a mixed lytic-sclerotic lesion in the subtrochanteric (peritrochanteric) femur involving more than two-thirds of the cortical diameter. There is no fracture.\nWhat is the most appropriate management?",
+   "o": [
+    "Bisphosphonate infusion and review in 3 months",
+    "Radiotherapy alone with clinical observation",
+    "Prophylactic nailing followed by radiotherapy",
+    "Radiotherapy now, fixation only if it fractures",
+    "Strict non-weight-bearing on crutches and analgesia"
+   ],
+   "a": 2,
+   "e": "Her Mirels' score is 3 (peritrochanteric) + 3 (functional pain) + 2 (mixed) + 3 (over 2/3) = 11. A score of 9 or more indicates a high fracture risk (about 33% at 9, rising steeply), so prophylactic fixation, here an intramedullary nail protecting the whole femur, is done before radiotherapy. Fixing an impending fracture is safer and gives better function than treating a completed one.",
+   "w": [
+    "Wrong - bisphosphonates reduce skeletal events but do not prevent an imminent fracture.",
+    "Wrong - radiotherapy alone is for scores of 7 or less.",
+    "Correct - Mirels 11: prophylactic intramedullary fixation followed by radiotherapy.",
+    "Wrong - waiting for fracture gives worse outcomes; radiotherapy also weakens bone before healing.",
+    "Wrong - non-weight-bearing is impractical and does not address the high fracture risk."
+   ]
+  },
+  {
+   "t": "MET",
+   "stem": "A 60-year-old man with known metastatic renal cell carcinoma has an impending pathological fracture from a large lytic lesion of the proximal femur. He is scheduled for resection and endoprosthetic replacement.\nWhich preoperative step most reduces the risk of life-threatening intraoperative haemorrhage?",
+   "o": [
+    "Selective arterial embolisation",
+    "Preoperative radiotherapy course",
+    "Preoperative denosumab therapy",
+    "Intravenous zoledronic acid",
+    "Stopping all antiplatelet agents"
+   ],
+   "a": 0,
+   "e": "Renal and thyroid metastases are typically lytic and highly vascular, and surgery on them can cause torrential bleeding. Selective preoperative arterial embolisation, ideally within 24-48 hours of surgery, significantly reduces blood loss. Bone-modifying agents and radiotherapy do not reduce acute vascularity enough.",
+   "w": [
+    "Correct - preoperative embolisation is used for hypervascular renal and thyroid metastases.",
+    "Wrong - radiotherapy does not rapidly reduce tumour vascularity and impairs wound healing.",
+    "Wrong - denosumab reduces skeletal events but does not reduce surgical bleeding.",
+    "Wrong - bisphosphonates reduce osteoclast activity but not tumour vascularity.",
+    "Wrong - sensible, but tumour hypervascularity is the main bleeding risk here."
+   ]
+  },
+  {
+   "t": "MET",
+   "stem": "A 55-year-old man with no history of cancer has 2 months of thigh pain on walking. X-ray shows a solitary lytic lesion of the femoral diaphysis with endosteal erosion of two-thirds of the cortex. A junior surgeon proposes intramedullary nailing on today's list and sending the reamings for histology.\nWhat is the most appropriate course of action?",
+   "o": [
+    "Proceed with nailing and send the reamings",
+    "Radiotherapy to the lesion before any tests",
+    "Staging work-up and biopsy before fixation",
+    "Immediate above-knee amputation",
+    "Bone scan, then nail if no other lesion"
+   ],
+   "a": 2,
+   "e": "A solitary bone lesion without a known primary may be a primary bone sarcoma rather than a metastasis. Intramedullary nailing would contaminate the whole femoral canal and soft tissues, potentially converting a limb-salvage case into amputation. Full staging (bloods including SPEP and PSA, CT chest/abdomen/pelvis, bone scan) and a planned biopsy must come first.",
+   "w": [
+    "Wrong - nailing an undiagnosed solitary lesion spreads a possible sarcoma along the canal.",
+    "Wrong - irradiating without a diagnosis is inappropriate and could be the wrong treatment.",
+    "Correct - stage and biopsy first; a solitary lesion must be proven metastatic before fixation.",
+    "Wrong - amputation without a diagnosis is never justified.",
+    "Wrong - a negative bone scan does not exclude a primary sarcoma; tissue is still needed."
+   ]
+  },
+  {
+   "t": "MET",
+   "stem": "A 70-year-old man with metastatic prostate cancer has had 3 weeks of worsening mid-back pain, worse when lying flat. Today he has bilateral leg heaviness and numbness below the umbilicus. Bladder function is normal. Plain X-rays show sclerotic lesions in several thoracic and lumbar vertebrae.\nWhat is the most appropriate next investigation?",
+   "o": [
+    "CT of the abdomen and pelvis",
+    "Urgent MRI of the lumbar spine only",
+    "Technetium bone scan within a week",
+    "Urgent MRI of the whole spine",
+    "Nerve conduction studies of the legs"
+   ],
+   "a": 3,
+   "e": "Back pain with new leg weakness and a sensory level in a patient with cancer is metastatic spinal cord compression, an oncological emergency. Urgent MRI of the WHOLE spine is required because compression is often multilevel; dexamethasone is started and spinal surgery and/or radiotherapy is planned. Treatment before sphincter loss gives the best outcome.",
+   "w": [
+    "Wrong - CT abdomen/pelvis does not assess the spinal cord.",
+    "Wrong - a sensory level at the umbilicus suggests a thoracic lesion, and multilevel disease is common.",
+    "Wrong - a bone scan is too slow and does not show cord compression.",
+    "Correct - urgent whole-spine MRI defines all levels of compression.",
+    "Wrong - nerve conduction studies do not assess cord compression and delay treatment."
+   ]
+  },
+  {
+   "t": "MET",
+   "stem": "A 74-year-old man has diffuse bone pain and lower urinary tract symptoms. Bloods show raised ALP with normal calcium. X-rays show multiple dense, well-circumscribed sclerotic lesions throughout the pelvis and lumbar spine.\nWhich blood test is most likely to identify the primary tumour?",
+   "o": [
+    "Serum CA-125",
+    "Serum CEA",
+    "Serum PSA",
+    "Serum AFP",
+    "Thyroglobulin"
+   ],
+   "a": 2,
+   "e": "Multiple osteoblastic (sclerotic) metastases in an elderly man are most commonly from prostate cancer, about 90% of whose bone metastases are blastic. A markedly raised PSA supports the diagnosis. Breast cancer is the other common source of blastic or mixed deposits; kidney, thyroid and lung metastases are usually lytic.",
+   "w": [
+    "Wrong - CA-125 is an ovarian marker and irrelevant in a man.",
+    "Wrong - CEA is mainly a colorectal marker; colorectal bone metastases are uncommon.",
+    "Correct - prostate cancer gives sclerotic metastases; PSA is the key marker.",
+    "Wrong - AFP is raised in hepatocellular carcinoma and germ cell tumours.",
+    "Wrong - thyroid metastases are lytic and hypervascular, not sclerotic."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 45-year-old man has noticed a painless lump at the back of his thigh that has grown over 4 months. Examination shows a firm 7 cm mass that becomes less mobile when he contracts his hamstrings. The GP plans to excise it in the clinic under local anaesthetic as a ‘probable lipoma’.\nWhat is the most appropriate next step?",
+   "o": [
+    "MRI then sarcoma centre referral",
+    "Excise in clinic under LA",
+    "Ultrasound and reassure if it looks fatty",
+    "Fine-needle aspiration in the GP clinic",
+    "Review again in 6 months for any growth"
+   ],
+   "a": 0,
+   "e": "This mass has red flags for sarcoma: over 5 cm, deep to fascia (fixed on muscle contraction) and enlarging. It needs MRI and referral to a sarcoma centre, where a planned core biopsy is performed, before any excision. An unplanned ‘whoops’ excision contaminates tissue planes and may necessitate far larger surgery.",
+   "w": [
+    "Correct - MRI and urgent referral to a sarcoma centre before any surgery.",
+    "Wrong - excising a possible sarcoma without imaging is a ‘whoops’ excision.",
+    "Wrong - ultrasound cannot exclude a deep liposarcoma; reassurance would be unsafe.",
+    "Wrong - FNA is unreliable for sarcoma and an unplanned track can contaminate tissue.",
+    "Wrong - a growing deep mass over 5 cm should not be watched."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 55-year-old man has a 14 cm slowly enlarging, painless mass deep in the anterior thigh. MRI shows a predominantly fatty intramuscular mass with thick, irregular enhancing septa and nodular non-fatty components.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Intramuscular lipoma",
+    "Intramuscular haemangioma",
+    "Liposarcoma",
+    "Desmoid-type fibromatosis",
+    "Myxofibrosarcoma"
+   ],
+   "a": 2,
+   "e": "A large deep fatty mass in the thigh of an adult with thick enhancing septa and nodular non-fatty areas suggests an atypical lipomatous tumour / well-differentiated liposarcoma rather than a lipoma. Simple lipomas are homogeneously fatty with thin septa. Diagnosis is confirmed by core biopsy (MDM2 amplification, lecturer pearl), and treatment is wide excision.",
+   "w": [
+    "Wrong - lipomas are homogeneously fatty without thick septa or nodules.",
+    "Wrong - haemangiomas contain serpiginous vessels and phleboliths rather than nodular septa.",
+    "Correct - deep, large, fatty mass with thick septa and nodules = liposarcoma (ALT/WDLPS).",
+    "Wrong - desmoids are fibrous, infiltrative masses without significant fat.",
+    "Wrong - myxofibrosarcoma is myxoid and usually subcutaneous in the elderly, not fatty."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 30-year-old woman who had a colectomy for familial adenomatous polyposis has a firm, painless, infiltrative 6 cm mass in the rectus abdominis. Core biopsy shows bland spindle-shaped fibroblasts in abundant collagen with nuclear beta-catenin staining and no atypia. Serial MRI over 6 months shows no growth and she is asymptomatic.\nWhat is the most appropriate management?",
+   "o": [
+    "Immediate external beam radiotherapy",
+    "Radical compartmental resection now",
+    "Doxorubicin-based chemotherapy",
+    "Active surveillance with serial MRI",
+    "Wide excision with 2 cm margins urgently"
+   ],
+   "a": 3,
+   "e": "Desmoid-type fibromatosis is locally aggressive and infiltrative but never metastasises. Recurrence after surgery is around 50%, and many lesions stabilise or regress spontaneously, so asymptomatic stable desmoids are managed with active surveillance. Symptomatic or progressive lesions are treated with NSAIDs, tamoxifen, chemotherapy, radiotherapy or surgery.",
+   "w": [
+    "Wrong - radiotherapy is not first-line in a young, asymptomatic patient.",
+    "Wrong - radical surgery causes morbidity and desmoids often recur regardless.",
+    "Wrong - chemotherapy is reserved for progressive or symptomatic disease.",
+    "Correct - asymptomatic, stable desmoid: active surveillance.",
+    "Wrong - urgent wide excision is not needed for a stable, non-metastasising lesion."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 38-year-old man has a slowly enlarging, violaceous, firm plaque on his upper back that has developed raised nodules over 5 years. Biopsy shows uniform spindle cells in a storiform (cartwheel) pattern, infiltrating subcutaneous fat in a honeycomb pattern.\nWhich immunohistochemical marker is most likely to be positive?",
+   "o": [
+    "CD99",
+    "CD34",
+    "S100",
+    "Desmin",
+    "Factor XIIIa"
+   ],
+   "a": 1,
+   "e": "Dermatofibrosarcoma protuberans is a low-grade, locally aggressive dermal sarcoma with storiform spindle cells that infiltrate fat in a honeycomb pattern and are CD34 positive. Benign dermatofibroma is factor XIIIa positive and CD34 negative. Treatment is wide excision or Mohs surgery, as inadequate excision gives about 50% recurrence.",
+   "w": [
+    "Wrong - CD99 is the Ewing sarcoma marker.",
+    "Correct - DFSP is CD34 positive.",
+    "Wrong - S100 marks neural tumours (schwannoma) and melanoma.",
+    "Wrong - desmin marks muscle tumours (rhabdo- and leiomyosarcoma).",
+    "Wrong - factor XIIIa marks benign dermatofibroma, the main mimic."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 32-year-old woman has years of severe, stabbing pain under her right thumbnail, triggered by minor knocks and by cold water. There is a 3 mm bluish spot beneath the nail plate. Pressing with a pinhead over the spot reproduces exquisite pain, and the pain disappears when the arm is exsanguinated and a tourniquet inflated.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Subungual melanoma",
+    "Pyogenic granuloma",
+    "Subungual exostosis",
+    "Digital mucous cyst",
+    "Glomus tumour"
+   ],
+   "a": 4,
+   "e": "The triad of paroxysmal pain, pinpoint tenderness and cold intolerance with a bluish subungual spot is classic for glomus tumour. Love's pin test (pinpoint pressure reproduces pain) and Hildreth's tourniquet test (ischaemia abolishes pain) support the diagnosis. MRI confirms it and excision is curative.",
+   "w": [
+    "Wrong - subungual melanoma is pigmented (longitudinal band) and usually painless.",
+    "Wrong - pyogenic granuloma is a red, friable, bleeding lesion, not a painful blue spot.",
+    "Wrong - subungual exostosis is a bony outgrowth seen on X-ray, usually of the great toe.",
+    "Wrong - mucous cysts are translucent swellings near the DIP joint, not painful blue spots.",
+    "Correct - triad plus positive Love and Hildreth tests = glomus tumour."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 30-year-old man has had four episodes of atraumatic swelling of the right knee over 2 years. Aspirates showed brown, blood-stained fluid each time. Clotting screen and factor levels are normal. MRI shows nodular synovial thickening throughout the joint with low signal on T2 and ‘blooming’ on gradient echo sequences.\nWhat is the most appropriate definitive treatment?",
+   "o": [
+    "Long-term NSAIDs and physiotherapy",
+    "Excision of a single nodule",
+    "Intra-articular steroid injection",
+    "Factor VIII replacement",
+    "Total synovectomy"
+   ],
+   "a": 4,
+   "e": "Recurrent atraumatic haemarthrosis with haemosiderin ‘blooming’ on gradient echo MRI and normal clotting indicates diffuse pigmented villonodular synovitis (tenosynovial giant cell tumour). Note: slide spells ‘villonodullar’; correct is villonodular. Total synovectomy (arthroscopic or open) is the gold standard; diffuse disease recurs often, and radiotherapy or CSF1R tyrosine kinase inhibitors are adjuncts.",
+   "w": [
+    "Wrong - symptomatic treatment allows progressive joint destruction.",
+    "Wrong - nodule excision suits localised PVNS; diffuse disease would recur.",
+    "Wrong - steroid injection does not remove the proliferative synovium.",
+    "Wrong - clotting factors are normal, so haemophilia is excluded.",
+    "Correct - total synovectomy is the gold standard for diffuse PVNS."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 24-year-old woman has a 6-month history of a slowly enlarging, mildly painful mass in the popliteal fossa, separate from the knee joint. X-ray shows a soft tissue mass with small peripheral calcifications. MRI shows a heterogeneous lesion with septations and fluid levels. Biopsy shows a biphasic spindle and epithelial cell tumour.\nWhich genetic abnormality is most likely?",
+   "o": [
+    "t(17;22) COL1A1-PDGFB",
+    "t(11;22) EWSR1-FLI1",
+    "t(12;16) FUS-DDIT3",
+    "t(X;18) SS18-SSX",
+    "t(2;13) PAX3-FOXO1"
+   ],
+   "a": 3,
+   "e": "A periarticular soft tissue mass near the knee in a young adult, with calcification and a biphasic histology, is synovial sarcoma. It is defined by t(X;18)(p11;q11), producing the SS18-SSX fusion. Despite its name it does not arise from synovium, and it is one of the sarcomas that can spread to lymph nodes.",
+   "w": [
+    "Wrong - t(17;22) COL1A1-PDGFB is dermatofibrosarcoma protuberans.",
+    "Wrong - t(11;22) EWSR1-FLI1 is Ewing sarcoma.",
+    "Wrong - t(12;16) FUS-DDIT3 is myxoid liposarcoma.",
+    "Correct - t(X;18) SS18-SSX defines synovial sarcoma.",
+    "Wrong - t(2;13) PAX3-FOXO1 is alveolar rhabdomyosarcoma."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 40-year-old woman has a slowly growing 3 cm lump on the medial side of her upper arm. Tapping it causes tingling into the ring and little fingers. The lump moves side to side but not along the line of the arm. MRI shows a well-encapsulated, eccentric fusiform mass displacing the ulnar nerve fascicles to one side.\nWhat is the most appropriate management?",
+   "o": [
+    "Nerve segment resection with sural graft",
+    "Enucleation preserving the nerve",
+    "Wide excision with a 2 cm margin",
+    "External beam radiotherapy",
+    "Observation, as it cannot be operated"
+   ],
+   "a": 1,
+   "e": "An encapsulated, eccentric nerve sheath tumour that displaces fascicles is a schwannoma. Because it sits beside rather than within the fascicles, it can be shelled out (enucleated) under magnification while preserving nerve function. A neurofibroma is central, with fascicles running through it, so excision usually sacrifices the nerve.",
+   "w": [
+    "Wrong - resecting and grafting the nerve is unnecessary for an eccentric benign schwannoma.",
+    "Correct - schwannomas are eccentric and can be enucleated, sparing the nerve.",
+    "Wrong - wide excision would sacrifice the ulnar nerve for a benign lesion.",
+    "Wrong - radiotherapy is not used for benign peripheral schwannomas.",
+    "Wrong - symptomatic schwannomas are readily and safely excised."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 28-year-old man with neurofibromatosis type 1 has a long-standing plexiform neurofibroma in the posterior thigh. Over 2 months it has enlarged rapidly, causes severe pain at rest, and he has developed weakness of ankle dorsiflexion.\nWhich investigation best identifies malignant change and guides biopsy?",
+   "o": [
+    "FDG PET-CT",
+    "Ultrasound",
+    "Plain radiograph",
+    "Nerve conduction study",
+    "Technetium bone scan"
+   ],
+   "a": 0,
+   "e": "A rapidly enlarging, painful neurofibroma with new neurological deficit in NF1 suggests a malignant peripheral nerve sheath tumour, the leading cause of death in NF1. MRI shows the extent, and FDG PET-CT identifies the metabolically active (malignant) part of a large plexiform lesion to target biopsy. Treatment is wide resection with radiotherapy.",
+   "w": [
+    "Correct - FDG PET-CT highlights malignant areas within plexiform neurofibromas.",
+    "Wrong - ultrasound cannot reliably distinguish benign from malignant nerve sheath tumours.",
+    "Wrong - plain radiographs give little information about soft tissue nerve tumours.",
+    "Wrong - nerve conduction studies confirm deficit but not malignancy.",
+    "Wrong - bone scans assess the skeleton, not soft tissue nerve tumours."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 6-year-old boy has a rapidly enlarging, painless swelling of the forearm noticed 6 weeks ago. There is no history of trauma, and he is afebrile. MRI shows a soft tissue mass within the forearm muscles without bone involvement. Biopsy shows small round blue cells that stain positive for desmin and myogenin.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Synovial sarcoma",
+    "Ewing sarcoma",
+    "Metastatic neuroblastoma",
+    "Lymphoblastic lymphoma",
+    "Rhabdomyosarcoma"
+   ],
+   "a": 4,
+   "e": "Rhabdomyosarcoma is the commonest soft tissue sarcoma of childhood. It is a small round blue cell tumour of skeletal muscle lineage, so it is desmin and myogenin positive. Embryonal type affects young children (head and neck, genitourinary), while alveolar type affects limbs in adolescents. Biopsy is the gold standard for diagnosis.",
+   "w": [
+    "Wrong - synovial sarcoma occurs in young adults with t(X;18) and is not myogenin positive.",
+    "Wrong - Ewing sarcoma is CD99 positive and usually arises in bone.",
+    "Wrong - neuroblastoma is a tumour of neural crest origin, not myogenin positive.",
+    "Wrong - lymphoma is CD45/leucocyte-marker positive, not myogenin positive.",
+    "Correct - desmin and myogenin positivity defines skeletal muscle lineage: rhabdomyosarcoma."
+   ]
+  },
+  {
+   "t": "STT",
+   "stem": "A 50-year-old man had a 6 cm lump on his thigh shelled out at a private clinic as a ‘lipoma’, without prior imaging. Histology now shows high-grade myxofibrosarcoma reaching the excision margins at several points. The wound has healed.\nWhat is the most appropriate next management?",
+   "o": [
+    "Staging, then wide re-excision of the tumour bed",
+    "Reassurance, as the tumour has been removed",
+    "Chemotherapy alone, avoiding further surgery",
+    "Repeat local excision of only the visible scar",
+    "Six-monthly ultrasound surveillance"
+   ],
+   "a": 0,
+   "e": "This is a ‘whoops’ excision: an unplanned marginal or intralesional removal of a sarcoma. Residual tumour is likely in the contaminated field, and myxofibrosarcoma is notorious for infiltrative margins and local recurrence. Management at a sarcoma centre is MRI and CT chest staging, then wide re-excision of the whole operative bed, usually with radiotherapy.",
+   "w": [
+    "Correct - stage, then wide re-excision of the contaminated tumour bed (± radiotherapy).",
+    "Wrong - positive margins mean residual tumour; reassurance is unsafe.",
+    "Wrong - chemotherapy alone does not achieve local control of myxofibrosarcoma.",
+    "Wrong - the whole contaminated operative field, not just the scar, must be removed widely.",
+    "Wrong - surveillance alone leaves residual high-grade tumour untreated."
+   ]
+  }
+ ]
+}

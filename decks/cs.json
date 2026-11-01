@@ -1,0 +1,236 @@
+{
+ "id": "cs",
+ "title": "Compartment Syndrome",
+ "short": "Compartment",
+ "emoji": "⏱️",
+ "source": "Compartment Syndrome.pdf",
+ "topics": {
+  "CSD": "Definition, causes & pathophysiology",
+  "CSX": "Clinical features & investigations",
+  "CSM": "Management & complications"
+ },
+ "cards": [
+  {
+   "t": "CSD",
+   "q": "Define compartment syndrome.",
+   "a": "• **Raised pressure within a closed osteofascial compartment**\n• Pressure exceeds capillary perfusion → **impaired local circulation**\n• → **ischaemia** of muscle & nerve → **necrosis** if not decompressed",
+   "m": "A tight, unstretchable box (fascia + bone) filling with swelling: the pressure crushes the tiny vessels first, not the big artery."
+  },
+  {
+   "t": "CSD",
+   "q": "Which body regions are most commonly affected by compartment syndrome?",
+   "a": "• **Leg** (commonest – esp. after tibial fracture)\n• **Forearm** (e.g. supracondylar / forearm fractures)\n• Also: foot, hand, gluteal region, thigh",
+   "m": "Leg & forearm = the two classic exam sites."
+  },
+  {
+   "t": "CSD",
+   "q": "Acute compartment syndrome (ACS) vs chronic exertional compartment syndrome (CECS) – key differences?",
+   "a": "• **ACS**: caused by **severe injury**; **surgical emergency**; can cause rapid permanent muscle damage\n• **CECS**: caused by **athletic exertion**; **not** an emergency; symptoms recur with exercise and settle with rest; can last weeks\n• CECS can still cause long-term muscle damage if ignored",
+   "m": "Acute = Accident → Act now. Chronic = Cardio (exercise) → Calm, elective."
+  },
+  {
+   "t": "CSD",
+   "q": "List the causes of compartment syndrome given in the seminar.",
+   "a": "• **Fracture** (commonest)\n• Soft-tissue trauma **without** fracture (crush)\n• **Vascular injury** / reperfusion\n• Intense exercise\n• **Burns** (circumferential eschar)\n• **Tight casts or bandages**\n• Surgery\n• Animal / insect bites",
+   "m": "Things that either ADD volume inside (bleeding, oedema) or SHRINK the box from outside (cast, eschar, bandage)."
+  },
+  {
+   "t": "CSD",
+   "q": "Explain the pathophysiology of acute compartment syndrome step by step.",
+   "a": "• Injury → bleeding / **oedema** inside a non-expandable fascial compartment\n• ↑ compartment pressure → **venous outflow obstructed** first → further ↑ pressure (vicious cycle)\n• Pressure > capillary perfusion pressure → **capillary collapse** → muscle & nerve **ischaemia**\n• Ischaemic cells leak → more oedema → **necrosis**\n• Arterial (distal) pulse usually still present – large arteries have much higher pressure",
+   "m": "Veins collapse → swelling ↑ → capillaries collapse → muscle dies. The big artery is the LAST to give up."
+  },
+  {
+   "t": "CSD",
+   "q": "Why can a patient have compartment syndrome even with a normal distal pulse?",
+   "a": "• Compartment pressure (e.g. 40–50 mmHg) is enough to collapse **capillaries** but is far below **arterial systolic pressure**\n• So the major artery keeps flowing → **pulse palpable** while the muscle is dying\n• **Pulselessness is a LATE sign** – never wait for it",
+   "m": "‘A pulse does not exclude compartment syndrome.’"
+  },
+  {
+   "t": "CSX",
+   "q": "What is the earliest and most common symptom of compartment syndrome, and how is it described?",
+   "a": "• **Pain** – earliest and most common\n• **Severe, out of proportion** to the injury\n• Deep, burning, persistent; **escalating analgesic requirement**\n• Not relieved by immobilisation",
+   "m": "If the patient keeps asking for more morphine after a tibial fracture, think compartment syndrome."
+  },
+  {
+   "t": "CSX",
+   "q": "What is the most sensitive clinical sign of compartment syndrome and how do you test it in the leg?",
+   "a": "• **Pain on passive stretch** of the muscles in the affected compartment\n• Leg (deep posterior / anterior): passively **dorsiflex or plantarflex the toes** → severe pain\n• Forearm (flexors): passively **extend the fingers**",
+   "m": "Stretching an ischaemic muscle = screaming muscle."
+  },
+  {
+   "t": "CSX",
+   "q": "List the ‘6 Ps’ and state which are early and which are late.",
+   "a": "• **Pain** (out of proportion, on passive stretch) – EARLY\n• **Paraesthesia** (distal to the compartment) – early-ish (nerve ischaemia)\n• **Pallor** – late\n• **Pulselessness** – late\n• **Paralysis** – late (nerve/muscle already damaged)\n• **Poikilothermia** (cold limb) – late",
+   "m": "Pain & Paraesthesia = act now. The other 4 Ps = you are already late."
+  },
+  {
+   "t": "CSX",
+   "q": "What does the compartment feel like on palpation in ACS?",
+   "a": "• **Tense, ‘woody’ hard** and **tender** compartment\n• Swollen, shiny skin\n• Palpation alone is unreliable – but a woody feel + pain on stretch is enough to act",
+   "m": "Normal muscle = soft dough; compartment syndrome = wooden plank."
+  },
+  {
+   "t": "CSX",
+   "q": "Is compartment syndrome a clinical or a pressure-measurement diagnosis?",
+   "a": "• Primarily a **CLINICAL diagnosis**\n• Pressure measurement is an **adjunct** – most useful when the patient **cannot give a history**: unconscious, intubated, sedated, regional block, young child\n• Do not delay fasciotomy waiting for a measurement if the clinical picture is clear",
+   "m": "Clinically obvious → theatre. Clinically unclear / patient can’t talk → measure."
+  },
+  {
+   "t": "CSX",
+   "q": "What absolute intracompartmental pressure indicates compartment syndrome, and how is it measured?",
+   "a": "• **ICP > 30 mmHg** indicates compartment syndrome\n• Measured with a **manometer / slit (split) catheter** (e.g. Stryker device) inserted into the compartment\n• Normal resting ICP ≈ 0–8 mmHg",
+   "m": "Thirty is dirty."
+  },
+  {
+   "t": "CSX",
+   "q": "What is the delta pressure, and what value is the indication for fasciotomy?",
+   "a": "• **ΔP = diastolic BP − compartment pressure**\n• **ΔP < 30 mmHg** → perfusion inadequate → **fasciotomy**\n• Lecturer pearl: ΔP is more reliable than an absolute value because it accounts for the patient’s own BP (a hypotensive patient becomes ischaemic at lower compartment pressures)",
+   "m": "Diastolic minus compartment: if the gap is under 30, the muscle is starving."
+  },
+  {
+   "t": "CSX",
+   "q": "Why are plain X-ray, Doppler ultrasound, CK and urine myoglobin requested in suspected compartment syndrome?",
+   "a": "• **X-ray** – identify the underlying **fracture**\n• **Doppler US** – look for arterial **occlusion / thrombus** (vascular injury)\n• **Creatine kinase & urine myoglobin** – detect **rhabdomyolysis** (muscle breakdown → AKI risk)\n• None of these diagnose CS itself – clinical ± pressure does",
+   "m": "Imaging finds the cause; CK/myoglobin finds the damage; the clinician finds the syndrome."
+  },
+  {
+   "t": "CSM",
+   "q": "What is the immediate (pre-theatre) management of suspected acute compartment syndrome?",
+   "a": "• Treat as a **SURGICAL EMERGENCY** – call ortho senior / theatre\n• **Remove / split ALL constricting dressings, casts, splints** (split cast + padding down to skin)\n• Keep limb at the **level of the heart** – NOT elevated\n• **Supplemental oxygen**; maintain BP (avoid hypotension)\n• Analgesia; nil by mouth for theatre",
+   "m": "Loosen, Level, Oxygen, Operate."
+  },
+  {
+   "t": "CSM",
+   "q": "Why should a limb with suspected compartment syndrome be kept at heart level rather than elevated?",
+   "a": "• Elevation reduces **arterial inflow pressure** to the limb\n• This lowers **perfusion pressure** (ΔP) further → worsens ischaemia\n• Heart level = best balance between venous drainage and arterial perfusion",
+   "m": "Elevate for simple swelling; LEVEL for compartment syndrome."
+  },
+  {
+   "t": "CSM",
+   "q": "What is the definitive treatment of acute compartment syndrome and what are its key principles?",
+   "a": "• **Urgent fasciotomy** – open ALL involved compartments along their full length\n• Leg (Lecturer pearl): **4-compartment fasciotomy** via **two incisions** (anterolateral + posteromedial)\n• Debride dead muscle; **leave wounds open**\n• Return at 48–72 h: re-look ± delayed primary closure or **split-skin graft**\n• Ideally within **6 hours** – irreversible muscle necrosis after ~6–8 h of ischaemia",
+   "m": "Fasciotomy wounds are left OPEN – closing them recreates the tight box."
+  },
+  {
+   "t": "CSM",
+   "q": "How is chronic exertional compartment syndrome managed?",
+   "a": "• **Activity modification** (reduce / change training)\n• **NSAIDs** – for pain relief only\n• **Physiotherapy** (gait, running technique)\n• **Elective fasciotomy** if conservative measures fail\n• Lecturer pearl: diagnosis confirmed by measuring compartment pressures **before and after exercise**",
+   "m": "CECS = sports clinic, not emergency theatre."
+  },
+  {
+   "t": "CSM",
+   "q": "What is Volkmann’s ischaemic contracture?",
+   "a": "• Late complication of missed / untreated compartment syndrome\n• Necrotic muscle replaced by **inelastic fibrous tissue** → fixed contracture\n• Classically **forearm flexors** (FDP, FPL) after supracondylar fracture → claw-like flexed wrist & fingers\n• Prevention is the only good treatment",
+   "m": "Dead muscle → scar → shortened ‘rope’ that pulls the hand into a claw."
+  },
+  {
+   "t": "CSM",
+   "q": "What is rhabdomyolysis and why is it dangerous in compartment syndrome?",
+   "a": "• **Breakdown of skeletal muscle** → contents released into blood\n• **Myoglobin** → myoglobinuria (cola urine) → **acute kidney injury**\n• **Hyperkalaemia** → arrhythmia; also metabolic acidosis\n• Check **CK, urine myoglobin, U&E/K+**; aggressive IV fluids",
+   "m": "Dead muscle poisons the kidney (myoglobin) and the heart (potassium)."
+  }
+ ],
+ "mcq": [
+  {
+   "t": "CSX",
+   "stem": "A 24-year-old man is admitted after a motorcycle accident with a closed mid-shaft tibial fracture, placed in an above-knee backslab. Six hours later he needs his third dose of IV morphine and says the pain is ‘burning, deep inside’. Passive dorsiflexion of his toes makes him cry out. Dorsalis pedis and posterior tibial pulses are easily palpable, capillary refill is 2 seconds and sensation is intact.\nWhat is the most appropriate interpretation of these findings?",
+   "o": [
+    "Early acute compartment syndrome",
+    "Acute arterial injury needing CT angiography",
+    "Normal post-fracture pain needing higher-dose opioid",
+    "Compartment syndrome excluded as pulses are present",
+    "Deep vein thrombosis of the calf veins"
+   ],
+   "a": 0,
+   "e": "Pain out of proportion with escalating analgesia and pain on passive stretch are the earliest and most sensitive signs of acute compartment syndrome. Compartment pressure collapses capillaries long before it approaches arterial pressure, so distal pulses remain palpable until very late. Pulselessness is a late sign and its absence never excludes the diagnosis.",
+   "w": [
+    "Correct - early signs (pain out of proportion, pain on passive stretch) are present; palpable pulses are expected in early ACS.",
+    "Wrong - arterial injury gives pallor, cold limb and absent pulses; pulses here are normal.",
+    "Wrong - escalating opioid need is a red flag; giving more opioid masks the diagnosis.",
+    "Wrong - this is the classic trap: pulses persist until late because arterial pressure far exceeds compartment pressure.",
+    "Wrong - DVT does not cause severe pain on passive toe stretch within hours of a fracture with a tense compartment."
+   ]
+  },
+  {
+   "t": "CSX",
+   "stem": "A 35-year-old man is intubated in ICU after polytrauma including a comminuted proximal tibial fracture. The leg is swollen and tense. BP is 110/60 mmHg. Slit-catheter pressures: anterior 38 mmHg, lateral 31 mmHg, deep posterior 34 mmHg, superficial posterior 20 mmHg.\nWhat is the most appropriate management?",
+   "o": [
+    "Observe, since no compartment reading exceeds 40 mmHg",
+    "Repeat all readings in 4 hours to confirm a rising trend",
+    "Release only the anterior and lateral compartments",
+    "Wean sedation and re-examine for pain on passive stretch",
+    "Four-compartment fasciotomy through two incisions"
+   ],
+   "a": 4,
+   "e": "In an unconscious patient you cannot rely on pain, so pressure measurement decides. Delta pressure = diastolic BP − compartment pressure: anterior 60−38 = 22, lateral 29, deep posterior 26 – all below 30 mmHg, meaning inadequate perfusion. Once fasciotomy is indicated in the leg, all four compartments are released (anterolateral incision for anterior + lateral; posteromedial incision for superficial + deep posterior), because leaving one tight compartment risks missed necrosis.",
+   "w": [
+    "Wrong - the thresholds are >30 mmHg absolute or delta pressure <30 mmHg, not 40.",
+    "Wrong - delay risks irreversible muscle necrosis (6-8 h of ischaemia); the indication is already met.",
+    "Wrong - deep posterior is also critical (delta 26), and standard practice releases all four leg compartments.",
+    "Wrong - waiting to wake a polytrauma patient wastes the window; pressure measurement exists for exactly this situation.",
+    "Correct - delta pressure <30 mmHg in three compartments; standard two-incision 4-compartment fasciotomy."
+   ]
+  },
+  {
+   "t": "CSM",
+   "stem": "A 9-year-old boy had closed reduction and an above-elbow plaster cast for a displaced forearm fracture. Four hours later he is crying with severe forearm pain that increases when the nurse gently extends his fingers. The fingers are pink with brisk capillary refill.\nWhat is the most appropriate FIRST action?",
+   "o": [
+    "Elevate the arm high on pillows and give IV morphine",
+    "Bivalve the cast and split the padding down to the skin",
+    "Book an urgent Doppler ultrasound of the brachial artery",
+    "Arrange urgent check X-ray to confirm the reduction",
+    "Measure the compartment pressure before any intervention"
+   ],
+   "a": 1,
+   "e": "With features of compartment syndrome in a casted limb, the first step is to remove all external constriction: split the cast AND the padding right down to skin, and keep the limb at heart level. If symptoms do not settle promptly, proceed to urgent fasciotomy. Pressure measurement is an adjunct and should not delay release of a tight cast in a child who can show clear clinical signs.",
+   "w": [
+    "Wrong - elevation lowers perfusion pressure, and more opioid masks progression.",
+    "Correct - removing constricting cast and padding is the immediate first step; then reassess and go to fasciotomy if no relief.",
+    "Wrong - pink fingers with brisk refill; the problem is compartment pressure, not arterial occlusion.",
+    "Wrong - checking the reduction does not treat the emergency.",
+    "Wrong - the diagnosis is clinical here; measuring first delays decompression."
+   ]
+  },
+  {
+   "t": "CSD",
+   "stem": "A 22-year-old national-level footballer complains of tight, cramping pain in both anterior shins that starts 15 minutes into every training run and settles within 20 minutes of stopping. Between sessions the legs are normal on examination, and X-rays are normal.\nWhat is the most appropriate management at this stage?",
+   "o": [
+    "Emergency four-compartment fasciotomy of both legs",
+    "Above-knee casting of both legs for 6 weeks",
+    "Long-term high-dose opioid analgesia before training",
+    "Activity modification, NSAIDs and physiotherapy",
+    "Urgent CT angiography of both lower limbs"
+   ],
+   "a": 3,
+   "e": "Exercise-induced, reproducible pain that resolves with rest in an athlete is chronic exertional compartment syndrome. It is not a surgical emergency. First-line treatment is activity modification, NSAIDs for pain and physiotherapy; elective fasciotomy is reserved for failed conservative management, after confirming raised pressures with pre- and post-exercise measurement.",
+   "w": [
+    "Wrong - emergency fasciotomy is for acute CS; CECS fasciotomy is elective and only after failed conservative care.",
+    "Wrong - immobilisation is not a treatment for CECS and causes deconditioning.",
+    "Wrong - opioids are inappropriate; NSAIDs are used only for symptom relief.",
+    "Correct - conservative management is first line for CECS.",
+    "Wrong - normal examination at rest and symptom pattern do not suggest vascular disease."
+   ]
+  },
+  {
+   "t": "CSM",
+   "stem": "A 40-year-old construction worker was trapped under a collapsed wall for 5 hours with his right thigh and leg compressed. After a delayed fasciotomy, his urine becomes dark cola-coloured, urine dipstick is strongly positive for blood but microscopy shows no red cells, and serum creatine kinase is 48,000 U/L.\nWhich complication is the most immediate threat to his life?",
+   "o": [
+    "Volkmann ischaemic contracture",
+    "Hyperkalaemic cardiac arrhythmia",
+    "Wound infection of the fasciotomy",
+    "Fat embolism syndrome",
+    "Chronic regional pain syndrome"
+   ],
+   "a": 1,
+   "e": "Dipstick positive for blood without red cells plus a very high CK indicates myoglobinuria from rhabdomyolysis. Muscle breakdown releases potassium, myoglobin and acids; hyperkalaemia can cause fatal arrhythmias within hours, and myoglobin causes acute kidney injury which worsens the hyperkalaemia. Management: aggressive IV fluids, check U&E/K+ and ECG, treat hyperkalaemia.",
+   "w": [
+    "Wrong - Volkmann contracture is a late disabling complication, not an immediate threat to life.",
+    "Correct - rhabdomyolysis releases potassium; with developing AKI this can cause fatal arrhythmia.",
+    "Wrong - infection is a later concern, not the most immediate threat with these results.",
+    "Wrong - fat embolism follows long-bone fractures (petechiae, hypoxia, confusion), not suggested here.",
+    "Wrong - CRPS is a chronic pain disorder, not life-threatening."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1621 @@
+{
+ "id": "joint",
+ "title": "Chronic Joint Disease",
+ "short": "Joints",
+ "emoji": "🦵",
+ "source": "G1 COMMON CHRONIC JOINT DISEASE 2.pdf",
+ "topics": {
+  "OA": "Osteoarthritis",
+  "AVN": "Avascular necrosis",
+  "RA": "Rheumatoid arthritis",
+  "AS": "Ankylosing spondylitis",
+  "GOUT": "Gout",
+  "CPPD": "Pseudogout (CPPD)",
+  "PSA": "Psoriatic arthritis",
+  "TBA": "Tuberculous arthritis"
+ },
+ "cards": [
+  {
+   "t": "OA",
+   "q": "What is osteoarthritis (OA), at its core?",
+   "a": "• Chronic disorder of **synovial joints** (also called **degenerative joint disease**)\n• Primary event: progressive **softening and disintegration of articular cartilage**\n• Followed by **structural and functional failure** of the whole joint (bone, synovium, capsule)\n• Inflammation is only **mild** – it is not a primary inflammatory arthritis",
+   "m": "OA = 'wear and failed repair' of cartilage, not an autoimmune attack."
+  },
+  {
+   "t": "OA",
+   "q": "Which parts of the knee and hip are most commonly affected by OA?",
+   "a": "• **Knee:** **medial (anteromedial) tibiofemoral** compartment – most common; **lateral facet of patellofemoral** joint\n• Can become **tricompartmental**; isolated patellofemoral OA = anterior knee pain on stairs\n• **Hip:** **superolateral** aspect of the joint (main load-bearing zone)",
+   "m": "Weight goes through the medial knee and superolateral hip – that is where cartilage wears first."
+  },
+  {
+   "t": "OA",
+   "q": "Which hand joints are typically involved in OA, and what are the named nodes?",
+   "a": "• **DIP joints** – **Heberden's nodes**\n• **PIP joints** – **Bouchard's nodes**\n• **1st CMC joint** (base of thumb) – squaring of the thumb base\n• MCPs largely **spared** (MCP disease suggests RA or haemochromatosis)\n• Note: slide says '1st MCP and base of thumb'; correct is **1st CMC** (base of thumb)",
+   "m": "H for Heberden = Higher up the finger (DIP); B for Bouchard = Below it (PIP). Lecturer pearl: 'seagull' X-ray = erosive (inflammatory) OA of IPJs."
+  },
+  {
+   "t": "OA",
+   "q": "List the risk factors for OA (modifiable vs non-modifiable).",
+   "a": "• **Modifiable:** **BMI > 25 kg/m²**, previous joint injury, occupation with repetitive stress, joint **malalignment**, bone density\n• **Non-modifiable:** **advancing age**, **female** sex, **genetics** (first-degree relatives)",
+   "m": "Weight loss is the risk factor the patient can actually change – every 1 kg lost unloads the knee several kg per step."
+  },
+  {
+   "t": "OA",
+   "q": "What do chondrocytes normally produce, and what happens to cartilage in OA?",
+   "a": "• Chondrocytes make **type II collagen** (tensile strength) and **proteoglycans** (elasticity, water retention)\n• OA: matrix loss → **fibrillation** (fissuring) of cartilage → erosion down to bone\n• Exposed bone becomes polished = **eburnation**\n• Bone reacts: **subchondral sclerosis**, **subchondral cysts**, **osteophytes**; mild synovitis, **capsular fibrosis**",
+   "m": "Fibrillation (cartilage cracks) → Eburnation (bone polished like ivory)."
+  },
+  {
+   "t": "OA",
+   "q": "Primary vs secondary OA – give the causes of secondary OA.",
+   "a": "• **Primary (idiopathic):** age + genetics, female preponderance\n• **Secondary:**\n  – **Trauma:** intra-articular fracture, joint injury, osteonecrosis\n  – **Metabolic:** acromegaly, haemochromatosis, chondrocalcinosis\n  – **Inflammatory:** RA, psoriatic arthritis, septic arthritis\n  – **Anatomical:** SUFE, Perthes, DDH, AVN",
+   "m": "Secondary OA = TMIA: Trauma, Metabolic, Inflammatory, Anatomical. Young patient with OA → hunt for the secondary cause."
+  },
+  {
+   "t": "OA",
+   "q": "What are the four classic X-ray features of OA?",
+   "a": "• **L**oss (narrowing) of joint space – usually **non-uniform** (medial knee)\n• **O**steophytes\n• **S**ubchondral **sclerosis**\n• **S**ubchondral **cysts**",
+   "m": "Lecturer pearl: **LOSS**. Contrast RA: uniform narrowing, periarticular osteopenia, marginal erosions."
+  },
+  {
+   "t": "OA",
+   "q": "Why should knee X-rays for suspected OA be taken weight-bearing (standing)?",
+   "a": "• Supine films **under-estimate joint space narrowing** – the cartilage is not loaded\n• Standing **AP** shows true medial/lateral compartment loss and **varus/valgus alignment**\n• Plus lateral and skyline views for patellofemoral joint",
+   "m": "Lecturer pearl: judge the knee the way it lives – standing."
+  },
+  {
+   "t": "OA",
+   "q": "Describe the Kellgren-Lawrence (KL) radiographic grades of OA.",
+   "a": "• **0:** no X-ray changes\n• **1:** doubtful narrowing, possible osteophytic lipping\n• **2:** **definite osteophytes**, possible narrowing\n• **3:** moderate multiple osteophytes, **definite narrowing**, some sclerosis, possible deformity\n• **4:** large osteophytes, **marked narrowing**, severe sclerosis, **definite deformity**",
+   "m": "Lecturer pearl: Grade 2 = osteophytes become definite; Grade 3 = narrowing becomes definite; Grade 4 = deformity becomes definite."
+  },
+  {
+   "t": "OA",
+   "q": "How does joint stiffness in OA differ from that in RA?",
+   "a": "• **OA:** short-lasting stiffness **< 30 min**, after inactivity ('gelling'), eases quickly with movement; pain **worse with use**\n• **RA:** early-morning stiffness **> 30–60 min**; pain and stiffness **improve with use**",
+   "m": "Lecturer pearl: OA = 'rusty hinge' that loosens quickly; RA = 'glued joint' for an hour."
+  },
+  {
+   "t": "OA",
+   "q": "Where is hip OA pain felt, and which movement is lost first?",
+   "a": "• **Groin** and lateral hip, radiating to the **anterolateral thigh**, may go beyond the knee\n• Pain may be felt **only in the knee** (referred, obturator/femoral nerve)\n• Exam: **antalgic gait**, reduced ROM with **internal rotation restricted first**",
+   "m": "Knee pain with a normal knee → examine the hip. Lost internal rotation is the earliest hip sign."
+  },
+  {
+   "t": "OA",
+   "q": "Why does knee OA typically produce a varus deformity?",
+   "a": "• The **medial compartment** carries most load and wears first\n• Medial joint space collapses → knee angulates into **varus** (bow-legged)\n• Varus shifts even more load medially → **vicious cycle**\n• Late: **fixed flexion deformity** (cannot lock straight)",
+   "m": "Lecturer pearl: medial wear → varus → more medial wear."
+  },
+  {
+   "t": "OA",
+   "q": "What examination findings are typical of knee OA?",
+   "a": "• **Antalgic gait**, **quadriceps wasting**\n• Bony swelling, effusion, **palpable osteophytes**\n• **Joint-line tenderness**, palpable/audible **crepitus**\n• Reduced ROM (flexion often < 90°, difficulty rising from a chair), pain at end of range\n• **Varus** deformity, **fixed flexion deformity**, instability",
+   "m": "Crepitus + bony swelling + end-range pain = degenerative knee."
+  },
+  {
+   "t": "OA",
+   "q": "Why are FBC, ESR/CRP, RF/ANA and synovial fluid analysis requested in suspected OA?",
+   "a": "• Not to diagnose OA – they are typically **normal** in OA\n• Purpose: **exclude inflammatory, crystal or septic arthritis**\n• OA synovial fluid: clear, **viscous**, low WCC (**< 2000/µL**), no crystals\n• Diagnosis of OA is **clinical + weight-bearing X-ray**",
+   "m": "In OA, the bloods are there to rule things OUT."
+  },
+  {
+   "t": "OA",
+   "q": "What is the first-line (non-pharmacological) management of OA?",
+   "a": "• **Patient education** and self-management\n• **Weight loss** (lifestyle modification)\n• **Exercise / physiotherapy** – especially **quadriceps strengthening**, aerobic exercise\n• **Occupational therapy**, walking aids\n• **Orthoses** (braces, insoles)",
+   "m": "Every OA patient, at every stage, gets education + weight loss + exercise (Malaysian CPG OA)."
+  },
+  {
+   "t": "OA",
+   "q": "Outline the drug options for OA (Malaysian CPG).",
+   "a": "• **Oral:** **paracetamol** → **NSAIDs / COX-2 inhibitors** → weak opioid (**tramadol**); nutraceuticals (glucosamine, chondroitin, diacerein)\n• **Topical:** NSAIDs, **capsaicin**, methylsalicylate\n• **Intra-articular:** **corticosteroids** (short-term flare relief), **viscosupplementation** (hyaluronan, hylan)\n• Caution: oral NSAIDs in **CKD, peptic ulcer, cardiovascular disease**, elderly",
+   "m": "Topical first in the elderly knee – gut and kidneys are spared."
+  },
+  {
+   "t": "OA",
+   "q": "When is high tibial osteotomy (HTO) the best surgical option in knee OA?",
+   "a": "• **Young, active** patient (often < 60, heavy-demand work)\n• **Isolated medial compartment** OA with **varus** malalignment\n• Good ROM, stable knee, intact lateral compartment\n• Valgus-producing osteotomy **shifts load to the healthy lateral side** and preserves the native joint (delays TKR)",
+   "m": "Lecturer pearl: realign, don't replace – HTO buys the young knee time."
+  },
+  {
+   "t": "OA",
+   "q": "What are the surgical options for end-stage OA and when is joint replacement indicated?",
+   "a": "• **Total joint replacement** (TKR/THR): end-stage (KL 4) disease with **severe pain, night/rest pain, functional loss** despite adequate conservative treatment\n• **Partial replacement:** unicondylar, patellofemoral, bicompartmental – disease limited to one/two compartments\n• **Arthrodesis:** pain-free but stiff joint – salvage (e.g. failed arthroplasty, young labourer, small joints)\n• Arthroscopic lavage/debridement: limited role (mechanical symptoms only)",
+   "m": "Lecturer pearl: TKR for the worn-out knee; HTO for the young unicompartmental knee."
+  },
+  {
+   "t": "AVN",
+   "q": "What is avascular necrosis (AVN) and what are its synonyms?",
+   "a": "• **Death of bone** (and marrow) due to **interrupted blood supply**\n• Synonyms: **osteonecrosis**, **aseptic necrosis**, **ischaemic necrosis**, atraumatic necrosis\n• Usually **progressive** – subchondral collapse and joint destruction over months to years\n• Typically affects patients **< 50 years**\n• Note: slide typos 'aspetic' and 'ishcemic' = **aseptic** and **ischaemic**",
+   "m": "Aseptic = no infection; ischaemic = no blood. Dead bone that collapses under load."
+  },
+  {
+   "t": "AVN",
+   "q": "What are the commonest sites of AVN, and why is the femoral head so vulnerable?",
+   "a": "• **Femoral head** (most common), humeral head, femoral condyles, proximal tibia, **talar neck/body**, **scaphoid**\n• These sites have a **terminal (end-artery) blood supply** with poor collaterals, often entering **retrograde** through a narrow neck\n• Femoral head relies on **retinacular vessels** (medial circumflex femoral artery) running along the neck",
+   "m": "Bones covered mostly by cartilage with one back-door artery (femoral head, scaphoid, talus) = AVN-prone."
+  },
+  {
+   "t": "AVN",
+   "q": "How does trauma cause AVN of the femoral head?",
+   "a": "• **Displaced femoral neck fracture** or **hip dislocation**\n• Direct tearing/kinking of the **extraosseous retinacular vessels**\n• → interrupted blood flow → **ischaemia → bone death**",
+   "m": "Displaced intracapsular neck of femur fracture in the elderly → hemiarthroplasty/THR partly because of AVN risk."
+  },
+  {
+   "t": "AVN",
+   "q": "What are the mechanisms of atraumatic AVN?",
+   "a": "• **Intravascular thrombosis/embolism:** hyperlipidaemia, hypercoagulable states, fat emboli, sickled cells, nitrogen bubbles\n• **Marrow fat swelling (extravascular):** glucocorticoids, alcohol → ↑ **intraosseous pressure** → sinusoidal compression, **venous stasis**, retrograde ischaemia\n• Ends in **bone death** under subchondral bone",
+   "m": "Bone is a closed box – swell the marrow and you strangle its own vessels (compartment syndrome of bone)."
+  },
+  {
+   "t": "AVN",
+   "q": "Give a mnemonic for the risk factors of atraumatic AVN.",
+   "a": "• **A**lcohol, **A**IDS/HIV\n• **S**teroids, **S**LE, **S**ickle cell\n• **E**rlenmeyer flask – **Gaucher** disease\n• **P**ancreatitis\n• **T**rauma (also radiation, post-transplant)\n• **I**diopathic, **I**nfection (osteomyelitis)\n• **C**aisson disease (decompression sickness – **nitrogen bubbles** in scuba divers)",
+   "m": "Lecturer pearl: **ASEPTIC** necrosis. Note: slides also list bisphosphonates – that is **osteonecrosis of the jaw**, not femoral head AVN."
+  },
+  {
+   "t": "AVN",
+   "q": "What are the symptoms and signs of AVN of the hip?",
+   "a": "• **Groin pain** (also thigh/buttock) – weight-bearing, motion-induced; later **rest and night pain**\n• May be **asymptomatic** early – lesion often **advanced at presentation**\n• Signs: tenderness, limp, restricted movement – especially **abduction and internal rotation**; fixed deformity late",
+   "m": "Young adult on steroids/alcohol with groin pain = AVN until proven otherwise."
+  },
+  {
+   "t": "AVN",
+   "q": "Why is a normal hip X-ray not reassuring in suspected AVN, and what is the crescent sign?",
+   "a": "• X-ray **cannot detect early ischaemic changes** (Ficat I is radiographically normal)\n• Later: sclerosis around necrotic segment, cysts\n• **Crescent sign:** subchondral radiolucent line = **subchondral fracture**, the start of **collapse** (Ficat III)\n• Then flattening/collapse of the femoral head",
+   "m": "Crescent sign = the point of no return for head-preserving surgery."
+  },
+  {
+   "t": "AVN",
+   "q": "What is the investigation of choice for early AVN of the hip, and its classic sign?",
+   "a": "• **MRI** – **gold standard**, most sensitive, detects the **earliest** changes\n• Indicated when **X-ray is normal but history suggests AVN**\n• Classic T2 **double-line sign** (sclerotic outer rim + hyperaemic inner granulation)\n• Image **both hips** – often bilateral\n• Radionuclide bone scan: alternative if MRI unavailable",
+   "m": "Lecturer pearl: double-line sign on MRI = AVN."
+  },
+  {
+   "t": "AVN",
+   "q": "Describe the Ficat-Arlet classification of femoral head AVN.",
+   "a": "• **I:** **normal X-ray**, MRI positive (pain may be present)\n• **II:** **sclerosis and/or cysts**, femoral head **still round** (no collapse)\n• **III:** **crescent sign** / subchondral collapse, head flattening\n• **IV:** **joint space narrowing** + acetabular changes = **secondary OA**",
+   "m": "Lecturer pearl: I Invisible, II Sclerosis/cysts, III Crescent/collapse, IV OA of both sides."
+  },
+  {
+   "t": "AVN",
+   "q": "How is pre-collapse (Ficat I–II) femoral head AVN managed?",
+   "a": "• Protected / **limited weight-bearing**, analgesia (NSAIDs), treat underlying cause (stop steroids/alcohol)\n• **Core decompression** – drilling relieves **intraosseous hypertension** → less pain, may halt progression\n• ± **Vascularised fibular graft**\n• **Bisphosphonates** may be used for pre-collapse AVN (slow resorption of the necrotic segment)\n• Note: bisphosphonates also appear as a risk factor on the slides – that refers to **jaw** osteonecrosis",
+   "m": "Lecturer pearl: save the head while it is still round – core decompression before collapse."
+  },
+  {
+   "t": "AVN",
+   "q": "How is post-collapse (Ficat III–IV) femoral head AVN managed?",
+   "a": "• Head is collapsed – head-preserving procedures fail\n• **Total hip replacement** (femoral head + acetabulum) – especially with secondary OA (IV)\n• **Arthrodesis** – rare salvage in a very young heavy labourer",
+   "m": "Lecturer pearl: collapse + arthritis = THR."
+  },
+  {
+   "t": "AVN",
+   "q": "Which blood tests help find the cause of atraumatic AVN?",
+   "a": "• **FBC** (WCC) and **ESR/CRP** – infection, marrow disease\n• **Haemoglobin electrophoresis** – sickle cell disease\n• **ANA, rheumatoid factor** – SLE / connective tissue disease\n• Lecturer pearl: fasting lipids, coagulation/thrombophilia screen, LFTs (alcohol)",
+   "m": "Imaging finds the dead bone; bloods find out why it died."
+  },
+  {
+   "t": "RA",
+   "q": "What is rheumatoid arthritis (RA)?",
+   "a": "• **Chronic, progressive autoimmune** disease primarily targeting the **synovial membrane**\n• **Systemic** disease with typical **symmetrical polyarthritis**\n• Insidious onset, small joints of hands and feet\n• Untreated → cartilage and bone erosion, deformity, disability",
+   "m": "RA attacks the lining (synovium); OA wears the cartilage."
+  },
+  {
+   "t": "RA",
+   "q": "Summarise the epidemiology and genetic association of RA.",
+   "a": "• Prevalence **1–2%**\n• Peak onset **4th–5th decades**\n• **Female : male = 3 : 1**\n• Genetic: more common in first-degree relatives; **HLA-DR4** (chromosome 6)",
+   "m": "HLA-DR4 = RA; HLA-B27 = spondyloarthritis (AS, axial PsA) – do not swap them."
+  },
+  {
+   "t": "RA",
+   "q": "Outline the pathogenesis of joint destruction in RA.",
+   "a": "• B-cell activation → **rheumatoid factor** (anti-IgG) and **anti-CCP** antibodies\n• Cytokines **TNF, IL-1, IL-6** drive synovial proliferation → **synovitis**\n• Thickened inflamed synovium = **pannus** → invades cartilage and bone margins\n• Proteolytic enzymes + immune complexes → cartilage loss and **periarticular erosions**",
+   "m": "The cytokines are the drug targets: anti-TNF (adalimumab), anti-IL-6R (tocilizumab), anti-CD20 B-cell (rituximab)."
+  },
+  {
+   "t": "RA",
+   "q": "What are the four stages of joint pathology in RA?",
+   "a": "• **1. Pre-clinical:** no symptoms; ESR, CRP, RF may be raised years before diagnosis\n• **2. Synovitis:** thickened synovium, cell-rich effusion; joint intact – **potentially reversible**\n• **3. Destruction:** cartilage erosion, **pannus**, tenosynovitis ± tendon rupture\n• **4. Deformity:** articular destruction + capsular stretching + tendon rupture → instability, fibrous/bony ankylosis",
+   "m": "The window of opportunity is stage 2 – treat early with DMARDs before erosions."
+  },
+  {
+   "t": "RA",
+   "q": "Which joints does RA typically involve, and which are characteristically spared?",
+   "a": "• **Symmetrical** small joints: **MCPs, PIPs, wrists**, MTPs; later large joints, **cervical spine (C1–C2)**\n• **DIP joints spared** (also lumbar spine)\n• Contrast: OA and psoriatic arthritis hit the **DIPs**",
+   "m": "Lecturer pearl: DIPs spared in RA – DIP disease points to OA or PsA."
+  },
+  {
+   "t": "RA",
+   "q": "Name the classic hand deformities of RA and explain swan-neck vs boutonnière.",
+   "a": "• **Ulnar deviation** of fingers at MCPs, **Z-shaped thumb**\n• **Swan-neck:** PIP **hyperextension** + DIP **flexion**\n• **Boutonnière:** PIP **flexion** + DIP **hyperextension** (central slip rupture, lateral bands slip volar)\n• Feet: **hallux valgus**, bunion, **claw toes**",
+   "m": "Boutonnière = buttonhole: the PIP pokes through the torn extensor hood like a button."
+  },
+  {
+   "t": "RA",
+   "q": "What are rheumatoid nodules and what do they signify?",
+   "a": "• Firm, **rubbery, non-tender subcutaneous lumps**\n• Sites: **extensor surface of the forearm / back of the elbow**, tendons, pressure points\n• Occur in **severe, seropositive** disease – a **poor prognostic** marker\n• Highly characteristic of RA",
+   "m": "Elbow nodule + RF positive = aggressive RA."
+  },
+  {
+   "t": "RA",
+   "q": "List the extra-articular features of RA.",
+   "a": "• **Nodules**, vasculitis, skin atrophy/ulceration\n• Eyes: **scleritis**, episcleritis, dry eyes\n• Nerves: **entrapment (carpal tunnel)**, peripheral sensory neuropathy\n• Muscle wasting, **lymphadenopathy**, anaemia\n• Lecturer pearl: lung (ILD, nodules, effusion), pericarditis, Felty syndrome (RA + splenomegaly + neutropenia)",
+   "m": "RA is a systemic disease – look beyond the joints."
+  },
+  {
+   "t": "RA",
+   "q": "What anaemia is typical of active RA?",
+   "a": "• **Normocytic normochromic anaemia of chronic disease**\n• Cytokine (IL-6 / hepcidin) driven **abnormal erythropoiesis**; ferritin normal or high\n• Note: slide says 'normochromic hypochromic' – this is contradictory; correct is **normocytic normochromic**\n• If microcytic hypochromic → think **iron deficiency** (NSAID GI blood loss)",
+   "m": "Inflammation locks iron away – the cells look normal, there are just fewer of them."
+  },
+  {
+   "t": "RA",
+   "q": "Rheumatoid factor vs anti-CCP – how do you interpret them?",
+   "a": "• **RF:** anti-IgG autoantibody; **sensitive but not specific** – positive in Sjögren's, SLE, chronic infection, elderly; negative in ~30% of RA\n• **Anti-CCP:** **most specific** test for RA; can precede symptoms; predicts **erosive** disease\n• High titre (> 3× ULN) scores more in ACR/EULAR\n• **Seronegative** RA exists – negative serology does not exclude it",
+   "m": "Lecturer pearl: anti-CCP = Confirms; RF = Can be found in many conditions."
+  },
+  {
+   "t": "RA",
+   "q": "What are the X-ray features of RA in the hands?",
+   "a": "• Early: **soft tissue swelling**, **periarticular osteopenia**\n• **Marginal (periarticular) erosions** – bare areas at joint margins\n• **Uniform** (symmetrical) joint space narrowing\n• Late: subchondral cysts, **subluxation**, carpal instability, **bony ankylosis**\n• Distribution: **proximal joints, bilateral symmetrical**; views: hand AP + oblique; US/MRI for early erosions",
+   "m": "RA X-ray = osteopenia + erosions, NO osteophytes and NO sclerosis (opposite of OA's LOSS)."
+  },
+  {
+   "t": "RA",
+   "q": "How do the 2010 ACR/EULAR classification criteria for RA work?",
+   "a": "• Apply to patients with **≥ 1 swollen joint** not better explained by another disease\n• Four domains (max 10): **joints** (0–5), **serology** RF/anti-CCP (0–3; high positive > 3× ULN), **acute-phase reactants** ESR/CRP (0–1), **duration ≥ 6 weeks** (0–1)\n• **≥ 6/10 = definite RA**; < 6 may fulfil criteria over time\n• DIPs, 1st CMCs and 1st MTPs are **excluded** from joint count",
+   "m": "Lecturer pearl: Joints, Serology, Acute phase, Duration – need 6 of 10."
+  },
+  {
+   "t": "RA",
+   "q": "What is the anchor DMARD in RA and what must be done before and during its use?",
+   "a": "• **Methotrexate** – anchor csDMARD (alone or with sulfasalazine, hydroxychloroquine, leflunomide; short-term steroid bridge)\n• Baseline: **FBC, LFT, renal function, chest X-ray** (pneumonitis), hepatitis screen\n• Give with **folic acid** (reduces side effects); monitor FBC/LFT regularly\n• **Teratogenic** – stop ≥ 3 months before conception; avoid alcohol",
+   "m": "Lecturer pearl: MTX = Marrow, Mouth ulcers, Liver, Lungs, Malformations (teratogen)."
+  },
+  {
+   "t": "RA",
+   "q": "When are biologic or targeted synthetic DMARDs used in RA?",
+   "a": "• After **failure of csDMARDs** (e.g. methotrexate) and/or **poor prognostic factors**\n• **Anti-TNF:** infliximab, adalimumab; **IL-6 receptor blocker:** tocilizumab; **anti-B cell:** rituximab\n• **tsDMARDs (JAK inhibitors):** tofacitinib, baricitinib\n• Biosimilars (infliximab, adalimumab) cut cost\n• Screen for **latent TB** and hepatitis B before starting",
+   "m": "Biologics switch off the immune system's TB guard – always screen for latent TB first."
+  },
+  {
+   "t": "RA",
+   "q": "Why must a patient with long-standing RA have cervical spine imaging before general anaesthesia?",
+   "a": "• Synovitis erodes the **transverse ligament** → **atlantoaxial subluxation**\n• Neck **extension/flexion during intubation** can compress the cord → quadriplegia or death\n• Pre-op: **lateral flexion–extension C-spine X-rays**; MRI if neurological signs\n• Inform anaesthetist (consider fibreoptic intubation)",
+   "m": "Lecturer pearl: RA patient going for any GA – check C1–C2 first."
+  },
+  {
+   "t": "RA",
+   "q": "What surgical options exist for RA?",
+   "a": "• **Early (soft-tissue):** **synovectomy**, tendon repair/transfer (e.g. extensor tendon rupture), joint stabilisation\n• **Late (reconstructive):** **arthroplasty** (hip, knee, MCP), **arthrodesis** (wrist, thumb, ankle), osteotomy\n• Plus MDT: education, occupational therapy, physiotherapy, podiatry/footwear, dietetics",
+   "m": "Soft tissue early, joint reconstruction late."
+  },
+  {
+   "t": "AS",
+   "q": "What is ankylosing spondylitis (AS) and how does it lead to ankylosis?",
+   "a": "• Chronic **inflammatory autoimmune** disease mainly of the **axial spine** and **sacroiliac joints** (seronegative spondyloarthritis)\n• Sequence: **enthesitis** (inflamed ligament/tendon insertions) → **ossification** of surrounding soft tissue → **syndesmophytes** → **joint ankylosis** (fusion)",
+   "m": "Inflame the entheses, heal with bone, fuse the spine."
+  },
+  {
+   "t": "AS",
+   "q": "Who typically gets AS and what is the genetic marker?",
+   "a": "• **Young men**, onset usually **< 40 years** (late teens–20s)\n• Male > female\n• Strongly associated with **HLA-B27**\n• HLA-B27 is supportive, not diagnostic (common in healthy people too)",
+   "m": "B27 = Back pain at 27 in a young man."
+  },
+  {
+   "t": "AS",
+   "q": "What are the features of inflammatory back pain (as in AS)?",
+   "a": "• **Insidious** onset, age < 40, duration > 3 months\n• **Morning stiffness** (often > 30 min)\n• **Improves with exercise**, **not relieved by rest**\n• **Nocturnal pain** (second half of night), improves on getting up\n• Starts at **lumbosacral** region, may ascend to thoracic/cervical; alternating buttock pain",
+   "m": "Mechanical pain hates activity; inflammatory pain hates rest."
+  },
+  {
+   "t": "AS",
+   "q": "What is the modified Schober test and what result suggests AS?",
+   "a": "• Mark skin at the **lumbosacral junction (dimples of Venus)**, then **10 cm above** (± 5 cm below)\n• Patient bends forward maximally; re-measure\n• **Increase < 5 cm** = restricted **lumbar flexion** (positive)\n• Positive in AS; other signs: reduced chest expansion, increased occiput-to-wall distance, positive FABER (SIJ pain)",
+   "m": "Lecturer pearl: 10 cm should stretch to at least 15 cm – less than 5 cm gain = stiff lumbar spine."
+  },
+  {
+   "t": "AS",
+   "q": "Why do patients with AS become short of breath, and how is it tested at the bedside?",
+   "a": "• Fusion of **costovertebral and costotransverse joints** → rigid rib cage\n• **Reduced chest expansion** (slide cut-off **< 2 cm**; normal ≈ 5 cm) measured at the 4th intercostal space\n• Breathing becomes diaphragmatic\n• Also **apical (upper-lobe) pulmonary fibrosis**",
+   "m": "A barrel that cannot expand – the ribs are welded to the spine."
+  },
+  {
+   "t": "AS",
+   "q": "What is the first radiological sign of AS, and how does the spine look later?",
+   "a": "• **First:** **bilateral, symmetrical sacroiliitis** – sclerosis, erosions, ill-defined then fused SIJs\n• Lateral spine: **squaring of vertebral bodies** (anterior corner erosion), **marginal syndesmophytes**\n• AP spine: **bamboo spine** (vertical syndesmophytes bridging discs)",
+   "m": "Lecturer pearl: Sacroiliac first, Squaring next, Syndesmophytes, then the Stick of bamboo."
+  },
+  {
+   "t": "AS",
+   "q": "What are the extra-articular manifestations of AS?",
+   "a": "• **Anterior uveitis / iritis** (most common – painful red eye, photophobia)\n• **Aortic regurgitation**, ascending aortitis, conduction block\n• **Apical pulmonary fibrosis**\n• **Amyloidosis** (renal)\n• **Achilles enthesitis**, plantar fasciitis",
+   "m": "The A's of AS: Anterior uveitis, Aortic regurgitation, Apical fibrosis, Amyloidosis, Achilles."
+  },
+  {
+   "t": "AS",
+   "q": "What is the chin-on-chest deformity in AS and how is it assessed?",
+   "a": "• Progressive **thoracolumbar/cervical kyphosis** → chin approaches chest, **loss of horizontal gaze**\n• Measured by the **chin-brow-to-vertical angle (CBVA)**\n• Severe fixed deformity → **lumbar or cervicothoracic corrective osteotomy**",
+   "m": "Patient can only look at his feet – the CBVA tells the surgeon how much to correct."
+  },
+  {
+   "t": "AS",
+   "q": "Outline the management of AS.",
+   "a": "• **Non-pharm (cornerstone):** **regular exercise**, postural training, physiotherapy, (hydrotherapy), stop smoking\n• **NSAIDs – 1st line**\n• **TNF inhibitors** (infliximab, etanercept, adalimumab) if NSAIDs fail / high disease activity\n• Local steroid injection for selected enthesitis/peripheral joints\n• Surgery: **THR** for severe hip arthritis; **spinal osteotomy** for deformity",
+   "m": "Lecturer pearl: NSAIDs first, TNF-i next; conventional DMARDs (methotrexate) do not help axial disease."
+  },
+  {
+   "t": "AS",
+   "q": "A patient with AS has neck pain after a minor fall but a normal X-ray. What next and why?",
+   "a": "• **CT (± MRI) of the whole cervical spine** – do not discharge on X-ray alone\n• Fused, osteoporotic spine behaves like a **long brittle bone** → **unstable fractures** after trivial trauma (often C5–C7, cervicothoracic junction)\n• Plain films **miss** these fractures; **immobilise in the patient's usual posture** (do not force straight)\n• Risk of **spinal cord injury** / epidural haematoma",
+   "m": "Lecturer pearl: AS + minor trauma + neck pain = fracture until CT says otherwise."
+  },
+  {
+   "t": "AS",
+   "q": "List the orthopaedic complications of AS.",
+   "a": "• **Osteoporosis** and **spinal fractures** (especially cervical)\n• **Hyperkyphosis** and loss of spinal movement\n• **Spinal cord compression**; lumbosacral **nerve root compression** (cauda equina in late disease)\n• **Large-joint arthritis** (hip, shoulder)",
+   "m": "A stiff spine is a fragile spine."
+  },
+  {
+   "t": "AS",
+   "q": "Why is general anaesthesia high-risk in a patient with advanced AS?",
+   "a": "• **Difficult airway:** fixed cervical flexion, TMJ involvement, cannot extend neck\n• Plan **awake fibreoptic intubation**; avoid forcing neck extension (fracture risk)\n• **Spinal/epidural** may be technically impossible (ossified ligaments)\n• Restricted chest expansion and lung fibrosis → post-op respiratory risk; check for **aortic regurgitation**",
+   "m": "Lecturer pearl: AS (and RA) – always warn the anaesthetist about the neck."
+  },
+  {
+   "t": "GOUT",
+   "q": "What is gout and what forms can it take?",
+   "a": "• Disease caused by deposition of **monosodium urate (MSU) crystals** from **persistent hyperuricaemia**\n• Presents as **acute gout flares**, **chronic gouty arthritis**, or **subcutaneous tophi**\n• Extra-articular: **gouty nephropathy (CKD)** and **urolithiasis**",
+   "m": "No hyperuricaemia, no crystals; no crystals, no gout."
+  },
+  {
+   "t": "GOUT",
+   "q": "What level of serum uric acid defines hyperuricaemia, and why is that cut-off chosen?",
+   "a": "• **Serum uric acid > 6.8 mg/dL (408 µmol/L)** (Malaysian CPG Gout 2nd ed.)\n• This is the **saturation point** of urate at body temperature – above it MSU crystals can form\n• But **do not diagnose gout on hyperuricaemia alone** – most hyperuricaemic people never get gout",
+   "m": "6.8 = 408: above it, urate falls out of solution like sugar in cold tea."
+  },
+  {
+   "t": "GOUT",
+   "q": "Who typically develops gout (including Malaysian data)?",
+   "a": "• **Middle-aged and older men**; uncommon in men < 45 years\n• **Rare in premenopausal women** – rises after **menopause** (oestrogen is uricosuric)\n• Malaysia: peak onset **30–60 years**, predominantly male, **Malays** form the majority in hospital studies\n• Non-modifiable: age, male sex, menopause, ethnicity, genetics (**ABCG2**, **HGPRT deficiency**)",
+   "m": "Gout in a young woman or child → look for a genetic/enzyme defect or CKD."
+  },
+  {
+   "t": "GOUT",
+   "q": "Which dietary factors increase and which reduce the risk of gout?",
+   "a": "• **Increase:** **alcohol**, **high-fructose corn syrup** (sugar-sweetened soft drinks), **red meat**, **seafood** (except n-3 PUFA-rich fish), obesity\n• **Reduce:** **dairy products**\n• Other associated conditions: CKD, hypertension, psoriasis, haematological malignancy",
+   "m": "Beer, burgers, prawns and fizzy drinks up; milk down."
+  },
+  {
+   "t": "GOUT",
+   "q": "Which drugs raise and which lower the risk of gout?",
+   "a": "• **Raise:** **diuretics** (thiazide, loop), **ACE inhibitors**, **non-losartan ARBs**, **beta-blockers**, **cyclosporine** (also low-dose aspirin – lecturer pearl)\n• **Lower:** **losartan** (uricosuric), **calcium channel blockers**\n• Management: **stop or replace** culprit drugs where possible",
+   "m": "Hypertensive with gout → switch the thiazide to losartan or amlodipine."
+  },
+  {
+   "t": "GOUT",
+   "q": "What are the four stages in the natural history of gout?",
+   "a": "• **1.** Asymptomatic hyperuricaemia (no crystals)\n• **2.** Asymptomatic **MSU crystal deposition**\n• **3.** **Recurrent flares** with **intercritical gout** (symptom-free intervals, crystals persist)\n• **4.** **Chronic gouty arthritis** / tophaceous / erosive gout",
+   "m": "Hyperuricaemia → silent crystals → flares → chronic tophi."
+  },
+  {
+   "t": "GOUT",
+   "q": "Describe a typical acute gout flare.",
+   "a": "• Sudden severe pain, **maximal within 24 hours**, resolves spontaneously in **1–2 weeks**\n• Most common site: **1st MTP joint (podagra)**, then midfoot and ankle\n• Red, hot, swollen, **exquisitely tender**; **desquamation** of overlying skin; may have **fever**\n• Periarticular involvement (bursa, tendon) can mimic **cellulitis / septic arthritis**",
+   "m": "Woken at night, cannot bear the bedsheet on the big toe."
+  },
+  {
+   "t": "GOUT",
+   "q": "Where are tophi commonly found?",
+   "a": "• **MTP joints**\n• **Achilles** and **peroneal** tendons\n• **Helix of the ear**\n• **Olecranon bursa**\n• **Finger pads**\n• Chalky white deposits; may ulcerate and discharge",
+   "m": "Cool parts of the body (ear, toes, fingers) – urate crystallises where it is coldest."
+  },
+  {
+   "t": "GOUT",
+   "q": "What is the gold standard for diagnosing gout?",
+   "a": "• Demonstration of **MSU crystals** in **synovial fluid or tophus aspirate**\n• Crystals are **needle-shaped** and **strongly negatively birefringent** under polarised light microscopy\n• **100% specificity** for gout\n• Always send fluid for **Gram stain and culture** too – infection can coexist",
+   "m": "Lecturer pearl: Gout = Negative Needles (N-N); Pseudogout = Positive Polygons/rhomboids (P-P)."
+  },
+  {
+   "t": "GOUT",
+   "q": "A patient with a classic gout flare has a normal serum uric acid. How should this be interpreted?",
+   "a": "• A **normal uric acid during a flare does not exclude gout** – urate often falls during acute inflammation\n• **Repeat serum uric acid ≥ 2 weeks after the flare has fully resolved** if suspicion remains\n• Conversely, hyperuricaemia alone **does not prove gout**\n• Best: **aspirate the joint** for crystals",
+   "m": "Lecturer pearl: uric acid is an unreliable witness during the flare."
+  },
+  {
+   "t": "GOUT",
+   "q": "What are the X-ray features of established (chronic) gout?",
+   "a": "• **Punched-out bone erosions with overhanging edges and a sclerotic rim** ('rat-bite')\n• **Bone proliferation**\n• **Joint space narrowing** (relatively **preserved until late**)\n• **Soft-tissue masses (tophi)**, which may be calcified\n• No periarticular osteopenia (unlike RA)",
+   "m": "Overhanging edge = the tophus pushing bone outward as it grows."
+  },
+  {
+   "t": "GOUT",
+   "q": "What roles do ultrasound and dual-energy CT play in gout?",
+   "a": "• **MSK ultrasound:** helpful when presentation is **atypical** and crystal microscopy is **not feasible** – lecturer pearl: **double contour sign** (urate coating cartilage), tophi\n• **Dual-energy CT (DECT):** detects MSU deposits; **sensitivity 88%, specificity 90%**\n• DECT **not routinely used in Malaysia** – not widely available",
+   "m": "Ultrasound is the bedside crystal-hunter when you cannot get a needle in."
+  },
+  {
+   "t": "GOUT",
+   "q": "How is an acute gout flare treated?",
+   "a": "• **Colchicine**, **NSAIDs**, or **corticosteroids** (oral, IM, or intra-articular) – start early\n• Choose by comorbidity: **CKD / peptic ulcer / anticoagulation → corticosteroid**; reduce/avoid colchicine in severe CKD\n• Rest, elevate, **topical ice**\n• **Do not stop** existing urate-lowering therapy during a flare",
+   "m": "Flare drugs put out the fire; ULT removes the fuel – never stop the ULT in a fire."
+  },
+  {
+   "t": "GOUT",
+   "q": "Name the classes of urate-lowering therapy (ULT) and the first-line agent.",
+   "a": "• **Xanthine oxidase inhibitors:** **allopurinol (first line)**, febuxostat – block urate production\n• **Uricosurics:** benzbromarone, probenecid – increase renal excretion (avoid with stones / poor renal function)\n• **Recombinant uricase:** pegloticase – refractory tophaceous gout\n• Lecturer pearl: allopurinol hypersensitivity (SJS/DRESS) linked to **HLA-B*58:01**; avoid with **azathioprine**",
+   "m": "Allopurinol stops urate being made; probenecid flushes it out; pegloticase dissolves it."
+  },
+  {
+   "t": "GOUT",
+   "q": "What are the key rules when starting urate-lowering therapy?",
+   "a": "• **Start low, go slow** (e.g. allopurinol 50–100 mg daily, titrate to target) – dose by renal function\n• Give **flare prophylaxis** (low-dose colchicine or NSAID) for the first months\n• **Treat to target** serum urate (lecturer pearl: < 6 mg/dL / 360 µmol/L; lower if tophi)\n• **Do not stop ULT during a flare**; lifelong in most\n• Asymptomatic hyperuricaemia alone: lifestyle advice, generally no ULT",
+   "m": "Rapid urate falls dissolve crystal surfaces and trigger flares – hence slow titration plus prophylaxis."
+  },
+  {
+   "t": "GOUT",
+   "q": "What are the non-pharmacological and surgical options in gout?",
+   "a": "• **Health education**, weight loss, **lifestyle modification** (cut alcohol, sugary drinks, red meat, seafood)\n• **Topical ice** for flares\n• **Stop or replace** gout-provoking medications (e.g. thiazide → losartan)\n• **Surgery:** removal of tophi (ulcerating, infected, nerve compression), **joint fusion**, **joint replacement** for destroyed joints",
+   "m": "Surgery for tophi is for complications – medicine dissolves them."
+  },
+  {
+   "t": "CPPD",
+   "q": "What is pseudogout (CPPD) and who gets it?",
+   "a": "• Inflammatory arthritis from **intra-articular calcium pyrophosphate dihydrate (CPPD)** crystal deposition\n• Attacks of joint pain, stiffness and swelling\n• Typically the **elderly**; rare in the young unless an **associated disease** is present",
+   "m": "Gout = middle-aged man's toe; pseudogout = elderly person's knee."
+  },
+  {
+   "t": "CPPD",
+   "q": "Which joints are most commonly affected by pseudogout?",
+   "a": "• **Knee – most common**\n• **Wrist – second most common**\n• Usually acute **monoarticular**, warm, erythematous, tender\n• Can mimic septic arthritis",
+   "m": "Knee first, wrist second – the opposite end of the body from gout's big toe."
+  },
+  {
+   "t": "CPPD",
+   "q": "How do CPPD crystals differ from gout crystals under polarised light?",
+   "a": "• **CPPD:** **rhomboid**-shaped, **weakly positively** birefringent\n• **MSU (gout):** **needle**-shaped, **strongly negatively** birefringent",
+   "m": "Lecturer pearl: P for Pseudogout, Positive, Polygon (rhomboid)."
+  },
+  {
+   "t": "CPPD",
+   "q": "What is chondrocalcinosis and where is it best seen on X-ray?",
+   "a": "• **Calcification of fibrocartilage** (and hyaline cartilage) due to CPPD deposition\n• Classic sites: **knee menisci**, **triangular fibrocartilage of the wrist**, symphysis pubis\n• Supports CPPD but can be seen in asymptomatic elderly",
+   "m": "Thin white line inside the knee joint = chalk in the cartilage."
+  },
+  {
+   "t": "CPPD",
+   "q": "Which conditions are associated with CPPD, especially in a younger patient?",
+   "a": "• **Haemochromatosis**\n• **Hyperparathyroidism**\n• **Hypomagnesaemia**, **hypophosphatasia**\n• **Wilson's disease**\n• **Long-term dialysis**",
+   "m": "Lecturer pearl: 3 H's + 2 more – Haemochromatosis, Hyperparathyroidism, Hypomagnesaemia, Hypophosphatasia, + Wilson. CPPD under 55 → screen ferritin, calcium, Mg, PO4."
+  },
+  {
+   "t": "CPPD",
+   "q": "How is acute pseudogout treated?",
+   "a": "• **Rest and splinting**\n• **NSAIDs** or **colchicine**\n• **Joint aspiration ± intra-articular corticosteroid** (after excluding infection) – aspiration itself relieves pain\n• No urate-lowering drug has a role (crystals are not urate)",
+   "m": "Drain it, inject it, rest it."
+  },
+  {
+   "t": "CPPD",
+   "q": "How is chronic or recurrent pseudogout managed?",
+   "a": "• **Low-dose colchicine** (e.g. 0.6 mg BD) for recurrent attacks / prophylaxis\n• **NSAIDs** as needed\n• **Intra-articular corticosteroids** for persistent mono-/oligoarthritis\n• **Treat associated metabolic disorders** (e.g. haemochromatosis, hyperparathyroidism)",
+   "m": "There is no 'allopurinol for pseudogout' – prevent attacks and fix the underlying metabolism."
+  },
+  {
+   "t": "PSA",
+   "q": "What is psoriatic arthritis (PsA)?",
+   "a": "• Chronic progressive **autoimmune inflammatory** arthritis associated with **psoriasis**\n• **Seronegative** (RF and anti-CCP negative) **spondyloarthritis**\n• Erosive (sometimes destructive) polysynovitis, **enthesitis**, **dactylitis**, axial involvement\n• Frequently accompanied by **nail and skin** changes; arthritis can precede the rash",
+   "m": "Check the scalp, umbilicus, natal cleft and nails – psoriasis hides."
+  },
+  {
+   "t": "PSA",
+   "q": "What are the clinical patterns of psoriatic arthritis?",
+   "a": "• **DIP-predominant** arthritis (with nail disease)\n• **Asymmetrical oligoarthritis** (most common)\n• **Symmetrical polyarthritis** (RA-like but seronegative)\n• **Spondylitis / sacroiliitis** (axial)\n• **Arthritis mutilans** (severe, destructive)",
+   "m": "Lecturer pearl: Moll and Wright's 5 patterns – DIP, Oligo, Poly, Spine, Mutilans."
+  },
+  {
+   "t": "PSA",
+   "q": "What are dactylitis and enthesitis, and why do they point to PsA rather than RA?",
+   "a": "• **Dactylitis:** diffuse swelling of a whole finger/toe – **'sausage digit'** (joints + tendon sheaths)\n• **Enthesitis:** pain/tenderness at tendon insertions – commonly **Achilles tendon**, plantar fascia\n• Both are hallmarks of **spondyloarthritis** (PsA, AS); unusual in RA",
+   "m": "RA swells joints; PsA swells the whole digit."
+  },
+  {
+   "t": "PSA",
+   "q": "Which nail changes are seen in PsA, and what is their significance?",
+   "a": "• **Nail pitting**, **onycholysis** (nail lifting), subungual hyperkeratosis, ridging\n• Strongly linked to **DIP joint** involvement (nail bed and DIP share the extensor enthesis)\n• Nail disease in a psoriasis patient = higher risk of PsA",
+   "m": "Pitted nail above a swollen DIP = PsA."
+  },
+  {
+   "t": "PSA",
+   "q": "What are the X-ray features of PsA and how do they differ from RA?",
+   "a": "• **'Pencil-in-cup'** deformity (DIP/IPJ)\n• **Erosions with new bone formation** (periostitis, fluffy enthesis bone)\n• Asymmetrical, **DIP** involvement; possible acro-osteolysis\n• **No periarticular osteopenia** (bone density preserved)\n• RA: symmetrical proximal joints, **periarticular osteopenia**, marginal erosions **without** new bone",
+   "m": "PsA both eats AND makes bone; RA only eats it."
+  },
+  {
+   "t": "PSA",
+   "q": "What do laboratory tests show in PsA?",
+   "a": "• **RF and anti-CCP negative** (seronegative)\n• ESR/CRP may be raised\n• **HLA-B27 positive** in those with sacroiliitis / axial disease\n• No specific diagnostic test – labs mainly **exclude RA**; MRI detects early synovitis and enthesitis",
+   "m": "Diagnosis is clinical: psoriasis + seronegative inflammatory arthritis."
+  },
+  {
+   "t": "PSA",
+   "q": "What is arthritis mutilans?",
+   "a": "• Most severe, destructive form of PsA\n• **Erosion and osteolysis** of interphalangeal joints/phalanges → **instability**\n• Shortened digits that can be pulled out and pushed in = **telescoping ('opera-glass') fingers/toes**",
+   "m": "Fingers that collapse like a telescope."
+  },
+  {
+   "t": "PSA",
+   "q": "How is psoriatic arthritis managed?",
+   "a": "• Non-pharm: exercise, stress management, heat/cold therapy\n• **NSAIDs** for symptoms; **topical corticosteroids** for skin and nails\n• **csDMARD:** **methotrexate** (treats skin + peripheral joints)\n• **Biologics:** **TNF inhibitors** (adalimumab, etanercept, infliximab) or **IL-12/23 inhibitor (ustekinumab)**, IL-17 inhibitors\n• Note: slide says 'TNF inhibitors eg: IL 12/23 inhibitors' – IL-12/23 blockers are a **separate class**, not TNF inhibitors",
+   "m": "Ustekinumab blocks the shared p40 subunit of IL-12 and IL-23 – a different target from TNF."
+  },
+  {
+   "t": "TBA",
+   "q": "What is tuberculous arthritis and how does it reach the joint?",
+   "a": "• **Extrapulmonary TB** of a joint caused by **Mycobacterium tuberculosis**\n• **Chronic, insidious monoarticular** arthritis\n• **Haematogenous spread** from a primary focus (lung, lymph nodes, viscera)",
+   "m": "Chronic single swollen joint in Malaysia → think TB."
+  },
+  {
+   "t": "TBA",
+   "q": "Which sites are most often affected by skeletal TB?",
+   "a": "• **Spine (Pott's disease)** – commonest skeletal site overall\n• **Weight-bearing joints:** **hip** and **knee** – commonest peripheral joints\n• Then foot/ankle, shoulder, elbow, wrist",
+   "m": "Spine first, then the big weight-bearing joints."
+  },
+  {
+   "t": "TBA",
+   "q": "Which factors predispose to or reactivate TB arthritis?",
+   "a": "• **Joint/bone trauma**\n• **Pre-existing joint disease:** RA, OA, SLE, gout\n• Lecturer pearl: immunosuppression – HIV, diabetes, steroids, **anti-TNF biologics**, CKD, malnutrition, TB contact",
+   "m": "A damaged or immunosuppressed joint is where dormant TB wakes up."
+  },
+  {
+   "t": "TBA",
+   "q": "What are the clinical features of TB arthritis?",
+   "a": "• **Insidious low-grade pain**, swelling, warmth, effusion, tenderness\n• **Muscle spasm** → early **flexion contracture**, restricted movement, muscle wasting\n• Systemic: **low-grade evening fever**, **night sweats**, **weight loss** over weeks–months\n• Late: **cold periarticular abscess**, **draining sinuses**, deformity, subluxation\n• Skin: **erythema nodosum** (septal panniculitis), **erythema induratum** (lobular, with vasculitis)",
+   "m": "Slow, cold and wasting – unlike the hot, fast, septic joint."
+  },
+  {
+   "t": "TBA",
+   "q": "Why is the joint space preserved early in TB arthritis but lost early in pyogenic arthritis?",
+   "a": "• TB granulation tissue (**pannus**) invades **peripheral, non-weight-bearing margins** first\n• Mycobacteria lack the **proteolytic enzymes** that pyogenic organisms/neutrophils release\n• So cartilage is **preserved early** → **gradual** narrowing\n• Pyogenic: enzymes destroy cartilage within days → **rapid** joint space loss",
+   "m": "Pyogenic eats cartilage in days; TB nibbles the edges over months."
+  },
+  {
+   "t": "TBA",
+   "q": "What is the Phemister triad?",
+   "a": "• X-ray triad of **TB arthritis**:\n• **1. Juxta-articular (periarticular) osteopenia**\n• **2. Peripheral (marginal) osseous erosions**\n• **3. Gradual joint space narrowing**\n• Other: cysts, pathological fracture, periarticular calcification, periostitis",
+   "m": "Lecturer pearl: Phemister = Porous bone, Peripheral erosions, Progressive (slow) narrowing."
+  },
+  {
+   "t": "TBA",
+   "q": "What does the synovial fluid look like in TB arthritis?",
+   "a": "• **Non-haemorrhagic, turbid, xanthochromic**\n• **Moderately elevated WCC** (often polymorphonuclear predominant)\n• **Low glucose**\n• Send for **AFB smear**, **mycobacterial culture**, **MTB PCR** (GeneXpert) – smear often negative",
+   "m": "Fluid looks 'septic-lite' – moderate cells, low sugar, smear frequently negative."
+  },
+  {
+   "t": "TBA",
+   "q": "What investigation gives the highest diagnostic yield in TB arthritis?",
+   "a": "• **Synovial biopsy** (open or arthroscopic) for **histology + culture**\n• Histology: **epithelioid granulomas with central caseating necrosis**\n• Culture gives drug sensitivities; PCR speeds diagnosis\n• ESR/CRP raised but non-specific; CXR may show pulmonary TB",
+   "m": "Lecturer pearl: when the fluid is negative, take the tissue."
+  },
+  {
+   "t": "TBA",
+   "q": "What is the role of the interferon-gamma release assay (IGRA) in suspected TB arthritis?",
+   "a": "• Sensitive and specific for **TB infection (latent)**\n• **Cannot distinguish latent from active** disease – a positive result does not prove TB arthritis\n• A negative result does not fully exclude it\n• Diagnosis rests on **tissue/fluid microbiology and histology**",
+   "m": "IGRA says 'you have met TB', not 'TB is in this knee'."
+  },
+  {
+   "t": "TBA",
+   "q": "What is the drug regimen for bone and joint TB (per the slides)?",
+   "a": "• **Intensive phase (2 months): 2EHRZ** – ethambutol, isoniazid, rifampicin, pyrazinamide\n• **Maintenance phase (4–7 months): 4–7HR** – isoniazid + rifampicin\n• Total **6–9 months**\n• Lecturer pearl: add **pyridoxine** with isoniazid; monitor LFTs, visual acuity (ethambutol)",
+   "m": "2 months of four drugs, then two drugs to finish."
+  },
+  {
+   "t": "TBA",
+   "q": "How does a TB joint heal, and when is surgery indicated?",
+   "a": "• Supportive: immobilisation/rest in the acute phase, then **early active mobilisation** with weight bearing\n• Healed advanced disease → **fibrous ankylosis** (stiff, may remain painful)\n• **Surgical indications:** severe cartilage damage, deformity, **abscess**, **drug resistance / atypical mycobacteria**, no response to ATT\n• Procedures: debridement, arthrotomy, **synovectomy**, osteotomy, **arthrodesis / joint replacement** (once disease quiescent)",
+   "m": "Pyogenic heals with bony ankylosis more often; TB typically with fibrous ankylosis."
+  }
+ ],
+ "mcq": [
+  {
+   "t": "OA",
+   "stem": "A 58-year-old woman has a 3-year history of aching hands that are worse after housework. She has 15 minutes of stiffness on waking. Examination shows hard, bony swellings at several distal and proximal interphalangeal joints and squaring at the base of both thumbs. MCP joints and wrists are normal. ESR and CRP are normal; rheumatoid factor is negative.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Psoriatic arthritis, DIP-predominant",
+    "Calcium pyrophosphate arthropathy",
+    "Chronic tophaceous gout of the hands",
+    "Seronegative rheumatoid arthritis",
+    "Primary nodal osteoarthritis"
+   ],
+   "a": 4,
+   "e": "Hard bony swellings at DIPs (Heberden's) and PIPs (Bouchard's) with 1st CMC squaring, short stiffness and normal inflammatory markers is classic primary nodal OA. RA spares DIPs and favours MCPs/wrists with long morning stiffness. The thumb-base joint involved in OA is the 1st CMC (the slide's '1st MCP' is a slip).",
+   "w": [
+    "Wrong - PsA can hit DIPs but there is no psoriasis, nail change or dactylitis, and nodes are bony rather than inflammatory.",
+    "Wrong - CPPD arthropathy favours wrists and MCPs (2nd/3rd) with chondrocalcinosis, not Heberden/Bouchard nodes.",
+    "Wrong - tophi are chalky soft-tissue swellings, usually with a history of acute flares; not symmetrical bony nodes with thumb-base squaring.",
+    "Wrong - RA spares DIPs, involves MCPs/wrists symmetrically and has prolonged morning stiffness with raised inflammatory markers.",
+    "Correct - DIP + PIP + 1st CMC, stiffness < 30 min and normal ESR/CRP is the nodal OA pattern."
+   ]
+  },
+  {
+   "t": "OA",
+   "stem": "A 66-year-old man has right knee pain on walking. A standing AP radiograph shows definite osteophytes at the medial tibial plateau. The medial joint space may be slightly narrowed compared with the lateral side. There is no subchondral sclerosis and no deformity.\nWhat is the Kellgren-Lawrence grade?",
+   "o": [
+    "Grade 2 – mild OA",
+    "Grade 1 – doubtful OA",
+    "Grade 4 – severe OA",
+    "Grade 0 – no features",
+    "Grade 3 – moderate OA"
+   ],
+   "a": 0,
+   "e": "Kellgren-Lawrence grade 2 is defined by definite osteophytes with only possible joint space narrowing. Grade 1 has only doubtful narrowing and possible osteophytic lipping; grade 3 requires definite narrowing with moderate multiple osteophytes and some sclerosis; grade 4 has marked narrowing, large osteophytes, severe sclerosis and definite deformity.",
+   "w": [
+    "Correct - definite osteophytes + possible narrowing = grade 2.",
+    "Wrong - grade 1 has only possible osteophytic lipping, not definite osteophytes.",
+    "Wrong - grade 4 has marked narrowing, severe sclerosis and definite bone-end deformity.",
+    "Wrong - grade 0 means no radiographic features of OA at all.",
+    "Wrong - grade 3 needs definite narrowing, multiple osteophytes and some sclerosis."
+   ]
+  },
+  {
+   "t": "OA",
+   "stem": "A 61-year-old woman with BMI 31 kg/m² has had medial knee pain for 2 years, worse on stairs, with crepitus and mild varus. A supine AP knee radiograph taken in the emergency department reports 'joint spaces preserved, small osteophytes'.\nWhat is the most appropriate next imaging to stage her disease?",
+   "o": [
+    "MRI of the knee with gadolinium",
+    "Repeat supine radiographs in 12 months",
+    "CT scan of the knee with 3D reconstruction",
+    "Standing AP and lateral knee radiographs",
+    "Triple-phase radionuclide bone scan"
+   ],
+   "a": 3,
+   "e": "Weight-bearing (standing) films load the cartilage and reveal true joint space narrowing and alignment; supine films under-estimate narrowing. OA is a clinical plus plain-radiograph diagnosis, so MRI, CT and bone scan add cost without changing management at this stage.",
+   "w": [
+    "Wrong - MRI is not needed to diagnose or stage typical OA; reserved for suspected meniscal, ligament or bone marrow pathology.",
+    "Wrong - repeating unloaded supine films will keep under-estimating the narrowing.",
+    "Wrong - CT is not used routinely for OA staging and gives radiation without adding load-bearing information.",
+    "Correct - standing films show real joint space loss and varus alignment, allowing Kellgren-Lawrence grading.",
+    "Wrong - bone scan is non-specific and not part of routine OA work-up."
+   ]
+  },
+  {
+   "t": "OA",
+   "stem": "A 55-year-old female teacher has bilateral knee pain for 1 year. BMI is 32 kg/m². She has crepitus and joint-line tenderness but full range of movement. Standing radiographs show Kellgren-Lawrence grade 2 changes. She takes no regular medication.\nWhat is the most appropriate initial management?",
+   "o": [
+    "Long-term oral tramadol",
+    "Weight loss and quadriceps exercise",
+    "Intra-articular hyaluronan injections",
+    "Arthroscopic lavage and debridement",
+    "Unicondylar knee replacement"
+   ],
+   "a": 1,
+   "e": "Education, weight loss and exercise therapy (especially quadriceps strengthening) are core first-line treatment for all OA patients in the Malaysian CPG. Injections, opioids and surgery are add-ons for persisting symptoms or advanced disease. Arthroscopic lavage has no role without mechanical symptoms.",
+   "w": [
+    "Wrong - weak opioids are a later step with dependence and fall risk; not initial therapy.",
+    "Correct - core non-pharmacological care is first line and modifies the strongest modifiable risk factor (BMI > 25).",
+    "Wrong - viscosupplementation is an option only after core measures and simple analgesia fail.",
+    "Wrong - arthroscopic washout does not improve OA pain or function without true mechanical locking.",
+    "Wrong - joint replacement is for end-stage disease with failed conservative care, not mild KL 2 OA."
+   ]
+  },
+  {
+   "t": "OA",
+   "stem": "A 46-year-old male rubber tapper has right knee pain limiting work despite 9 months of physiotherapy, weight loss and NSAIDs. He has 8° varus, a stable knee and 0–130° motion. Standing radiographs show medial compartment narrowing with osteophytes; the lateral and patellofemoral compartments are normal.\nWhat is the most appropriate surgical option?",
+   "o": [
+    "Patellofemoral arthroplasty",
+    "Total knee replacement",
+    "High tibial osteotomy",
+    "Arthroscopic debridement",
+    "Knee arthrodesis"
+   ],
+   "a": 2,
+   "e": "A young, active, heavy-demand patient with isolated medial compartment OA and varus malalignment is the classic indication for a valgus high tibial osteotomy. It shifts load to the healthy lateral compartment and preserves the native knee, delaying arthroplasty. TKR in a 46-year-old labourer risks early wear and revision.",
+   "w": [
+    "Wrong - the patellofemoral joint is normal; the disease is medial tibiofemoral.",
+    "Wrong - TKR is reserved for end-stage (often tricompartmental) disease; in a young labourer it risks early failure.",
+    "Correct - realigns the limb, unloads the worn medial side and preserves the joint in a young active patient.",
+    "Wrong - debridement does not correct malalignment or relieve OA pain without mechanical symptoms.",
+    "Wrong - arthrodesis sacrifices all knee motion and is a salvage procedure."
+   ]
+  },
+  {
+   "t": "OA",
+   "stem": "A 74-year-old woman has severe bilateral knee pain that wakes her at night. She walks less than 100 m with a stick despite paracetamol, topical NSAIDs, physiotherapy and two steroid injections. Standing radiographs show marked joint space loss in all three compartments, large osteophytes, severe sclerosis and varus deformity.\nWhat is the most appropriate management?",
+   "o": [
+    "Arthroscopic lavage",
+    "Unicondylar knee replacement",
+    "Total knee replacement",
+    "Further intra-articular steroid",
+    "High tibial osteotomy"
+   ],
+   "a": 2,
+   "e": "This is end-stage (Kellgren-Lawrence grade 4) tricompartmental OA with rest/night pain and severe functional limitation after adequate conservative care: the indication for total knee replacement. Osteotomy and unicompartmental replacement need a preserved, healthy compartment.",
+   "w": [
+    "Wrong - lavage has no benefit in established OA without mechanical symptoms.",
+    "Wrong - UKR needs disease confined to one compartment.",
+    "Correct - end-stage tricompartmental disease with failed conservative care is treated by TKR.",
+    "Wrong - repeated injections give diminishing short-term relief and do not address end-stage disease.",
+    "Wrong - HTO requires isolated medial disease in a younger active patient."
+   ]
+  },
+  {
+   "t": "OA",
+   "stem": "A 68-year-old man complains of left knee pain for 6 months when walking. The left knee has full painless movement, no effusion and no joint-line tenderness. Passive internal rotation of the left hip in flexion is reduced and reproduces his pain.\nWhat is the most appropriate next investigation?",
+   "o": [
+    "MRI of the left knee",
+    "MRI of the lumbar spine",
+    "Diagnostic knee arthroscopy",
+    "Plain hip radiographs",
+    "Aspiration of the left knee"
+   ],
+   "a": 3,
+   "e": "Hip OA pain can be referred to the knee (obturator/femoral nerve), sometimes felt only in the knee. Loss of internal rotation is the earliest hip sign. A normal knee examination with a painful stiff hip directs imaging to the hip, and plain radiographs are first line.",
+   "w": [
+    "Wrong - the knee examination is normal; imaging the knee misses referred hip pain.",
+    "Wrong - lumbar radicular pain does not cause painful restricted hip rotation.",
+    "Wrong - an invasive knee procedure is not indicated with a normal knee examination.",
+    "Correct - the knee is normal and hip internal rotation is painful and restricted: image the hip.",
+    "Wrong - there is no effusion to aspirate and no sign of knee pathology."
+   ]
+  },
+  {
+   "t": "OA",
+   "stem": "A 70-year-old woman has a 3-year history of left knee pain worse after walking. Today the knee has a moderate cool effusion. Aspiration yields clear, straw-coloured, highly viscous fluid: WCC 700/µL, no crystals on polarised microscopy, Gram stain negative. Radiograph: osteophytes, subchondral sclerosis and medial narrowing; no linear meniscal calcification.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Septic arthritis",
+    "Osteoarthritis",
+    "Pseudogout (CPPD)",
+    "Tuberculous arthritis",
+    "Rheumatoid arthritis"
+   ],
+   "a": 1,
+   "e": "Non-inflammatory synovial fluid (clear, viscous, WCC < 2000/µL, no crystals) plus LOSS changes on X-ray indicates OA. Crystal and inflammatory arthritides give cloudy, low-viscosity fluid with high WCC. Septic and TB fluid is turbid with high cells and low glucose.",
+   "w": [
+    "Wrong - septic fluid is purulent with WCC usually > 50,000/µL and the joint is hot.",
+    "Correct - non-inflammatory fluid and osteophytes/sclerosis = OA.",
+    "Wrong - CPPD would show rhomboid crystals, inflammatory fluid and often chondrocalcinosis.",
+    "Wrong - TB fluid is turbid with raised cells and low glucose, with juxta-articular osteopenia on X-ray.",
+    "Wrong - RA fluid is inflammatory (WCC 2000–50,000/µL) and X-ray shows osteopenia and erosions, not osteophytes."
+   ]
+  },
+  {
+   "t": "OA",
+   "stem": "A 76-year-old man with knee OA asks for stronger painkillers. He has CKD stage 4 (eGFR 22 mL/min/1.73 m²), had a bleeding duodenal ulcer last year and takes aspirin after a coronary stent.\nWhich analgesic option should be AVOIDED?",
+   "o": [
+    "Topical methylsalicylate",
+    "Topical capsaicin cream",
+    "Intra-articular corticosteroid",
+    "Regular paracetamol",
+    "Oral diclofenac sodium"
+   ],
+   "a": 4,
+   "e": "Oral NSAIDs worsen renal function, raise GI bleeding risk (especially with aspirin and prior ulcer) and increase cardiovascular events, so they are contraindicated here. Paracetamol, topical agents and intra-articular steroid are safer options listed in the Malaysian OA CPG.",
+   "w": [
+    "Wrong - topical rubefacient with minimal systemic effect; acceptable adjunct.",
+    "Wrong - topical capsaicin has negligible systemic absorption.",
+    "Wrong - IA steroid gives local relief without renal or GI toxicity.",
+    "Wrong - paracetamol is a safe first-line oral analgesic in CKD at standard doses.",
+    "Correct - oral NSAID with CKD 4, previous bleeding ulcer, aspirin and coronary disease is unsafe."
+   ]
+  },
+  {
+   "t": "AVN",
+   "stem": "A 32-year-old woman with SLE has taken prednisolone 30 mg daily for 4 months. She now has 6 weeks of right groin pain on weight-bearing. Hip internal rotation is painful and limited. AP and lateral hip radiographs are normal.\nWhat is the most appropriate next investigation?",
+   "o": [
+    "MRI scan of both hip joints",
+    "Ultrasound of the right hip",
+    "CT of the right hip",
+    "Serum anti-dsDNA titre",
+    "Repeat radiographs in 6 months"
+   ],
+   "a": 0,
+   "e": "Early AVN (Ficat I) is invisible on plain films. MRI is the gold standard, detecting marrow changes (double-line sign) at the earliest stage, and both hips should be imaged because steroid-induced AVN is frequently bilateral. Early detection matters because head-preserving surgery works only before collapse.",
+   "w": [
+    "Correct - MRI is most sensitive for pre-radiographic AVN, and imaging both hips detects silent contralateral disease.",
+    "Wrong - ultrasound cannot assess femoral head marrow.",
+    "Wrong - CT shows sclerosis and collapse but misses early marrow ischaemia.",
+    "Wrong - serology assesses lupus activity but does not diagnose the hip lesion.",
+    "Wrong - waiting risks progression to collapse when core decompression is no longer useful."
+   ]
+  },
+  {
+   "t": "AVN",
+   "stem": "A 45-year-old man who drinks heavily has left groin pain. Radiographs show a subchondral radiolucent line beneath the superolateral femoral head with slight flattening. The joint space and acetabulum appear normal.\nWhat is the Ficat-Arlet stage?",
+   "o": [
+    "Stage IV",
+    "Stage I",
+    "Stage II",
+    "Stage III",
+    "Stage 0 (silent hip)"
+   ],
+   "a": 3,
+   "e": "The crescent sign is a subchondral fracture marking the onset of collapse: Ficat-Arlet III. Stage II shows sclerosis/cysts with a round head, and stage IV adds joint space narrowing and acetabular changes (secondary OA). Stage I has normal radiographs with a positive MRI.",
+   "w": [
+    "Wrong - stage IV requires joint space narrowing and acetabular involvement.",
+    "Wrong - stage I has normal radiographs (MRI positive only).",
+    "Wrong - stage II has sclerosis/cysts but the head is still spherical, with no crescent.",
+    "Correct - crescent sign with head flattening and a preserved joint space = stage III.",
+    "Wrong - stage 0 (in modified schemes) is an asymptomatic patient with normal imaging."
+   ]
+  },
+  {
+   "t": "AVN",
+   "stem": "A 29-year-old man on long-term steroids for nephrotic syndrome has right groin pain. Radiographs show patchy sclerosis and small cysts in a femoral head that remains spherical. MRI shows a double-line sign. There is no crescent sign.\nWhat is the most appropriate treatment?",
+   "o": [
+    "Observation with unrestricted activity",
+    "Hip arthrodesis",
+    "Core decompression of the femoral head",
+    "Bipolar hemiarthroplasty",
+    "Total hip replacement"
+   ],
+   "a": 2,
+   "e": "This is Ficat II, pre-collapse AVN. Core decompression relieves raised intraosseous pressure, reduces pain and may halt progression, ± vascularised fibular graft, with protected weight-bearing and treating the cause. Arthroplasty is reserved for collapse with arthritis.",
+   "w": [
+    "Wrong - unrestricted loading accelerates collapse; at least protected weight-bearing is needed.",
+    "Wrong - fusion is a rare salvage procedure and sacrifices motion in a young man.",
+    "Correct - pre-collapse (stage I–II) disease is treated with head-preserving core decompression.",
+    "Wrong - hemiarthroplasty is not used for pre-collapse AVN.",
+    "Wrong - THR is for post-collapse disease with secondary arthritis; premature in a round head."
+   ]
+  },
+  {
+   "t": "AVN",
+   "stem": "A 54-year-old man with a 10-year history of heavy alcohol use has severe right hip pain, a limp and fixed flexion. Radiographs show a collapsed, flattened femoral head with marked joint space narrowing and acetabular sclerosis and osteophytes.\nWhat is the most appropriate definitive treatment?",
+   "o": [
+    "Total hip replacement",
+    "Core decompression",
+    "Vascularised fibular graft",
+    "Protected weight-bearing",
+    "Bisphosphonate therapy"
+   ],
+   "a": 0,
+   "e": "Collapse plus joint space narrowing and acetabular changes is Ficat IV, end-stage AVN with secondary OA. Both surfaces are damaged, so total hip replacement (femoral head and acetabulum) is indicated. Head-preserving measures only work before collapse.",
+   "w": [
+    "Correct - stage IV disease with acetabular involvement needs replacement of both surfaces.",
+    "Wrong - decompression only helps pre-collapse disease.",
+    "Wrong - grafting cannot restore a collapsed head with acetabular arthritis.",
+    "Wrong - protected weight-bearing will not relieve pain from established secondary OA.",
+    "Wrong - bisphosphonates are considered only for pre-collapse lesions."
+   ]
+  },
+  {
+   "t": "AVN",
+   "stem": "A 40-year-old commercial diver has had aching in both shoulders and hips for 1 year. He has had episodes of joint pain after rapid ascents. MRI shows bilateral humeral and femoral head osteonecrosis.\nWhat is the main mechanism of his bone necrosis?",
+   "o": [
+    "Steroid-induced marrow fat swelling",
+    "Nitrogen gas emboli in end-arteries",
+    "Sickled red cells sludging in marrow",
+    "Traumatic tearing of retinacular vessels",
+    "Glucocerebroside-laden marrow cells"
+   ],
+   "a": 1,
+   "e": "Caisson disease (dysbaric osteonecrosis): during rapid decompression, dissolved nitrogen forms gas bubbles that occlude intraosseous end-arteries, especially in femoral and humeral heads. It is the 'C' of the ASEPTIC mnemonic. The other options are mechanisms of other risk factors.",
+   "w": [
+    "Wrong - marrow fat swelling with raised intraosseous pressure is the steroid/alcohol mechanism.",
+    "Correct - decompression sickness releases nitrogen bubbles that block intraosseous vessels.",
+    "Wrong - vaso-occlusion by sickled cells is the sickle cell mechanism.",
+    "Wrong - retinacular vessel disruption follows femoral neck fracture or dislocation.",
+    "Wrong - Gaucher cells packing the marrow cause AVN in Gaucher disease."
+   ]
+  },
+  {
+   "t": "AVN",
+   "stem": "A 19-year-old man has bone pain, easy bruising and abdominal fullness. He has massive splenomegaly and hepatomegaly. FBC shows pancytopenia. Radiographs show flaring of the distal femoral metaphyses (Erlenmeyer flask deformity) and collapse of the left femoral head.\nWhat is the most likely underlying cause of his femoral head necrosis?",
+   "o": [
+    "Caisson disease",
+    "Systemic lupus erythematosus",
+    "Chronic pancreatitis",
+    "Sickle cell disease",
+    "Gaucher disease"
+   ],
+   "a": 4,
+   "e": "Erlenmeyer flask deformity, hepatosplenomegaly and cytopenias are classic for Gaucher disease (glucocerebroside accumulation in macrophages). Gaucher cells pack the marrow, raise intraosseous pressure and cause AVN. It is the 'E' in the ASEPTIC mnemonic.",
+   "w": [
+    "Wrong - no diving history; dysbaric osteonecrosis does not cause organomegaly.",
+    "Wrong - SLE causes AVN (mostly via steroids) but not massive organomegaly or metaphyseal flaring.",
+    "Wrong - pancreatitis causes AVN via fat emboli, not marrow infiltration with metaphyseal flaring.",
+    "Wrong - sickle cell causes AVN but usually auto-splenectomy (small spleen) in adults and haemolytic anaemia, not Erlenmeyer flasks.",
+    "Correct - Erlenmeyer flask femora + hepatosplenomegaly + pancytopenia = Gaucher disease."
+   ]
+  },
+  {
+   "t": "RA",
+   "stem": "A 44-year-old woman has 4 months of painful swelling of both wrists and several MCP joints, with 90 minutes of morning stiffness. Rheumatoid factor is negative. Anti-CCP antibody is strongly positive. CRP is raised.\nWhat is the best interpretation of her serology?",
+   "o": [
+    "She has seronegative spondyloarthritis",
+    "Anti-CCP strongly supports RA",
+    "Negative RF excludes RA",
+    "Anti-CCP is non-specific; repeat RF",
+    "Serology suggests SLE rather than RA"
+   ],
+   "a": 1,
+   "e": "Anti-CCP is the most specific test for RA, predicts erosive disease and can be positive when RF is negative. RF is sensitive but not specific, and is negative in a proportion of RA patients. A positive anti-CCP still scores in the ACR/EULAR serology domain.",
+   "w": [
+    "Wrong - spondyloarthritis is RF and anti-CCP negative; a strongly positive anti-CCP points to RA.",
+    "Correct - anti-CCP has the highest specificity for RA, regardless of RF status.",
+    "Wrong - RF is negative in about 30% of RA; it cannot exclude disease.",
+    "Wrong - anti-CCP is more specific than RF, not less.",
+    "Wrong - anti-CCP is not a marker of SLE; ANA/anti-dsDNA would be."
+   ]
+  },
+  {
+   "t": "RA",
+   "stem": "A 39-year-old woman has 8 weeks of swelling and tenderness of 5 MCP joints and 2 PIP joints of both hands; no large joints are involved. Rheumatoid factor is low-positive (less than 3 times the upper limit). Anti-CCP is negative. ESR is raised.\nWhat is her 2010 ACR/EULAR score?",
+   "o": [
+    "4 – not yet classifiable",
+    "6 – definite RA",
+    "7 – definite RA",
+    "8 – definite RA",
+    "5 – not yet classifiable"
+   ],
+   "a": 2,
+   "e": "Joints: 4–10 small joints = 3. Serology: low-positive RF = 2. Acute-phase reactants: abnormal ESR = 1. Duration ≥ 6 weeks = 1. Total 7/10, and ≥ 6 classifies as definite RA. High-positive (> 3× ULN) serology would have scored 3.",
+   "w": [
+    "Wrong - ignores serology and duration points.",
+    "Wrong - one point short; the four domains add to 7 (3 + 2 + 1 + 1), not 6.",
+    "Correct - 3 (joints) + 2 (low-positive RF) + 1 (ESR) + 1 (≥ 6 weeks) = 7.",
+    "Wrong - 8 would need high-positive serology (> 3× ULN), but RF is only low-positive.",
+    "Wrong - under-counts; 7 small joints scores 3, not 1."
+   ]
+  },
+  {
+   "t": "RA",
+   "stem": "A 64-year-old woman with 20 years of seropositive erosive RA is listed for an elective total knee replacement under general anaesthesia. She mentions occasional occipital headache and neck pain, but neurological examination is normal.\nWhat investigation is most important before her anaesthetic?",
+   "o": [
+    "Flexion-extension C-spine X-rays",
+    "Pulmonary function tests with DLCO",
+    "Nerve conduction studies of all limbs",
+    "Transthoracic echocardiography",
+    "Dual-energy X-ray absorptiometry"
+   ],
+   "a": 0,
+   "e": "Long-standing RA erodes the transverse ligament and odontoid, causing atlantoaxial subluxation. Neck manipulation during intubation can compress the cord. Lateral flexion-extension C-spine radiographs identify instability so the anaesthetist can plan (e.g. fibreoptic intubation); MRI is added if neurological signs are present.",
+   "w": [
+    "Correct - screens for atlantoaxial instability before airway manipulation.",
+    "Wrong - lung disease may exist, but airway/cord safety is the priority for intubation.",
+    "Wrong - neuropathy assessment does not detect C1–C2 instability.",
+    "Wrong - pericardial disease is possible but not the key pre-intubation risk.",
+    "Wrong - bone density does not change the anaesthetic airway plan."
+   ]
+  },
+  {
+   "t": "RA",
+   "stem": "A 36-year-old woman is newly diagnosed with RA (ACR/EULAR score 8). The rheumatologist plans to start methotrexate.\nWhich set of baseline investigations is required?",
+   "o": [
+    "Thyroid function and fasting lipids",
+    "Ophthalmology review with visual fields",
+    "HLA-B27, ESR and lumbar spine X-ray",
+    "Serum urate and 24-hour urine urate",
+    "FBC, LFT, renal profile and chest X-ray"
+   ],
+   "a": 4,
+   "e": "Methotrexate can cause myelosuppression, hepatotoxicity and pneumonitis and is renally excreted. Baseline FBC, LFT, renal function and chest X-ray (plus hepatitis serology) are required, with folic acid supplementation and regular monitoring. Baseline eye review is for hydroxychloroquine, not methotrexate.",
+   "w": [
+    "Wrong - not part of DMARD safety monitoring.",
+    "Wrong - one point short; the four domains add to 7 (3 + 2 + 1 + 1), not 6.",
+    "Wrong - these are AS/spondyloarthritis investigations, unrelated to methotrexate safety.",
+    "Wrong - urate studies relate to gout, not methotrexate.",
+    "Correct - covers marrow, liver, kidney (excretion) and lung (pneumonitis) toxicity."
+   ]
+  },
+  {
+   "t": "RA",
+   "stem": "A 52-year-old woman with active RA has fatigue. Hb 10.1 g/dL, MCV 86 fL, MCH 29 pg, ferritin 240 µg/L (raised), serum iron low, transferrin low, CRP 45 mg/L. Reticulocytes are low. Stool occult blood is negative.\nWhat is the most likely cause of her anaemia?",
+   "o": [
+    "Methotrexate megaloblastic anaemia",
+    "Felty syndrome hypersplenism",
+    "Iron deficiency from NSAIDs",
+    "Anaemia of chronic disease",
+    "Autoimmune haemolytic anaemia"
+   ],
+   "a": 3,
+   "e": "Active RA causes a normocytic normochromic anaemia of chronic disease: IL-6 drives hepcidin, iron is locked in stores (ferritin normal/high, serum iron and transferrin low) and erythropoiesis is suppressed. The slide's 'normochromic hypochromic' is contradictory; the correct description is normocytic normochromic.",
+   "w": [
+    "Wrong - methotrexate toxicity causes a macrocytic picture (high MCV).",
+    "Wrong - Felty causes neutropenia with splenomegaly; this picture is inflammatory iron restriction.",
+    "Wrong - iron deficiency is microcytic, hypochromic, with low ferritin and high transferrin.",
+    "Correct - normocytic indices, high ferritin, low iron and transferrin with active inflammation.",
+    "Wrong - haemolysis gives a high reticulocyte count."
+   ]
+  },
+  {
+   "t": "RA",
+   "stem": "A 50-year-old woman has symmetrical hand pain. Hand radiographs show soft-tissue swelling, periarticular osteopenia and marginal erosions at the 2nd and 3rd MCP joints and ulnar styloids bilaterally, with uniform joint space narrowing. DIP joints are normal. No osteophytes or new bone formation are seen.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Erosive osteoarthritis",
+    "Rheumatoid arthritis",
+    "Chronic tophaceous gout",
+    "Psoriatic arthritis",
+    "CPPD arthropathy"
+   ],
+   "a": 1,
+   "e": "Symmetrical proximal joint involvement with periarticular osteopenia, marginal erosions and uniform narrowing, sparing DIPs and without new bone, is the radiographic signature of RA. PsA adds new bone and DIP disease; OA shows osteophytes and sclerosis; gout gives punched-out erosions with overhanging edges.",
+   "w": [
+    "Wrong - erosive OA affects IPJs with central 'seagull' erosions and osteophytes.",
+    "Correct - osteopenia + marginal erosions + symmetry + DIP sparing = RA.",
+    "Wrong - gout erosions are punched-out with overhanging edges and sclerotic rims, often asymmetrical.",
+    "Wrong - PsA shows erosions WITH new bone formation, DIP involvement and no osteopenia.",
+    "Wrong - CPPD shows chondrocalcinosis and degenerative change with sclerosis and cysts."
+   ]
+  },
+  {
+   "t": "RA",
+   "stem": "A 29-year-old woman with RA has been well controlled on methotrexate 15 mg weekly with folic acid for 2 years. She and her husband plan to start a family in the next few months.\nWhat is the most appropriate advice?",
+   "o": [
+    "Switch to leflunomide before conceiving",
+    "Add warfarin to methotrexate until delivery",
+    "Stop methotrexate 3 months beforehand",
+    "Continue methotrexate during pregnancy",
+    "Stop folic acid and continue methotrexate"
+   ],
+   "a": 2,
+   "e": "Methotrexate is teratogenic and abortifacient. It should be stopped at least 3 months before conception, switching to pregnancy-compatible agents (hydroxychloroquine, sulfasalazine, low-dose steroids) and continuing folic acid. Leflunomide is also teratogenic and needs a washout.",
+   "w": [
+    "Wrong - leflunomide is also teratogenic, with a very long half-life requiring cholestyramine washout.",
+    "Wrong - anticoagulation has no role and does not reduce methotrexate teratogenicity.",
+    "Correct - methotrexate is teratogenic; stop ≥ 3 months pre-conception and switch to a compatible DMARD.",
+    "Wrong - methotrexate is contraindicated in pregnancy.",
+    "Wrong - folic acid should continue (and is needed in pregnancy); methotrexate must stop."
+   ]
+  },
+  {
+   "t": "RA",
+   "stem": "A 47-year-old man with erosive, anti-CCP positive RA has persistently active disease despite 6 months of methotrexate plus sulfasalazine. The team plans to start adalimumab.\nWhich screening test is essential before the first dose?",
+   "o": [
+    "HLA-B27 genotyping",
+    "Serum uric acid level",
+    "Anti-dsDNA antibody",
+    "Radionuclide bone scan",
+    "Latent TB screening"
+   ],
+   "a": 4,
+   "e": "Anti-TNF agents impair granuloma maintenance and can reactivate latent TB (often extrapulmonary or disseminated, including TB arthritis). Screening with IGRA/tuberculin test and chest X-ray (plus hepatitis B serology) is mandatory before biologics; latent TB is treated before starting.",
+   "w": [
+    "Wrong - HLA-B27 relates to spondyloarthritis and is irrelevant to biologic safety.",
+    "Wrong - urate has no bearing on adalimumab safety.",
+    "Wrong - anti-dsDNA is not a pre-biologic safety test.",
+    "Wrong - bone scan does not screen for any biologic-related risk.",
+    "Correct - TNF is essential for granuloma integrity; latent TB must be excluded or treated first."
+   ]
+  },
+  {
+   "t": "AS",
+   "stem": "A 24-year-old man has 8 months of low back and alternating buttock pain. He is stiff for an hour every morning, wakes in the early hours with pain, and feels better after playing futsal but worse after resting. Modified Schober test shows a 2 cm increase. FABER test is painful at both sacroiliac joints.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Diffuse idiopathic skeletal hyperostosis",
+    "Mechanical low back pain",
+    "Spinal tuberculosis (Pott's disease)",
+    "Ankylosing spondylitis",
+    "Lumbar disc prolapse"
+   ],
+   "a": 3,
+   "e": "Young man, insidious onset, long morning stiffness, night pain, improvement with exercise and not rest, reduced lumbar flexion (Schober < 5 cm) and sacroiliac pain are classic inflammatory back pain of axial spondyloarthritis. Mechanical pain worsens with activity and eases with rest.",
+   "w": [
+    "Wrong - DISH affects older men, spares the SIJs and is not inflammatory.",
+    "Wrong - mechanical pain worsens with activity and improves with rest.",
+    "Wrong - Pott's disease gives localised thoracolumbar pain, constitutional symptoms and gibbus.",
+    "Correct - inflammatory back pain + restricted Schober + sacroiliac pain in a young man.",
+    "Wrong - disc prolapse gives radicular leg pain worse on sitting/flexion, not morning stiffness relieved by exercise."
+   ]
+  },
+  {
+   "t": "AS",
+   "stem": "A 58-year-old man with long-standing ankylosing spondylitis and a fixed kyphotic spine slips and falls from standing height. He has new mid-neck pain but no neurological deficit. Lateral cervical radiograph shows a bamboo spine with no obvious fracture.\nWhat is the most appropriate next step?",
+   "o": [
+    "CT of the whole cervical spine",
+    "Discharge with analgesia",
+    "Flexion-extension cervical X-rays",
+    "Soft collar and review in 2 weeks",
+    "Repeat plain radiograph in 1 week"
+   ],
+   "a": 0,
+   "e": "The ankylosed, osteoporotic AS spine fractures like a long bone after trivial trauma, often at C5–C7 or the cervicothoracic junction, and these fractures are highly unstable and easily missed on plain films. CT (± MRI for cord or epidural haematoma) is mandatory, with immobilisation in the patient's usual posture.",
+   "w": [
+    "Correct - CT detects occult unstable fractures that radiographs miss in AS.",
+    "Wrong - missing an unstable fracture risks catastrophic cord injury.",
+    "Wrong - flexion-extension stress views are dangerous with a possible unstable fracture.",
+    "Wrong - delaying definitive imaging risks displacement; straightening into a standard collar can also displace it.",
+    "Wrong - a week's delay with an undiagnosed unstable fracture is unsafe."
+   ]
+  },
+  {
+   "t": "AS",
+   "stem": "A 31-year-old man with HLA-B27 positive inflammatory back pain presents with a 2-day painful red left eye, blurred vision and photophobia. There is circumcorneal injection and a small, irregular pupil. There is no discharge.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Bacterial conjunctivitis",
+    "Episcleritis",
+    "Necrotising scleritis",
+    "Acute anterior uveitis",
+    "Acute angle-closure glaucoma"
+   ],
+   "a": 3,
+   "e": "Acute anterior uveitis (iritis) is the commonest extra-articular manifestation of ankylosing spondylitis and is strongly HLA-B27 associated. Pain, photophobia, ciliary flush and a small irregular pupil (posterior synechiae) are characteristic. It needs same-day ophthalmology review and topical steroids with mydriatics.",
+   "w": [
+    "Wrong - conjunctivitis is gritty with discharge, no photophobia and a normal pupil.",
+    "Wrong - episcleritis is mildly uncomfortable with sectoral redness and normal vision and pupil.",
+    "Wrong - scleritis is a deep boring pain, more typical of RA than AS, without a small irregular pupil.",
+    "Correct - painful red eye, photophobia, ciliary flush and small irregular pupil in an HLA-B27 patient.",
+    "Wrong - angle closure gives a fixed mid-dilated pupil, hazy cornea and very high pressure, typically in older hypermetropes."
+   ]
+  },
+  {
+   "t": "AS",
+   "stem": "A 26-year-old man with axial spondyloarthritis has persistent nocturnal back pain and morning stiffness. He has completed 4 weeks each of two different full-dose NSAIDs and attends physiotherapy. CRP remains raised and disease activity scores are high. There is no peripheral arthritis.\nWhat is the most appropriate next drug treatment?",
+   "o": [
+    "Methotrexate",
+    "Long-term oral prednisolone",
+    "Sulfasalazine",
+    "Hydroxychloroquine",
+    "Adalimumab"
+   ],
+   "a": 4,
+   "e": "NSAIDs are first line in AS. When at least two NSAIDs fail and disease remains active, a TNF inhibitor (e.g. adalimumab, etanercept, infliximab) is indicated. Conventional DMARDs do not improve axial disease, and systemic steroids are not recommended long term.",
+   "w": [
+    "Wrong - methotrexate has no proven benefit for axial spondylitis.",
+    "Wrong - long-term systemic steroids are ineffective for axial AS and cause osteoporosis.",
+    "Wrong - sulfasalazine may help peripheral arthritis only, not axial symptoms.",
+    "Wrong - hydroxychloroquine has no role in AS.",
+    "Correct - TNF inhibitor after failure of two NSAIDs in active axial disease."
+   ]
+  },
+  {
+   "t": "AS",
+   "stem": "A 22-year-old man has 1 year of inflammatory back pain and is HLA-B27 positive. His lumbar spine radiographs are normal.\nWhich radiographic finding is typically the EARLIEST to appear in his condition?",
+   "o": [
+    "Ossification of interspinous ligaments",
+    "Bridging marginal syndesmophytes",
+    "Bilateral sacroiliitis",
+    "Bamboo spine",
+    "Squaring of vertebral bodies"
+   ],
+   "a": 2,
+   "e": "Ankylosing spondylitis begins at the sacroiliac joints: bilateral symmetrical sacroiliitis (sclerosis, erosions, then fusion) is the first radiographic sign, so an AP pelvis is the key early film. Squaring, syndesmophytes and bamboo spine follow years later; MRI shows SIJ inflammation before radiographs change.",
+   "w": [
+    "Wrong - ligament ossification (dagger sign) is a late feature.",
+    "Wrong - bridging syndesmophytes develop later in the disease course.",
+    "Correct - sacroiliac joints are affected first; their films change before the lumbar spine.",
+    "Wrong - bamboo spine is a late, end-stage finding.",
+    "Wrong - squaring follows enthesitis at vertebral corners, after sacroiliitis."
+   ]
+  },
+  {
+   "t": "AS",
+   "stem": "A 55-year-old man with advanced ankylosing spondylitis is listed for elective total hip replacement. He has a fixed cervicothoracic kyphosis with chin-brow-to-vertical angle of 35°, limited mouth opening, chest expansion of 1.5 cm and an early diastolic murmur at the left sternal edge.\nWhat is the most important anaesthetic consideration?",
+   "o": [
+    "Plan awake fibreoptic intubation",
+    "Proceed without further assessment",
+    "Neck extension for direct laryngoscopy",
+    "Routine rapid-sequence induction",
+    "Spinal anaesthesia as first choice"
+   ],
+   "a": 0,
+   "e": "Fixed cervical flexion and limited mouth opening make direct laryngoscopy very difficult, and forcing extension can fracture the brittle ankylosed spine. Awake fibreoptic intubation is the safe plan. Neuraxial block is often technically impossible due to ossified ligaments; the murmur suggests aortic regurgitation needing echocardiography.",
+   "w": [
+    "Correct - anticipated difficult airway with a rigid, fracture-prone cervical spine.",
+    "Wrong - the murmur (likely aortic regurgitation) and restrictive chest need assessment pre-op.",
+    "Wrong - forcing extension risks a cervical fracture and cord injury.",
+    "Wrong - standard RSI relies on direct laryngoscopy, likely to fail with a fixed flexed neck.",
+    "Wrong - ossified interspinous ligaments often make spinal/epidural impossible."
+   ]
+  },
+  {
+   "t": "GOUT",
+   "stem": "A 61-year-old man with hypertension on hydrochlorothiazide develops an acutely hot, swollen right knee overnight. Temperature 37.9 °C. Aspirate is cloudy: WCC 22,000/µL (80% neutrophils), Gram stain negative. Polarised microscopy shows needle-shaped crystals that are strongly negatively birefringent.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Reactive arthritis",
+    "Acute gout flare",
+    "Flare of osteoarthritis",
+    "Acute pseudogout",
+    "Septic arthritis"
+   ],
+   "a": 1,
+   "e": "Needle-shaped, strongly negatively birefringent monosodium urate crystals are 100% specific for gout and are the gold standard for diagnosis. Inflammatory fluid and low-grade fever are common in a gout flare. The thiazide is a precipitating factor. Culture should still be awaited, as infection can coexist.",
+   "w": [
+    "Wrong - reactive arthritis follows GI/GU infection and has no crystals.",
+    "Correct - MSU crystals (needles, negative birefringence) confirm gout.",
+    "Wrong - OA fluid is non-inflammatory (WCC < 2000/µL) without crystals.",
+    "Wrong - CPPD crystals are rhomboid and weakly positively birefringent.",
+    "Wrong - Gram-negative with diagnostic crystals; septic fluid usually WCC > 50,000/µL (culture still sent)."
+   ]
+  },
+  {
+   "t": "GOUT",
+   "stem": "A 48-year-old man presents with a 2-day exquisitely tender, red, swollen 1st MTP joint after a wedding feast. He declines joint aspiration. Serum uric acid today is 5.9 mg/dL (351 µmol/L). eGFR is normal.\nWhat is the most appropriate approach to confirming the diagnosis?",
+   "o": [
+    "Exclude gout because urate is normal",
+    "Request a radionuclide bone scan now",
+    "Send HLA-B27 and rheumatoid factor",
+    "Repeat urate ≥ 2 weeks post-flare",
+    "Start allopurinol to test the response"
+   ],
+   "a": 3,
+   "e": "Serum urate may fall to normal during an acute flare, so a normal value does not exclude gout. The Malaysian CPG advises repeating serum uric acid at least 2 weeks after the flare has resolved if suspicion remains high. Crystal identification remains the gold standard, and hyperuricaemia alone never makes the diagnosis.",
+   "w": [
+    "Wrong - a normal level during a flare does not exclude gout.",
+    "Wrong - bone scan is non-specific and not used to diagnose gout.",
+    "Wrong - these tests address spondyloarthritis/RA, not this classic podagra.",
+    "Correct - urate is unreliable during a flare; repeat ≥ 2 weeks after resolution.",
+    "Wrong - ULT is not a diagnostic test and starting it mid-flare without indication is inappropriate."
+   ]
+  },
+  {
+   "t": "GOUT",
+   "stem": "A 57-year-old man has had three gout flares this year. He has hypertension controlled on hydrochlorothiazide 25 mg daily. eGFR is 75 mL/min/1.73 m². His BP is 138/86 mmHg.\nWhich antihypertensive is the most appropriate replacement for his thiazide?",
+   "o": [
+    "Furosemide",
+    "Atenolol",
+    "Losartan",
+    "Telmisartan",
+    "Perindopril"
+   ],
+   "a": 2,
+   "e": "Thiazide and loop diuretics, ACE inhibitors, non-losartan ARBs and beta-blockers raise gout risk. Losartan is uricosuric and calcium channel blockers also lower gout risk, so either is preferred in hypertensive patients with gout (Malaysian CPG Gout 2nd ed.).",
+   "w": [
+    "Wrong - loop diuretics raise serum urate like thiazides.",
+    "Wrong - beta-blockers increase the risk of gout.",
+    "Correct - losartan has a uricosuric effect and lowers gout risk.",
+    "Wrong - non-losartan ARBs increase gout risk; the uricosuric effect is specific to losartan.",
+    "Wrong - ACE inhibitors are associated with increased gout risk."
+   ]
+  },
+  {
+   "t": "GOUT",
+   "stem": "A 52-year-old man started allopurinol 100 mg daily 3 months ago, titrated to 300 mg daily, after recurrent gout. He now presents with an acute flare of the left ankle. He takes no other medication; renal function is normal.\nWhat is the most appropriate management?",
+   "o": [
+    "Stop allopurinol until the flare settles",
+    "Stop allopurinol permanently",
+    "Switch allopurinol to febuxostat",
+    "Double the allopurinol dose today",
+    "Continue allopurinol; add colchicine"
+   ],
+   "a": 4,
+   "e": "Flares are common in the first months of urate-lowering therapy as crystals dissolve. ULT should not be stopped during a flare, as fluctuating urate prolongs and provokes attacks. Treat the flare with colchicine, NSAID or steroid, and ensure ongoing prophylaxis.",
+   "w": [
+    "Wrong - stopping ULT during a flare causes urate fluctuation and more flares.",
+    "Wrong - early flares are expected on ULT and do not mean treatment failure.",
+    "Wrong - febuxostat offers no advantage for a flare and also needs prophylaxis.",
+    "Wrong - abrupt dose escalation mid-flare can worsen it; titrate gradually when quiescent.",
+    "Correct - keep ULT steady and treat the flare with an anti-inflammatory such as colchicine."
+   ]
+  },
+  {
+   "t": "GOUT",
+   "stem": "A 72-year-old man presents with an acute gout flare of the right knee. He has CKD stage 4 (eGFR 21 mL/min/1.73 m²), a past bleeding gastric ulcer and takes warfarin for atrial fibrillation. Septic arthritis has been excluded by aspiration and Gram stain.\nWhat is the most appropriate treatment for the flare?",
+   "o": [
+    "Indomethacin 50 mg three times daily",
+    "Oral prednisolone short course",
+    "Naproxen 500 mg twice daily",
+    "Start allopurinol 300 mg daily",
+    "High-dose colchicine regimen"
+   ],
+   "a": 1,
+   "e": "Flare options are colchicine, NSAIDs or corticosteroids; the choice depends on comorbidity. NSAIDs are contraindicated in severe CKD, peptic ulcer and anticoagulation, and colchicine must be avoided or heavily dose-reduced in severe renal impairment. Short-course oral (or intra-articular) corticosteroid is the safest choice.",
+   "w": [
+    "Wrong - indomethacin is an NSAID with the same contraindications.",
+    "Correct - steroids avoid the renal, GI and bleeding risks of NSAIDs and colchicine toxicity in CKD 4.",
+    "Wrong - NSAID with CKD 4, previous bleeding ulcer and warfarin is unsafe.",
+    "Wrong - ULT does not treat a flare and should not be started at full dose, especially in CKD.",
+    "Wrong - colchicine accumulates in severe CKD, causing toxicity (myopathy, marrow suppression)."
+   ]
+  },
+  {
+   "t": "GOUT",
+   "stem": "A 50-year-old man has had four gout flares in a year and has a tophus on the left olecranon. eGFR is 85 mL/min/1.73 m². Serum uric acid is 9.1 mg/dL. He has no drug allergies and his current flare has settled.\nWhich is the most appropriate way to start urate-lowering therapy?",
+   "o": [
+    "Allopurinol 100 mg daily, titrate, plus colchicine",
+    "Allopurinol 600 mg daily from day one, no prophylaxis",
+    "Allopurinol only during each acute flare",
+    "Colchicine 0.5 mg daily alone as long-term therapy",
+    "Probenecid at full dose with a high-purine diet"
+   ],
+   "a": 0,
+   "e": "Recurrent flares and tophi are indications for ULT. Allopurinol (xanthine oxidase inhibitor) is first line: start low and go slow, titrating to a target serum urate (lecturer pearl: < 6 mg/dL, lower with tophi), with flare prophylaxis such as low-dose colchicine for the first months because rapid urate falls trigger flares.",
+   "w": [
+    "Correct - start low, titrate to target, and cover with flare prophylaxis.",
+    "Wrong - high starting doses raise hypersensitivity risk and provoke flares, especially without prophylaxis.",
+    "Wrong - intermittent use causes urate swings; ULT is continuous, usually lifelong.",
+    "Wrong - colchicine prevents flares but does not lower urate or dissolve tophi.",
+    "Wrong - allopurinol is first line, and a high-purine diet works against urate lowering."
+   ]
+  },
+  {
+   "t": "GOUT",
+   "stem": "A 66-year-old man has had recurrent painful swellings of both feet for 15 years, never treated. Foot radiographs show well-defined punched-out erosions with overhanging edges and sclerotic rims at the 1st MTP joints, with adjacent dense soft-tissue masses. Joint spaces are relatively preserved and there is no periarticular osteopenia.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Rheumatoid arthritis",
+    "Chronic tophaceous gout",
+    "Calcium pyrophosphate arthropathy",
+    "Psoriatic arthritis",
+    "Primary osteoarthritis"
+   ],
+   "a": 1,
+   "e": "Punched-out erosions with overhanging edges and sclerotic rims beside soft-tissue tophi, with joint space preserved until late and normal bone density, are the radiographic hallmarks of chronic tophaceous gout. RA erosions are marginal with periarticular osteopenia; PsA gives pencil-in-cup with new bone.",
+   "w": [
+    "Wrong - RA shows periarticular osteopenia and marginal erosions without overhanging edges or soft-tissue masses.",
+    "Correct - overhanging-edge erosions with sclerotic rims plus tophi = chronic gout.",
+    "Wrong - CPPD shows chondrocalcinosis and degenerative change, not tophaceous erosions.",
+    "Wrong - PsA shows pencil-in-cup deformity and fluffy periostitis.",
+    "Wrong - OA shows osteophytes, sclerosis and joint space loss, not punched-out erosions."
+   ]
+  },
+  {
+   "t": "GOUT",
+   "stem": "A 44-year-old man has a serum uric acid of 8.4 mg/dL (500 µmol/L) on a routine health screen. He has never had joint pain, has no tophi and no renal stones. eGFR is normal. BMI is 29 kg/m² and he drinks sweetened soft drinks daily.\nWhat is the most appropriate management?",
+   "o": [
+    "Probenecid with high fluid intake",
+    "Lifelong colchicine prophylaxis",
+    "Start febuxostat 40 mg daily",
+    "Start allopurinol 100 mg daily",
+    "Lifestyle measures without ULT"
+   ],
+   "a": 4,
+   "e": "This is asymptomatic hyperuricaemia: gout must not be diagnosed on uric acid alone, and most hyperuricaemic people never develop gout. Management is lifestyle modification (weight loss, cutting sugar-sweetened drinks, alcohol, red meat and seafood) and addressing cardiovascular risk; ULT is not routinely indicated.",
+   "w": [
+    "Wrong - uricosuric therapy is not indicated in the absence of gout.",
+    "Wrong - prophylaxis is only used to cover ULT initiation in established gout.",
+    "Wrong - febuxostat likewise is not indicated for asymptomatic hyperuricaemia.",
+    "Wrong - allopurinol is not routinely indicated without gout, stones or tophi.",
+    "Correct - asymptomatic hyperuricaemia is managed with lifestyle advice, not ULT."
+   ]
+  },
+  {
+   "t": "GOUT",
+   "stem": "A 46-year-old Malay man with recurrent gout and a BMI of 30 kg/m² asks for dietary advice. He currently drinks two cans of sweetened soft drink daily and eats prawns and beef several times a week.\nWhich dietary item should he be ENCOURAGED to include?",
+   "o": [
+    "Low-fat dairy products",
+    "Shellfish such as prawns",
+    "Red meat such as beef",
+    "Beer in place of spirits",
+    "Sugar-sweetened soft drinks"
+   ],
+   "a": 0,
+   "e": "Per the Malaysian CPG Gout 2nd ed., dairy products reduce the risk of gout. Alcohol, high-fructose corn syrup (sugar-sweetened drinks), red meat and seafood (except n-3 PUFA-rich fish) increase risk. Weight reduction also lowers serum urate.",
+   "w": [
+    "Correct - dairy intake is associated with a lower risk of gout.",
+    "Wrong - shellfish/seafood (other than oily n-3 fish) increases risk.",
+    "Wrong - red meat is a purine-rich risk factor.",
+    "Wrong - all alcohol raises risk, and beer is particularly purine-rich.",
+    "Wrong - fructose-sweetened drinks raise urate and gout risk."
+   ]
+  },
+  {
+   "t": "CPPD",
+   "stem": "A 79-year-old woman develops a painful, warm, swollen right knee 2 days after a hip fracture operation. Temperature 37.6 °C. Aspirate: cloudy fluid, WCC 18,000/µL, Gram stain negative, with rhomboid-shaped crystals showing weak positive birefringence. Knee radiograph shows linear calcification within the menisci.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Haemarthrosis",
+    "Acute gout flare",
+    "Osteoarthritis flare",
+    "Pseudogout (CPPD)",
+    "Septic arthritis"
+   ],
+   "a": 3,
+   "e": "Rhomboid, weakly positively birefringent crystals plus chondrocalcinosis of the menisci in an elderly patient indicate acute calcium pyrophosphate crystal arthritis (pseudogout). It is classically provoked by surgery or acute illness and most often affects the knee. Culture should still be followed up.",
+   "w": [
+    "Wrong - haemarthrosis gives blood-stained fluid, not inflammatory fluid with crystals.",
+    "Wrong - gout crystals are needle-shaped and strongly negatively birefringent.",
+    "Wrong - OA fluid is non-inflammatory without crystals.",
+    "Correct - rhomboid weakly positive crystals + chondrocalcinosis in an elderly knee.",
+    "Wrong - Gram stain negative, crystals present and WCC below the usual septic range (culture still awaited)."
+   ]
+  },
+  {
+   "t": "CPPD",
+   "stem": "A 41-year-old man has recurrent attacks of wrist and knee pain. Radiographs show calcification of the triangular fibrocartilage of the wrist and the knee menisci, with hook-like osteophytes at the 2nd and 3rd MCP joints. He has type 2 diabetes, slate-grey skin pigmentation and raised ALT.\nWhat is the most appropriate investigation for the underlying cause?",
+   "o": [
+    "HLA-B27 genotyping",
+    "Serum ACE level",
+    "Serum iron studies",
+    "Anti-CCP antibody",
+    "Serum uric acid level"
+   ],
+   "a": 2,
+   "e": "Chondrocalcinosis (CPPD) in a patient under 55 should prompt a search for metabolic disease. Diabetes, skin pigmentation, abnormal LFTs and 2nd/3rd MCP hook osteophytes point to haemochromatosis, screened with ferritin and transferrin saturation. Other associations: hyperparathyroidism, hypomagnesaemia, hypophosphatasia, Wilson's disease.",
+   "w": [
+    "Wrong - HLA-B27 relates to spondyloarthritis.",
+    "Wrong - ACE relates to sarcoidosis, not CPPD.",
+    "Correct - screens for haemochromatosis, the classic secondary cause of CPPD in a young patient.",
+    "Wrong - anti-CCP tests for RA, which does not cause chondrocalcinosis.",
+    "Wrong - urate relates to gout, and chondrocalcinosis is calcium pyrophosphate."
+   ]
+  },
+  {
+   "t": "CPPD",
+   "stem": "An 82-year-old woman with CKD stage 4 and a past bleeding peptic ulcer has an acutely swollen, warm left knee with a large effusion. Aspiration shows weakly positively birefringent rhomboid crystals; Gram stain is negative and WCC is 15,000/µL. She is afebrile.\nWhat is the most appropriate treatment?",
+   "o": [
+    "Allopurinol 100 mg daily",
+    "Aspirate + IA steroid",
+    "High-dose oral colchicine",
+    "Arthroscopic washout",
+    "Oral naproxen for two weeks"
+   ],
+   "a": 1,
+   "e": "Acute pseudogout is treated with rest/splinting, NSAIDs or colchicine, and joint aspiration with intra-articular corticosteroid once infection is excluded. With severe CKD and a previous bleeding ulcer, NSAIDs and full-dose colchicine are unsafe, so local aspiration and steroid injection is best.",
+   "w": [
+    "Wrong - urate-lowering therapy has no role; the crystals are calcium pyrophosphate.",
+    "Correct - aspiration relieves pressure and IA steroid treats inflammation with no systemic toxicity.",
+    "Wrong - colchicine accumulates in severe CKD.",
+    "Wrong - washout is for septic arthritis; infection has been excluded.",
+    "Wrong - NSAIDs are unsafe with CKD 4 and previous ulcer bleeding."
+   ]
+  },
+  {
+   "t": "CPPD",
+   "stem": "A 76-year-old man has a 2-day hot, swollen right knee with rigors. Temperature 39.2 °C, HR 112/min. Aspirate is turbid: WCC 95,000/µL (92% neutrophils). Polarised microscopy shows rhomboid weakly positively birefringent crystals. Gram stain and culture are pending. Radiograph shows meniscal chondrocalcinosis.\nWhat is the most appropriate next step?",
+   "o": [
+    "Empirical IV antibiotics and washout",
+    "NSAIDs and a knee splint only",
+    "Start allopurinol with prophylaxis",
+    "Oral colchicine and outpatient review",
+    "Intra-articular corticosteroid injection"
+   ],
+   "a": 0,
+   "e": "Finding crystals does not exclude infection; crystal and septic arthritis can coexist. A WCC near 100,000/µL with systemic sepsis must be treated as septic arthritis: blood cultures, empirical IV antibiotics and urgent joint washout. Intra-articular steroid would be dangerous.",
+   "w": [
+    "Correct - very high WCC with sepsis is septic until proven otherwise, despite crystals.",
+    "Wrong - symptomatic treatment alone ignores probable infection.",
+    "Wrong - urate lowering has no role in CPPD or sepsis.",
+    "Wrong - discharging a septic joint risks cartilage destruction and sepsis.",
+    "Wrong - steroid injection into a possibly infected joint is dangerous."
+   ]
+  },
+  {
+   "t": "PSA",
+   "stem": "A 45-year-old man with chronic plaque psoriasis has painful swelling of several fingers. One finger is diffusely swollen along its whole length. Hand radiographs show asymmetrical DIP joint erosions with a 'pencil-in-cup' appearance, fluffy periosteal new bone and normal bone density.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Chronic tophaceous gout",
+    "Erosive osteoarthritis",
+    "Reactive arthritis",
+    "Psoriatic arthritis",
+    "Rheumatoid arthritis"
+   ],
+   "a": 3,
+   "e": "Asymmetrical DIP disease, dactylitis, pencil-in-cup erosions and new bone formation without periarticular osteopenia are classic for psoriatic arthritis. RA spares DIPs, shows periarticular osteopenia and does not form new bone. Erosive OA gives central 'seagull' erosions.",
+   "w": [
+    "Wrong - gout erosions are punched-out with overhanging edges and tophi.",
+    "Wrong - erosive OA gives central 'seagull/gull-wing' erosions and osteophytes, not pencil-in-cup with periostitis.",
+    "Wrong - reactive arthritis mainly affects lower-limb large joints after infection.",
+    "Correct - pencil-in-cup + new bone + DIP + dactylitis in a psoriasis patient.",
+    "Wrong - RA spares DIPs and shows osteopenia without new bone formation."
+   ]
+  },
+  {
+   "t": "PSA",
+   "stem": "A 38-year-old woman has swollen, tender joints in both hands. Examination shows involvement of several DIP joints, nail pitting and onycholysis, and tenderness at the Achilles insertion. Rheumatoid factor and anti-CCP are negative; CRP is raised. She has a small plaque behind one ear.\nWhich feature most strongly favours psoriatic arthritis over rheumatoid arthritis here?",
+   "o": [
+    "Raised C-reactive protein",
+    "Morning stiffness lasting 1 hour",
+    "DIP disease with nail changes",
+    "Symmetrical hand joint swelling",
+    "Female sex"
+   ],
+   "a": 2,
+   "e": "DIP involvement with nail pitting/onycholysis, enthesitis and seronegativity favour PsA; RA characteristically spares DIPs. Raised CRP, morning stiffness and hand swelling occur in both inflammatory arthritides, so they do not discriminate.",
+   "w": [
+    "Wrong - raised CRP occurs in both conditions.",
+    "Wrong - inflammatory stiffness is a feature of both.",
+    "Correct - DIP arthritis with nail disease is characteristic of PsA and unusual in RA.",
+    "Wrong - hand swelling occurs in both.",
+    "Wrong - RA is more common in women, so sex does not favour PsA."
+   ]
+  },
+  {
+   "t": "PSA",
+   "stem": "A 40-year-old man with psoriatic arthritis and extensive skin plaques has active disease despite methotrexate. He is started on ustekinumab.\nWhich best describes the mechanism of this drug?",
+   "o": [
+    "Neutralises tumour necrosis factor-alpha",
+    "Blocks the interleukin-6 receptor",
+    "Inhibits Janus kinase signalling",
+    "Depletes CD20-positive B cells",
+    "Blocks p40 shared by IL-12 and IL-23"
+   ],
+   "a": 4,
+   "e": "Ustekinumab is a monoclonal antibody against the p40 subunit shared by IL-12 and IL-23, a biologic class separate from TNF inhibitors. The slide's 'TNF inhibitors eg: IL 12/23 inhibitors' is a slip: TNF inhibitors are adalimumab, etanercept and infliximab, while IL-12/23 and IL-17 inhibitors are distinct options in PsA.",
+   "w": [
+    "Wrong - that is adalimumab/etanercept/infliximab; ustekinumab is not a TNF inhibitor.",
+    "Wrong - IL-6 receptor blockade is tocilizumab (used in RA).",
+    "Wrong - JAK inhibition is tofacitinib/baricitinib (targeted synthetic DMARDs).",
+    "Wrong - B-cell depletion is rituximab.",
+    "Correct - ustekinumab targets the p40 subunit of IL-12 and IL-23."
+   ]
+  },
+  {
+   "t": "PSA",
+   "stem": "A 57-year-old woman with long-standing untreated psoriasis has progressively shortened fingers. Several digits can be passively pulled out and pushed back in with skin folding. Radiographs show severe osteolysis of the phalanges with pencil-in-cup changes.\nWhat is the name of this pattern?",
+   "o": [
+    "Boutonnière deformity",
+    "Charcot neuroarthropathy",
+    "Arthritis mutilans",
+    "Swan-neck deformity",
+    "Erosive (inflammatory) OA"
+   ],
+   "a": 2,
+   "e": "Arthritis mutilans is the most severe, destructive pattern of psoriatic arthritis: osteolysis of the phalanges and IPJs produces unstable, shortened 'telescoping' (opera-glass) digits. Swan-neck and boutonnière are tendon-imbalance deformities seen mainly in RA.",
+   "w": [
+    "Wrong - boutonnière is PIP flexion with DIP hyperextension from central slip rupture.",
+    "Wrong - Charcot joints occur with neuropathy (e.g. diabetic foot), not psoriatic phalangeal osteolysis.",
+    "Correct - osteolysis with telescoping digits is arthritis mutilans.",
+    "Wrong - swan-neck is PIP hyperextension with DIP flexion, not telescoping.",
+    "Wrong - erosive OA has central erosions but does not cause telescoping."
+   ]
+  },
+  {
+   "t": "TBA",
+   "stem": "A 35-year-old man from Sabah has a 5-month history of a swollen, mildly warm right knee, low-grade evening fevers, night sweats and 6 kg weight loss. The quadriceps are wasted and there is a 15° flexion contracture. Radiograph shows juxta-articular osteopenia and erosions at the joint margins, with the joint space largely preserved.\nWhat is the most likely diagnosis?",
+   "o": [
+    "Pyogenic septic arthritis",
+    "Chronic tophaceous gout",
+    "Rheumatoid monoarthritis",
+    "Pigmented villonodular synovitis",
+    "Tuberculous arthritis"
+   ],
+   "a": 4,
+   "e": "An insidious chronic monoarthritis of a weight-bearing joint with constitutional symptoms and the Phemister triad (juxta-articular osteopenia, peripheral erosions, gradual joint space narrowing) is classic TB arthritis. Pyogenic arthritis is acute and destroys cartilage within days, so joint space is lost early.",
+   "w": [
+    "Wrong - pyogenic arthritis presents acutely over days with early joint space loss.",
+    "Wrong - gout gives episodic acute flares and punched-out erosions, not constant fevers and osteopenia.",
+    "Wrong - RA is a symmetrical polyarthritis; isolated monoarthritis with weight loss and fevers points to TB.",
+    "Wrong - PVNS causes recurrent haemarthrosis without constitutional symptoms.",
+    "Correct - insidious monoarthritis + evening fever/weight loss + Phemister features."
+   ]
+  },
+  {
+   "t": "TBA",
+   "stem": "A 42-year-old woman has a chronic swollen left knee for 6 months, with weight loss. Synovial fluid is turbid and xanthochromic with WCC 18,000/µL and low glucose. Acid-fast bacilli smear and Gram stain are negative. IGRA is positive. Chest X-ray is clear.\nWhich investigation offers the highest diagnostic yield?",
+   "o": [
+    "Sputum AFB smear on three days",
+    "Repeat synovial fluid AFB smear",
+    "Mantoux (tuberculin skin) test",
+    "Synovial biopsy for histology",
+    "MRI of the left knee with contrast"
+   ],
+   "a": 3,
+   "e": "Synovial fluid AFB smears are frequently negative in TB arthritis. Synovial biopsy gives the best yield: histology shows epithelioid granulomas with caseating necrosis, and tissue culture/PCR confirms M. tuberculosis with drug sensitivities. IGRA and Mantoux show TB infection but cannot prove active joint disease.",
+   "w": [
+    "Wrong - the chest X-ray is clear; sputum is unlikely to be positive and does not prove joint TB.",
+    "Wrong - smears are often negative; repeating adds little.",
+    "Wrong - like IGRA, it shows infection, not active TB arthritis.",
+    "Correct - tissue histology (caseating granuloma) plus culture has the highest yield.",
+    "Wrong - MRI shows synovitis and erosions but cannot give a microbiological or histological diagnosis."
+   ]
+  },
+  {
+   "t": "TBA",
+   "stem": "Two patients have a painful swollen knee. Patient A has a 3-day history, fever 39.5 °C and severe pain. Patient B has a 4-month history, evening fevers and weight loss.\nWhich radiographic feature most favours tuberculous over pyogenic arthritis?",
+   "o": [
+    "Normal periarticular bone density",
+    "Relatively preserved joint space",
+    "Early bony ankylosis",
+    "Rapid, early loss of joint space",
+    "Gas within the joint"
+   ],
+   "a": 1,
+   "e": "TB pannus erodes the peripheral, non-weight-bearing margins and lacks the proteolytic enzymes of pyogenic infection, so cartilage and joint space are relatively preserved early (gradual narrowing) despite marked juxta-articular osteopenia. Pyogenic infection destroys cartilage within days and may heal by bony ankylosis; TB typically heals by fibrous ankylosis.",
+   "w": [
+    "Wrong - TB causes marked juxta-articular osteopenia.",
+    "Correct - relative preservation of joint space with marginal erosions is typical of TB (Phemister).",
+    "Wrong - bony ankylosis is a pyogenic outcome; TB tends to fibrous ankylosis.",
+    "Wrong - rapid joint space loss is typical of pyogenic infection.",
+    "Wrong - gas suggests gas-forming pyogenic organisms, not TB."
+   ]
+  },
+  {
+   "t": "TBA",
+   "stem": "A 30-year-old man has culture-confirmed, drug-sensitive tuberculous arthritis of the right hip. Joint cartilage is largely preserved and there is no abscess. He weighs 60 kg and has normal liver function.\nWhat is the most appropriate definitive treatment, per the lecture slides?",
+   "o": [
+    "2EHRZ then 4–7HR (6–9 months)",
+    "Synovectomy without drug therapy",
+    "Isoniazid alone for 9 months",
+    "Six weeks of IV cloxacillin",
+    "Total hip replacement immediately"
+   ],
+   "a": 0,
+   "e": "Bone and joint TB is treated medically with anti-tuberculous therapy: a 2-month intensive phase of ethambutol, isoniazid, rifampicin and pyrazinamide (2EHRZ), then a 4–7 month maintenance phase of isoniazid and rifampicin (4–7HR), for 6–9 months total. Surgery is reserved for abscess, severe destruction, deformity, drug resistance or atypical mycobacteria.",
+   "w": [
+    "Correct - standard ATT regimen for bone and joint TB per the slides.",
+    "Wrong - surgery never replaces ATT; synovectomy alone leaves active infection.",
+    "Wrong - isoniazid monotherapy treats latent TB only and breeds resistance in active disease.",
+    "Wrong - cloxacillin treats staphylococcal pyogenic arthritis, not TB.",
+    "Wrong - arthroplasty is reserved for destroyed joints after disease control, not first line."
+   ]
+  }
+ ]
+}
