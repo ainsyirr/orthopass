@@ -1,5 +1,5 @@
-// OrthoPass service worker - version 2026.11.05-2218
-const CACHE = 'orthopass-2026.11.05-2218';
+// OrthoPass service worker - version 2026.11.09-0619
+const CACHE = 'orthopass-2026.11.09-0619';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png',
               'icons/maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png'];
 self.addEventListener('install', e => {
